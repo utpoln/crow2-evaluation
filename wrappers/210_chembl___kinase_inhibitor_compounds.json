@@ -1,0 +1,38 @@
+{
+  "id": 210,
+  "name": "ChEMBL \u2014 Kinase Inhibitor Compounds",
+  "url": "https://www.ebi.ac.uk/chembl/g/#search_results/compounds/query=kinase+inhibitor",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//div[contains(@class,'result-card') or contains(@class,'compound-card')]",
+    "columns": [
+      {
+        "name": "ChEMBL ID",
+        "xpath": ".//span[contains(@class,'chembl-id')]//text()"
+      },
+      {
+        "name": "Name",
+        "xpath": ".//div[contains(@class,'pref-name')]//text()"
+      },
+      {
+        "name": "Max Phase",
+        "xpath": ".//span[contains(@class,'max-phase')]//text()"
+      },
+      {
+        "name": "Molecular Weight",
+        "xpath": ".//span[contains(@class,'mol-weight')]//text()"
+      },
+      {
+        "name": "Molecular Formula",
+        "xpath": ".//span[contains(@class,'mol-formula')]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "scroll"
+    },
+    "url_params": []
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

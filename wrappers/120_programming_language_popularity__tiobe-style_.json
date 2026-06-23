@@ -1,0 +1,26 @@
+{
+  "id": 120,
+  "name": "Programming Language Popularity (TIOBE-style)",
+  "url": "https://en.wikipedia.org/wiki/TIOBE_index",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.803922+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank",
+        "xpath": "td[1]//text()"
+      },
+      {
+        "name": "Language",
+        "xpath": "td[2]//text()"
+      }
+    ],
+    "row_xpath": "//table[contains(@class,'wikitable')][1]//tbody/tr[td]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

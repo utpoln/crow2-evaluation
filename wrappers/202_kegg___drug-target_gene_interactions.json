@@ -1,0 +1,41 @@
+{
+  "id": 202,
+  "name": "KEGG \u2014 Drug-Target Gene Interactions",
+  "url": "https://www.kegg.jp/kegg-bin/search_htext?htext=br%3Ahsa00001&query=kinase",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//table//tr[@class='d1' or @class='d0']",
+    "columns": [
+      {
+        "name": "Entry ID",
+        "xpath": ".//td[1]//text()"
+      },
+      {
+        "name": "Name",
+        "xpath": ".//td[2]//text()"
+      },
+      {
+        "name": "Category",
+        "xpath": ".//td[3]//text()"
+      },
+      {
+        "name": "Organism",
+        "xpath": ".//td[4]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": [
+      {
+        "key": "query",
+        "type": "query",
+        "label": "Search Term",
+        "value": "kinase"
+      }
+    ]
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 195,
+  "name": "UCSC Genome Browser \u2014 hg38 RefSeq Gene Annotations",
+  "url": "https://genome.ucsc.edu/cgi-bin/hgTables?db=hg38&hgta_group=genes&hgta_track=ncbiRefSeq&hgta_table=ncbiRefSeq&hgta_doSchema=describe+table+schema",
+  "config": {
+    "mode": "B",
+    "row_xpath": "//table[contains(@class,'zebra')]//tr[position()>1]",
+    "columns": [
+      {
+        "name": "Field",
+        "xpath": ".//td[1]//text()"
+      },
+      {
+        "name": "SQL Type",
+        "xpath": ".//td[2]//text()"
+      },
+      {
+        "name": "Description",
+        "xpath": ".//td[5]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

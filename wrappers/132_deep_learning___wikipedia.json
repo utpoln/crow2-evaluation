@@ -1,0 +1,22 @@
+{
+  "id": 132,
+  "name": "Deep Learning \u2014 Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Deep_learning",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.815264+00:00",
+  "config": {
+    "mode": "B",
+    "columns": [
+      {
+        "name": "Paragraph",
+        "xpath": ".//text()"
+      }
+    ],
+    "row_xpath": "//div[@id='mw-content-text']//p[position()<4]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

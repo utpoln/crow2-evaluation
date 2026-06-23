@@ -1,0 +1,67 @@
+{
+  "export_date": "2026-06-22T08:42:58.817107+00:00",
+  "wrappers": {
+    "total": 100,
+    "public": 100,
+    "unique_domains": 28,
+    "domains": [
+      "alphafold.ebi.ac.uk",
+      "amigo.geneontology.org",
+      "api.fda.gov",
+      "arxiv.org",
+      "catalog.data.gov",
+      "clinicaltrials.gov",
+      "ddbj.nig.ac.jp",
+      "en.wikipedia.org",
+      "flybase.org",
+      "genome.ucsc.edu",
+      "github.com",
+      "news.ycombinator.com",
+      "pubmed.ncbi.nlm.nih.gov",
+      "pypi.org",
+      "reactome.org",
+      "stackoverflow.com",
+      "wormbase.org",
+      "www.basketball-reference.com",
+      "www.ebi.ac.uk",
+      "www.ensembl.org",
+      "www.imdb.com",
+      "www.kegg.jp",
+      "www.ncbi.nlm.nih.gov",
+      "www.omim.org",
+      "www.pro-football-reference.com",
+      "www.rcsb.org",
+      "www.uniprot.org",
+      "www.yeastgenome.org"
+    ],
+    "pagination_types": [
+      "button",
+      "container",
+      "none",
+      "scroll",
+      "url_increment"
+    ],
+    "modes": {
+      "A (List)": 79,
+      "B (Single)": 21
+    }
+  },
+  "runs": {
+    "total": 1352,
+    "completed": 1129,
+    "failed": 204,
+    "other": 19,
+    "success_rate_pct": 83.5,
+    "avg_rows_completed": 122.3,
+    "avg_duration_seconds": 33.9,
+    "failure_categories": {
+      "Selector not found": 51,
+      "Navigation / pagination": 7,
+      "Timeout": 80,
+      "Other": 11,
+      "Network / rate-limit": 27,
+      "Bot protection": 22,
+      "Auth wall": 6
+    }
+  }
+}

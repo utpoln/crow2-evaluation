@@ -1,0 +1,46 @@
+{
+  "id": 159,
+  "name": "NFL 2023 Passing Leaders",
+  "url": "https://www.pro-football-reference.com/years/2023/passing.htm",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.833492+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Player",
+        "xpath": ".//td[@data-stat='player']//text()"
+      },
+      {
+        "name": "Team",
+        "xpath": ".//td[@data-stat='team']//text()"
+      },
+      {
+        "name": "G",
+        "xpath": ".//td[@data-stat='g']//text()"
+      },
+      {
+        "name": "Cmp",
+        "xpath": ".//td[@data-stat='pass_cmp']//text()"
+      },
+      {
+        "name": "Att",
+        "xpath": ".//td[@data-stat='pass_att']//text()"
+      },
+      {
+        "name": "Yds",
+        "xpath": ".//td[@data-stat='pass_yds']//text()"
+      },
+      {
+        "name": "TD",
+        "xpath": ".//td[@data-stat='pass_td']//text()"
+      }
+    ],
+    "row_xpath": "//table[@id='passing']//tbody/tr[not(contains(@class,'thead'))]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 179,
+  "name": "Artificial Intelligence \u2014 Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.842555+00:00",
+  "config": {
+    "mode": "B",
+    "columns": [
+      {
+        "name": "Field",
+        "xpath": "th//text()"
+      },
+      {
+        "name": "Detail",
+        "xpath": "td//text()"
+      }
+    ],
+    "row_xpath": "//table[contains(@class,'infobox')]//tr[th]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

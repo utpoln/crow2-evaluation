@@ -1,0 +1,38 @@
+{
+  "id": 115,
+  "name": "Countries by Population",
+  "url": "https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.799673+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank",
+        "xpath": "td[1]//text()"
+      },
+      {
+        "name": "Country/Territory",
+        "xpath": "td[2]//a//text()"
+      },
+      {
+        "name": "Population",
+        "xpath": "td[3]//text()"
+      },
+      {
+        "name": "% of world",
+        "xpath": "td[4]//text()"
+      },
+      {
+        "name": "Date",
+        "xpath": "td[5]//text()"
+      }
+    ],
+    "row_xpath": "//table[contains(@class,'wikitable')][1]//tbody/tr[td]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

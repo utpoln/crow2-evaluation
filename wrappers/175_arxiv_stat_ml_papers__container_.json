@@ -1,0 +1,26 @@
+{
+  "id": 175,
+  "name": "arXiv stat.ML Papers (Container)",
+  "url": "https://arxiv.org/list/stat.ML/recent",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.840868+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "arXiv ID",
+        "xpath": ".//a[1]/@href"
+      },
+      {
+        "name": "Title",
+        "xpath": "following-sibling::dd[1]//div[@class='list-title mathjax']//text()"
+      }
+    ],
+    "row_xpath": "//dt[contains(@id,'item')]",
+    "pagination": {
+      "type": "container"
+    },
+    "url_params": []
+  }
+}

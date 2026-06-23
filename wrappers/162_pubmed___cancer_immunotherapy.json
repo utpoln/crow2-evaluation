@@ -1,0 +1,41 @@
+{
+  "id": 162,
+  "name": "PubMed \u2014 Cancer Immunotherapy",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=cancer+immunotherapy&sort=date",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.835110+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Title",
+        "xpath": ".//a[@class='docsum-title']//text()"
+      },
+      {
+        "name": "Authors",
+        "xpath": ".//span[@class='docsum-authors full-authors']//text()"
+      },
+      {
+        "name": "Journal",
+        "xpath": ".//span[@class='docsum-journal-citation full-journal-citation']//text()"
+      },
+      {
+        "name": "PMID",
+        "xpath": ".//span[@class='docsum-pmid']//text()"
+      }
+    ],
+    "row_xpath": "//article[contains(@class,'full-docsum')]",
+    "pagination": {
+      "type": "button"
+    },
+    "url_params": [
+      {
+        "key": "term",
+        "type": "query",
+        "label": "Query",
+        "value": "cancer immunotherapy"
+      }
+    ]
+  }
+}

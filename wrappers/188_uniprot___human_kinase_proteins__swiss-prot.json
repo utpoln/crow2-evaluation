@@ -1,0 +1,49 @@
+{
+  "id": 188,
+  "name": "UniProt \u2014 Human Kinase Proteins (Swiss-Prot)",
+  "url": "https://www.uniprot.org/uniprotkb?query=kinase+AND+organism_id%3A9606&facets=reviewed%3Atrue",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//table[contains(@class,'data-table')]//tbody//tr",
+    "columns": [
+      {
+        "name": "Entry",
+        "xpath": ".//td[1]//a//text()"
+      },
+      {
+        "name": "Entry Name",
+        "xpath": ".//td[2]//text()"
+      },
+      {
+        "name": "Protein Name",
+        "xpath": ".//td[3]//text()"
+      },
+      {
+        "name": "Gene Name",
+        "xpath": ".//td[4]//text()"
+      },
+      {
+        "name": "Organism",
+        "xpath": ".//td[5]//text()"
+      },
+      {
+        "name": "Length",
+        "xpath": ".//td[6]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "button"
+    },
+    "url_params": [
+      {
+        "key": "query",
+        "type": "query",
+        "label": "Search Query",
+        "value": "kinase AND organism_id:9606"
+      }
+    ]
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

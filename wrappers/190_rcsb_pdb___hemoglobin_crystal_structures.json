@@ -1,0 +1,45 @@
+{
+  "id": 190,
+  "name": "RCSB PDB \u2014 Hemoglobin Crystal Structures",
+  "url": "https://www.rcsb.org/search?q=hemoglobin+human",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//div[contains(@class,'results')]//div[contains(@class,'result-entry')]",
+    "columns": [
+      {
+        "name": "PDB ID",
+        "xpath": ".//span[contains(@class,'pdb-id')]//text()"
+      },
+      {
+        "name": "Title",
+        "xpath": ".//div[contains(@class,'result-title')]//text()"
+      },
+      {
+        "name": "Resolution",
+        "xpath": ".//span[contains(@class,'resolution')]//text()"
+      },
+      {
+        "name": "Experimental Method",
+        "xpath": ".//span[contains(@class,'exp-method')]//text()"
+      },
+      {
+        "name": "Organism",
+        "xpath": ".//span[contains(@class,'organism')]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "scroll"
+    },
+    "url_params": [
+      {
+        "key": "q",
+        "type": "query",
+        "label": "Query",
+        "value": "hemoglobin human"
+      }
+    ]
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

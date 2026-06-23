@@ -1,0 +1,37 @@
+{
+  "id": 165,
+  "name": "PubMed \u2014 RNA Sequencing",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=single+cell+RNA+sequencing",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.836454+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Title",
+        "xpath": ".//a[@class='docsum-title']//text()"
+      },
+      {
+        "name": "Authors",
+        "xpath": ".//span[@class='docsum-authors full-authors']//text()"
+      },
+      {
+        "name": "PMID",
+        "xpath": ".//span[@class='docsum-pmid']//text()"
+      }
+    ],
+    "row_xpath": "//article[contains(@class,'full-docsum')]",
+    "pagination": {
+      "type": "button"
+    },
+    "url_params": [
+      {
+        "key": "term",
+        "type": "query",
+        "label": "Query",
+        "value": "single cell RNA sequencing"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 198,
+  "name": "SGD \u2014 Yeast Gene Search",
+  "url": "https://www.yeastgenome.org/search?q=TRP&category=locus",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//div[contains(@class,'search-results')]//div[contains(@class,'result') or contains(@class,'locus')]",
+    "columns": [
+      {
+        "name": "Gene/Locus",
+        "xpath": ".//h3//a//text()"
+      },
+      {
+        "name": "Description",
+        "xpath": ".//div[contains(@class,'description')]//text()"
+      },
+      {
+        "name": "Chromosomal Feature",
+        "xpath": ".//span[contains(@class,'feature-type')]//text()"
+      },
+      {
+        "name": "SGD ID",
+        "xpath": ".//span[contains(@class,'sgd-id')]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "button"
+    },
+    "url_params": [
+      {
+        "key": "q",
+        "type": "query",
+        "label": "Search Query",
+        "value": "TRP"
+      }
+    ]
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

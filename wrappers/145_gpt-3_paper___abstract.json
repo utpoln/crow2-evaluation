@@ -1,0 +1,26 @@
+{
+  "id": 145,
+  "name": "GPT-3 Paper \u2014 Abstract",
+  "url": "https://arxiv.org/abs/2005.14165",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.826304+00:00",
+  "config": {
+    "mode": "B",
+    "columns": [
+      {
+        "name": "Field",
+        "xpath": "td[1]//text()"
+      },
+      {
+        "name": "Value",
+        "xpath": "td[2]//text()"
+      }
+    ],
+    "row_xpath": "//div[contains(@class,'abs-page')]//div[contains(@class,'metatable')]//tr",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

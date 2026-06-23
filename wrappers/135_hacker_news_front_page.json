@@ -1,0 +1,30 @@
+{
+  "id": 135,
+  "name": "Hacker News Front Page",
+  "url": "https://news.ycombinator.com/",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.816486+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank",
+        "xpath": ".//span[@class='rank']//text()"
+      },
+      {
+        "name": "Title",
+        "xpath": ".//span[@class='titleline']/a//text()"
+      },
+      {
+        "name": "Domain",
+        "xpath": ".//span[@class='sitestr']//text()"
+      }
+    ],
+    "row_xpath": "//tr[contains(@class,'athing')]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

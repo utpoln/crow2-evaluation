@@ -1,0 +1,50 @@
+{
+  "id": 157,
+  "name": "NBA 2024 Per-Game Stats",
+  "url": "https://www.basketball-reference.com/leagues/NBA_2024_per_game.html",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.832527+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Player",
+        "xpath": ".//td[@data-stat='player']//text()"
+      },
+      {
+        "name": "Pos",
+        "xpath": ".//td[@data-stat='pos']//text()"
+      },
+      {
+        "name": "Age",
+        "xpath": ".//td[@data-stat='age']//text()"
+      },
+      {
+        "name": "Team",
+        "xpath": ".//td[@data-stat='team_id']//text()"
+      },
+      {
+        "name": "G",
+        "xpath": ".//td[@data-stat='g']//text()"
+      },
+      {
+        "name": "PTS",
+        "xpath": ".//td[@data-stat='pts_per_g']//text()"
+      },
+      {
+        "name": "AST",
+        "xpath": ".//td[@data-stat='ast_per_g']//text()"
+      },
+      {
+        "name": "REB",
+        "xpath": ".//td[@data-stat='trb_per_g']//text()"
+      }
+    ],
+    "row_xpath": "//table[@id='per_game_stats']//tbody/tr[not(contains(@class,'thead'))]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

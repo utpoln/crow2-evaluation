@@ -1,0 +1,42 @@
+{
+  "id": 122,
+  "name": "World's Highest Mountains",
+  "url": "https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.806470+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank",
+        "xpath": "td[1]//text()"
+      },
+      {
+        "name": "Mountain",
+        "xpath": "td[2]//a//text()"
+      },
+      {
+        "name": "Height (m)",
+        "xpath": "td[3]//text()"
+      },
+      {
+        "name": "Height (ft)",
+        "xpath": "td[4]//text()"
+      },
+      {
+        "name": "Range",
+        "xpath": "td[5]//a//text()"
+      },
+      {
+        "name": "Country",
+        "xpath": "td[6]//text()"
+      }
+    ],
+    "row_xpath": "//table[contains(@class,'wikitable')][1]//tbody/tr[td]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

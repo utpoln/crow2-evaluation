@@ -1,0 +1,41 @@
+{
+  "id": 187,
+  "name": "RefSeq \u2014 Human Reference Transcripts",
+  "url": "https://www.ncbi.nlm.nih.gov/refseq/?term=cancer+human&sort=relevance",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//div[contains(@class,'rprt')]",
+    "columns": [
+      {
+        "name": "Accession",
+        "xpath": ".//span[contains(@class,'entrez_uid')]//text()"
+      },
+      {
+        "name": "Title",
+        "xpath": ".//p[contains(@class,'title')]//a//text()"
+      },
+      {
+        "name": "Organism",
+        "xpath": ".//span[contains(@class,'organism')]//text()"
+      },
+      {
+        "name": "Sequence Type",
+        "xpath": ".//span[contains(@class,'seqtype')]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "url_increment"
+    },
+    "url_params": [
+      {
+        "key": "term",
+        "type": "query",
+        "label": "Query",
+        "value": "cancer human"
+      }
+    ]
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

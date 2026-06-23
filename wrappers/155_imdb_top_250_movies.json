@@ -1,0 +1,30 @@
+{
+  "id": 155,
+  "name": "IMDb Top 250 Movies",
+  "url": "https://www.imdb.com/chart/top/",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.831761+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank & Title",
+        "xpath": ".//h3[contains(@class,'ipc-title__text')]//text()"
+      },
+      {
+        "name": "Year",
+        "xpath": ".//span[contains(@class,'sc-b85248f1')]//text()"
+      },
+      {
+        "name": "Rating",
+        "xpath": ".//span[@class='ipc-rating-star--rating']//text()"
+      }
+    ],
+    "row_xpath": "//ul[contains(@class,'ipc-metadata-list')]//li[contains(@class,'ipc-metadata-list-summary-item')]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

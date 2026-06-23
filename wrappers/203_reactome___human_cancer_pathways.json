@@ -1,0 +1,41 @@
+{
+  "id": 203,
+  "name": "Reactome \u2014 Human Cancer Pathways",
+  "url": "https://reactome.org/content/query?q=cancer&species=Homo+sapiens&types=Pathway",
+  "config": {
+    "mode": "A",
+    "row_xpath": "//ul[contains(@class,'search-results')]//li[contains(@class,'result') or contains(@class,'entry')]",
+    "columns": [
+      {
+        "name": "Pathway ST ID",
+        "xpath": ".//span[contains(@class,'st-id')]//text()"
+      },
+      {
+        "name": "Name",
+        "xpath": ".//span[contains(@class,'name')]//text()"
+      },
+      {
+        "name": "Species",
+        "xpath": ".//span[contains(@class,'species')]//text()"
+      },
+      {
+        "name": "Diagram Available",
+        "xpath": ".//span[contains(@class,'diagram')]//text()"
+      }
+    ],
+    "pagination": {
+      "type": "button"
+    },
+    "url_params": [
+      {
+        "key": "q",
+        "type": "query",
+        "label": "Query",
+        "value": "cancer"
+      }
+    ]
+  },
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T09:15:00.000000+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 173,
+  "name": "Wikipedia \u2014 Computer Science Topics (Scroll test)",
+  "url": "https://en.wikipedia.org/wiki/List_of_computer_science_topics",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.840133+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Topic",
+        "xpath": "a[1]//text()"
+      }
+    ],
+    "row_xpath": "//div[@id='mw-content-text']//ul/li[a]",
+    "pagination": {
+      "type": "scroll"
+    },
+    "url_params": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 137,
+  "name": "Hacker News Show HN",
+  "url": "https://news.ycombinator.com/show",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.821577+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank",
+        "xpath": ".//span[@class='rank']//text()"
+      },
+      {
+        "name": "Title",
+        "xpath": ".//span[@class='titleline']/a//text()"
+      },
+      {
+        "name": "Domain",
+        "xpath": ".//span[@class='sitestr']//text()"
+      }
+    ],
+    "row_xpath": "//tr[contains(@class,'athing')]",
+    "pagination": {
+      "type": "url_increment"
+    },
+    "url_params": [
+      {
+        "key": "p",
+        "type": "query",
+        "label": "Page",
+        "value": "1"
+      }
+    ]
+  }
+}

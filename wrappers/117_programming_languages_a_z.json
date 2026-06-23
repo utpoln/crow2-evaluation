@@ -1,0 +1,22 @@
+{
+  "id": 117,
+  "name": "Programming Languages A\u2013Z",
+  "url": "https://en.wikipedia.org/wiki/List_of_programming_languages",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.801099+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Language",
+        "xpath": "a//text()"
+      }
+    ],
+    "row_xpath": "//div[@id='mw-content-text']//div[@class='div-col']//ul/li",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}

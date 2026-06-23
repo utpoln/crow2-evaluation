@@ -1,0 +1,30 @@
+{
+  "id": 128,
+  "name": "Countries by HDI",
+  "url": "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index",
+  "is_public": true,
+  "owner": "kallolnaha@gmail.com",
+  "created_at": "2026-06-22T08:42:49.810335+00:00",
+  "config": {
+    "mode": "A",
+    "columns": [
+      {
+        "name": "Rank",
+        "xpath": "td[1]//text()"
+      },
+      {
+        "name": "Country",
+        "xpath": "td[2]//a//text()"
+      },
+      {
+        "name": "HDI",
+        "xpath": "td[3]//text()"
+      }
+    ],
+    "row_xpath": "//table[contains(@class,'wikitable')][1]//tbody/tr[td]",
+    "pagination": {
+      "type": "none"
+    },
+    "url_params": []
+  }
+}
