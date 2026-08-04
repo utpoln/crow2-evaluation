@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_osteoporosis",
+  "url": "https://clinicaltrials.gov/search?term=osteoporosis&viewType=Table",
+  "elapsed_seconds": 4.375816917000009,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Effectiveness of a Web-Based Osteoporosis Awareness Education Program Based on the Health Belief Model Among Female University Students at Risk",
+      "NCT_ID": "NCT06977776",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Osteoporosis Among Men Treated With Androgen Deprivation for Prostate Cancer",
+      "NCT_ID": "NCT00957606",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Study on the microRNA Expression Level in Postmenopausal Osteoporosis",
+      "NCT_ID": "NCT02128009",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Effect of Consumption of Supplements and Enriched Olive Paste on Bone Metabolism Indices",
+      "NCT_ID": "NCT06135831",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Clinical Study on Treatment of Postmenopausal Osteoporosis (Kidney Deficiency and Blood Stasis Syndrome) With Xulin Jiangu Granules",
+      "NCT_ID": "NCT03563235",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Periprosthetic Plate Over Humeral Nail",
+      "NCT_ID": "NCT06812195",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Female Osteoporosis",
+      "NCT_ID": "NCT07402772",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Patient- and Physician-Based Osteoporosis Education",
+      "NCT_ID": "NCT00073190",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Evaluation of an Osteoporosis Prevention Strategy in Women With Osteoporotic Fracture of the Upper Limb",
+      "NCT_ID": "NCT01780012",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Post-fracture Medication and Mortality",
+      "NCT_ID": "NCT05366621",
+      "Status": "Completed"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_epilepsy_anticonvulsant",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=epilepsy+anticonvulsant&sort=date",
+  "elapsed_seconds": 5.458663083999994,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Navigating Bone Health in Epilepsy-A Detailed Review of Anticonvulsant-induced Osteomalacia: Its Mechanisms and Therapeutic Strategies.",
+      "Authors": "Mk SS, Krishnan K.",
+      "Journal": "J Assoc Physicians India. 2026 Jul;74(7):73-79. doi: 10.59556/japi.74.1597.",
+      "PMID": "42543996"
+    },
+    {
+      "Title": "Comprehensive insights into bone health, hormonal patterns, and fracture risks among men with drug resistant epilepsy: a crucial evaluation.",
+      "Authors": "Pieper C, Vieira L Neto, Gama EFD, Paranhos FP Neto, Madeira M, Mendon\u00e7a LMC, Meira ID, Farias MLF.",
+      "Journal": "Arch Endocrinol Metab. 2026 Jul 31;70(5):e260082. doi: 10.20945/2359-4292-2026-0082.",
+      "PMID": "42536763"
+    },
+    {
+      "Title": "Parvalbumin interneuron activation rescues both seizures and impaired social novelty in digenic absence epilepsy mice.",
+      "Authors": "Miao QL, Okoh J, Asan AS, Karedia S, Pan JQ, Costa-Mattioli M, Noebels JL.",
+      "Journal": "Sci Adv. 2026 Jul 31;12(31):eaec6065. doi: 10.1126/sciadv.aec6065. Epub 2026 Jul 31.",
+      "PMID": "42536722"
+    },
+    {
+      "Title": "Cannabidiol attenuates seizure progression and recognition memory deficit induced by hippocampal HCN(1) knockdown in the kindling model of epilepsy in male rats.",
+      "Authors": "Aliakbari S, Naderi N, Hasanzadeh L, Sayyah M, Ilkhanizadeh-Qomi M, Cheng Y, Asadi S, Gholami Pourbadie H.",
+      "Journal": "Neuropharmacology. 2026 Jul 30;299:111114. doi: 10.1016/j.neuropharm.2026.111114. Online ahead of print.",
+      "PMID": "42532179"
+    },
+    {
+      "Title": "Intranasal Biodegradable Nanomedicine for Epilepsy Management: Targeting the Brain Beyond the Blood-Brain Barrier.",
+      "Authors": "Gilani SJ, Sultan AM, Alshawwa SZ, Rizwanullah M.",
+      "Journal": "Int J Nanomedicine. 2026 Jul 24;21:628279. doi: 10.2147/IJN.S628279. eCollection 2026.",
+      "PMID": "42524508"
+    },
+    {
+      "Title": "The MID1IP1/S100A10-mGluR5 Axis in Seizures: Immune-Metabolic Crosstalk and Enhanced Therapeutic Efficacy of Benfotiamine/Phenytoin Combination.",
+      "Authors": "Li S, Zhou M, Wei X, Cao Y, Luo X, Li D, Kang B, Wang X, He K, He J, Lv Y.",
+      "Journal": "Curr Neuropharmacol. 2026 Jul 26. doi: 10.2174/011570159X464277260522091556. Online ahead of print.",
+      "PMID": "42522649"
+    },
+    {
+      "Title": "Association of decreased CYP2C9 function, HLA-B*40:06, and hemoglobin levels with phenytoin-induced cutaneous adverse reactions in a Southern Thai population.",
+      "Authors": "Seree-Aphinan C, Sangiemchoey A, Setthawatcharawanich S, Pattharachayakul S, Hnoonual A, Ruanglertboon W, Intapiboon P, Kaewborisutsakul A, Thamcharoenvipas T, Rachatawiriyakul P, Chongsuvivatwong T, Sittipong S, Sukasem C, Jaruthamsophon K.",
+      "Journal": "Front Pharmacol. 2026 Jul 13;17:1827880. doi: 10.3389/fphar.2026.1827880. eCollection 2026.",
+      "PMID": "42516561"
+    },
+    {
+      "Title": "Effects of Clopidogrel on the Anticonvulsant Efficacy of Valproic Acid and Levetiracetam in a PTZ-Induced Seizure Model.",
+      "Authors": "\u00d6zdemir S, Bolayir E, \u015eahin \u0130nan ZD.",
+      "Journal": "Int J Mol Sci. 2026 Jul 19;27(14):6415. doi: 10.3390/ijms27146415.",
+      "PMID": "42511761"
+    },
+    {
+      "Title": "ML-171 Attenuates Pentylenetetrazole-Associated Oxidative and Apoptotic Injury Without Robust Suppression of Seizure Expression: An In Vitro and In Vivo Study.",
+      "Authors": "Kaleci AO, Altun A, Ta\u015fk\u0131ran A\u015e, \u00d6zkaraca M, Ba\u011f\u00e7ivan \u0130.",
+      "Journal": "Int J Mol Sci. 2026 Jul 14;27(14):6269. doi: 10.3390/ijms27146269.",
+      "PMID": "42511612"
+    },
+    {
+      "Title": "Beneficial effects of turmeric oil and sunflower seed oil in the rapid kindling rat model of epileptogenesis.",
+      "Authors": "Kalf RS, Broekaart DWM, Ter Horst EE, Schipper F, Aronica E, Gorter JA, van Vliet EA.",
+      "Journal": "Neuropharmacology. 2026 Jul 25;299:111118. doi: 10.1016/j.neuropharm.2026.111118. Online ahead of print.",
+      "PMID": "42501962"
+    }
+  ]
+}

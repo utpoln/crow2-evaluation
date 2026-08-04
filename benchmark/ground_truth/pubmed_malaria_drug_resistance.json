@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_malaria_drug_resistance",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42546906",
+      "Title": "Why Not Now? Targeting Plasmodium falciparum histone methyltransferases for next-generation antimalarial strategies",
+      "Authors": "Parthiban E, Ramanibai R, Ramachandran M",
+      "Journal": "Molecular and biochemical parasitology"
+    },
+    {
+      "PMID": "42543976",
+      "Title": "Artesunate-resistant Plasmodium falciparum at a Tertiary Care Hospital in North India",
+      "Authors": "Taneja V, Khosla P, Narula S, Sachdeva M",
+      "Journal": "The Journal of the Association of Physicians of India"
+    },
+    {
+      "PMID": "42541611",
+      "Title": "In silico identification of selective cyclodecapeptide inhibitors targeting Plasmodium falciparum Grp78 chaperone",
+      "Authors": "Mthembu W, Odugbemi A, Muzenda FL, Rautenbach M, Zininga T",
+      "Journal": "Journal of computer-aided molecular design"
+    },
+    {
+      "PMID": "42540770",
+      "Title": "Climate Change as a Health Security Threat in Pakistan: Preparing Health Systems for Extreme Events",
+      "Authors": "Akhtar TM, Akhtar H, Shaikh BT, Hassan Z",
+      "Journal": "Annals of global health"
+    },
+    {
+      "PMID": "42532326",
+      "Title": "Naturally occurring triterpenoids from plants as potential agents against malaria: a review from 1994 to 2025",
+      "Authors": "Sikam KG, Happi GM, Mbock Mbamba AL, Kemayou GM, Wansi JD",
+      "Journal": "Phytochemistry"
+    },
+    {
+      "PMID": "42531257",
+      "Title": "An orally available PfPKG inhibitor blocks Plasmodium's infection of the liver",
+      "Authors": "Dhiyebi H, Mbaye A, Thaniana A, Gilleran J, Eck T, Ashraf K, Kudyba K, Fan H, Seibold S, Battaile KP, Siekierka J, Johnson E, Roth A, De Rocher A, Lovell S, Miller EB, Roberge JY, Bhanot P",
+      "Journal": "PLoS pathogens"
+    },
+    {
+      "PMID": "42531228",
+      "Title": "Field evaluation of 3-(N-acetyl-n-butyl) aminopropionic acid ethyl ester - IR3535 as a spatial repellent to control malaria: A Randomised, Before-After-Control-Intervention trial",
+      "Authors": "Lequechane JD, Lopes LF, Gon\u00e7alves L, Azevedo N, Ab\u00edlio AP, Duaj\u00e1 AB, Manuel JL, Silveira H",
+      "Journal": "PloS one"
+    },
+    {
+      "PMID": "42529832",
+      "Title": "Efficacy of artemisinin derivatives and kelch13 mutations in Plasmodium falciparum: a systematic review and meta-analysis",
+      "Authors": "Ulusan Ba\u011fc\u0131 \u00d6, Elhan AH, Akarsu GA",
+      "Journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene"
+    },
+    {
+      "PMID": "42525447",
+      "Title": "Benchmarking of real-time, field-deployable whole-genome sequencing of Plasmodium falciparum using Nanopore technology",
+      "Authors": "Razook Z, Mehra S, Naung MT, Gilchrist B, Wijegunasekara S, Utama D, Lautu-Gumal D, Fola AA, Menard D, Kazura J, Laman M, Mueller I, Robinson LJ, Bahlo M, Barry AE",
+      "Journal": "Microbial genomics"
+    },
+    {
+      "PMID": "42523104",
+      "Title": "Protection against Babesia infection by red blood cell PIEZO1 activation",
+      "Authors": "Wengelnik K, Lohia R, Paveyranne A, Le Guet J, P Jose G, Azoulay S, Honor\u00e9 E, Douguet D",
+      "Journal": "Microbiology spectrum"
+    }
+  ]
+}

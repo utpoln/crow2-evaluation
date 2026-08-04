@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_diabetes",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT01213277",
+      "Title": "A1c Discordance in Diabetes Patients",
+      "Status": "SUSPENDED"
+    },
+    {
+      "NCT_ID": "NCT00726505",
+      "Title": "Renal Mechanism of Action/Splay vs. TmG",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT00162175",
+      "Title": "PPAR-COMBO With Sulfonylurea",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06842108",
+      "Title": "Relationship Between Hemodynamic Changes and Cardiopulmonary Fitness in Type 2 Diabetes Mellitus Patients",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT02680457",
+      "Title": "Effect of Insulin Degludec Versus Insulin Glargine on Glycemic Variability in Patients With Type 2 Diabetes Mellitus",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03587948",
+      "Title": "Shanghai Children and Adolescent Diabetes Eye Study",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07104422",
+      "Title": "An Epidemiological and Long-Term Endpoint Registry Study on Disease-Syndrome Correlation Patterns in Comorbid Population With Diabetes and Ischemic Cardio-Cerebrovascular Disease",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07114445",
+      "Title": "The Effect of Diabetic Foot Training Given to Patients With Type-2 Diabetes Using Virtual Reality Glasses on Foot Care Behaviors",
+      "Status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "NCT_ID": "NCT00976261",
+      "Title": "A 2-Part Trial in Subjects With Type 2 Diabetes and in Healthy Subjects to Evaluate GSK1614235, a New Glucose Lowering Drug to Treat Type 2 Diabetes",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06645002",
+      "Title": "Effect of Stevia Leave Powder on Blood Glucose and Lipid Profile of Diabetic Patients",
+      "Status": "ENROLLING_BY_INVITATION"
+    }
+  ]
+}

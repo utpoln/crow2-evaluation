@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_insulin_resistance_type_2_diabetes",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=insulin+resistance+type+2+diabetes&sort=date",
+  "elapsed_seconds": 5.054447790999998,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "A Technology-Blended Exercise Intervention for Cognitive Risk Reduction and Brain Health in Middle-Aged and Older Adults with Type 2 Diabetes in Singapore.",
+      "Authors": "Zhang J, San Tam WW, Lu J, Chen J, Montayre J, Kusuyama J, Dong Y, Yap XY, Zhou W, Wang N, Yeo HN, Sy Lee FJ, Wu VX.",
+      "Journal": "J Gerontol A Biol Sci Med Sci. 2026 Aug 4:glag192. doi: 10.1093/gerona/glag192. Online ahead of print.",
+      "PMID": "42550210"
+    },
+    {
+      "Title": "Type 2 Diabetes Mellitus: Molecular Pathogenesis and Therapeutic Interventions.",
+      "Authors": "Fei S, Xiong X, Zhang L, Zhang J, Chan LWC, Jiang H, Xiong Q, Hu C, Chen J, Yang S.",
+      "Journal": "MedComm (2020). 2026 Aug 3;7(8):e70895. doi: 10.1002/mco2.70895. eCollection 2026 Aug.",
+      "PMID": "42549109"
+    },
+    {
+      "Title": "Dapagliflozin and cognitive impairment: pharmacological mechanisms, translational evidence, and future directions.",
+      "Authors": "Alhowail AH.",
+      "Journal": "Front Pharmacol. 2026 Jul 20;17:1895764. doi: 10.3389/fphar.2026.1895764. eCollection 2026.",
+      "PMID": "42548880"
+    },
+    {
+      "Title": "Dapagliflozin & pioglitazone combination therapy in T2DM with or without MASLD - a systematic review and meta-analysis: PRO-2 study.",
+      "Authors": "Joshi S, Samajdar SS, Gupta A, Bhartia M, Lodha S, Bhattacharyya S, Seshadri K, Nagendra L, Unnikrishnan AG, Padhye D, Kopalle LN, Das AK, Lakhani O, Kesavadev J, Joshi A, Das S, Gadia S, Anthuvan T.",
+      "Journal": "Front Clin Diabetes Healthc. 2026 Jul 20;7:1733995. doi: 10.3389/fcdhc.2026.1733995. eCollection 2026.",
+      "PMID": "42548745"
+    },
+    {
+      "Title": "Association of the triglyceride-glucose index with subclinical left ventricular dysfunction in type 2 diabetes mellitus: mediation by myocardial energetic efficiency and resting perfusion.",
+      "Authors": "Jiang L, Li Y, Xu HY, Li XM, Shi K, Wang J, Yu SQ, Jiang Y, Fang H, Yan WF, Guo YK, Yang ZG.",
+      "Journal": "Cardiovasc Diabetol. 2026 Jul 26;25(1):217. doi: 10.1186/s12933-026-03308-8.",
+      "PMID": "42547868"
+    },
+    {
+      "Title": "Sleep loss as a cardiometabolic risk factor: a narrative review of clinical and public health implications.",
+      "Authors": "Ghanem FK, Attarian H, Al-Khalil Z, Kabrita CS.",
+      "Journal": "J Clin Sleep Med. 2026 Aug 3;22(1):129. doi: 10.1007/s44470-026-00144-1.",
+      "PMID": "42547683"
+    },
+    {
+      "Title": "Incidence and independent risk factors for heart failure in a population-based cohort of 19,892 individuals with newly diagnosed diabetes.",
+      "Authors": "Lejonberg C, Czuba T, Bennet L, Coral DE, Braun OO, Melander O, Gomez MF, Ahlqvist E, Smith JG.",
+      "Journal": "Diabetologia. 2026 Aug 3. doi: 10.1007/s00125-026-06823-1. Online ahead of print.",
+      "PMID": "42547586"
+    },
+    {
+      "Title": "Dietary intakes of anthocyanins and cardiometabolic health: a systematic review and meta-analysis of randomized trials and prospective cohort studies in healthy participants.",
+      "Authors": "Avendano EE, Ellingson H, Digga E, Velasco Nieves AM, Chen L, Wu M, Setty SH, Morley S, Curtis P, Nirmala N, Cassidy A.",
+      "Journal": "Am J Clin Nutr. 2026 Aug;124(2):101304. doi: 10.1016/j.ajcnut.2026.101304. Epub 2026 Jun 18.",
+      "PMID": "42547104"
+    },
+    {
+      "Title": "Circadian distribution of carbohydrate intake during adolescence and association with risk markers of type 2 diabetes in adulthood-the role of chronotype.",
+      "Authors": "Jankovic N, Schmitting S, Perrar I, Hohoff E, Lesani A, Goletzke J, Stutz B, Herder C, Wudy SA, N\u00f6thlings U, Alexy U.",
+      "Journal": "Eur J Nutr. 2026 Aug 3;65(5):228. doi: 10.1007/s00394-026-04056-x.",
+      "PMID": "42545501"
+    },
+    {
+      "Title": "[Regional features of the main indicators of carbohydrate metabolism in young residents of various climatic and geographical zones of residence].",
+      "Authors": "Yusupova SK, Nishanova MS, Yusupov KA, Abdurazakova DS, Mukhamedova VM, Abdulazizhojiyeva RB, Chartakova KK, Juliyeva YG, Khamidova MI, Ismoilova SK, Khalilova SR, Supichakov KK.",
+      "Journal": "Probl Endokrinol (Mosk). 2026 Jul 22;72(3):53-59. doi: 10.14341/probl13659.",
+      "PMID": "42545323"
+    }
+  ]
+}

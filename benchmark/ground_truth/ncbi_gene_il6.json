@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_il6",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6"
+    },
+    {
+      "Symbol": "CEBPB",
+      "GeneID": "ID: 1051",
+      "Description": "CCAAT enhancer binding protein beta"
+    },
+    {
+      "Symbol": "CRP",
+      "GeneID": "ID: 1401",
+      "Description": "C-reactive protein"
+    },
+    {
+      "Symbol": "CEBPD",
+      "GeneID": "ID: 1052",
+      "Description": "CCAAT enhancer binding protein delta"
+    },
+    {
+      "Symbol": "STAT3",
+      "GeneID": "ID: 6774",
+      "Description": "signal transducer and activator of transcription 3"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A"
+    },
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor"
+    },
+    {
+      "Symbol": "IL10",
+      "GeneID": "ID: 3586",
+      "Description": "interleukin 10"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53"
+    },
+    {
+      "Symbol": "IL1B",
+      "GeneID": "ID: 3553",
+      "Description": "interleukin 1 beta"
+    },
+    {
+      "Symbol": "CXCL8",
+      "GeneID": "ID: 3576",
+      "Description": "C-X-C motif chemokine ligand 8"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule"
+    },
+    {
+      "Symbol": "MTOR",
+      "GeneID": "ID: 2475",
+      "Description": "mechanistic target of rapamycin kinase"
+    },
+    {
+      "Symbol": "TGFB1",
+      "GeneID": "ID: 7040",
+      "Description": "transforming growth factor beta 1"
+    },
+    {
+      "Symbol": "ESR1",
+      "GeneID": "ID: 2099",
+      "Description": "estrogen receptor 1"
+    },
+    {
+      "Symbol": "PTGS2",
+      "GeneID": "ID: 5743",
+      "Description": "prostaglandin-endoperoxide synthase 2"
+    },
+    {
+      "Symbol": "HNF1A",
+      "GeneID": "ID: 6927",
+      "Description": "HNF1 homeobox A"
+    },
+    {
+      "Symbol": "NFKB1",
+      "GeneID": "ID: 4790",
+      "Description": "nuclear factor kappa B subunit 1"
+    },
+    {
+      "Symbol": "HIF1A",
+      "GeneID": "ID: 3091",
+      "Description": "hypoxia inducible factor 1 subunit alpha"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_breast_cancer",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT07599098",
+      "Title": "Effects of a Pilates Studio Program on Quality of Life and Functional Capacity of Women Undergoing Breast Cancer Treatment",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06134570",
+      "Title": "ALDH1A1 Expression in Invasive Mammary Carcinoma",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06954623",
+      "Title": "Partial Breast Re-irradiation for Breast Cancer",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT02624973",
+      "Title": "PErsonalized TREatment of High-risk MAmmary Cancer - the PETREMAC Trial",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07492043",
+      "Title": "Breast Tumour Size Measurement by Field Cycling Imaging",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06480513",
+      "Title": "Cancer Of the BReast Asanas Study (COBRA)",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT01110954",
+      "Title": "Fluorescence-guided Resection in Breast Cancer",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT03788187",
+      "Title": "Persistant Organics Pollutants in Breast Cancer.",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04320979",
+      "Title": "Postmastecomy Internal Mammary Nodal Irradiation for High-risk Breast Cancer Patients",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT01522300",
+      "Title": "Etude Tomos- Apport de la Tomosynth\u00e8se Dans le Bilan d'Extension locor\u00e9gional pr\u00e9th\u00e9rapeutique d'Une Tumeur du Sein : Recherche de multicentricit\u00e9 Tomos Study- Contribution of Tomosynthesis In Locoregional Pretherapeutic Staging of a Breast Tumor: Multicentricity Search",
+      "Status": "TERMINATED"
+    }
+  ]
+}

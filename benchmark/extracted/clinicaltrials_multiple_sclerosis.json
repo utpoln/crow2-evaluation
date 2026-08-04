@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_multiple_sclerosis",
+  "url": "https://clinicaltrials.gov/search?term=multiple+sclerosis&viewType=Table",
+  "elapsed_seconds": 4.319077916999987,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Telemonitoring and Connected Care Applied to Multiple Sclerose",
+      "NCT_ID": "NCT05242731",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Reliability and Validity of the Turkish Version of the Multiple Sclerosis Knowledge Questionnaire",
+      "NCT_ID": "NCT03927092",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Endpoint Calibration for a Phase 2 Study of Lisinopril in Multiple Sclerosis",
+      "NCT_ID": "NCT02369926",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "MS Mosaic: A Longitudinal Research Study on Multiple Sclerosis",
+      "NCT_ID": "NCT02845635",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Enhancing Quality of Life in MS Patients Through Tailored Therapeutic Education",
+      "NCT_ID": "NCT06450600",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Auditory Function in Patients With and Without Multiple Sclerosis",
+      "NCT_ID": "NCT00037947",
+      "Status": "Completed"
+    },
+    {
+      "Title": "A Monocenter, Cross-sectional Study to Compare Different Type of Cognitive Impairment in Multiple Sclerosis Patients and Cerebrospinal Fluid Biomarkers (Beta Amyloid, Total Tau Protein and Tau-phosphorylated Protein).",
+      "NCT_ID": "NCT00978536",
+      "Status": "Terminated"
+    },
+    {
+      "Title": "HFS (High-Fiber Supplement) in MS (Multiple Sclerosis)",
+      "NCT_ID": "NCT04574024",
+      "Status": "Completed\u00a0 View Results"
+    },
+    {
+      "Title": "KITAMS: Kinesio Tape and Physical Function in Persons With Multiples Sclerosis",
+      "NCT_ID": "NCT03804047",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Feasibility of the Multiple Sclerosis Performance Test in Participants With Multiple Sclerosis",
+      "NCT_ID": "NCT03926637",
+      "Status": "Terminated"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_trypsin",
+  "url": "https://www.uniprot.org/uniprotkb?query=trypsin&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.261837125,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "P00760",
+      "EntryName": "TRY1_BOVIN",
+      "GeneName": "PRSS1, TRP1, TRY1, TRYP1"
+    },
+    {
+      "Accession": "P07477",
+      "EntryName": "TRY1_HUMAN",
+      "GeneName": "PRSS1, TRP1, TRY1, TRYP1"
+    },
+    {
+      "Accession": "A0A6P3CW73",
+      "EntryName": "CYCTI_TITOB",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P00761",
+      "EntryName": "TRYP_PIG",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P00762",
+      "EntryName": "TRY1_RAT",
+      "GeneName": "Prss1, Trp1, Try1, Tryp1"
+    },
+    {
+      "Accession": "P07478",
+      "EntryName": "TRY2_HUMAN",
+      "GeneName": "PRSS2, TRY2, TRYP2"
+    },
+    {
+      "Accession": "P35030",
+      "EntryName": "TRY3_HUMAN",
+      "GeneName": "PRSS3, PRSS4, TRY3, TRY4"
+    },
+    {
+      "Accession": "P82409",
+      "EntryName": "ITR2_MOMCO",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q9R0T7",
+      "EntryName": "TRY4_MOUSE",
+      "GeneName": "Try4, T8, Td"
+    },
+    {
+      "Accession": "P07146",
+      "EntryName": "TRY2_MOUSE",
+      "GeneName": "Prss2, Try2"
+    },
+    {
+      "Accession": "P00763",
+      "EntryName": "TRY2_RAT",
+      "GeneName": "Prss2, Try2"
+    },
+    {
+      "Accession": "Q8RXD5",
+      "EntryName": "KTI4_ARATH",
+      "GeneName": "KTI4, KTI1, TPI, At1g73260, T18K17.7"
+    },
+    {
+      "Accession": "P00995",
+      "EntryName": "ISK1_HUMAN",
+      "GeneName": "SPINK1, PSTI"
+    },
+    {
+      "Accession": "O01887",
+      "EntryName": "TRYL5_CAEEL",
+      "GeneName": "try-5, K07B1.1"
+    },
+    {
+      "Accession": "Q86T26",
+      "EntryName": "TM11B_HUMAN",
+      "GeneName": "TMPRSS11B, HATL5"
+    },
+    {
+      "Accession": "P00747",
+      "EntryName": "PLMN_HUMAN",
+      "GeneName": "PLG"
+    },
+    {
+      "Accession": "A4D1T9",
+      "EntryName": "PRS37_HUMAN",
+      "GeneName": "PRSS37, TRYX2"
+    },
+    {
+      "Accession": "P00974",
+      "EntryName": "BPT1_BOVIN",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P05067",
+      "EntryName": "A4_HUMAN",
+      "GeneName": "APP, A4, AD1"
+    },
+    {
+      "Accession": "Q4GWU5",
+      "EntryName": "SFTI1_HELAN",
+      "GeneName": "sfti1"
+    },
+    {
+      "Accession": "Q14624",
+      "EntryName": "ITIH4_HUMAN",
+      "GeneName": "ITIH4, IHRP, ITIHL1, PK120, PRO1851"
+    },
+    {
+      "Accession": "P35031",
+      "EntryName": "TRY1_SALSA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P35033",
+      "EntryName": "TRY3_SALSA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q9QUK9",
+      "EntryName": "TRY5_MOUSE",
+      "GeneName": "Try5, Tc, Tesp4"
+    },
+    {
+      "Accession": "Q29463",
+      "EntryName": "TRY2_BOVIN",
+      "GeneName": ""
+    }
+  ]
+}

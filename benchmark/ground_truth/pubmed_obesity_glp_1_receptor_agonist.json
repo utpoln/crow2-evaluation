@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_obesity_glp_1_receptor_agonist",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550253",
+      "Title": "Beyond weight loss: toward an immunometabolic treatment paradigm in psoriatic arthritis",
+      "Authors": "K\u0131l\u0131\u00e7 G",
+      "Journal": "Rheumatology international"
+    },
+    {
+      "PMID": "42549476",
+      "Title": "Acute Nutritional Axonal Neuropathy in the Setting of Semaglutide-Associated Gastrointestinal Intolerance: A Case Report",
+      "Authors": "Cohan CJ, Townley L, Ortega E",
+      "Journal": "Case reports in neurology"
+    },
+    {
+      "PMID": "42549142",
+      "Title": "Correction: Comparative analysis of glucagon-like peptide-1 receptor agonists, metformin, and inositol in improving anthropometric and metabolic outcomes in women with polycystic ovary syndrome: a network meta-analysis",
+      "Authors": "Omarion A, Ayasa Y, Omarion Z, Jayouse B, Ayesh H",
+      "Journal": "Frontiers in endocrinology"
+    },
+    {
+      "PMID": "42548223",
+      "Title": "Current Updates on Pharmacotherapy for Obstructive Sleep Apnea",
+      "Authors": "Kim SW",
+      "Journal": "Journal of rhinology : official journal of the Korean Rhinologic Society"
+    },
+    {
+      "PMID": "42547885",
+      "Title": "Trends in GLP-1 Receptor Agonist Prescribing Without Documented Indications",
+      "Authors": "Kim C, Choi K, Krumholz HM, Lu Y",
+      "Journal": "Diabetes, obesity & metabolism"
+    },
+    {
+      "PMID": "42547656",
+      "Title": "Peripheral nerve complications from medications utilised for weight loss: a systematic review",
+      "Authors": "O'Gorman C, O'Gorman M, Warren N",
+      "Journal": "Journal of neurology"
+    },
+    {
+      "PMID": "42546112",
+      "Title": "GLP-1 receptor agonists in hip, knee and shoulder arthroplasty: Implications for obesity, osteoarthritis, metabolic optimisation and complications",
+      "Authors": "Avram GM, Indelli PF, Violante B, Graichen H, Lustig S, Boettner F, von Eisenhart-Rothe R, Tandogan R, Hirschmann MT, Kayaalp ME",
+      "Journal": "Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA"
+    },
+    {
+      "PMID": "42545321",
+      "Title": "[Safety Management of Incretin-Based Obesity Therapy: Expert Consensus on the Use of Semaglutide and Tirzepatide]",
+      "Authors": "Troshina EA, Antsiferov MB, Ametov AS, Bakulin IG, Galstyan GR, Markova TN, Romantsova TI, Mazurina NV, Koteshkova OM",
+      "Journal": "Problemy endokrinologii"
+    },
+    {
+      "PMID": "42545022",
+      "Title": "Effects of liraglutide on gut bacterial community dynamics",
+      "Authors": "Bull J, Durham PL, Mirza BS",
+      "Journal": "Microbiology spectrum"
+    },
+    {
+      "PMID": "42544560",
+      "Title": "Protecting Musculoskeletal Development and Physical Function in Adolescents on GLP-1 Therapy",
+      "Authors": "Smith WA, Kim A, Khalil TJ, Giovinazzo C, Burton ET",
+      "Journal": "Childhood obesity (Print)"
+    }
+  ]
+}

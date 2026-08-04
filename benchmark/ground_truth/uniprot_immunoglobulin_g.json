@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_immunoglobulin_g",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "Q8IZF2",
+      "EntryName": "AGRF5_HUMAN",
+      "GeneName": "ADGRF5"
+    },
+    {
+      "Accession": "Q8IWK6",
+      "EntryName": "AGRA3_HUMAN",
+      "GeneName": "ADGRA3"
+    },
+    {
+      "Accession": "Q96PE1",
+      "EntryName": "AGRA2_HUMAN",
+      "GeneName": "ADGRA2"
+    },
+    {
+      "Accession": "P01825",
+      "EntryName": "HV459_HUMAN",
+      "GeneName": "IGHV4-59"
+    },
+    {
+      "Accession": "Q9NTN9",
+      "EntryName": "SEM4G_HUMAN",
+      "GeneName": "SEMA4G"
+    },
+    {
+      "Accession": "Q9WVT0",
+      "EntryName": "AGRF5_RAT",
+      "GeneName": "Adgrf5"
+    },
+    {
+      "Accession": "P09693",
+      "EntryName": "CD3G_HUMAN",
+      "GeneName": "CD3G"
+    },
+    {
+      "Accession": "P41217",
+      "EntryName": "OX2G_HUMAN",
+      "GeneName": "CD200"
+    },
+    {
+      "Accession": "P24071",
+      "EntryName": "FCAR_HUMAN",
+      "GeneName": "FCAR"
+    },
+    {
+      "Accession": "Q91ZV8",
+      "EntryName": "AGRA2_MOUSE",
+      "GeneName": "Adgra2"
+    },
+    {
+      "Accession": "P01833",
+      "EntryName": "PIGR_HUMAN",
+      "GeneName": "PIGR"
+    },
+    {
+      "Accession": "P23083",
+      "EntryName": "HV102_HUMAN",
+      "GeneName": "IGHV1-2"
+    },
+    {
+      "Accession": "Q9WUH7",
+      "EntryName": "SEM4G_MOUSE",
+      "GeneName": "Sema4g"
+    },
+    {
+      "Accession": "O54901",
+      "EntryName": "OX2G_MOUSE",
+      "GeneName": "Cd200"
+    },
+    {
+      "Accession": "P04218",
+      "EntryName": "OX2G_RAT",
+      "GeneName": "Cd200"
+    },
+    {
+      "Accession": "P04196",
+      "EntryName": "HRG_HUMAN",
+      "GeneName": "HRG"
+    },
+    {
+      "Accession": "P11942",
+      "EntryName": "CD3G_MOUSE",
+      "GeneName": "Cd3g"
+    },
+    {
+      "Accession": "P59901",
+      "EntryName": "LIRA4_HUMAN",
+      "GeneName": "LILRA4"
+    },
+    {
+      "Accession": "O95866",
+      "EntryName": "G6B_HUMAN",
+      "GeneName": "MPIG6B"
+    },
+    {
+      "Accession": "P01768",
+      "EntryName": "HV330_HUMAN",
+      "GeneName": "IGHV3-30"
+    },
+    {
+      "Accession": "P0DOX5",
+      "EntryName": "IGG1_HUMAN",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P25311",
+      "EntryName": "ZA2G_HUMAN",
+      "GeneName": "AZGP1"
+    },
+    {
+      "Accession": "P06744",
+      "EntryName": "G6PI_HUMAN",
+      "GeneName": "GPI"
+    },
+    {
+      "Accession": "Q61450",
+      "EntryName": "LRB4B_MOUSE",
+      "GeneName": "Lilrb4b"
+    },
+    {
+      "Accession": "Q96D42",
+      "EntryName": "HAVR1_HUMAN",
+      "GeneName": "HAVCR1"
+    }
+  ]
+}

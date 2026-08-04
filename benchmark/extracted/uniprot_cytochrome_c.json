@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_cytochrome_c",
+  "url": "https://www.uniprot.org/uniprotkb?query=cytochrome+c&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.213704584000027,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "Q01519",
+      "EntryName": "COX12_YEAST",
+      "GeneName": "COX12, YLR038C"
+    },
+    {
+      "Accession": "P00410",
+      "EntryName": "COX2_YEAST",
+      "GeneName": "COX2, OXI1, Q0250"
+    },
+    {
+      "Accession": "P00420",
+      "EntryName": "COX3_YEAST",
+      "GeneName": "COX3, OXI2, Q0275"
+    },
+    {
+      "Accession": "P00401",
+      "EntryName": "COX1_YEAST",
+      "GeneName": "COX1, OXI3, Q0045"
+    },
+    {
+      "Accession": "P04037",
+      "EntryName": "COX4_YEAST",
+      "GeneName": "COX4, YGL187C, G1362"
+    },
+    {
+      "Accession": "P32799",
+      "EntryName": "COX13_YEAST",
+      "GeneName": "COX13, YGL191W, G1341"
+    },
+    {
+      "Accession": "P07255",
+      "EntryName": "COX9_YEAST",
+      "GeneName": "COX9, YDL067C, D2520"
+    },
+    {
+      "Accession": "P10174",
+      "EntryName": "COX7_YEAST",
+      "GeneName": "COX7, YMR256C, YM9920.10C"
+    },
+    {
+      "Accession": "P00424",
+      "EntryName": "COX5A_YEAST",
+      "GeneName": "COX5A, YNL052W, N2474, YNL2474W"
+    },
+    {
+      "Accession": "P04039",
+      "EntryName": "COX8_YEAST",
+      "GeneName": "COX8, YLR395C, L8084.14"
+    },
+    {
+      "Accession": "P0ABK9",
+      "EntryName": "NRFA_ECOLI",
+      "GeneName": "nrfA, b4070, JW4031"
+    },
+    {
+      "Accession": "D5ARP7",
+      "EntryName": "CCOP_RHOCB",
+      "GeneName": "ccoP, RCAP_rcc01160"
+    },
+    {
+      "Accession": "Q8NNK5",
+      "EntryName": "QCRC_CORGL",
+      "GeneName": "qcrC, Cgl2191, cg2405"
+    },
+    {
+      "Accession": "P15954",
+      "EntryName": "COX7C_HUMAN",
+      "GeneName": "COX7C"
+    },
+    {
+      "Accession": "Q4G0S4",
+      "EntryName": "C27C1_HUMAN",
+      "GeneName": "CYP27C1"
+    },
+    {
+      "Accession": "O64697",
+      "EntryName": "C7101_ARATH",
+      "GeneName": "CYP710A1, At2g34500, F13P17.35"
+    },
+    {
+      "Accession": "O49340",
+      "EntryName": "C71AC_ARATH",
+      "GeneName": "CYP71A12, At2g30750, T11J7.14"
+    },
+    {
+      "Accession": "Q99643",
+      "EntryName": "C560_HUMAN",
+      "GeneName": "SDHC, CYB560, SDH3"
+    },
+    {
+      "Accession": "O00483",
+      "EntryName": "CXFA4_HUMAN",
+      "GeneName": "COXFA4, NDUFA4"
+    },
+    {
+      "Accession": "P09669",
+      "EntryName": "COX6C_HUMAN",
+      "GeneName": "COX6C"
+    },
+    {
+      "Accession": "Q9CPQ1",
+      "EntryName": "COX6C_MOUSE",
+      "GeneName": "Cox6c"
+    },
+    {
+      "Accession": "A8WGA0",
+      "EntryName": "C27C1_DANRE",
+      "GeneName": "cyp27c1"
+    },
+    {
+      "Accession": "B2RXA7",
+      "EntryName": "CP26C_MOUSE",
+      "GeneName": "Cyp26c1"
+    },
+    {
+      "Accession": "P17665",
+      "EntryName": "COX7C_MOUSE",
+      "GeneName": "Cox7c, Cox7c1"
+    },
+    {
+      "Accession": "A0A1D6HSP4",
+      "EntryName": "C92C5_MAIZE",
+      "GeneName": "CYP92C5, ZEAMMB73_Zm00001d018839"
+    }
+  ]
+}

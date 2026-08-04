@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_myosin",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "Q12965",
+      "EntryName": "MYO1E_HUMAN",
+      "GeneName": "MYO1E"
+    },
+    {
+      "Accession": "Q8N1T3",
+      "EntryName": "MYO1H_HUMAN",
+      "GeneName": "MYO1H"
+    },
+    {
+      "Accession": "O00160",
+      "EntryName": "MYO1F_HUMAN",
+      "GeneName": "MYO1F"
+    },
+    {
+      "Accession": "Q96JP2",
+      "EntryName": "MY15B_HUMAN",
+      "GeneName": "MYO15B"
+    },
+    {
+      "Accession": "Q9Y4I1",
+      "EntryName": "MYO5A_HUMAN",
+      "GeneName": "MYO5A"
+    },
+    {
+      "Accession": "Q13459",
+      "EntryName": "MYO9B_HUMAN",
+      "GeneName": "MYO9B"
+    },
+    {
+      "Accession": "B2RTY4",
+      "EntryName": "MYO9A_HUMAN",
+      "GeneName": "MYO9A"
+    },
+    {
+      "Accession": "Q9HD67",
+      "EntryName": "MYO10_HUMAN",
+      "GeneName": "MYO10"
+    },
+    {
+      "Accession": "Q9UM54",
+      "EntryName": "MYO6_HUMAN",
+      "GeneName": "MYO6"
+    },
+    {
+      "Accession": "Q9Y2K3",
+      "EntryName": "MYH15_HUMAN",
+      "GeneName": "MYH15"
+    },
+    {
+      "Accession": "Q9UKN7",
+      "EntryName": "MYO15_HUMAN",
+      "GeneName": "MYO15A"
+    },
+    {
+      "Accession": "Q8WXR4",
+      "EntryName": "MYO3B_HUMAN",
+      "GeneName": "MYO3B"
+    },
+    {
+      "Accession": "Q9Y623",
+      "EntryName": "MYH4_HUMAN",
+      "GeneName": "MYH4"
+    },
+    {
+      "Accession": "Q9UKX3",
+      "EntryName": "MYH13_HUMAN",
+      "GeneName": "MYH13"
+    },
+    {
+      "Accession": "Q8NEV4",
+      "EntryName": "MYO3A_HUMAN",
+      "GeneName": "MYO3A"
+    },
+    {
+      "Accession": "P11055",
+      "EntryName": "MYH3_HUMAN",
+      "GeneName": "MYH3"
+    },
+    {
+      "Accession": "P13535",
+      "EntryName": "MYH8_HUMAN",
+      "GeneName": "MYH8"
+    },
+    {
+      "Accession": "P35749",
+      "EntryName": "MYH11_HUMAN",
+      "GeneName": "MYH11"
+    },
+    {
+      "Accession": "Q9UKX2",
+      "EntryName": "MYH2_HUMAN",
+      "GeneName": "MYH2"
+    },
+    {
+      "Accession": "P79114",
+      "EntryName": "MYO10_BOVIN",
+      "GeneName": "MYO10"
+    },
+    {
+      "Accession": "P12882",
+      "EntryName": "MYH1_HUMAN",
+      "GeneName": "MYH1"
+    },
+    {
+      "Accession": "O00159",
+      "EntryName": "MYO1C_HUMAN",
+      "GeneName": "MYO1C"
+    },
+    {
+      "Accession": "P60660",
+      "EntryName": "MYL6_HUMAN",
+      "GeneName": "MYL6"
+    },
+    {
+      "Accession": "Q8IUG5",
+      "EntryName": "MY18B_HUMAN",
+      "GeneName": "MYO18B"
+    },
+    {
+      "Accession": "P13533",
+      "EntryName": "MYH6_HUMAN",
+      "GeneName": "MYH6"
+    }
+  ]
+}

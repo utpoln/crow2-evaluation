@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_breast_cancer",
+  "url": "https://clinicaltrials.gov/search?term=breast+cancer&viewType=Table",
+  "elapsed_seconds": 4.37753462500001,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Effects of a Pilates Studio Program on Quality of Life and Functional Capacity of Women Undergoing Breast Cancer TreatmentNew",
+      "NCT_ID": "NCT07599098",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "ALDH1A1 Expression in Invasive Mammary Carcinoma",
+      "NCT_ID": "NCT06134570",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Partial Breast Re-irradiation for Breast Cancer",
+      "NCT_ID": "NCT06954623",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "PErsonalized TREatment of High-risk MAmmary Cancer - the PETREMAC Trial",
+      "NCT_ID": "NCT02624973",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Breast Tumour Size Measurement by Field Cycling ImagingNew",
+      "NCT_ID": "NCT07492043",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Cancer Of the BReast Asanas Study (COBRA)",
+      "NCT_ID": "NCT06480513",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Fluorescence-guided Resection in Breast Cancer",
+      "NCT_ID": "NCT01110954",
+      "Status": "Terminated"
+    },
+    {
+      "Title": "Persistant Organics Pollutants in Breast Cancer.",
+      "NCT_ID": "NCT03788187",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Postmastecomy Internal Mammary Nodal Irradiation for High-risk Breast Cancer Patients",
+      "NCT_ID": "NCT04320979",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Etude Tomos- Apport de la Tomosynth\u00e8se Dans le Bilan d'Extension locor\u00e9gional pr\u00e9th\u00e9rapeutique d'Une Tumeur du Sein : Recherche de multicentricit\u00e9 Tomos Study- Contribution of Tomosynthesis In Locoregional Pretherapeutic Staging of a Breast Tumor: Multicentricity Search",
+      "NCT_ID": "NCT01522300",
+      "Status": "Terminated"
+    }
+  ]
+}

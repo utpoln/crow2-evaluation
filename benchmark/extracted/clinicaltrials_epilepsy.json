@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_epilepsy",
+  "url": "https://clinicaltrials.gov/search?term=epilepsy&viewType=Table",
+  "elapsed_seconds": 4.622773957999982,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Determinants of Adaptive Behavior Through the Vineland Scale in Pediatric Patients With Severe and Drug-resistant Epilepsy",
+      "NCT_ID": "NCT06832020",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Inflammatory Biomarkers in Psychogenic Non-epileptic Seizure",
+      "NCT_ID": "NCT05571371",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Epileptic Seizures in Intensive Care Units",
+      "NCT_ID": "NCT03860467",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Clobazam Use in Epilepsia Partialis Continua - Pilot Study",
+      "NCT_ID": "NCT02134366",
+      "Status": "Terminated"
+    },
+    {
+      "Title": "Effects of Podcast Education on Medication Perception, Stigma Level, and Epilepsy Self-management in Epilepsy Patients",
+      "NCT_ID": "NCT07090980",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Inflammatory Biomarkers in Seizure",
+      "NCT_ID": "NCT05556109",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Pharmacokinetics of Anti-epileptic Drugs in Obese Children",
+      "NCT_ID": "NCT02993861",
+      "Status": "Completed"
+    },
+    {
+      "Title": "S100B Protein: a Diagnostic Aid in Episodes of Transient Loss of Consciousness?New",
+      "NCT_ID": "NCT07527754",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Epidemiology of Suspected Epileptic Seizures",
+      "NCT_ID": "NCT04147663",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Periodic Limb Movement and Genetic Generalized Epilepsy",
+      "NCT_ID": "NCT03587506",
+      "Status": "Completed"
+    }
+  ]
+}

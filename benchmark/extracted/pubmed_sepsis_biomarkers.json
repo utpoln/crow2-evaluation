@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_sepsis_biomarkers",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sepsis+biomarkers&sort=date",
+  "elapsed_seconds": 5.209573665999997,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Emerging Roles and Possible Therapeutic Applications of Arachidonic Acid Metabolites in Sepsis and Sepsis-Associated Organ Dysfunction.",
+      "Authors": "Wang C, Jiang X, Chen Y, Nan W, Peng Z.",
+      "Journal": "Drug Des Devel Ther. 2026 Jul 29;20:623143. doi: 10.2147/DDDT.S623143. eCollection 2026.",
+      "PMID": "42548996"
+    },
+    {
+      "Title": "HAT regimen attenuates NF-kappab-driven megakaryocyte apoptosis and neuronal cell death in sepsis: convergent mechanisms protecting thrombocytopenia and cognitive function.",
+      "Authors": "Hui Z, Shen N, Zhang H, Yu M, Li Z, Ping J, Fu Q.",
+      "Journal": "Front Cell Dev Biol. 2026 Jul 20;14:1880883. doi: 10.3389/fcell.2026.1880883. eCollection 2026.",
+      "PMID": "42548835"
+    },
+    {
+      "Title": "Explainable machine learning for predicting venous thromboembolism in septic shock patients.",
+      "Authors": "Li Y, Xin Q, Lu Y, Yu X, Gu C.",
+      "Journal": "Front Immunol. 2026 Jul 20;17:1860149. doi: 10.3389/fimmu.2026.1860149. eCollection 2026.",
+      "PMID": "42548631"
+    },
+    {
+      "Title": "H3.1 Nucleosomes to Predict Renal Replacement Therapy and Mortality in Sepsis-A Secondary Analysis of the SISPCT Randomized Control Trial.",
+      "Authors": "Neumann C, Bloos F, Hla TTW, Bygott T, Bogatsch H, Kiehntopf M, B\u00f6rner F, Press AT, Bauer M, Retter A; SepNet Critical Care Trials Group.",
+      "Journal": "Crit Care Med. 2026 Aug 3. doi: 10.1097/CCM.0000000000007270. Online ahead of print.",
+      "PMID": "42545097"
+    },
+    {
+      "Title": "CRP-To-Albumin Ratio and CALLY Index for Sepsis Identification and Mortality Discrimination in Critically Ill Children.",
+      "Authors": "Atay G, Erdo\u011fan S, Pen\u00e7e \u0130, Pen\u00e7e ME, Kurt D.",
+      "Journal": "Pediatr Int. 2026 Jan-Dec;68(1):e70498. doi: 10.1111/ped.70498.",
+      "PMID": "42544729"
+    },
+    {
+      "Title": "Evaluation of Presepsin as an Early Biomarker of Sepsis in Elderly Patients with Community-acquired Pneumonia.",
+      "Authors": "Sharma S, Tahlan A, Gupta M, Palta A, Singla N.",
+      "Journal": "J Assoc Physicians India. 2026 Jul;74(7):28-31. doi: 10.59556/japi.74.1603.",
+      "PMID": "42543988"
+    },
+    {
+      "Title": "Cow's milk protein allergy masked by suspected necrotizing enterocolitis: diagnostic delay and serial eosinophil trends in a neonatal cohort.",
+      "Authors": "Akt\u00fcrk Acar F, Aslan Y, Mutlu M, Kader \u015e, G\u00fcven B.",
+      "Journal": "J Matern Fetal Neonatal Med. 2026 Dec;39(1):2709750. doi: 10.1080/14767058.2026.2709750. Epub 2026 Aug 2.",
+      "PMID": "42543220"
+    },
+    {
+      "Title": "Effective Multi-agent Therapy With Anakinra, Corticosteroids and Mycophenolate in Immunotherapy-Associated Haemophagocytic Lymphohistiocytosis (HLH).",
+      "Authors": "Tanmoy AD, Eaw FJ, Mykura C, Pradeep DS, Gold S.",
+      "Journal": "Cureus. 2026 Jul 1;18(7):e111913. doi: 10.7759/cureus.111913. eCollection 2026 Jul.",
+      "PMID": "42541214"
+    },
+    {
+      "Title": "CXCL10 rs8878 identifies a genotype-associated immune phenotype linked to T-lymphocyte preservation and survival in sepsis.",
+      "Authors": "Dyck B, Witowski A, Bracht T, Bayer M, Thon P, Ziehe D, Rahmel T, Unterberg M, Westhus B, Palmowski L, Nowak H, Ehrentraut SF, Orlowski J, von Busch A, Zarbock A, Babel N, Anft M, Henzler D, Adamzik M, Bergmann L, Sitek B, Koos B, Rump K.",
+      "Journal": "Front Immunol. 2026 Jul 17;17:1887361. doi: 10.3389/fimmu.2026.1887361. eCollection 2026.",
+      "PMID": "42540005"
+    },
+    {
+      "Title": "Gastrointestinal axis in post-traumatic sepsis: from molecular mechanisms to translational perspectives.",
+      "Authors": "Liu XY, Liu T, Chai JK, Wu YS, Liu HS, Qu YR, Zhou H, Xu CF, Chi YF.",
+      "Journal": "Front Immunol. 2026 Jul 17;17:1855955. doi: 10.3389/fimmu.2026.1855955. eCollection 2026.",
+      "PMID": "42539437"
+    }
+  ]
+}

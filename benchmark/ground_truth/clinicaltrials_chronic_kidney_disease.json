@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_chronic_kidney_disease",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT07309861",
+      "Title": "Effect Of Education On Adherence, Self Care And Well-Being Of Patients With Chronic Kidney Disease",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05223712",
+      "Title": "Artificial Intelligence System for the Detection and Prediction of Kidney Diseases Using Ocular Information",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT07575347",
+      "Title": "Periodontal Disease in Rare Renal Disorders (PERIO-RA-RE)",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT01054066",
+      "Title": "Managing Chronic Kidney Disease in Eastern North Carolina",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05275595",
+      "Title": "COVID-19 Among Children With Chronic Renal Diseases in Qatar",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03626246",
+      "Title": "Pathogenesis of Compromised Bone Quality and Mechanics in Chronic Kidney Disease",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06416761",
+      "Title": "Genetics in the Progression of Nephropathies",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT02721342",
+      "Title": "Remission Clinic in Proteinuric Chronic Nephropathies",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT01098799",
+      "Title": "Urotensin II in Chronic Kidney Diseases and Kidney Transplants",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06316284",
+      "Title": "miRNA in Chronic Kidney Diseases",
+      "Status": "NOT_YET_RECRUITING"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_lysozyme",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P61626",
+      "EntryName": "LYSC_HUMAN",
+      "GeneName": "LYZ"
+    },
+    {
+      "Accession": "Q9D925",
+      "EntryName": "LYZL4_MOUSE",
+      "GeneName": "Lyzl4"
+    },
+    {
+      "Accession": "P00698",
+      "EntryName": "LYSC_CHICK",
+      "GeneName": "LYZ"
+    },
+    {
+      "Accession": "P13656",
+      "EntryName": "CHIA_ECOLI",
+      "GeneName": "chiA"
+    },
+    {
+      "Accession": "P86383",
+      "EntryName": "LYS_MERLU",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P83673",
+      "EntryName": "LYS1_CRAVI",
+      "GeneName": "lysoz1"
+    },
+    {
+      "Accession": "O75951",
+      "EntryName": "LYZL6_HUMAN",
+      "GeneName": "LYZL6"
+    },
+    {
+      "Accession": "B3A003",
+      "EntryName": "LYS3_CRAVI",
+      "GeneName": "lysoz3"
+    },
+    {
+      "Accession": "Q1XG90",
+      "EntryName": "LYS2_CRAVI",
+      "GeneName": "lysoz2"
+    },
+    {
+      "Accession": "Q8T1G4",
+      "EntryName": "LYSA_DICDI",
+      "GeneName": "alyA"
+    },
+    {
+      "Accession": "D4ABW7",
+      "EntryName": "LYZL4_RAT",
+      "GeneName": "Lyzl4"
+    },
+    {
+      "Accession": "P08905",
+      "EntryName": "LYZ2_MOUSE",
+      "GeneName": "Lyz2"
+    },
+    {
+      "Accession": "P17897",
+      "EntryName": "LYZ1_MOUSE",
+      "GeneName": "Lyz1"
+    },
+    {
+      "Accession": "Q9DA11",
+      "EntryName": "LYZL6_MOUSE",
+      "GeneName": "Lyzl6"
+    },
+    {
+      "Accession": "P23472",
+      "EntryName": "CHLY_HEVBR",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P11941",
+      "EntryName": "LYSC2_ONCMY",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P00697",
+      "EntryName": "LYSC1_RAT",
+      "GeneName": "Lyz1"
+    },
+    {
+      "Accession": "P0AD59",
+      "EntryName": "IVY_ECOLI",
+      "GeneName": "ivy"
+    },
+    {
+      "Accession": "P00720",
+      "EntryName": "ENLYS_BPT4",
+      "GeneName": "E"
+    },
+    {
+      "Accession": "O62415",
+      "EntryName": "LYS1_CAEEL",
+      "GeneName": "lys-1"
+    },
+    {
+      "Accession": "P04421",
+      "EntryName": "LYSC_BOVIN",
+      "GeneName": "LYZ1"
+    },
+    {
+      "Accession": "P00701",
+      "EntryName": "LYSC_COTJA",
+      "GeneName": "LYZ"
+    },
+    {
+      "Accession": "P00709",
+      "EntryName": "LALBA_HUMAN",
+      "GeneName": "LALBA"
+    },
+    {
+      "Accession": "P00703",
+      "EntryName": "LYSC_MELGA",
+      "GeneName": "LYZ"
+    },
+    {
+      "Accession": "P03706",
+      "EntryName": "ENLYS_LAMBD",
+      "GeneName": "R"
+    }
+  ]
+}

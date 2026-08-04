@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_prostate_cancer",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT05428319",
+      "Title": "Expression of STEAP-1 and p40 in Prostatic Carcinoma and Its Mimickers",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT02235142",
+      "Title": "Prostatic Cancer Versus Androgen Deficiency",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02430649",
+      "Title": "Irreversible Electroporation(IRE) For Unresectable Prostatic Neoplasms",
+      "Status": "WITHDRAWN"
+    },
+    {
+      "NCT_ID": "NCT03841760",
+      "Title": "SUV on PSMA PET/CT in Non-Prostate Tumors",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT02964351",
+      "Title": "microRNA Profiles Identification in Adeno Carcinoma Prostate Cancer",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT03088202",
+      "Title": "PALLiON - PALLiative Care In ONcology",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT00152789",
+      "Title": "Normal Prostate: Oxygenation of the Prostate Gland in Men Undergoing Prostate Biopsy",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02177526",
+      "Title": "Imaging of High Grade Prostate Cancer",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT01727284",
+      "Title": "MR-Guided Cryoablation of Prostate Bed Recurrences",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT01743638",
+      "Title": "MR-Guided Laser Ablation of Prostate Bed Recurrences",
+      "Status": "WITHDRAWN"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_braf",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "BRAF",
+      "GeneID": "ID: 673",
+      "Description": "B-Raf proto-oncogene, serine/threonine kinase"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor"
+    },
+    {
+      "Symbol": "ERBB2",
+      "GeneID": "ID: 2064",
+      "Description": "erb-b2 receptor tyrosine kinase 2"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53"
+    },
+    {
+      "Symbol": "AKAP9",
+      "GeneID": "ID: 10142",
+      "Description": "A-kinase anchoring protein 9"
+    },
+    {
+      "Symbol": "MTOR",
+      "GeneID": "ID: 2475",
+      "Description": "mechanistic target of rapamycin kinase"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule"
+    },
+    {
+      "Symbol": "PTEN",
+      "GeneID": "ID: 5728",
+      "Description": "phosphatase and tensin homolog"
+    },
+    {
+      "Symbol": "CTNNB1",
+      "GeneID": "ID: 1499",
+      "Description": "catenin beta 1"
+    },
+    {
+      "Symbol": "AKT1",
+      "GeneID": "ID: 207",
+      "Description": "AKT serine/threonine kinase 1"
+    },
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6"
+    },
+    {
+      "Symbol": "BANCR",
+      "GeneID": "ID: 100885775",
+      "Description": "BRAF-activated non-protein coding RNA"
+    },
+    {
+      "Symbol": "TERT",
+      "GeneID": "ID: 7015",
+      "Description": "telomerase reverse transcriptase"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A"
+    },
+    {
+      "Symbol": "CDKN2A",
+      "GeneID": "ID: 1029",
+      "Description": "cyclin dependent kinase inhibitor 2A"
+    },
+    {
+      "Symbol": "PTGS2",
+      "GeneID": "ID: 5743",
+      "Description": "prostaglandin-endoperoxide synthase 2"
+    },
+    {
+      "Symbol": "PIK3CA",
+      "GeneID": "ID: 5290",
+      "Description": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+    },
+    {
+      "Symbol": "MLH1",
+      "GeneID": "ID: 4292",
+      "Description": "mutL homolog 1"
+    },
+    {
+      "Symbol": "HRAS",
+      "GeneID": "ID: 3265",
+      "Description": "HRas proto-oncogene, GTPase"
+    },
+    {
+      "Symbol": "STAT3",
+      "GeneID": "ID: 6774",
+      "Description": "signal transducer and activator of transcription 3"
+    }
+  ]
+}

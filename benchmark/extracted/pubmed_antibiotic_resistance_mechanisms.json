@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_antibiotic_resistance_mechanisms",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=antibiotic+resistance+mechanisms&sort=date",
+  "elapsed_seconds": 5.114654833999992,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Metabolism as a driver of antibiotic resistance.",
+      "Authors": "Aksoy CS.",
+      "Journal": "Microbiology (Reading). 2026 Aug;172(8). doi: 10.1099/mic.0.001741.",
+      "PMID": "42550586"
+    },
+    {
+      "Title": "Biofilms on microplastics across ecological systems: Formation mechanisms, community composition, environmental impacts, and ecotoxicity.",
+      "Authors": "\u00d6zt\u00fcrk FY, \u00d6zdemir F.",
+      "Journal": "World J Microbiol Biotechnol. 2026 Aug 4;42(8):447. doi: 10.1007/s11274-026-05174-8.",
+      "PMID": "42550299"
+    },
+    {
+      "Title": "Data-driven optimization of siderophore fermentation by Bacillus altitudinis AS19 and investigation of AS19's antifungal properties against Candida albicans.",
+      "Authors": "Li C, Gao Z, Ke H, Jia H, Xiang H, Cui X, Li T, Zhang Y, Ding W, Liu H.",
+      "Journal": "Appl Environ Microbiol. 2026 Aug 4:e0081526. doi: 10.1128/aem.00815-26. Online ahead of print.",
+      "PMID": "42549944"
+    },
+    {
+      "Title": "Active Free Radical Cold Atmosphere Plasma Promotes Healing of Diabetes Foot Ulcer: Mechanism and Challenge.",
+      "Authors": "Wang Y, Zhang J, Yan J, Bi W, Ma J.",
+      "Journal": "Diabetes Metab Res Rev. 2026 Sep;42(6):e70216. doi: 10.1002/dmrr.70216.",
+      "PMID": "42549665"
+    },
+    {
+      "Title": "In vitro exposure to the agricultural triazole tebuconazole selects for fluconazole cross-resistance and echinocandin tolerance in Candidozyma auris.",
+      "Authors": "Peng L, Xu Y, Chen X, Li W, Guo L.",
+      "Journal": "Front Cell Infect Microbiol. 2026 Jul 20;16:1860421. doi: 10.3389/fcimb.2026.1860421. eCollection 2026.",
+      "PMID": "42548818"
+    },
+    {
+      "Title": "Fangchinoline drives NOS2-dependent host immunity to restrict intracellular enteric pathogens.",
+      "Authors": "Sadhu S, Dalal R, Gupta SK, Kumar Y, Rathore DK, Awasthi A.",
+      "Journal": "iScience. 2026 Jul 27;29(8):116940. doi: 10.1016/j.isci.2026.116940. eCollection 2026 Aug 21.",
+      "PMID": "42548794"
+    },
+    {
+      "Title": "Microbiotherapy: an emerging adjunct for burn wound healing.",
+      "Authors": "Zhang J, Zhang K, Wang Y, Fan G, Lv Y, Ma J.",
+      "Journal": "Front Cell Infect Microbiol. 2026 Jul 20;16:1873498. doi: 10.3389/fcimb.2026.1873498. eCollection 2026.",
+      "PMID": "42548519"
+    },
+    {
+      "Title": "Targeting Ferroptosis and Cuproptosis for Antimicrobial Control in Postharvest Preservation.",
+      "Authors": "Feng Y, Sun J, Qian RQ, Zheng X, Zhou WW.",
+      "Journal": "Compr Rev Food Sci Food Saf. 2026 Sep;25(5):e70593. doi: 10.1111/1541-4337.70593.",
+      "PMID": "42548246"
+    },
+    {
+      "Title": "Duloxetine repositioning: Investigation of antifungal and antibiofilm activity against fluconazole-sensitive and resistant Candida Spp. strains.",
+      "Authors": "Barbosa SA, Pinheiro DRS, de Oliveira LC, de Almeida Moreira LE, Cabral VPF, Rodrigues DS, de Souza BO, Nobre J\u00fanior HV, Sa LGDAV, Cavalcanti BC, Magalh\u00e3es IL, de Oliveira Ferreira JR, de Moraes MO, de Andrade Neto JB, da Silva CR.",
+      "Journal": "Braz J Microbiol. 2026 Aug 3;57(1):226. doi: 10.1007/s42770-026-02038-z.",
+      "PMID": "42547693"
+    },
+    {
+      "Title": "Identification of KL29 type acinetobacter baumannii phage of obolenskvirus subfamily and tail-associated depolymerase activity.",
+      "Authors": "Wei J, Yu T, Wang Q, Wang C, Li X, Lu G, Li L, Xu A, Zhao L.",
+      "Journal": "Arch Virol. 2026 Aug 3;171(8):243. doi: 10.1007/s00705-026-06664-8.",
+      "PMID": "42547657"
+    }
+  ]
+}

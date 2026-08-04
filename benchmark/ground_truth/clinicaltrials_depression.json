@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_depression",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT01200901",
+      "Title": "Quetiapine in Melancholic Depression",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT07081451",
+      "Title": "The Effect of Guided \u0131magery Supported Psychoeducation Applied to \u0131ndividuals Diagnosed With Depression on Depression, Self-esteem and Stress Level",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT00191685",
+      "Title": "Duloxetine in the Treatment of Melancholic Depression",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT00168493",
+      "Title": "The Neurobiology of Depressive Illness",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT02989727",
+      "Title": "Melancholic Symptoms in Bipolar Depression and Responsiveness to Lamotrigine",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04489485",
+      "Title": "Online System for Identifying and Addressing Teen Depression in Primary Care",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT03796325",
+      "Title": "Depressive State After Sleeve Gastrectomy",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01671150",
+      "Title": "Inflammation-Induced Depressed Mood: The Role of Social Neurocognitive Mechanisms",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01694030",
+      "Title": "Effects of Repeated Attachment Security Priming on Depressed Mood: a Clinical Study",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT05306093",
+      "Title": "Depressed Mood and Anhedonia in Healthy Adults",
+      "Status": "COMPLETED"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_il6",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=IL6+AND+human%5Borgn%5D",
+  "elapsed_seconds": 7.3182691670000395,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CEBPB",
+      "GeneID": "ID: 1051",
+      "Description": "CCAAT enhancer binding protein beta [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CRP",
+      "GeneID": "ID: 1401",
+      "Description": "C-reactive protein [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CEBPD",
+      "GeneID": "ID: 1052",
+      "Description": "CCAAT enhancer binding protein delta [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "STAT3",
+      "GeneID": "ID: 6774",
+      "Description": "signal transducer and activator of transcription 3 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "IL10",
+      "GeneID": "ID: 3586",
+      "Description": "interleukin 10 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "IL1B",
+      "GeneID": "ID: 3553",
+      "Description": "interleukin 1 beta [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CXCL8",
+      "GeneID": "ID: 3576",
+      "Description": "C-X-C motif chemokine ligand 8 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MTOR",
+      "GeneID": "ID: 2475",
+      "Description": "mechanistic target of rapamycin kinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TGFB1",
+      "GeneID": "ID: 7040",
+      "Description": "transforming growth factor beta 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ESR1",
+      "GeneID": "ID: 2099",
+      "Description": "estrogen receptor 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PTGS2",
+      "GeneID": "ID: 5743",
+      "Description": "prostaglandin-endoperoxide synthase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "HNF1A",
+      "GeneID": "ID: 6927",
+      "Description": "HNF1 homeobox A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "NFKB1",
+      "GeneID": "ID: 4790",
+      "Description": "nuclear factor kappa B subunit 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "HIF1A",
+      "GeneID": "ID: 3091",
+      "Description": "hypoxia inducible factor 1 subunit alpha [Homo sapiens (human)]"
+    }
+  ]
+}

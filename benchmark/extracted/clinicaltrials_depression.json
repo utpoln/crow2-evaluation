@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_depression",
+  "url": "https://clinicaltrials.gov/search?term=depression&viewType=Table",
+  "elapsed_seconds": 4.481724249999985,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Quetiapine in Melancholic Depression",
+      "NCT_ID": "NCT01200901",
+      "Status": "Completed"
+    },
+    {
+      "Title": "The Effect of Guided \u0131magery Supported Psychoeducation Applied to \u0131ndividuals Diagnosed With Depression on Depression, Self-esteem and Stress Level",
+      "NCT_ID": "NCT07081451",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Duloxetine in the Treatment of Melancholic Depression",
+      "NCT_ID": "NCT00191685",
+      "Status": "Completed"
+    },
+    {
+      "Title": "The Neurobiology of Depressive Illness",
+      "NCT_ID": "NCT00168493",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Melancholic Symptoms in Bipolar Depression and Responsiveness to Lamotrigine",
+      "NCT_ID": "NCT02989727",
+      "Status": "Completed\u00a0 View Results"
+    },
+    {
+      "Title": "Online System for Identifying and Addressing Teen Depression in Primary Care",
+      "NCT_ID": "NCT04489485",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Depressive State After Sleeve Gastrectomy",
+      "NCT_ID": "NCT03796325",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Inflammation-Induced Depressed Mood: The Role of Social Neurocognitive Mechanisms",
+      "NCT_ID": "NCT01671150",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Effects of Repeated Attachment Security Priming on Depressed Mood: a Clinical Study",
+      "NCT_ID": "NCT01694030",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Depressed Mood and Anhedonia in Healthy Adults",
+      "NCT_ID": "NCT05306093",
+      "Status": "Completed"
+    }
+  ]
+}

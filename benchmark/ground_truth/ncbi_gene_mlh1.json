@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_mlh1",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "MLH1",
+      "GeneID": "ID: 4292",
+      "Description": "mutL homolog 1"
+    },
+    {
+      "Symbol": "BRAF",
+      "GeneID": "ID: 673",
+      "Description": "B-Raf proto-oncogene, serine/threonine kinase"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule"
+    },
+    {
+      "Symbol": "BRCA1",
+      "GeneID": "ID: 672",
+      "Description": "BRCA1 DNA repair associated"
+    },
+    {
+      "Symbol": "CASP3",
+      "GeneID": "ID: 836",
+      "Description": "caspase 3"
+    },
+    {
+      "Symbol": "MSH2",
+      "GeneID": "ID: 4436",
+      "Description": "mutS homolog 2"
+    },
+    {
+      "Symbol": "PTEN",
+      "GeneID": "ID: 5728",
+      "Description": "phosphatase and tensin homolog"
+    },
+    {
+      "Symbol": "ESR1",
+      "GeneID": "ID: 2099",
+      "Description": "estrogen receptor 1"
+    },
+    {
+      "Symbol": "CDKN2A",
+      "GeneID": "ID: 1029",
+      "Description": "cyclin dependent kinase inhibitor 2A"
+    },
+    {
+      "Symbol": "MYC",
+      "GeneID": "ID: 4609",
+      "Description": "MYC proto-oncogene, bHLH transcription factor"
+    },
+    {
+      "Symbol": "BRCA2",
+      "GeneID": "ID: 675",
+      "Description": "BRCA2 DNA repair associated"
+    },
+    {
+      "Symbol": "AKT1",
+      "GeneID": "ID: 207",
+      "Description": "AKT serine/threonine kinase 1"
+    },
+    {
+      "Symbol": "MGMT",
+      "GeneID": "ID: 4255",
+      "Description": "O-6-methylguanine-DNA methyltransferase"
+    },
+    {
+      "Symbol": "KRAS",
+      "GeneID": "ID: 3845",
+      "Description": "KRas proto-oncogene, GTPase"
+    },
+    {
+      "Symbol": "ATM",
+      "GeneID": "ID: 472",
+      "Description": "ATM serine/threonine kinase"
+    },
+    {
+      "Symbol": "PIK3CA",
+      "GeneID": "ID: 5290",
+      "Description": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+    },
+    {
+      "Symbol": "SIRT1",
+      "GeneID": "ID: 23411",
+      "Description": "sirtuin 1"
+    },
+    {
+      "Symbol": "PMS2",
+      "GeneID": "ID: 5395",
+      "Description": "PMS1 homolog 2, mismatch repair system component"
+    },
+    {
+      "Symbol": "H2AX",
+      "GeneID": "ID: 3014",
+      "Description": "H2A.X variant histone"
+    }
+  ]
+}

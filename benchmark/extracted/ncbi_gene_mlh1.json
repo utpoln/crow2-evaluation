@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_mlh1",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=MLH1+AND+human%5Borgn%5D",
+  "elapsed_seconds": 10.549387249999995,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "MLH1",
+      "GeneID": "ID: 4292",
+      "Description": "mutL homolog 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRAF",
+      "GeneID": "ID: 673",
+      "Description": "B-Raf proto-oncogene, serine/threonine kinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRCA1",
+      "GeneID": "ID: 672",
+      "Description": "BRCA1 DNA repair associated [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CASP3",
+      "GeneID": "ID: 836",
+      "Description": "caspase 3 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PTEN",
+      "GeneID": "ID: 5728",
+      "Description": "phosphatase and tensin homolog [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MSH2",
+      "GeneID": "ID: 4436",
+      "Description": "mutS homolog 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ESR1",
+      "GeneID": "ID: 2099",
+      "Description": "estrogen receptor 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CDKN2A",
+      "GeneID": "ID: 1029",
+      "Description": "cyclin dependent kinase inhibitor 2A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MYC",
+      "GeneID": "ID: 4609",
+      "Description": "MYC proto-oncogene, bHLH transcription factor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRCA2",
+      "GeneID": "ID: 675",
+      "Description": "BRCA2 DNA repair associated [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "AKT1",
+      "GeneID": "ID: 207",
+      "Description": "AKT serine/threonine kinase 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MGMT",
+      "GeneID": "ID: 4255",
+      "Description": "O-6-methylguanine-DNA methyltransferase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "KRAS",
+      "GeneID": "ID: 3845",
+      "Description": "KRas proto-oncogene, GTPase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ATM",
+      "GeneID": "ID: 472",
+      "Description": "ATM serine/threonine kinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PIK3CA",
+      "GeneID": "ID: 5290",
+      "Description": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "SIRT1",
+      "GeneID": "ID: 23411",
+      "Description": "sirtuin 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PMS2",
+      "GeneID": "ID: 5395",
+      "Description": "PMS1 homolog 2, mismatch repair system component [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "H2AX",
+      "GeneID": "ID: 3014",
+      "Description": "H2A.X variant histone [Homo sapiens (human)]"
+    }
+  ]
+}

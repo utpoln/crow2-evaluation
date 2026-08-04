@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_stroke_thrombolysis",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42549211",
+      "Title": "Treatment of a Symptomatic Carotid Web: A Case Report and Review of the Literature",
+      "Authors": "Shehata M, Tee S, Elsharkawy A",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42548762",
+      "Title": "Association between plasma ADAMTS13 levels/activity and the risk of ischemic stroke and outcomes of recanalization therapies: a systematic review and meta-analysis",
+      "Authors": "Li Y, Ding R, Gao P, Liu Z, Pei X, Piao L",
+      "Journal": "Frontiers in neurology"
+    },
+    {
+      "PMID": "42548511",
+      "Title": "Microcirculatory failure after successful recanalization in ischemic stroke: insights into mechanisms, imaging, and therapeutic strategies",
+      "Authors": "Wu G, Lin L, Hong W, Kang Z, Wang X, Wang F, Wang E",
+      "Journal": "Frontiers in pharmacology"
+    },
+    {
+      "PMID": "42547965",
+      "Title": "Access and timeliness of acute stroke reperfusion after cluster-wide protocol standardisation: an interrupted time-series study in Hong Kong",
+      "Authors": "Koo HL, Sheng B, Engineer LD",
+      "Journal": "International journal for quality in health care : journal of the International Society for Quality in Health Care"
+    },
+    {
+      "PMID": "42545430",
+      "Title": "Thrombolytic resistance: an important factor leading to the failure of intravenous thrombolytic therapy",
+      "Authors": "Liu J, Gao X, Sun Y, Shang Y, Guo J, Cheng J, Bi X, Zhang X",
+      "Journal": "Journal of neurology"
+    },
+    {
+      "PMID": "42544504",
+      "Title": "Standard Antiplatelet Therapy Versus Thrombolysis in Acute Spontaneous Spinal Cord Infarction: A Propensity Score-Matched Analysis",
+      "Authors": "AbuAlrob MA, Al-Salahat A, Zammar K, Al-Jerdi S",
+      "Journal": "Stroke"
+    },
+    {
+      "PMID": "42544312",
+      "Title": "Comparison of Functional Recovery and In-Hospital Outcomes Between Thrombolysed and Non-thrombolysed Patients With Acute Ischemic Stroke: A Retrospective Comparative Cohort Study",
+      "Authors": "Ahmad MA, Haddad N, Israr MU, Aamir A, Baig AK, Ikram I, Saleem A",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42543956",
+      "Title": "A Study on Prehospital Factors Determining the Timely Arrival for Thrombolysis among Patients Presenting with Acute Ischemic Stroke at a Tertiary Care Center in South India",
+      "Authors": "P S NS, Vadanere NP, Mugundhan K, Velayudham S, Jeyaraj M, Sowmini PR",
+      "Journal": "The Journal of the Association of Physicians of India"
+    },
+    {
+      "PMID": "42542614",
+      "Title": "Delayed M1 Dissection After Thrombectomy Treated With Rescue Stenting and Tirofiban: A Case Report",
+      "Authors": "Vargas OF, Salcedo-Mesa J, Valera P, Ortiz Layton LC",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42539831",
+      "Title": "Cerebral small vessel disease impairs dynamic cerebral autoregulation and mediates outcomes after stroke thrombectomy",
+      "Authors": "Qiao Y, Liu R, Cai L, Zhao M, Yuan B, Fan S, Wang S, Li J, Wu L, Xing Y, Ma Q, Zhao W",
+      "Journal": "Therapeutic advances in neurological disorders"
+    }
+  ]
+}

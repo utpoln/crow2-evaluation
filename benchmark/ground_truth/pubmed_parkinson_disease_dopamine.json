@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_parkinson_disease_dopamine",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550256",
+      "Title": "Add-on safinamide and amantadine in Filipino Parkinson's disease patients with motor fluctuations: a retrospective exploratory cohort study",
+      "Authors": "Sermense YNA, Rosales RL, Tanglao MJ",
+      "Journal": "Journal of neural transmission (Vienna, Austria : 1996)"
+    },
+    {
+      "PMID": "42550250",
+      "Title": "Psychological and neurological benefits of physical activity: impact on mental health, Parkinson's disease, and Alzheimer's disease",
+      "Authors": "Li G, Li Y",
+      "Journal": "Brain structure & function"
+    },
+    {
+      "PMID": "42547496",
+      "Title": "Peptide-targeted cubosome and hexosome nanoassemblies mitigate mitochondrial dysfunction in a MitoPark model",
+      "Authors": "Akanchise T, Luo F, Angelov B, Deng Y, Fujino T, Angelova A",
+      "Journal": "Signal transduction and targeted therapy"
+    },
+    {
+      "PMID": "42543311",
+      "Title": "[Mechanism of Tianma Gouteng Yin in treating early-stage Parkinson's disease based on 16S rRNA sequencing and metabolomics]",
+      "Authors": "Lin YS, Ma RZ, Jiang TY, Zhu HM, Ni H, Wang Y, Zhang G, Li JY, Shi JL",
+      "Journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    },
+    {
+      "PMID": "42542273",
+      "Title": "Falls induced by optogenetic inhibition of basal forebrain cholinergic neurons after dorsomedial striatal dopamine depletion in a dual disruption model of falling vulnerability in Parkinson's disease",
+      "Authors": "Kucinski A",
+      "Journal": "Behavioural brain research"
+    },
+    {
+      "PMID": "42541661",
+      "Title": "Thioredoxin-1 in the SNpc Regulates Subventricular Zone Neural Proliferation and Olfactory Bulb Neural Differentiation in MPTP-Induced Olfactory Dysfunction",
+      "Authors": "Zhang X, Li Y, He X, Yang A, Chen Y, Yan F, Bai L, Bai J",
+      "Journal": "Neurochemical research"
+    },
+    {
+      "PMID": "42541557",
+      "Title": "What's in a name? reframing advanced Parkinson's disease as a multidimensional state",
+      "Authors": "Phokaewvarangkul O, Jost WH, Bhidayasiri R",
+      "Journal": "Journal of neural transmission (Vienna, Austria : 1996)"
+    },
+    {
+      "PMID": "42539129",
+      "Title": "Serum UCHL-1, GFAP, and NfL track tyrosine hydroxylase loss in substantia nigra in two Rat Models of Parkinson's Disease",
+      "Authors": "Soto I, McManus R, Navarrete W, Mhatre-Winters I, Rogers EV, Vancil J, Doshier K, Richardson JR, Nejtek VA, Salvatore MF",
+      "Journal": "bioRxiv : the preprint server for biology"
+    },
+    {
+      "PMID": "42537639",
+      "Title": "Single-neuron resolution mapping of dopaminergic connectivity across development, adulthood, and degeneration",
+      "Authors": "Grossouw LM, Heijmink N, Garritsen O, van de Mheen T, Naert W, D'Angelo R, Rybiczka-Te\u0161ulov M, Adolfs Y, van Kronenburg NCH, Broekhoven MH, Smith GP, Meye FJ, van Battum EY, Pasterkamp RJ",
+      "Journal": "Neuron"
+    },
+    {
+      "PMID": "42533668",
+      "Title": "Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease",
+      "Authors": "Habets JGV, Merk T, Mathiopoulou V, Kaplan J, Lofredi R, Busch JL, Binns TS, K\u00f6hler RM, Memarpouri A, Al-Fatly B, Faust K, Krause P, Schneider GH, Neumann WJ, Tovote P, K\u00fchn AA",
+      "Journal": "Brain : a journal of neurology"
+    }
+  ]
+}

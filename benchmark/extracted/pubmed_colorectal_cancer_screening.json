@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_colorectal_cancer_screening",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=colorectal+cancer+screening&sort=date",
+  "elapsed_seconds": 5.132780167000007,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Routes to colorectal cancer in Lynch syndrome: a decade of molecular and clinical insights converging on Schrodinger's cat.",
+      "Authors": "Ahadova A, Fayyaz F, Marin Grez L, Bl\u00e4ker H, Kloor M.",
+      "Journal": "Fam Cancer. 2026 Aug 4;25(3):81. doi: 10.1007/s10689-026-00593-w.",
+      "PMID": "42550307"
+    },
+    {
+      "Title": "Incidental Rectal Neuroendocrine Tumor Detected During Screening Colonoscopy Managed With Transanal Minimally Invasive Surgery (TAMIS): A Case Report.",
+      "Authors": "Rodriguez Ortega R, Flores Olmos NL, De la Garza Torres R.",
+      "Journal": "Cureus. 2026 Jul 20;18(7):e113013. doi: 10.7759/cureus.113013. eCollection 2026 Jul.",
+      "PMID": "42549444"
+    },
+    {
+      "Title": "From Personal Trouble to Public Issue: Early-Onset Colorectal Cancer Among Young Latino Men.",
+      "Authors": "Aguilar Avila HA, Aguilar JU, Martinez Espino CV.",
+      "Journal": "Cureus. 2026 Jul 3;18(7):e112022. doi: 10.7759/cureus.112022. eCollection 2026 Jul.",
+      "PMID": "42548812"
+    },
+    {
+      "Title": "Dual-generative synthesis framework: enhancing polyp segmentation in colonoscopy via mask-conditional GANs.",
+      "Authors": "Safran M, Hamim SA, Mridha MF, Che D, Alfarhood S.",
+      "Journal": "Front Oncol. 2026 Jul 20;16:1887904. doi: 10.3389/fonc.2026.1887904. eCollection 2026.",
+      "PMID": "42548732"
+    },
+    {
+      "Title": "Concordance of a Web-based Lung Cancer Risk Self-Assessment Tool With Nursing Risk Assessment.",
+      "Authors": "Iloghalu I, Graff K, Warkentin M, Yang H, Tremblay A.",
+      "Journal": "CHEST Pulm. 2025 Jul 22;3(4):100197. doi: 10.1016/j.chpulm.2025.100197. eCollection 2025 Dec.",
+      "PMID": "42548486"
+    },
+    {
+      "Title": "\u00c9valuation qualitative d\u2019une strat\u00e9gie d\u2019\u00e9ducation des patients \u00e0 risque tr\u00e8s \u00e9lev\u00e9 de cancer colorectal au d\u00e9pistage de leurs apparent\u00e9s.",
+      "Authors": "Balzano V, Bonnin A, Breton H, Doublet MH, Haguenoer K, Pesce S, Manjubarkavi S, Rusch E, Lecomte T.",
+      "Journal": "Sante Publique. 2026;38(1):47-70. doi: 10.3917/spub.261.0047.",
+      "PMID": "42547404"
+    },
+    {
+      "Title": "DDIT3 inhibition by salvianolic acid B mitigates Fusobacterium nucleatum-mediated chemoresistance to 5-fluorouracil in colorectal cancer.",
+      "Authors": "Zhang L, Wen W, Lu X.",
+      "Journal": "Pathol Res Pract. 2026 Jul 31;286:156639. doi: 10.1016/j.prp.2026.156639. Online ahead of print.",
+      "PMID": "42546401"
+    },
+    {
+      "Title": "Classic Hodgkin Lymphoma: A Review.",
+      "Authors": "Patel KK, Moskowitz AJ.",
+      "Journal": "JAMA. 2026 Aug 3. doi: 10.1001/jama.2026.13402. Online ahead of print.",
+      "PMID": "42545803"
+    },
+    {
+      "Title": "Colorectal Cancer Risk Factors in Adults in Nigeria.",
+      "Authors": "Alatise OI, Peeri NC, Abdulkareem FB, Badejo OA, Gali BM, Oludara M, Okereke CE, Olatoke SA, Ademakinwa OR, Alabi A, Aderounmu A, Adeomi A, Mohammed T, Adegboyega O, Adisa A, Ajewole O, Famurewa OC, Agodirin SO, Ariyibi O, Nggada HA, Babatunde OJ, Badmos K, Balogun OS, Bamidele CO, Batta CS, Betiku OA, Bojuwoye MO, Choonawala NR, Cookey C, Daji FY, Egberongbe A, Esan O, Folaranmi OO, Fasiku OK, Fatusi A, Fodero R, Francis AO, Gallagher G, Habeeb MYM, Shittu HA, Iasonos A, Ige OE, Ikujenlola AV, Igetei R, Jackman JM, Kahn R, Katung A, Koiki MA, Komolafe AO, Lawrence AP, Lawal A, Lawal NOO, Makanjuola A, Mobolaji J, Omodele F, Na'aya HU, Nganjiwa US, Njokanma I, Nuhu A, Nwachukwu E, O'Connell K, Odunafolabi T, Ogunleye SO, Olaofe OO, Olcese C, Ologunagba PO, Olokoba A, Olasehinde O, Olajide TO, Osinowo AO, Omoyiola OZ, Omisore AD, Onyekwere C, Owoade IA, Oyesegun R, Samson ML, Sanni A, Sharma A, Sowunmi A, Sulaiman AT, Adebukola OT, Wuraola F, Adeleye AO, Adewunmi OL, Zarami AB, Kingham TP, Du M.",
+      "Journal": "JAMA Netw Open. 2026 Aug 3;9(8):e2626716. doi: 10.1001/jamanetworkopen.2026.26716.",
+      "PMID": "42545699"
+    },
+    {
+      "Title": "AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review.",
+      "Authors": "Calderwood AH, Yoshida CM, Das KK, Falk GW.",
+      "Journal": "Clin Gastroenterol Hepatol. 2026 Aug 3:S1542-3565(26)00441-6. doi: 10.1016/j.cgh.2026.06.007. Online ahead of print.",
+      "PMID": "42545305"
+    }
+  ]
+}

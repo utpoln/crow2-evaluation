@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_crispr_gene_editing",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=CRISPR+gene+editing&sort=date",
+  "elapsed_seconds": 5.128689416,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "[Current and future therapies for bradykinin-mediated angioedema].",
+      "Authors": "Fasshauer M, Dominas N.",
+      "Journal": "Dermatologie (Heidelb). 2026 Aug 4. doi: 10.1007/s00105-026-05754-7. Online ahead of print.",
+      "PMID": "42550203"
+    },
+    {
+      "Title": "CRISPR/Cas9-edited organoids as a platform for tailored research of colorectal cancer.",
+      "Authors": "Mojzesova N, Hladikova P, Kozovska Z, Poturnajova M, Tyciakova S, Matuskova M.",
+      "Journal": "Neoplasma. 2026 Aug 4:260529N175. doi: 10.4149/neo_2026_260529N175. Online ahead of print.",
+      "PMID": "42549590"
+    },
+    {
+      "Title": "BASELINE: a CRISPR base editing platform for mammalian-scale single-cell lineage tracing.",
+      "Authors": "Winter E, Emiliani F, Cook A, Abderrahim A, McKenna A.",
+      "Journal": "Nucleic Acids Res. 2026 Jul 17;54(14):gkag769. doi: 10.1093/nar/gkag769.",
+      "PMID": "42549577"
+    },
+    {
+      "Title": "Cas-regulation-targeting chimera enables selective and tunable control of CRISPR/Cas12a.",
+      "Authors": "Li Y, Han P, Yuan R, Bai L, Qing M.",
+      "Journal": "Nucleic Acids Res. 2026 Jul 17;54(14):gkag765. doi: 10.1093/nar/gkag765.",
+      "PMID": "42549575"
+    },
+    {
+      "Title": "The PtARF6/PtARF8-PtGH3.1 transcriptional module regulates auxin homeostasis and dwarfism in citrus.",
+      "Authors": "Chen S, Fan Z, Peng J, Zheng H, Xu Q, Xiao S, Pan Z.",
+      "Journal": "Plant Physiol. 2026 Aug 4:kiag561. doi: 10.1093/plphys/kiag561. Online ahead of print.",
+      "PMID": "42549491"
+    },
+    {
+      "Title": "A Digital Microfluidic Electroporation Platform for Low-input CRISPR Genome Editing and mRNA Transfection In Suspension T Cells and 3D Cell Models.",
+      "Authors": "Patel MA, Singh M, Sinha H, Vo PQN, Chin AB, Ellouzi A, West M, Hirukawa A.",
+      "Journal": "J Vis Exp. 2026 Jul 17;(233). doi: 10.3791/70573.",
+      "PMID": "42545979"
+    },
+    {
+      "Title": "A Reproducible Electroporation Strategy for CRISPR-Cas9 RNP and mRNA Delivery in Fish Embryos.",
+      "Authors": "Hu Y, Fang F, Cui Z, Chen S.",
+      "Journal": "Mar Biotechnol (NY). 2026 Aug 3;28(4):130. doi: 10.1007/s10126-026-10682-7.",
+      "PMID": "42545527"
+    },
+    {
+      "Title": "Recent advances in biomarkers, artificial intelligence, and targeted therapeutic strategies in breast cancer: Current progress and future perspectives.",
+      "Authors": "Sharma D, Bhardwaj P, Mishra KK, Mishra N, Tiwari A.",
+      "Journal": "Cancer Treat Res Commun. 2026 Jul 31;48:101344. doi: 10.1016/j.ctarc.2026.101344. Online ahead of print.",
+      "PMID": "42542076"
+    },
+    {
+      "Title": "Nonhuman Primate Genomes Have Limited Relevance for Evaluating Human CRISPR Off-Target Effects.",
+      "Authors": "Blaha L, Bosinger M, Bodian DL, Qu V, Warner JB, Borges CM, Mueller C.",
+      "Journal": "Hum Gene Ther. 2026 Aug 1:10430342261466427. doi: 10.1177/10430342261466427. Online ahead of print.",
+      "PMID": "42541388"
+    },
+    {
+      "Title": "Parahenipavirus langyaense (Langya virus): Spillover ecology, noncanonical receptor-mediated entry, and future control strategies.",
+      "Authors": "Shen L, Tong Y, Chai W, Sun J, Zhao J, Yin L, Yang Y, Wang C, Tan W, Zhang J.",
+      "Journal": "One Health. 2026 Jul 16;23:101521. doi: 10.1016/j.onehlt.2026.101521. eCollection 2026 Dec.",
+      "PMID": "42541310"
+    }
+  ]
+}

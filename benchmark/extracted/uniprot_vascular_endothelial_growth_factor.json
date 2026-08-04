@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_vascular_endothelial_growth_factor",
+  "url": "https://www.uniprot.org/uniprotkb?query=vascular+endothelial+growth+factor&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.186670875000004,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "P49767",
+      "EntryName": "VEGFC_HUMAN",
+      "GeneName": "VEGFC"
+    },
+    {
+      "Accession": "P67860",
+      "EntryName": "VEGFA_PROFL",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P15691",
+      "EntryName": "VEGFA_BOVIN",
+      "GeneName": "VEGFA, VEGF"
+    },
+    {
+      "Accession": "O35757",
+      "EntryName": "VEGFC_RAT",
+      "GeneName": "Vegfc"
+    },
+    {
+      "Accession": "P16612",
+      "EntryName": "VEGFA_RAT",
+      "GeneName": "Vegfa, Vegf"
+    },
+    {
+      "Accession": "P97953",
+      "EntryName": "VEGFC_MOUSE",
+      "GeneName": "Vegfc"
+    },
+    {
+      "Accession": "P49151",
+      "EntryName": "VEGFA_PIG",
+      "GeneName": "VEGFA, VEGF"
+    },
+    {
+      "Accession": "Q99PS1",
+      "EntryName": "VEGFA_MESAU",
+      "GeneName": "VEGFA, VEGF"
+    },
+    {
+      "Accession": "P67965",
+      "EntryName": "VEGFA_COTJA",
+      "GeneName": "VEGFA, VEGF"
+    },
+    {
+      "Accession": "C0HM96",
+      "EntryName": "TXVE_CRODU",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q9MYV3",
+      "EntryName": "VEGFA_CANLF",
+      "GeneName": "VEGFA, VEGF"
+    },
+    {
+      "Accession": "O43915",
+      "EntryName": "VEGFD_HUMAN",
+      "GeneName": "VEGFD, FIGF"
+    },
+    {
+      "Accession": "P49765",
+      "EntryName": "VEGFB_HUMAN",
+      "GeneName": "VEGFB, VRF"
+    },
+    {
+      "Accession": "P97946",
+      "EntryName": "VEGFD_MOUSE",
+      "GeneName": "Vegfd, Figf"
+    },
+    {
+      "Accession": "O35251",
+      "EntryName": "VEGFD_RAT",
+      "GeneName": "Vegfd, Figf"
+    },
+    {
+      "Accession": "P0DW98",
+      "EntryName": "TXVE_PROJR",
+      "GeneName": ""
+    },
+    {
+      "Accession": "O35485",
+      "EntryName": "VEGFB_RAT",
+      "GeneName": "Vegfb, Vrf"
+    },
+    {
+      "Accession": "P49766",
+      "EntryName": "VEGFB_MOUSE",
+      "GeneName": "Vegfb, Vrf"
+    },
+    {
+      "Accession": "P15692",
+      "EntryName": "VEGFA_HUMAN",
+      "GeneName": "VEGFA, VEGF"
+    },
+    {
+      "Accession": "O73682",
+      "EntryName": "VGFAA_DANRE",
+      "GeneName": "vegfaa, vegf, vegfa"
+    },
+    {
+      "Accession": "P67863",
+      "EntryName": "TXVE_VIPAA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q00731",
+      "EntryName": "VEGFA_MOUSE",
+      "GeneName": "Vegfa, Vegf"
+    },
+    {
+      "Accession": "P67861",
+      "EntryName": "TXVE_DABRR",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q330K6",
+      "EntryName": "TXVE2_PROMU",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q14A28",
+      "EntryName": "PROK1_MOUSE",
+      "GeneName": "Prok1, Pk1"
+    }
+  ]
+}

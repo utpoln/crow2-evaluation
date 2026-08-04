@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_obesity_glp_1_receptor_agonist",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=obesity+GLP-1+receptor+agonist&sort=date",
+  "elapsed_seconds": 5.086646833000003,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Beyond weight loss: toward an immunometabolic treatment paradigm in psoriatic arthritis.",
+      "Authors": "K\u0131l\u0131\u00e7 G.",
+      "Journal": "Rheumatol Int. 2026 Aug 4;46(8):228. doi: 10.1007/s00296-026-06263-5.",
+      "PMID": "42550253"
+    },
+    {
+      "Title": "Acute Nutritional Axonal Neuropathy in the Setting of Semaglutide-Associated Gastrointestinal Intolerance: A Case Report.",
+      "Authors": "Cohan CJ, Townley L, Ortega E.",
+      "Journal": "Case Rep Neurol. 2026 Jun 16;18(1):402-412. doi: 10.1159/000552961. eCollection 2026 Jan-Dec.",
+      "PMID": "42549476"
+    },
+    {
+      "Title": "Correction: Comparative analysis of glucagon-like peptide-1 receptor agonists, metformin, and inositol in improving anthropometric and metabolic outcomes in women with polycystic ovary syndrome: a network meta-analysis.",
+      "Authors": "Omarion A, Ayasa Y, Omarion Z, Jayouse B, Ayesh H.",
+      "Journal": "Front Endocrinol (Lausanne). 2026 Jul 20;17:1932302. doi: 10.3389/fendo.2026.1932302. eCollection 2026.",
+      "PMID": "42549142"
+    },
+    {
+      "Title": "Current Updates on Pharmacotherapy for Obstructive Sleep Apnea.",
+      "Authors": "Kim SW.",
+      "Journal": "J Rhinol. 2026 Jul;33(2):87-94. doi: 10.18787/jr.2026.00003. Epub 2026 Jul 31.",
+      "PMID": "42548223"
+    },
+    {
+      "Title": "Trends in GLP-1 Receptor Agonist Prescribing Without Documented Indications.",
+      "Authors": "Kim C, Choi K, Krumholz HM, Lu Y.",
+      "Journal": "Diabetes Obes Metab. 2026 Aug 3. doi: 10.1111/dom.71153. Online ahead of print.",
+      "PMID": "42547885"
+    },
+    {
+      "Title": "Peripheral nerve complications from medications utilised for weight loss: a systematic review.",
+      "Authors": "O'Gorman C, O'Gorman M, Warren N.",
+      "Journal": "J Neurol. 2026 Aug 3;273(8):503. doi: 10.1007/s00415-026-14048-w.",
+      "PMID": "42547656"
+    },
+    {
+      "Title": "GLP-1 receptor agonists in hip, knee and shoulder arthroplasty: Implications for obesity, osteoarthritis, metabolic optimisation and complications.",
+      "Authors": "Avram GM, Indelli PF, Violante B, Graichen H, Lustig S, Boettner F, von Eisenhart-Rothe R, Tandogan R, Hirschmann MT, Kayaalp ME.",
+      "Journal": "Knee Surg Sports Traumatol Arthrosc. 2026 Aug 3. doi: 10.1002/ksa.70557. Online ahead of print.",
+      "PMID": "42546112"
+    },
+    {
+      "Title": "[Safety Management of Incretin-Based Obesity Therapy: Expert Consensus on the Use of Semaglutide and Tirzepatide].",
+      "Authors": "Troshina EA, Antsiferov MB, Ametov AS, Bakulin IG, Galstyan GR, Markova TN, Romantsova TI, Mazurina NV, Koteshkova OM.",
+      "Journal": "Probl Endokrinol (Mosk). 2026 Jul 22;72(3):36-43. doi: 10.14341/probl13784.",
+      "PMID": "42545321"
+    },
+    {
+      "Title": "Effects of liraglutide on gut bacterial community dynamics.",
+      "Authors": "Bull J, Durham PL, Mirza BS.",
+      "Journal": "Microbiol Spectr. 2026 Aug 3:e0034326. doi: 10.1128/spectrum.00343-26. Online ahead of print.",
+      "PMID": "42545022"
+    },
+    {
+      "Title": "Protecting Musculoskeletal Development and Physical Function in Adolescents on GLP-1 Therapy.",
+      "Authors": "Smith WA, Kim A, Khalil TJ, Giovinazzo C, Burton ET.",
+      "Journal": "Child Obes. 2026 Aug 3:21532176261475103. doi: 10.1177/21532176261475103. Online ahead of print.",
+      "PMID": "42544560"
+    }
+  ]
+}

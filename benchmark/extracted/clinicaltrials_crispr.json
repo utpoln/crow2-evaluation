@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_crispr",
+  "url": "https://clinicaltrials.gov/search?term=CRISPR&viewType=Table",
+  "elapsed_seconds": 4.517706041999986,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "A Safety and Efficacy Study of TALEN and CRISPR/Cas9 in the Treatment of HPV-related Cervical Intraepithelial Neoplasia\u2160",
+      "NCT_ID": "NCT03057912",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Detection of Enterovirus Genotypes by CRISPR Technology",
+      "NCT_ID": "NCT04535648",
+      "Status": "Withdrawn"
+    },
+    {
+      "Title": "T-cell Therapy with CRISPR PD1-edited Tumor Infiltrating Lymphocytes for Patients with Metastatic Melanoma",
+      "NCT_ID": "NCT06783270",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Evaluation of CRISPR-based Test for the Rapid Identification of TB in Pulmonary Tuberculosis Suspects",
+      "NCT_ID": "NCT04074369",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "A Long-term Follow-up Study of Subjects Who Received CRISPR CAR T Cellular Therapies",
+      "NCT_ID": "NCT06208878",
+      "Status": "Enrolling by invitation"
+    },
+    {
+      "Title": "CRISPR-Edited HLA Donor Liver Transplant to Reduce Rejection",
+      "NCT_ID": "NCT07053488",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Effect of PCR-CRISPR/Cas12a on the Early Anti-infective Schemes in Patients With Open Air Pneumonia",
+      "NCT_ID": "NCT04178382",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Examining the Knowledge, Attitudes, and Beliefs of Sickle Cell Disease Patients, Parents of Patients With Sickle Cell Disease, and Providers Towards the Integration of CRISPR in Clinical Care",
+      "NCT_ID": "NCT03167450",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Evaluating the Diagnostic Performance and Impact on Clinical Outcomes of the NuRapid-CRISPR Pathogen Profile Assay in ICU Patients With SepsisNew",
+      "NCT_ID": "NCT07580001",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "CRISPR-Edited HLA Donor Kidney Transplant to Reduce Rejection Risk",
+      "NCT_ID": "NCT07053462",
+      "Status": "Recruiting"
+    }
+  ]
+}

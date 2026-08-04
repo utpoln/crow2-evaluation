@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_lung_cancer_immunotherapy",
+  "url": "https://clinicaltrials.gov/search?term=lung+cancer+immunotherapy&viewType=Table",
+  "elapsed_seconds": 4.381926875000005,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "FAP-targeted PET/NIR in Lung Malignant TumorsNew",
+      "NCT_ID": "NCT07498933",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Primary Radiotherapy In MEtastatic Lung Cancer",
+      "NCT_ID": "NCT07135882",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "ProCaLung: Project on Cancer of the Lung",
+      "NCT_ID": "NCT04726358",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Radical RADiotherapy and Immunotherapy for Metastatic CAncer of the Lung (RRADICAL)",
+      "NCT_ID": "NCT03176173",
+      "Status": "Completed\u00a0 View Results"
+    },
+    {
+      "Title": "Brazilian Lung Immunotherapy Study",
+      "NCT_ID": "NCT05081674",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Immunotherapy in Uncommon and 20ins EGFR-mut Lung Cancers",
+      "NCT_ID": "NCT06164574",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Survival Efficacy of Combined Radiotherapy and Immunotherapy in Patients With Metastatic Non-small Cell Lung Carcinoma",
+      "NCT_ID": "NCT07111104",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Safety and Efficacy of Mix Vaccine in Lung Carcinoma Patient",
+      "NCT_ID": "NCT02333474",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Pragmatic Analysis of Complex Radiotherapy Cases In Cancer of the Lung",
+      "NCT_ID": "NCT07202260",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Efficacy of Neoadjuvant Immunotherapy in Patients With Lung Cancer",
+      "NCT_ID": "NCT07166003",
+      "Status": "Recruiting"
+    }
+  ]
+}

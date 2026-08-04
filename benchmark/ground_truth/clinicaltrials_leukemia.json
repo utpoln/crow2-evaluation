@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_leukemia",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT02670525",
+      "Title": "Matched Targeted Therapy For High-Risk Leukemias and Myelodysplastic Syndrome",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07671209",
+      "Title": "Addressing Cancer Care Equity With Social Determinants of Health Screening and Early Intervention",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT05756322",
+      "Title": "The Safety and Tolerability of LBS-007 in Patients With Relapsed or Resistant Acute Leukaemias",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT00428233",
+      "Title": "Banking of Chronic Lymphocytic Leukemia Tumor Cells for Vaccine Generation",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02883946",
+      "Title": "Rituximab in Hairy Cell Leukemia: a Multicenter Retrospective Study",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05901974",
+      "Title": "Venetoclax Combined With Azactidine in the Treatment of ALAL",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07587411",
+      "Title": "Stepped-Care Support for Children With Leukaemia",
+      "Status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "NCT_ID": "NCT05035615",
+      "Title": "Evaluation of the BD OneFlow Acute Leukemia Panel on the BD FACSLyric Flow Cytometer",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT00809367",
+      "Title": "Collection and Banking of Leukemia Cells MDS/AML",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02975869",
+      "Title": "A Collaborative Palliative and Oncology Care Model for Patients With Acute Myeloid Leukemia",
+      "Status": "COMPLETED"
+    }
+  ]
+}

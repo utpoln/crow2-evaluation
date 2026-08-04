@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_psoriasis",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT05889338",
+      "Title": "Effect of Adalimumab Therapy on Psoriasis Patient",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT01228656",
+      "Title": "Effectiveness of Association Mometasone Furoate 0.1% and Salicylic Acid 5% Compared With Mometasone Furoate",
+      "Status": "SUSPENDED"
+    },
+    {
+      "NCT_ID": "NCT01229085",
+      "Title": "Efficacy Study of the Combination Mometasone + Salicylic Acid in Patients With Psoriasis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06110676",
+      "Title": "A Study to Evaluate the Efficacy and Safety of LZM012",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06771648",
+      "Title": "Daxxin Psoriasis Shampoo PMCF",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT07382388",
+      "Title": "A Real-World Study on the Impact of Weight Loss on Treatment Efficacy in Overweight/Obese Patients With Plaque Psoriasis",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07041112",
+      "Title": "Ten-Year Biologic Drug Survival in Psoriasis: Role of Genetic and Cardiometabolic Predictors",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01989429",
+      "Title": "Efficacy Study Comparing Topical M518101 and Vitamin D3 in Adult Psoriasis Patients",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03302390",
+      "Title": "Role of Chemokine and Chemokine Receptor in Psoriasis",
+      "Status": "WITHDRAWN"
+    },
+    {
+      "NCT_ID": "NCT01702324",
+      "Title": "Evaluation of DD-25 Topical Cream for the Treatment of Psoriasis Vulgaris : Proof of Concept Study",
+      "Status": "UNKNOWN"
+    }
+  ]
+}

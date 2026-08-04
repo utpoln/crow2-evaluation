@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_brca1",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=BRCA1+AND+human%5Borgn%5D",
+  "elapsed_seconds": 7.323035249999975,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "BRCA1",
+      "GeneID": "ID: 672",
+      "Description": "BRCA1 DNA repair associated [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRCA2",
+      "GeneID": "ID: 675",
+      "Description": "BRCA2 DNA repair associated [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "RAD51",
+      "GeneID": "ID: 5888",
+      "Description": "RAD51 recombinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BARD1",
+      "GeneID": "ID: 580",
+      "Description": "BRCA1 associated RING domain 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BAP1",
+      "GeneID": "ID: 8314",
+      "Description": "BRCA1 associated deubiquitinase 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BABAM1",
+      "GeneID": "ID: 29086",
+      "Description": "BRISC and BRCA1 A complex member 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRAP",
+      "GeneID": "ID: 8315",
+      "Description": "BRCA1 associated protein [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRIP1",
+      "GeneID": "ID: 83990",
+      "Description": "BRCA1 interacting DNA helicase 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "NBR1",
+      "GeneID": "ID: 4077",
+      "Description": "NBR1 autophagy cargo receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRCC3",
+      "GeneID": "ID: 79184",
+      "Description": "BRCA1/BRCA2-containing complex subunit 3 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "LOC111589215",
+      "GeneID": "ID: 111589215",
+      "Description": "BRCA1 promoter region [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ERBB2",
+      "GeneID": "ID: 2064",
+      "Description": "erb-b2 receptor tyrosine kinase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ZNF350",
+      "GeneID": "ID: 59348",
+      "Description": "zinc finger protein 350 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BABAM2",
+      "GeneID": "ID: 9577",
+      "Description": "BRISC and BRCA1 A complex member 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABRAXAS1",
+      "GeneID": "ID: 84142",
+      "Description": "abraxas 1, BRCA1 A complex subunit [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRAT1",
+      "GeneID": "ID: 221927",
+      "Description": "BRCA1 associated ATM activator 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "FGFR2",
+      "GeneID": "ID: 2263",
+      "Description": "fibroblast growth factor receptor 2 [Homo sapiens (human)]"
+    }
+  ]
+}

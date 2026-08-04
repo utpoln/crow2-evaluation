@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_huntington_disease_pathogenesis",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Huntington+disease+pathogenesis&sort=date",
+  "elapsed_seconds": 5.137521375000006,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Enhancing the detection of HTT1a with neoepitope antibodies in mouse models of Huntington's disease.",
+      "Authors": "Osborne GF, Smith EJ, Sathasivam K, Kang Z, Nita IM, Ca\u00f1ibano-Pico M, Phillips J, Bates GP, Landles C.",
+      "Journal": "Brain Commun. 2026 Jul 20;8(4):fcag285. doi: 10.1093/braincomms/fcag285. eCollection 2026.",
+      "PMID": "42549268"
+    },
+    {
+      "Title": "Integrative network pharmacology, transcriptomics, and molecular docking identify candidate Centella asiatica constituents and targets in neurodegenerative diseases.",
+      "Authors": "Xie Y, Lim CT, Lam XJ, Cheah PS, Ling KH, Huang T.",
+      "Journal": "PLoS One. 2026 Jul 31;21(7):e0354882. doi: 10.1371/journal.pone.0354882. eCollection 2026.",
+      "PMID": "42536688"
+    },
+    {
+      "Title": "The Effect of a Probiotic on Gut Microbiota Stability and Systemic Well-Being during Short-Term Travel.",
+      "Authors": "Yang K, Yang M, Yu Q, Liong MT, Chen D, Cai M.",
+      "Journal": "J Microbiol Biotechnol. 2026 Feb 12;36:e2510037. doi: 10.4014/jmb.2510.10037.",
+      "PMID": "42533554"
+    },
+    {
+      "Title": "In vivo CRISPR base editing for treatment of Huntington's disease.",
+      "Authors": "Shirguppe S, Gapinske M, Swami D, Shenouda K, Miskalis A, Gosstola N, Del Bosque Siller D, Guerra I, Acharya P, Joulani D, Szkwarek MG, Nambiar A, Bhattacharjee A, Dangi AS, Odle N, Nathan GE, Elias G, Stilger M, Winter J, Woods WS, Anand D, Lim CKW, Maslov S, Gaj T, Perez-Pinera P.",
+      "Journal": "Nat Biomed Eng. 2026 Jul 29. doi: 10.1038/s41551-026-01747-y. Online ahead of print.",
+      "PMID": "42527584"
+    },
+    {
+      "Title": "Clostridium innocuum Bacteremia: Case Report and Systematic Review.",
+      "Authors": "de Matos-Konrad C, Chima N, Huntington MK.",
+      "Journal": "S D Med. 2026 Jun;79(6):271-273.",
+      "PMID": "42527363"
+    },
+    {
+      "Title": "The genetic architecture of fibromyalgia across 2.5 million individuals.",
+      "Authors": "Kerrebijn I, Bjornsdottir G, Arbabi K, Urpa L, Haapaniemi H, Thorleifsson G, Stefansdottir L, Frangakis S, Valliere J, Kunorozva L, Abner E, Ji C, Kangur M, Aagaard B, Bliddal H, Brunak S, Bruun MT, Didriksen M, Erikstrup C, Finer S, Geirsson AJ, Gudbjartsson DF, Hansen TF, van Heel D, Jonsdottir I, Knight S, Knowlton KU, Mikkelsen C, Nadauld LD, Olafsdottir TA, Ostrowski SR, Pedersen OBV, Saevarsdottir S, Skuladottir AT, S\u00f8rensen E, Stefansson H, Sulem P, Sveinsson OA, Thorlacius GE, Thorsteinsdottir U, Ullum H, Vikingsson A, Werge TM; Chronic Pain Genomics Consortium; FinnGen; DBDS Genomic Consortium; Estonian Biobank Research Team; Genes & Health Research Team; Saxena R, Stefansson K, Brummett CM, Glintborg B, Clauw DJ, Thorgeirsson TE, Williams FMK, Sinnott-Armstrong N, Ollila HM, Wainberg M.",
+      "Journal": "Nat Med. 2026 Jul 28. doi: 10.1038/s41591-026-04492-6. Online ahead of print.",
+      "PMID": "42521817"
+    },
+    {
+      "Title": "Integrative Network Pharmacology and Molecular Docking Analysis Reveals the Multitarget Mechanisms of Pterostilbene in Neurodegenerative Diseases.",
+      "Authors": "Rosiak N, Stojceski F, Maroni G, Piontek B, Cielecka-Piontek J.",
+      "Journal": "Pharmaceuticals (Basel). 2026 Jul 8;19(7):1053. doi: 10.3390/ph19071053.",
+      "PMID": "42515735"
+    },
+    {
+      "Title": "Grape Seed Extract as an Adjuvant Therapy for Huntington Disease; A Narrative Review of Biological Plausibility and Potential Clinical Outcomes.",
+      "Authors": "DeBoth C, Kasper J, McDonald C, Duriancik DM.",
+      "Journal": "Molecules. 2026 Jul 8;31(14):2402. doi: 10.3390/molecules31142402.",
+      "PMID": "42513086"
+    },
+    {
+      "Title": "HDDF2-A Novel Patient-Derived Fibroblast Line from Huntington's Disease with Prominent Cellular Senescence and polyQ Pathology.",
+      "Authors": "Parfenova P, Kraskovskaya N, Koltsova A, Shatrova A, Yartseva N, Mikhailova N.",
+      "Journal": "Biomedicines. 2026 Jun 30;14(7):1484. doi: 10.3390/biomedicines14071484.",
+      "PMID": "42511959"
+    },
+    {
+      "Title": "R-loops: Biological functions, regulatory mechanisms, and therapeutic implications in brain diseases-A review.",
+      "Authors": "Sun R, Duan X, Wang X, Liu J, Li Z, Wang Y.",
+      "Journal": "Mol Cell Probes. 2026 Jul 27;89:102081. doi: 10.1016/j.mcp.2026.102081. Online ahead of print.",
+      "PMID": "42508540"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_asthma",
+  "url": "https://clinicaltrials.gov/search?term=asthma&viewType=Table",
+  "elapsed_seconds": 4.407850083,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "A Study to Determine the Clinical Characteristics, Comorbidities, Treatment Status and Exacerbations of Asthma Patients",
+      "NCT_ID": "NCT03239431",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "the Effect of Use of Vit d and Probiotic as a Supplementaition in the Treatment of Bronchial Asthma in Patient Aged 6 to 50 Year and Its Effect in Decrasing Excerbation.",
+      "NCT_ID": "NCT06962761",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Bikram Yoga and Asthma",
+      "NCT_ID": "NCT00410098",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Multiple Rising Oral Doses of BI 1060469 in Healthy Subjects and Mild Asthma Patients",
+      "NCT_ID": "NCT02126865",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Evaluation of Exercise Capacity and Activity Role Adequacy in Patients With Adult Bronchial Asthma",
+      "NCT_ID": "NCT04051060",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Bronchial Asthma & Its Exacerbation",
+      "NCT_ID": "NCT06331897",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Cardiopulmonary Fitness in Children With Asthma Versus Healthy Children",
+      "NCT_ID": "NCT04650464",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Self-Management Using Smartphone Application for Chronic Disease Care in Real siTuation (SMART-Asthma): Adult",
+      "NCT_ID": "NCT01918293",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Assessing Inflammatory and Behavioral Pathways Linking PTSD to Increased Asthma Morbidity in WTC Workers",
+      "NCT_ID": "NCT04552301",
+      "Status": "Completed\u00a0 View Results"
+    },
+    {
+      "Title": "Do Bonding Disruptions Occur More Often in Children With Asthma Than in Non-asthmatic Populations?",
+      "NCT_ID": "NCT02158338",
+      "Status": "Completed"
+    }
+  ]
+}

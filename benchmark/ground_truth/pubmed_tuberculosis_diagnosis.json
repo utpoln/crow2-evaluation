@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_tuberculosis_diagnosis",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550075",
+      "Title": "Outcomes of Patients with Positive Latent Tuberculosis Screening in the San Antonio Military Health System",
+      "Authors": "Kim J CPT, Marcus JE Maj, Homeyer DC Col",
+      "Journal": "Military medicine"
+    },
+    {
+      "PMID": "42549708",
+      "Title": "Musculoskeletal Tuberculous Arthritis Mimicking Septic Arthritis",
+      "Authors": "Rathnam AA, Sidhu H, Sivalingam T, Prakash TA, Kanevsky J",
+      "Journal": "Journal of investigative medicine high impact case reports"
+    },
+    {
+      "PMID": "42548840",
+      "Title": "Multidrug resistant tuberculosis (MDR-TB) in Eritrea: a retrospective cohort analysis of mortality and associated factors (2013 - 2023)",
+      "Authors": "Teumezgi HA, Suud NN, Berhane YM, Said SM, Hailu DT, Habtetsion KK, Weldetnsae TM, Achila OO",
+      "Journal": "Frontiers in cellular and infection microbiology"
+    },
+    {
+      "PMID": "42548768",
+      "Title": "Innate Immune Cells in Non-Small Cell Lung Cancer: Roles in Tumor Progression and Therapeutic Responses",
+      "Authors": "Liu J, Jia J, Wang C, Zhou Z, Cheng Z, Zhang Z, Jiang X, Huang Z, Li C",
+      "Journal": "Cancer innovation"
+    },
+    {
+      "PMID": "42548599",
+      "Title": "Tuberculous meningoencephalitis concurrent with autoimmune glial fibrillary acidic protein astrocytopathy: a case report",
+      "Authors": "Deng Y, Bao Z, Zhuang S, Wu T, Zhong S",
+      "Journal": "Frontiers in immunology"
+    },
+    {
+      "PMID": "42548556",
+      "Title": "Beyond culturability: VBNC-like and differentially culturable Mycobacterium tuberculosis challenge growth-based interpretations of bacterial viability",
+      "Authors": "Niu J, Zhang P, Wei Z, Zou Y, Wang Z",
+      "Journal": "Frontiers in cellular and infection microbiology"
+    },
+    {
+      "PMID": "42546342",
+      "Title": "Oral Tuberculosis Presenting in a Patient With Asymptomatic Miliary Pulmonary Tuberculosis",
+      "Authors": "Silveira HA, Pala\u00e7on MP, Laor GET, Viccari HFR, Bufalino A, Le\u00f3n JE",
+      "Journal": "The American Journal of dermatopathology"
+    },
+    {
+      "PMID": "42545963",
+      "Title": "Time to treatment initiation in pregnant women with tuberculosis in Cape Town, South Africa",
+      "Authors": "Meehan SA, Hesseling AC, Kalk E, Hughes JA, Seddon JA, Namukuta VE, Osman M",
+      "Journal": "PloS one"
+    },
+    {
+      "PMID": "42545118",
+      "Title": "MAG3 SPECT/CT Detection of Vesicocolic Fistula in Genitourinary Tuberculosis",
+      "Authors": "Mohd Rohani MF, Ahmad Tajudin NA, Amir Hassan SZ",
+      "Journal": "Clinical nuclear medicine"
+    },
+    {
+      "PMID": "42544281",
+      "Title": "Concomitant effect of high altitude and thrombophilia on multi-organ thrombosis",
+      "Authors": "Sabzi F, Faraji R, Shokri F, Ghaysouri A, Maleki A, Rashidi T",
+      "Journal": "Global cardiology science & practice"
+    }
+  ]
+}

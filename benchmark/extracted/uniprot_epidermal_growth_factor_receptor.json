@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_epidermal_growth_factor_receptor",
+  "url": "https://www.uniprot.org/uniprotkb?query=epidermal+growth+factor+receptor&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.26575087499998,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "Q01279",
+      "EntryName": "EGFR_MOUSE",
+      "GeneName": "Egfr"
+    },
+    {
+      "Accession": "P01133",
+      "EntryName": "EGF_HUMAN",
+      "GeneName": "EGF"
+    },
+    {
+      "Accession": "P07522",
+      "EntryName": "EGF_RAT",
+      "GeneName": "Egf"
+    },
+    {
+      "Accession": "P01132",
+      "EntryName": "EGF_MOUSE",
+      "GeneName": "Egf"
+    },
+    {
+      "Accession": "P55245",
+      "EntryName": "EGFR_MACMU",
+      "GeneName": "EGFR"
+    },
+    {
+      "Accession": "Q08509",
+      "EntryName": "EPS8_MOUSE",
+      "GeneName": "Eps8"
+    },
+    {
+      "Accession": "P13387",
+      "EntryName": "EGFR_CHICK",
+      "GeneName": "EGFR"
+    },
+    {
+      "Accession": "P0CY46",
+      "EntryName": "EGFR_APIME",
+      "GeneName": "Egfr"
+    },
+    {
+      "Accession": "Q12929",
+      "EntryName": "EPS8_HUMAN",
+      "GeneName": "EPS8"
+    },
+    {
+      "Accession": "F1M3L7",
+      "EntryName": "EPS8_RAT",
+      "GeneName": "Eps8"
+    },
+    {
+      "Accession": "P01136",
+      "EntryName": "VGF_VACCW",
+      "GeneName": "OPG019, VGF-1, VACWR009, VGF-2, VACWR210"
+    },
+    {
+      "Accession": "P51865",
+      "EntryName": "TDGF1_MOUSE",
+      "GeneName": "Cripto, Tdgf1"
+    },
+    {
+      "Accession": "Q14451",
+      "EntryName": "GRB7_HUMAN",
+      "GeneName": "GRB7"
+    },
+    {
+      "Accession": "Q5R4H4",
+      "EntryName": "EPS8_PONAB",
+      "GeneName": "EPS8"
+    },
+    {
+      "Accession": "P00533",
+      "EntryName": "EGFR_HUMAN",
+      "GeneName": "EGFR, ERBB, ERBB1, HER1"
+    },
+    {
+      "Accession": "Q03160",
+      "EntryName": "GRB7_MOUSE",
+      "GeneName": "Grb7"
+    },
+    {
+      "Accession": "Q9QZC5",
+      "EntryName": "GRB7_RAT",
+      "GeneName": "Grb7"
+    },
+    {
+      "Accession": "P09619",
+      "EntryName": "PGFRB_HUMAN",
+      "GeneName": "PDGFRB, PDGFR, PDGFR1"
+    },
+    {
+      "Accession": "Q8NFT8",
+      "EntryName": "DNER_HUMAN",
+      "GeneName": "DNER, BET, UNQ262/PRO299"
+    },
+    {
+      "Accession": "Q9H6S3",
+      "EntryName": "ES8L2_HUMAN",
+      "GeneName": "EPS8L2, EPS8R2, PP13181"
+    },
+    {
+      "Accession": "Q60902",
+      "EntryName": "EP15R_MOUSE",
+      "GeneName": "Eps15l1, Eps15-rs, Eps15R"
+    },
+    {
+      "Accession": "Q95ND4",
+      "EntryName": "EGF_FELCA",
+      "GeneName": "EGF"
+    },
+    {
+      "Accession": "Q9BEA0",
+      "EntryName": "EGF_CANLF",
+      "GeneName": "EGF"
+    },
+    {
+      "Accession": "Q8TE67",
+      "EntryName": "ES8L3_HUMAN",
+      "GeneName": "EPS8L3, EPS8R3"
+    },
+    {
+      "Accession": "Q00968",
+      "EntryName": "EGF_PIG",
+      "GeneName": "EGF"
+    }
+  ]
+}

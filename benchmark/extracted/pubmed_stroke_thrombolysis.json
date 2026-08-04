@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_stroke_thrombolysis",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=stroke+thrombolysis&sort=date",
+  "elapsed_seconds": 5.500046499999996,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Treatment of a Symptomatic Carotid Web: A Case Report and Review of the Literature.",
+      "Authors": "Shehata M, Tee S, Elsharkawy A.",
+      "Journal": "Cureus. 2026 Jul 4;18(7):e112031. doi: 10.7759/cureus.112031. eCollection 2026 Jul.",
+      "PMID": "42549211"
+    },
+    {
+      "Title": "Association between plasma ADAMTS13 levels/activity and the risk of ischemic stroke and outcomes of recanalization therapies: a systematic review and meta-analysis.",
+      "Authors": "Li Y, Ding R, Gao P, Liu Z, Pei X, Piao L.",
+      "Journal": "Front Neurol. 2026 Jul 20;16:1687480. doi: 10.3389/fneur.2025.1687480. eCollection 2025.",
+      "PMID": "42548762"
+    },
+    {
+      "Title": "Microcirculatory failure after successful recanalization in ischemic stroke: insights into mechanisms, imaging, and therapeutic strategies.",
+      "Authors": "Wu G, Lin L, Hong W, Kang Z, Wang X, Wang F, Wang E.",
+      "Journal": "Front Pharmacol. 2026 Jul 20;17:1884183. doi: 10.3389/fphar.2026.1884183. eCollection 2026.",
+      "PMID": "42548511"
+    },
+    {
+      "Title": "Access and timeliness of acute stroke reperfusion after cluster-wide protocol standardisation: an interrupted time-series study in Hong Kong.",
+      "Authors": "Koo HL, Sheng B, Engineer LD.",
+      "Journal": "Int J Qual Health Care. 2026 Aug 3:mzag106. doi: 10.1093/intqhc/mzag106. Online ahead of print.",
+      "PMID": "42547965"
+    },
+    {
+      "Title": "Thrombolytic resistance: an important factor leading to the failure of intravenous thrombolytic therapy.",
+      "Authors": "Liu J, Gao X, Sun Y, Shang Y, Guo J, Cheng J, Bi X, Zhang X.",
+      "Journal": "J Neurol. 2026 Aug 3;273(8):501. doi: 10.1007/s00415-026-14052-0.",
+      "PMID": "42545430"
+    },
+    {
+      "Title": "Standard Antiplatelet Therapy Versus Thrombolysis in Acute Spontaneous Spinal Cord Infarction: A Propensity Score-Matched Analysis.",
+      "Authors": "AbuAlrob MA, Al-Salahat A, Zammar K, Al-Jerdi S.",
+      "Journal": "Stroke. 2026 Aug 3. doi: 10.1161/STROKEAHA.126.056523. Online ahead of print.",
+      "PMID": "42544504"
+    },
+    {
+      "Title": "Comparison of Functional Recovery and In-Hospital Outcomes Between Thrombolysed and Non-thrombolysed Patients With Acute Ischemic Stroke: A Retrospective Comparative Cohort Study.",
+      "Authors": "Ahmad MA, Haddad N, Israr MU, Aamir A, Baig AK, Ikram I, Saleem A.",
+      "Journal": "Cureus. 2026 Jul 2;18(7):e111966. doi: 10.7759/cureus.111966. eCollection 2026 Jul.",
+      "PMID": "42544312"
+    },
+    {
+      "Title": "A Study on Prehospital Factors Determining the Timely Arrival for Thrombolysis among Patients Presenting with Acute Ischemic Stroke at a Tertiary Care Center in South India.",
+      "Authors": "P S NS, Vadanere NP, Mugundhan K, Velayudham S, Jeyaraj M, Sowmini PR.",
+      "Journal": "J Assoc Physicians India. 2026 Jul;74(7E):e9-e17. doi: 10.59556/japi.74.1582.",
+      "PMID": "42543956"
+    },
+    {
+      "Title": "Delayed M1 Dissection After Thrombectomy Treated With Rescue Stenting and Tirofiban: A Case Report.",
+      "Authors": "Vargas OF, Salcedo-Mesa J, Valera P, Ortiz Layton LC.",
+      "Journal": "Cureus. 2026 Jul 1;18(7):e111925. doi: 10.7759/cureus.111925. eCollection 2026 Jul.",
+      "PMID": "42542614"
+    },
+    {
+      "Title": "Cerebral small vessel disease impairs dynamic cerebral autoregulation and mediates outcomes after stroke thrombectomy.",
+      "Authors": "Qiao Y, Liu R, Cai L, Zhao M, Yuan B, Fan S, Wang S, Li J, Wu L, Xing Y, Ma Q, Zhao W.",
+      "Journal": "Ther Adv Neurol Disord. 2026 Jul 29;19:17562864261470197. doi: 10.1177/17562864261470197. eCollection 2026.",
+      "PMID": "42539831"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_sepsis",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT02562261",
+      "Title": "Platelet REactivity in Sepsis Syndrome (PRESS)",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01255202",
+      "Title": "The Prediction of Preeclampsia/Toxemia in Twin Pregnancy",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT05842980",
+      "Title": "BIomarkers to Predict the Outcomes of Sepsis",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT00031512",
+      "Title": "Pleconaril Enteroviral Sepsis Syndrome",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04103281",
+      "Title": "Expression Profiles of Integrin \u03b1D\u03b22 on Neutrophils in Sepsis",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04103268",
+      "Title": "Neutrophil Phenotypic Profiling and Organ Injury Assessment in Patients With Sepsis",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT03372330",
+      "Title": "Peripheral Artery Disease and Sepsis Outcomes",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT05943938",
+      "Title": "Comparison of Sepsis Prediction Algorithms",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04439617",
+      "Title": "Monitoring of the Mitochondrial Function of Circulating Myeloid Cells in Patients Hospitalized in the Intensive Care Unit of Dijon University Hospital",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05246969",
+      "Title": "Detecting Sepsis in Patients With Severe Subarachnoideal Hemorrhage",
+      "Status": "COMPLETED"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_smad4",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "SMAD4",
+      "GeneID": "ID: 4089",
+      "Description": "SMAD family member 4"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53"
+    },
+    {
+      "Symbol": "TGFB1",
+      "GeneID": "ID: 7040",
+      "Description": "transforming growth factor beta 1"
+    },
+    {
+      "Symbol": "DCP1A",
+      "GeneID": "ID: 55802",
+      "Description": "decapping mRNA 1A"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor"
+    },
+    {
+      "Symbol": "PTEN",
+      "GeneID": "ID: 5728",
+      "Description": "phosphatase and tensin homolog"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A"
+    },
+    {
+      "Symbol": "CTNNB1",
+      "GeneID": "ID: 1499",
+      "Description": "catenin beta 1"
+    },
+    {
+      "Symbol": "BMP2",
+      "GeneID": "ID: 650",
+      "Description": "bone morphogenetic protein 2"
+    },
+    {
+      "Symbol": "MTOR",
+      "GeneID": "ID: 2475",
+      "Description": "mechanistic target of rapamycin kinase"
+    },
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6"
+    },
+    {
+      "Symbol": "BRCA1",
+      "GeneID": "ID: 672",
+      "Description": "BRCA1 DNA repair associated"
+    },
+    {
+      "Symbol": "BRAF",
+      "GeneID": "ID: 673",
+      "Description": "B-Raf proto-oncogene, serine/threonine kinase"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule"
+    },
+    {
+      "Symbol": "KRAS",
+      "GeneID": "ID: 3845",
+      "Description": "KRas proto-oncogene, GTPase"
+    },
+    {
+      "Symbol": "PTGS2",
+      "GeneID": "ID: 5743",
+      "Description": "prostaglandin-endoperoxide synthase 2"
+    },
+    {
+      "Symbol": "STAT3",
+      "GeneID": "ID: 6774",
+      "Description": "signal transducer and activator of transcription 3"
+    },
+    {
+      "Symbol": "AKT1",
+      "GeneID": "ID: 207",
+      "Description": "AKT serine/threonine kinase 1"
+    },
+    {
+      "Symbol": "ESR1",
+      "GeneID": "ID: 2099",
+      "Description": "estrogen receptor 1"
+    },
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor"
+    }
+  ]
+}

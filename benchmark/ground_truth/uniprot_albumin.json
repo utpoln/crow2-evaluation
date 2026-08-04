@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_albumin",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P02770",
+      "EntryName": "ALBU_RAT",
+      "GeneName": "Alb"
+    },
+    {
+      "Accession": "P49065",
+      "EntryName": "ALBU_RABIT",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "Q5NVH5",
+      "EntryName": "ALBU_PONAB",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P08835",
+      "EntryName": "ALBU_PIG",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P02768",
+      "EntryName": "ALBU_HUMAN",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P07724",
+      "EntryName": "ALBU_MOUSE",
+      "GeneName": "Alb"
+    },
+    {
+      "Accession": "P43652",
+      "EntryName": "AFAM_HUMAN",
+      "GeneName": "AFM"
+    },
+    {
+      "Accession": "P02769",
+      "EntryName": "ALBU_BOVIN",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "O89020",
+      "EntryName": "AFAM_MOUSE",
+      "GeneName": "Afm"
+    },
+    {
+      "Accession": "P49064",
+      "EntryName": "ALBU_FELCA",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P49822",
+      "EntryName": "ALBU_CANLF",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P35747",
+      "EntryName": "ALBU_HORSE",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P19121",
+      "EntryName": "ALBU_CHICK",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "P93198",
+      "EntryName": "2SS_JUGRE",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P19594",
+      "EntryName": "2SS_SOYBN",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q10586",
+      "EntryName": "DBP_HUMAN",
+      "GeneName": "DBP"
+    },
+    {
+      "Accession": "P14639",
+      "EntryName": "ALBU_SHEEP",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "O35090",
+      "EntryName": "ALBU_MERUN",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "Q5XLE4",
+      "EntryName": "ALBU_EQUAS",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "Q28522",
+      "EntryName": "ALBU_MACMU",
+      "GeneName": "ALB"
+    },
+    {
+      "Accession": "G3MYZ3",
+      "EntryName": "AFAM_BOVIN",
+      "GeneName": "AFM"
+    },
+    {
+      "Accession": "Q39649",
+      "EntryName": "2SS_CUCMA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P86783",
+      "EntryName": "2SS_TAROF",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q3T478",
+      "EntryName": "ALBU_BOMMX",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q91274",
+      "EntryName": "ALBU_PETMA",
+      "GeneName": "SDS-1"
+    }
+  ]
+}

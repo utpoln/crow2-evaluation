@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_lipase",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P54857",
+      "EntryName": "TGL2_YEAST",
+      "GeneName": "TGL2"
+    },
+    {
+      "Accession": "P54315",
+      "EntryName": "LIPR1_HUMAN",
+      "GeneName": "PNLIPRP1"
+    },
+    {
+      "Accession": "P28321",
+      "EntryName": "MGLL_YEAST",
+      "GeneName": "YJU3"
+    },
+    {
+      "Accession": "P07098",
+      "EntryName": "LIPF_HUMAN",
+      "GeneName": "LIPF"
+    },
+    {
+      "Accession": "P16233",
+      "EntryName": "LIPP_HUMAN",
+      "GeneName": "PNLIP"
+    },
+    {
+      "Accession": "P34163",
+      "EntryName": "TGL1_YEAST",
+      "GeneName": "TGL1"
+    },
+    {
+      "Accession": "P11150",
+      "EntryName": "LIPC_HUMAN",
+      "GeneName": "LIPC"
+    },
+    {
+      "Accession": "P04634",
+      "EntryName": "LIPF_RAT",
+      "GeneName": "Lipf"
+    },
+    {
+      "Accession": "P61871",
+      "EntryName": "LIP_RHINI",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P07867",
+      "EntryName": "LIPC_RAT",
+      "GeneName": "Lipc"
+    },
+    {
+      "Accession": "P37957",
+      "EntryName": "ESTA_BACSU",
+      "GeneName": "estA"
+    },
+    {
+      "Accession": "P54317",
+      "EntryName": "LIPR2_HUMAN",
+      "GeneName": "PNLIPRP2"
+    },
+    {
+      "Accession": "Q5VYY2",
+      "EntryName": "LIPM_HUMAN",
+      "GeneName": "LIPM"
+    },
+    {
+      "Accession": "P27657",
+      "EntryName": "LIPP_RAT",
+      "GeneName": "Pnlip"
+    },
+    {
+      "Accession": "O35678",
+      "EntryName": "MGLL_MOUSE",
+      "GeneName": "Mgll"
+    },
+    {
+      "Accession": "P06857",
+      "EntryName": "LIPR1_CANLF",
+      "GeneName": "PNLIPRP1"
+    },
+    {
+      "Accession": "Q8NCG7",
+      "EntryName": "DGLB_HUMAN",
+      "GeneName": "DAGLB"
+    },
+    {
+      "Accession": "P38571",
+      "EntryName": "LICH_HUMAN",
+      "GeneName": "LIPA"
+    },
+    {
+      "Accession": "Q12043",
+      "EntryName": "TGL5_YEAST",
+      "GeneName": "TGL5"
+    },
+    {
+      "Accession": "Q5VXI9",
+      "EntryName": "LIPN_HUMAN",
+      "GeneName": "LIPN"
+    },
+    {
+      "Accession": "Q9Y5X9",
+      "EntryName": "LIPG_HUMAN",
+      "GeneName": "LIPG"
+    },
+    {
+      "Accession": "Q05469",
+      "EntryName": "LIPS_HUMAN",
+      "GeneName": "LIPE"
+    },
+    {
+      "Accession": "P61872",
+      "EntryName": "LIP_RHIOR",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q6P8U6",
+      "EntryName": "LIPP_MOUSE",
+      "GeneName": "Pnlip"
+    },
+    {
+      "Accession": "P04635",
+      "EntryName": "LIP_STAHY",
+      "GeneName": "lip"
+    }
+  ]
+}

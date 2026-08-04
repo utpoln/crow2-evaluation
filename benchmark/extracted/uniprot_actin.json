@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_actin",
+  "url": "https://www.uniprot.org/uniprotkb?query=actin&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.206678207999971,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "P06396",
+      "EntryName": "GELS_HUMAN",
+      "GeneName": "GSN"
+    },
+    {
+      "Accession": "Q9H2D6",
+      "EntryName": "TARA_HUMAN",
+      "GeneName": "TRIOBP, KIAA1662, TARA, HRIHFB2122"
+    },
+    {
+      "Accession": "Q86TU7",
+      "EntryName": "SETD3_HUMAN",
+      "GeneName": "SETD3, C14orf154"
+    },
+    {
+      "Accession": "P60709",
+      "EntryName": "ACTB_HUMAN",
+      "GeneName": "ACTB"
+    },
+    {
+      "Accession": "P63261",
+      "EntryName": "ACTG_HUMAN",
+      "GeneName": "ACTG1, ACTG"
+    },
+    {
+      "Accession": "P62024",
+      "EntryName": "PHAR1_RAT",
+      "GeneName": "Phactr1"
+    },
+    {
+      "Accession": "P15891",
+      "EntryName": "ABP1_YEAST",
+      "GeneName": "ABP1, YCR088W, YCR88W"
+    },
+    {
+      "Accession": "Q5BKX5",
+      "EntryName": "ACTMP_HUMAN",
+      "GeneName": "ACTMAP, C19orf54"
+    },
+    {
+      "Accession": "P42768",
+      "EntryName": "WASP_HUMAN",
+      "GeneName": "WAS, IMD2"
+    },
+    {
+      "Accession": "P68032",
+      "EntryName": "ACTC_HUMAN",
+      "GeneName": "ACTC1, ACTC"
+    },
+    {
+      "Accession": "P63267",
+      "EntryName": "ACTH_HUMAN",
+      "GeneName": "ACTG2, ACTA3, ACTL3, ACTSG"
+    },
+    {
+      "Accession": "Q9Y615",
+      "EntryName": "ACL7A_HUMAN",
+      "GeneName": "ACTL7A"
+    },
+    {
+      "Accession": "O00401",
+      "EntryName": "WASL_HUMAN",
+      "GeneName": "WASL"
+    },
+    {
+      "Accession": "P07830",
+      "EntryName": "ACT1_DICDI",
+      "GeneName": "act1, act1a, DDB_G0289553, act2, act2-1, DDB_G0274133, act4, DDB_G0289005, act5, DDB_G0289663, act6, DDB_G0274135, act7, DDB_G0280545, act8, actA8, DDB_G0269234, act9, DDB_G0274601, act11, DDB_G0288879, act12, DDB_G0274129, act13, DDB_G0274599, act14, actB1, DDB_G0274137, act15, actA1, DDB_G0272520, act16, actM6, DDB_G0272248, act19, DDB_G0274727, act20, DDB_G0274285, act21, DDB_G0274561"
+    },
+    {
+      "Accession": "P68133",
+      "EntryName": "ACTS_HUMAN",
+      "GeneName": "ACTA1, ACTA"
+    },
+    {
+      "Accession": "P61158",
+      "EntryName": "ARP3_HUMAN",
+      "GeneName": "ACTR3, ARP3"
+    },
+    {
+      "Accession": "P61160",
+      "EntryName": "ARP2_HUMAN",
+      "GeneName": "ACTR2, ARP2"
+    },
+    {
+      "Accession": "O88387",
+      "EntryName": "FGD4_RAT",
+      "GeneName": "Fgd4"
+    },
+    {
+      "Accession": "P63258",
+      "EntryName": "ACTG_BOVIN",
+      "GeneName": "ACTG1, ACTG"
+    },
+    {
+      "Accession": "Q9Y6W5",
+      "EntryName": "WASF2_HUMAN",
+      "GeneName": "WASF2, WAVE2"
+    },
+    {
+      "Accession": "P61157",
+      "EntryName": "ARP3_BOVIN",
+      "GeneName": "ACTR3, ARP3"
+    },
+    {
+      "Accession": "P60708",
+      "EntryName": "ACTB_HORSE",
+      "GeneName": "ACTB"
+    },
+    {
+      "Accession": "J3QPC3",
+      "EntryName": "ACTMP_MOUSE",
+      "GeneName": "Actmap"
+    },
+    {
+      "Accession": "P02574",
+      "EntryName": "ACT4_DROME",
+      "GeneName": "Act79B, CG7478"
+    },
+    {
+      "Accession": "P60712",
+      "EntryName": "ACTB_BOVIN",
+      "GeneName": "ACTB"
+    }
+  ]
+}

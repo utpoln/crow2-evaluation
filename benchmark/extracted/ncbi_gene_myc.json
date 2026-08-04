@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_myc",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=MYC+AND+human%5Borgn%5D",
+  "elapsed_seconds": 7.985462332999987,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "MYC",
+      "GeneID": "ID: 4609",
+      "Description": "MYC proto-oncogene, bHLH transcription factor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MYCN",
+      "GeneID": "ID: 4613",
+      "Description": "MYCN proto-oncogene, bHLH transcription factor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ENO1",
+      "GeneID": "ID: 2023",
+      "Description": "enolase 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MAX",
+      "GeneID": "ID: 4149",
+      "Description": "MYC associated transcriptional regulator X [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PVT1",
+      "GeneID": "ID: 5820",
+      "Description": "Pvt1 oncogene [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BIN1",
+      "GeneID": "ID: 274",
+      "Description": "bridging integrator 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "NDRG1",
+      "GeneID": "ID: 10397",
+      "Description": "N-myc downstream regulated 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "NDRG2",
+      "GeneID": "ID: 57447",
+      "Description": "NDRG family member 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MYCBP",
+      "GeneID": "ID: 26292",
+      "Description": "MYC binding protein [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "HNRNPA2B1",
+      "GeneID": "ID: 3181",
+      "Description": "heterogeneous nuclear ribonucleoprotein A2/B1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MXD1",
+      "GeneID": "ID: 4084",
+      "Description": "MAX dimerization protein 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ERBB2",
+      "GeneID": "ID: 2064",
+      "Description": "erb-b2 receptor tyrosine kinase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "NME2",
+      "GeneID": "ID: 4831",
+      "Description": "NME/NM23 nucleoside diphosphate kinase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "NSUN2",
+      "GeneID": "ID: 54888",
+      "Description": "NOP2/Sun RNA methyltransferase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ZBTB17",
+      "GeneID": "ID: 7709",
+      "Description": "zinc finger and BTB domain containing 17 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MTOR",
+      "GeneID": "ID: 2475",
+      "Description": "mechanistic target of rapamycin kinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MYCBP2",
+      "GeneID": "ID: 23077",
+      "Description": "MYC binding protein 2 [Homo sapiens (human)]"
+    }
+  ]
+}

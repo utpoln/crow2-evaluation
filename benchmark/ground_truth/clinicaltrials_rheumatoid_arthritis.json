@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_rheumatoid_arthritis",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT05535686",
+      "Title": "Methotrexate Adherence in Rheumatoid Arthritis Patients",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01111357",
+      "Title": "Study of Human Leukocyte Antigen (HLA) Polymorphisms in Patients With Rheumatoid Arthritis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05463666",
+      "Title": "STudying Ageing in Rheumatic Diseases (STAR)",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT02675218",
+      "Title": "Bone MicroArchitecture Abatacept (BMA2)",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT03470740",
+      "Title": "Effects of a Rheumatoid Arthritis Self-management Program",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05062421",
+      "Title": "Persistence of Biological Treatment and Inhibitors of Jak Kinases in Patients With Rheumatoid Arthritis.",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT00605735",
+      "Title": "PoC in Rheumatoid Arthritis With Methotrexate",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04085471",
+      "Title": "CTHRC1 Abiomarker in Rheumatoid Arthritis Diagnosis",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT07534332",
+      "Title": "Disulfiram in Rheumatoid Arthritis",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT05124782",
+      "Title": "Virtual Management of Rheumatoid Arthritis",
+      "Status": "COMPLETED"
+    }
+  ]
+}

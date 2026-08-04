@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_rheumatoid_arthritis_biomarkers",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=rheumatoid+arthritis+biomarkers&sort=date",
+  "elapsed_seconds": 5.286479499999999,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Diagnostic methods of rheumatoid arthritis-associated interstitial lung disease: a systematic review.",
+      "Authors": "Lewandowska-Polak A, Brzezi\u0144ska O, Krawiec P, Skalska U, Krajewska-W\u0142odarczyk M, Stajszczyk M, Kwiatkowska B, \u017buber Z, Kowal-Bielecka O, Batko B, Makowska JS.",
+      "Journal": "Rheumatol Int. 2026 Aug 4;46(8):229. doi: 10.1007/s00296-026-06268-0.",
+      "PMID": "42550264"
+    },
+    {
+      "Title": "Diagnostic and Prognostic Value of Serum Surfactant Protein D in Interstitial Lung Disease: A Systematic Review.",
+      "Authors": "Abdalla Abdelgadir AE, Amir D, Fadlallah Mohammed KA, Gharbawi L, Salih AF, Alradi EHA, Ahmed Y.",
+      "Journal": "Cureus. 2026 Jul 3;18(7):e112026. doi: 10.7759/cureus.112026. eCollection 2026 Jul.",
+      "PMID": "42548868"
+    },
+    {
+      "Title": "Immunological heterogeneity in rheumatoid arthritis: challenges in early-stage stratification, non-response to targeted therapy, and the restoration of immune tolerance.",
+      "Authors": "Li Y, Zhu K, Ding Y, Wu D, Mu Y, Liu X, Liu X, Yu X, Yan Y, Sun Y, Li Y.",
+      "Journal": "Front Immunol. 2026 Jul 20;17:1894263. doi: 10.3389/fimmu.2026.1894263. eCollection 2026.",
+      "PMID": "42548760"
+    },
+    {
+      "Title": "Distinguishing true from false idiopathic pulmonary fibrosis: Progress in biomarkers for early identification of rheumatoid arthritis.",
+      "Authors": "Su Y, Qin X, Guo L, Zhao H.",
+      "Journal": "Biomed J. 2026 Aug 3:101021. doi: 10.1016/j.bj.2026.101021. Online ahead of print.",
+      "PMID": "42546842"
+    },
+    {
+      "Title": "Rhinosinusitis in Adults With Autoimmune Diseases: A Scoping Review.",
+      "Authors": "Tolaymat O, Wanstreet T, Dewey J, Modi K, Ahmed OG, Azar A, Baroody FM, Bergmark RW, Filip P, Lam K, Lee JT, Lin SY, Luong AU, O'Brien D, Ramadan HH, Ryan L, Toskala E, Makary CA.",
+      "Journal": "Int Forum Allergy Rhinol. 2026 Aug 3. doi: 10.1002/alr.70230. Online ahead of print.",
+      "PMID": "42545866"
+    },
+    {
+      "Title": "Post-translational modifications in extracellular microvesicles from plasma of Rheumatoid Arthritis patients following anti-TNFalpha therapy.",
+      "Authors": "Recalchi S, Riitano G, Ucci F, Manganelli V, Garofalo T, Fratini F, Misasi R, Longo A, Alessandri C, Conti F, Capozzi A, Sorice M.",
+      "Journal": "Clin Exp Immunol. 2026 Aug 1:uxag044. doi: 10.1093/cei/uxag044. Online ahead of print.",
+      "PMID": "42541753"
+    },
+    {
+      "Title": "Biomarkers of treatment response in rheumatoid arthritis: from conventional markers to tissue immunophenotype.",
+      "Authors": "Batashkov NA, Gerasimova EV, Gerasimova DA, Svetlichnyy DV, Petryakina ES, Tychinin DI, Yudin SM, Yudin VS, Keskinov AA, Bogdanov VP, Zotkin EG, Lila AM, Tabakov DV, Woroncow M, Skvortsova VI, Volchkov PY.",
+      "Journal": "Front Immunol. 2026 Jul 17;17:1880487. doi: 10.3389/fimmu.2026.1880487. eCollection 2026.",
+      "PMID": "42539674"
+    },
+    {
+      "Title": "Metabolic control of RNA methylation in rheumatoid arthritis: from synovial stress to pathogenic cellular adaptation.",
+      "Authors": "Li S, Wan L, Yang J, Wang K, Zhang X, Liu X.",
+      "Journal": "Front Immunol. 2026 Jul 17;17:1865927. doi: 10.3389/fimmu.2026.1865927. eCollection 2026.",
+      "PMID": "42539559"
+    },
+    {
+      "Title": "Cardiac Troponin in Autoimmune Rheumatic Diseases: Lights and Shadows.",
+      "Authors": "Cuberli A, Moccaldi B, Strosio M, Binda M, Benini A, Tona F, Caforio ALP, Marra MP, Basso C, Montagnana M, Ramonda R, Corrado D, Allanore Y, Jaffe AS, De Michieli L, Zanatta E.",
+      "Journal": "Mayo Clin Proc. 2026 Jul 31:S0025-6196(26)18660-1. doi: 10.1016/j.mayocp.2026.07.023. Online ahead of print.",
+      "PMID": "42537983"
+    },
+    {
+      "Title": "Elevated inflammatory markers are associated with impaired bone health in patients with adult-onset Still's disease: A cross-sectional study.",
+      "Authors": "Choi YJ, Kim JW, Jung JY, Suh CH, Kim HA.",
+      "Journal": "Medicine (Baltimore). 2026 Jul 31;105(31):e50053. doi: 10.1097/MD.0000000000050053.",
+      "PMID": "42536567"
+    }
+  ]
+}

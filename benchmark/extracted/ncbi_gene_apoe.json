@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_apoe",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=APOE+AND+human%5Borgn%5D",
+  "elapsed_seconds": 7.487263125000027,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "APOE",
+      "GeneID": "ID: 348",
+      "Description": "apolipoprotein E [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TOMM40",
+      "GeneID": "ID: 10452",
+      "Description": "translocase of outer mitochondrial membrane 40 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "APOC1",
+      "GeneID": "ID: 341",
+      "Description": "apolipoprotein C1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CETP",
+      "GeneID": "ID: 1071",
+      "Description": "cholesteryl ester transfer protein [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "LRP8",
+      "GeneID": "ID: 7804",
+      "Description": "LDL receptor related protein 8 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BCHE",
+      "GeneID": "ID: 590",
+      "Description": "butyrylcholinesterase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "HFE",
+      "GeneID": "ID: 3077",
+      "Description": "homeostatic iron regulator [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "APOB",
+      "GeneID": "ID: 338",
+      "Description": "apolipoprotein B [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "LDLR",
+      "GeneID": "ID: 3949",
+      "Description": "low density lipoprotein receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCG2",
+      "GeneID": "ID: 9429",
+      "Description": "ATP binding cassette subfamily G member 2 (JR blood group) [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MAPT",
+      "GeneID": "ID: 4137",
+      "Description": "microtubule associated protein tau [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MTHFR",
+      "GeneID": "ID: 4524",
+      "Description": "methylenetetrahydrofolate reductase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "LPL",
+      "GeneID": "ID: 4023",
+      "Description": "lipoprotein lipase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "APP",
+      "GeneID": "ID: 351",
+      "Description": "amyloid beta precursor protein [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "SNCA",
+      "GeneID": "ID: 6622",
+      "Description": "synuclein alpha [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CD33",
+      "GeneID": "ID: 945",
+      "Description": "CD33 molecule [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor [Homo sapiens (human)]"
+    }
+  ]
+}

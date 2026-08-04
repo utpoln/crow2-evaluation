@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_myc",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "MYC",
+      "GeneID": "ID: 4609",
+      "Description": "MYC proto-oncogene, bHLH transcription factor"
+    },
+    {
+      "Symbol": "MYC",
+      "GeneID": "ID: 731404",
+      "Description": "myc protein"
+    },
+    {
+      "Symbol": "MYC",
+      "GeneID": "ID: 729194",
+      "Description": "myc protein"
+    },
+    {
+      "Symbol": "MYCN",
+      "GeneID": "ID: 4613",
+      "Description": "MYCN proto-oncogene, bHLH transcription factor"
+    },
+    {
+      "Symbol": "ENO1",
+      "GeneID": "ID: 2023",
+      "Description": "enolase 1"
+    },
+    {
+      "Symbol": "MAX",
+      "GeneID": "ID: 4149",
+      "Description": "MYC associated transcriptional regulator X"
+    },
+    {
+      "Symbol": "PVT1",
+      "GeneID": "ID: 5820",
+      "Description": "Pvt1 oncogene"
+    },
+    {
+      "Symbol": "BIN1",
+      "GeneID": "ID: 274",
+      "Description": "bridging integrator 1"
+    },
+    {
+      "Symbol": "NDRG1",
+      "GeneID": "ID: 10397",
+      "Description": "N-myc downstream regulated 1"
+    },
+    {
+      "Symbol": "NDRG2",
+      "GeneID": "ID: 57447",
+      "Description": "NDRG family member 2"
+    },
+    {
+      "Symbol": "MYCBP",
+      "GeneID": "ID: 26292",
+      "Description": "MYC binding protein"
+    },
+    {
+      "Symbol": "HNRNPA2B1",
+      "GeneID": "ID: 3181",
+      "Description": "heterogeneous nuclear ribonucleoprotein A2/B1"
+    },
+    {
+      "Symbol": "MXD1",
+      "GeneID": "ID: 4084",
+      "Description": "MAX dimerization protein 1"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor"
+    },
+    {
+      "Symbol": "NME2",
+      "GeneID": "ID: 4831",
+      "Description": "NME/NM23 nucleoside diphosphate kinase 2"
+    },
+    {
+      "Symbol": "ERBB2",
+      "GeneID": "ID: 2064",
+      "Description": "erb-b2 receptor tyrosine kinase 2"
+    },
+    {
+      "Symbol": "NSUN2",
+      "GeneID": "ID: 54888",
+      "Description": "NOP2/Sun RNA methyltransferase 2"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A"
+    },
+    {
+      "Symbol": "ZBTB17",
+      "GeneID": "ID: 7709",
+      "Description": "zinc finger and BTB domain containing 17"
+    }
+  ]
+}

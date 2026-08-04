@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_colorectal_cancer_screening",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550307",
+      "Title": "Routes to colorectal cancer in Lynch syndrome: a decade of molecular and clinical insights converging on Schr\u00f6dinger's cat",
+      "Authors": "Ahadova A, Fayyaz F, Marin Grez L, Bl\u00e4ker H, Kloor M",
+      "Journal": "Familial cancer"
+    },
+    {
+      "PMID": "42549444",
+      "Title": "Incidental Rectal Neuroendocrine Tumor Detected During Screening Colonoscopy Managed With Transanal Minimally Invasive Surgery (TAMIS): A Case Report",
+      "Authors": "Rodriguez Ortega R, Flores Olmos NL, De la Garza Torres R",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42548812",
+      "Title": "From Personal Trouble to Public Issue: Early-Onset Colorectal Cancer Among Young Latino Men",
+      "Authors": "Aguilar Avila HA, Aguilar JU, Martinez Espino CV",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42548732",
+      "Title": "Dual-generative synthesis framework: enhancing polyp segmentation in colonoscopy via mask-conditional GANs",
+      "Authors": "Safran M, Hamim SA, Mridha MF, Che D, Alfarhood S",
+      "Journal": "Frontiers in oncology"
+    },
+    {
+      "PMID": "42548486",
+      "Title": "Concordance of a Web-based Lung Cancer Risk Self-Assessment Tool With Nursing Risk Assessment",
+      "Authors": "Iloghalu I, Graff K, Warkentin M, Yang H, Tremblay A",
+      "Journal": "CHEST pulmonary"
+    },
+    {
+      "PMID": "42547404",
+      "Title": "\u00c9valuation qualitative d\u2019une strat\u00e9gie d\u2019\u00e9ducation des patients \u00e0 risque tr\u00e8s \u00e9lev\u00e9 de cancer colorectal au d\u00e9pistage de leurs apparent\u00e9s",
+      "Authors": "Balzano V, Bonnin A, Breton H, Doublet MH, Haguenoer K, Pesce S, Manjubarkavi S, Rusch E, Lecomte T",
+      "Journal": "Sante publique (Vandoeuvre-les-Nancy, France)"
+    },
+    {
+      "PMID": "42546401",
+      "Title": "DDIT3 inhibition by salvianolic acid B mitigates Fusobacterium nucleatum-mediated chemoresistance to 5-fluorouracil in colorectal cancer",
+      "Authors": "Zhang L, Wen W, Lu X",
+      "Journal": "Pathology, research and practice"
+    },
+    {
+      "PMID": "42545803",
+      "Title": "Classic Hodgkin Lymphoma: A Review",
+      "Authors": "Patel KK, Moskowitz AJ",
+      "Journal": "JAMA"
+    },
+    {
+      "PMID": "42545699",
+      "Title": "Colorectal Cancer Risk Factors in Adults in Nigeria",
+      "Authors": "Alatise OI, Peeri NC, Abdulkareem FB, Badejo OA, Gali BM, Oludara M, Okereke CE, Olatoke SA, Ademakinwa OR, Alabi A, Aderounmu A, Adeomi A, Mohammed T, Adegboyega O, Adisa A, Ajewole O, Famurewa OC, Agodirin SO, Ariyibi O, Nggada HA, Babatunde OJ, Badmos K, Balogun OS, Bamidele CO, Batta CS, Betiku OA, Bojuwoye MO, Choonawala NR, Cookey C, Daji FY, Egberongbe A, Esan O, Folaranmi OO, Fasiku OK, Fatusi A, Fodero R, Francis AO, Gallagher G, Habeeb MYM, Shittu HA, Iasonos A, Ige OE, Ikujenlola AV, Igetei R, Jackman JM, Kahn R, Katung A, Koiki MA, Komolafe AO, Lawrence AP, Lawal A, Lawal NOO, Makanjuola A, Mobolaji J, Omodele F, Na'aya HU, Nganjiwa US, Njokanma I, Nuhu A, Nwachukwu E, O'Connell K, Odunafolabi T, Ogunleye SO, Olaofe OO, Olcese C, Ologunagba PO, Olokoba A, Olasehinde O, Olajide TO, Osinowo AO, Omoyiola OZ, Omisore AD, Onyekwere C, Owoade IA, Oyesegun R, Samson ML, Sanni A, Sharma A, Sowunmi A, Sulaiman AT, Adebukola OT, Wuraola F, Adeleye AO, Adewunmi OL, Zarami AB, Kingham TP, Du M",
+      "Journal": "JAMA network open"
+    },
+    {
+      "PMID": "42545305",
+      "Title": "AGA Clinical Practice Update on Surveillance of Metaplastic and Premalignant Conditions of the Esophagus and Colorectum in Older Adults: Expert Review",
+      "Authors": "Calderwood AH, Yoshida CM, Das KK, Falk GW",
+      "Journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association"
+    }
+  ]
+}

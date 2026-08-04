@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_crispr_gene_editing",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550203",
+      "Title": "[Current and future therapies for bradykinin-mediated angioedema]",
+      "Authors": "Fasshauer M, Dominas N",
+      "Journal": "Dermatologie (Heidelberg, Germany)"
+    },
+    {
+      "PMID": "42549590",
+      "Title": "CRISPR/Cas9-edited organoids as a platform for tailored research of colorectal cancer",
+      "Authors": "Mojzesova N, Hladikova P, Kozovska Z, Poturnajova M, Tyciakova S, Matuskova M",
+      "Journal": "Neoplasma"
+    },
+    {
+      "PMID": "42549577",
+      "Title": "BASELINE: a CRISPR base editing platform for mammalian-scale single-cell lineage tracing",
+      "Authors": "Winter E, Emiliani F, Cook A, Abderrahim A, McKenna A",
+      "Journal": "Nucleic acids research"
+    },
+    {
+      "PMID": "42549575",
+      "Title": "Cas-regulation-targeting chimera enables selective and tunable control of CRISPR/Cas12a",
+      "Authors": "Li Y, Han P, Yuan R, Bai L, Qing M",
+      "Journal": "Nucleic acids research"
+    },
+    {
+      "PMID": "42549491",
+      "Title": "The PtARF6/PtARF8-PtGH3.1 transcriptional module regulates auxin homeostasis and dwarfism in citrus",
+      "Authors": "Chen S, Fan Z, Peng J, Zheng H, Xu Q, Xiao S, Pan Z",
+      "Journal": "Plant physiology"
+    },
+    {
+      "PMID": "42545979",
+      "Title": "A Digital Microfluidic Electroporation Platform for Low-input CRISPR Genome Editing and mRNA Transfection In Suspension T Cells and 3D Cell Models",
+      "Authors": "Patel MA, Singh M, Sinha H, Vo PQN, Chin AB, Ellouzi A, West M, Hirukawa A",
+      "Journal": "Journal of visualized experiments : JoVE"
+    },
+    {
+      "PMID": "42545527",
+      "Title": "A Reproducible Electroporation Strategy for CRISPR-Cas9 RNP and mRNA Delivery in Fish Embryos",
+      "Authors": "Hu Y, Fang F, Cui Z, Chen S",
+      "Journal": "Marine biotechnology (New York, N.Y.)"
+    },
+    {
+      "PMID": "42542076",
+      "Title": "Recent advances in biomarkers, artificial intelligence, and targeted therapeutic strategies in breast cancer: Current progress and future perspectives",
+      "Authors": "Sharma D, Bhardwaj P, Mishra KK, Mishra N, Tiwari A",
+      "Journal": "Cancer treatment and research communications"
+    },
+    {
+      "PMID": "42541388",
+      "Title": "Nonhuman Primate Genomes Have Limited Relevance for Evaluating Human CRISPR Off-Target Effects",
+      "Authors": "Blaha L, Bosinger M, Bodian DL, Qu V, Warner JB, Borges CM, Mueller C",
+      "Journal": "Human gene therapy"
+    },
+    {
+      "PMID": "42541310",
+      "Title": "Parahenipavirus langyaense (Langya virus): Spillover ecology, noncanonical receptor-mediated entry, and future control strategies",
+      "Authors": "Shen L, Tong Y, Chai W, Sun J, Zhao J, Yin L, Yang Y, Wang C, Tan W, Zhang J",
+      "Journal": "One health (Amsterdam, Netherlands)"
+    }
+  ]
+}

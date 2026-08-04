@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_obesity",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT06175988",
+      "Title": "Visceral Adiposity, Vagal Tone and Food Preferences: a Pilot Study",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06670703",
+      "Title": "A Clinical Study of the Effects of Environmental Pollution on Obesity",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT05771857",
+      "Title": "Obesity: an Underappreciate Risk Factor for Severe Form of COVID-19",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05232695",
+      "Title": "Brown Fat Tissue Related Hormone Levels in Metabolically Healthy and Unhealthy Obese Individuals",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06136533",
+      "Title": "The Effect of Sarcopenic Obesity on Sleep in Individuals With Obesity Hypoventilation Syndrome",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07055620",
+      "Title": "Effects of Different Dietary Models on Eating Behavior and Obesity Management in Overweight and Obese Individuals",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04829162",
+      "Title": "Weight Stigma by Association in Parent-Child Dyads",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06288178",
+      "Title": "The Effect of Consumption of Bread Types Made From Various Flours on Blood Glucose Fluctuations",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06427525",
+      "Title": "The Effect of Mobile Application Supported Health Promotion Program on Obesity of Adolescents",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04640701",
+      "Title": "Obesity in G60 Trauma Patients / Obesity in G60 Trauma Patients",
+      "Status": "COMPLETED"
+    }
+  ]
+}

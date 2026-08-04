@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_interferon_gamma",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P01579",
+      "EntryName": "IFNG_HUMAN",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P49708",
+      "EntryName": "IFNG_CHICK",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P46402",
+      "EntryName": "IFNG_FELCA",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P17803",
+      "EntryName": "IFNG_PIG",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P42161",
+      "EntryName": "IFNG_CANLF",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P42160",
+      "EntryName": "IFNG_HORSE",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P01581",
+      "EntryName": "IFNG_RAT",
+      "GeneName": "Ifng"
+    },
+    {
+      "Accession": "P01580",
+      "EntryName": "IFNG_MOUSE",
+      "GeneName": "Ifng"
+    },
+    {
+      "Accession": "O77763",
+      "EntryName": "IFNG_EQUAS",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P38484",
+      "EntryName": "INGR2_HUMAN",
+      "GeneName": "IFNGR2"
+    },
+    {
+      "Accession": "P07353",
+      "EntryName": "IFNG_BOVIN",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P63309",
+      "EntryName": "IFNG_MACFA",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P17773",
+      "EntryName": "IFNG_SHEEP",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "Q25BC0",
+      "EntryName": "IFNG_VULVU",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P42162",
+      "EntryName": "IFNG_CERAT",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P63310",
+      "EntryName": "IFNG_MACMU",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P63311",
+      "EntryName": "IFNG_MACNE",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "Q9TV67",
+      "EntryName": "IFNG_TURTR",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "Q865Y4",
+      "EntryName": "IFNG_PAPAN",
+      "GeneName": "IFNG"
+    },
+    {
+      "Accession": "P15260",
+      "EntryName": "INGR1_HUMAN",
+      "GeneName": "IFNGR1"
+    },
+    {
+      "Accession": "P15261",
+      "EntryName": "INGR1_MOUSE",
+      "GeneName": "Ifngr1"
+    },
+    {
+      "Accession": "P13284",
+      "EntryName": "GILT_HUMAN",
+      "GeneName": "IFI30"
+    },
+    {
+      "Accession": "Q5XJN2",
+      "EntryName": "GILT_DANRE",
+      "GeneName": "ifi30a"
+    },
+    {
+      "Accession": "Q00978",
+      "EntryName": "IRF9_HUMAN",
+      "GeneName": "IRF9"
+    },
+    {
+      "Accession": "Q16666",
+      "EntryName": "IF16_HUMAN",
+      "GeneName": "IFI16"
+    }
+  ]
+}

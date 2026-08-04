@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_hiv_antiretroviral_therapy",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42549876",
+      "Title": "Selection of effective LRAs using a newly designed in vitro HIV latency reactivation protocol: toward future application in HIV samples",
+      "Authors": "Neri A, Rotili A, Morrocchi E, Pascucci GR, Pighi C, Olivieri G, Betto F, Emili E, Karmakar R, Iaconis D, Lunghini F, Coppola G, Amodio D, Cotugno N, Palma P",
+      "Journal": "Microbiology spectrum"
+    },
+    {
+      "PMID": "42549828",
+      "Title": "Sarcopenic Obesity in People With HIV: Diagnostic Criteria and Classification-A Scoping Review With a Meta-Analysis of Prevalence",
+      "Authors": "Correia IM, Moraes CALC, J\u00fanior MFT, Brilhadori J, Anjos JRCD, Gomide EBG, Mazzonetto LF, Oliveira AS, Silva LS, Finco G, O 'Brien KK, Erlandson KM, Webel AR, Oliveira V, Cordeiro JFC, Santos APD",
+      "Journal": "Journal of obesity"
+    },
+    {
+      "PMID": "42549727",
+      "Title": "Factors influencing improved adherence and retention among men living with human immunodeficiency virus in sub-Saharan Africa: A scoping review",
+      "Authors": "Matonyane LG, Ross A",
+      "Journal": "African journal of primary health care & family medicine"
+    },
+    {
+      "PMID": "42549725",
+      "Title": "Experiences of human immunodeficiency virus-positive postpartum women in Angola: Challenges and opportunities in preventing vertical transmission",
+      "Authors": "Solari PN, Pires JC, Aguiar PM, Goes AR, Augusto GF",
+      "Journal": "African journal of primary health care & family medicine"
+    },
+    {
+      "PMID": "42549160",
+      "Title": "Ending the HIV Epidemic in the United States Among Men Who Have Sex With Men: A Modeling Analysis",
+      "Authors": "Scott JA, Spaeth H, Chi KK, Pei P, Wattananimitgul N, Neilan AM, Holland DP, Hyle EP, Freedberg KA",
+      "Journal": "Open forum infectious diseases"
+    },
+    {
+      "PMID": "42548058",
+      "Title": "CD151 identifies a cytotoxic CD4 T cell population enriched in people with HIV that later develop cancer",
+      "Authors": "Perez M, Zhu F, Carlin E, Greer BD, Schroeder A, Lowman KE, Opsteen S, Fram T, Tidwell C, Duverger A, Wagner F, Moylan DC, Prichard L, Kobie J, Heath SL, Goepfert PA, Hu H, Sabbaj S, Kutsch O, Erdmann NB",
+      "Journal": "Journal of immunology (Baltimore, Md. : 1950)"
+    },
+    {
+      "PMID": "42547178",
+      "Title": "Update in Human Immunodeficiency Virus and Aging",
+      "Authors": "Faulhaber JR, Baffoe-Bonnie AW, Oursler KK, Vasudeva SS",
+      "Journal": "Clinics in geriatric medicine"
+    },
+    {
+      "PMID": "42546194",
+      "Title": "A TCR-mimic bispecific antibody reduces HIV-1 provirus and delays viral rebound in HLA-matched humanized mice",
+      "Authors": "Yuan Z, Board NL, Zhao M, Zu G, Sengupta S, Li Q, Siliciano JD, Siliciano RF, Montaner LJ",
+      "Journal": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "PMID": "42545089",
+      "Title": "Sorafenib enforces HIV-1 latency by selectively inhibiting PKC-driven STAT1/3 serine 727 phosphorylation",
+      "Authors": "Wang P, Meng Z, Zhou J, Wu H, Wang W, Gao Z, Zhang Y, Cai J",
+      "Journal": "Antimicrobial agents and chemotherapy"
+    },
+    {
+      "PMID": "42544906",
+      "Title": "Association Between High Serum Aspartate Transaminase to Alanine Transaminase Ratio and Probable HIV Dementia Among People Living With HIV on Dolutegravir-Based Antiretroviral Therapy: A Cross-Sectional Study from Central Uganda",
+      "Authors": "Bagenda CN, Nantongo C, Mugisa MJ, Olwoch V, Naziiwa F, Masereka C, Bagambe B, Somikwo G, Sempijja F, Tumusiime J, Tusubira D",
+      "Journal": "Journal of the International Association of Providers of AIDS Care"
+    }
+  ]
+}

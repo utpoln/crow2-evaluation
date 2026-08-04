@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_autism_spectrum_disorder_genetics",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=autism+spectrum+disorder+genetics&sort=date",
+  "elapsed_seconds": 5.102908208999999,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Autism-specific spliceosomal transcriptomic signatures in prefrontal cortex contrasted with bipolar disorder.",
+      "Authors": "Marmontel P, Rabelo-da-Ponte FD, Kapczinski F, Gottfried C.",
+      "Journal": "Trends Psychiatry Psychother. 2026 Aug 4. doi: 10.47626/2237-6089-2026-1336. Online ahead of print.",
+      "PMID": "42550007"
+    },
+    {
+      "Title": "Washed microbiota transplantation improves clinical symptoms, gut microbiota, and metabolic profiles in autism spectrum disorder in a twin cohort.",
+      "Authors": "Feng S, Si X, Lu C, Gao Z, Wang J, Yang Q, Lu S, Su T, Yang J, He X, Wu L.",
+      "Journal": "Front Microbiol. 2026 Jul 17;17:1885281. doi: 10.3389/fmicb.2026.1885281. eCollection 2026.",
+      "PMID": "42549413"
+    },
+    {
+      "Title": "Hypomelanosis of Ito with Local Overgrowth due to a Somatic Complex MTOR Gene Variant Consistent with Smith-Kingsmore Syndrome in One of Monozygotic Twins Detectable Only by RNA Sequencing: A Case Report.",
+      "Authors": "Karaca NB, Ceylaner S, Yeniay S\u00fct N, Al\u0131c\u0131 N, \u015een R, Akbal \u015eahin M, Dereli Devrez F, Yilmaz A.",
+      "Journal": "Mol Syndromol. 2026 Jun 16. doi: 10.1159/000553077. Online ahead of print.",
+      "PMID": "42549377"
+    },
+    {
+      "Title": "Clinical Phenotypes Associated with NRXN1 Deletions in Five Children with Autism Spectrum Disorder in Oman.",
+      "Authors": "AlHousni SS, Idris A, Al-Mamari W, Al-Sayegh A.",
+      "Journal": "Sultan Qaboos Univ Med J. 2026 Jul 29;26(1):448-454. doi: 10.18295/2075-0528.3002. eCollection 2026.",
+      "PMID": "42549207"
+    },
+    {
+      "Title": "Novel splice-site and recurrent p.Arg729* CNKSR2 variants in ESES/CSWS: insights into sex-dependent expression.",
+      "Authors": "Deniz A, \u00dc\u00e7tepe E, S\u00f6nmez FM.",
+      "Journal": "Seizure. 2026 Jul 19;141:239-243. doi: 10.1016/j.seizure.2026.07.013. Online ahead of print.",
+      "PMID": "42541982"
+    },
+    {
+      "Title": "Heterogeneity in autism - challenges and opportunities.",
+      "Authors": "Yu X.",
+      "Journal": "Curr Opin Neurobiol. 2026 Aug 1;100:103250. doi: 10.1016/j.conb.2026.103250. Online ahead of print.",
+      "PMID": "42541849"
+    },
+    {
+      "Title": "Drosophila Prickle Mutants Display Comorbid Neurological Phenotypes and Provide A Genetic Link Between Epilepsy and Autism Spectrum Disorder.",
+      "Authors": "Nukala KM, Williquett B, Lilienthal AJ, Thompson DM, Massingham JN, Lye SH, Yu A, Lear BC, Neely GG, Chtarbanova S, Manak JR.",
+      "Journal": "bioRxiv [Preprint]. 2026 Jul 23:2026.07.20.739611. doi: 10.64898/2026.07.20.739611.",
+      "PMID": "42539164"
+    },
+    {
+      "Title": "Rare VDR variant rs1338135647 and lower vitamin D levels in autism spectrum disorder: An exploratory case-control study in Indonesian children.",
+      "Authors": "Samosir SM, Wungu CDK, Noviandi R, Alwi ZB, Wan Taib WR, Setiawati Y, Gunawan PI.",
+      "Journal": "Biomol Biomed. 2026 Jul 31. doi: 10.17305/bb.2026.14353. Online ahead of print.",
+      "PMID": "42535482"
+    },
+    {
+      "Title": "5-HT 2A receptor in medial prefrontal cortex mediates pain-related empathic responses in rats.",
+      "Authors": "Luo WJ, Du R, Li CL, Wang Y, Yu Y, Wu S, Chen J.",
+      "Journal": "Zool Res. 2026 Jul 18;47(4):1293-1307. doi: 10.24272/j.issn.2095-8137.2025.352.",
+      "PMID": "42533581"
+    },
+    {
+      "Title": "X-linked SYTL4 missense variant disrupts RAB27A-dependent vesicle trafficking and synaptic transmission in autism.",
+      "Authors": "Liao Y, Zhang S, Zhang X, Tan S, Luo Y, Wan Y, Lyu Y, Xie B, Zhan R, Zhang Y, Chen G, Jia X, Hu Z, Zheng Y, Mao X, Wang H, Tan J, Li F, Peng Y, Xia K, Guo H.",
+      "Journal": "Proc Natl Acad Sci U S A. 2026 Aug 4;123(31):e2605483123. doi: 10.1073/pnas.2605483123. Epub 2026 Jul 30.",
+      "PMID": "42531028"
+    }
+  ]
+}

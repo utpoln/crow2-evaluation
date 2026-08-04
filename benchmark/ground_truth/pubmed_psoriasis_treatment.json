@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_psoriasis_treatment",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42549318",
+      "Title": "Hemophagocytic Lymphohistiocytosis Triggered by HSV\u20111 in a Patient with Refractory Crohn's Disease After Long\u2011Term Sequential Immunosuppressive Therapy",
+      "Authors": "Yao L, Tu H, Cao Q",
+      "Journal": "Biologics : targets & therapy"
+    },
+    {
+      "PMID": "42547478",
+      "Title": "The Definition of Psoriasis Severity and Treatment Target of Psoriasis: Korean Expert Consensus Using the Modified Delphi Method",
+      "Authors": "Bang CH, Baek YS, Kim TG, Jeong KH, Kim JE, Jo SJ, Lee ES, Choe YB, Korean Society for Psoriasis",
+      "Journal": "Annals of dermatology"
+    },
+    {
+      "PMID": "42547477",
+      "Title": "Factors Associated With PASI90 Maintenance Without Flare-Up and Predictors of Biologics Discontinuation in Psoriasis: Two-Center Retrospective Cohort Study in Korea",
+      "Authors": "Choi MS, Yeom K, Jung SW, Hong SP, Kong KA, Kim MH",
+      "Journal": "Annals of dermatology"
+    },
+    {
+      "PMID": "42547476",
+      "Title": "Real-World Effectiveness and Safety of Deucravacitinib for Plaque Psoriasis: A Multicenter Study in Korea",
+      "Authors": "Shin BS, Kim BS, Lee GJ, Seong J, Kim G, Gwack J, Nam KH",
+      "Journal": "Annals of dermatology"
+    },
+    {
+      "PMID": "42545602",
+      "Title": "Clinical Outcomes After Week-12 Response-Guided Secukinumab Discontinuation in Psoriasis: A Prospective Real-World Cohort Study",
+      "Authors": "Ma X, Jiang Y, Liu D, Xu Q, Shen F, Duan Z, Gao X, Zhang X, Cai R, Zhang R, Li B, Wang R",
+      "Journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy"
+    },
+    {
+      "PMID": "42544704",
+      "Title": "Systemic single-cell analysis of GPP reveals treatment-responsive and persistent immune signatures",
+      "Authors": "Jeong S, Lee S, Joh CS, Krueger JG, Kim HJ, Jo SJ, Chae JH",
+      "Journal": "Clinical and translational medicine"
+    },
+    {
+      "PMID": "42544342",
+      "Title": "Impact of Psoriasis on Patient Well-Being Across Life Stages: A Cross-Sectional Survey (Inpsight Working Group)",
+      "Authors": "Daud\u00e9n E, De la Cueva P, Belinch\u00f3n I, Gallardo F, Coto P, Ruiz-Villaverde R, Poveda JL, Ramirez E, Colominas E, Ros S, Alfonso S, L\u00f3pez-P\u00e9rez D, Comellas M",
+      "Journal": "Psoriasis (Auckland, N.Z.)"
+    },
+    {
+      "PMID": "42544184",
+      "Title": "Therapeutic management of axial spondyloarthritis: summary of 2024 update of the Spanish clinical practice guideline (ESPOGUIA)",
+      "Authors": "L\u00f3pez-Medina C, Montilla-Morales C, Moreno M, Moreno-Ramos MJ, Queiro R, Ram\u00edrez J, D\u00edaz-Valle D, Fern\u00e1ndez-Clotet A, Riera J, D\u00edaz-Del Campo P, Ca\u00f1ete JD, Navarro-Comp\u00e1n V",
+      "Journal": "Therapeutic advances in musculoskeletal disease"
+    },
+    {
+      "PMID": "42544141",
+      "Title": "Comment on: Psoriasis under B-cell depleting therapies in multiple sclerosis: a retrospective multicenter analysis",
+      "Authors": "Li M, Mo Z",
+      "Journal": "Therapeutic advances in neurological disorders"
+    },
+    {
+      "PMID": "42543704",
+      "Title": "Hepatic Steatosis in Biologic-Treated Patients With Psoriasis and Low Current Disease Activity: Prevalence and Metabolic Determinants",
+      "Authors": "Ding L, Chen J, Dong X",
+      "Journal": "The Journal of dermatology"
+    }
+  ]
+}

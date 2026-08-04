@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_cystic_fibrosis_cftr",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42549208",
+      "Title": "Polymicrobial Extracellular Vesicles Reduce the Innate Immune Response of Human Cystic Fibrosis Bronchial Epithelial Cells",
+      "Authors": "Charpentier LA, Barnaby RL, Roche CT, Cho BK, Kaushal P, Goo YA, Vietje B, Taatjes DJ, Ashare A, Jean-Pierre F, Stanton BA",
+      "Journal": "Journal of extracellular biology"
+    },
+    {
+      "PMID": "42547963",
+      "Title": "Potassium Channels of the Airway Epithelium",
+      "Authors": "Villanueva S, Vera E, Apablaza T, Catal\u00e1n MA, Flores CA",
+      "Journal": "Acta physiologica (Oxford, England)"
+    },
+    {
+      "PMID": "42545024",
+      "Title": "DNA sequencing for microbial surveillance in cystic fibrosis airways: advances, challenges, and clinical translation",
+      "Authors": "Carlson-Jones JAP, Goddard TR, Papudeshi B, Mallawaarachchi V, Whiteson KL, Warner MS, Morton JM, Jersmann HPA, Edwards RA",
+      "Journal": "Clinical microbiology reviews"
+    },
+    {
+      "PMID": "42537882",
+      "Title": "Pathogenic respiratory microbiota in cystic fibrosis: impact of 2 years of triple CFTR modulator therapy",
+      "Authors": "Demeule C, Amoureux L, Huet F, Allou N, Le Naour C, Garrigos T, Collaborators",
+      "Journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases"
+    },
+    {
+      "PMID": "42537817",
+      "Title": "Real-world Efficacy, Safety and Heterogenicity of Efficacy of Elexacaftor-Tezacaftor-Ivacaftor in Younger Children (6-11 Years Old) with Cystic Fibrosis",
+      "Authors": "Sheikh S, Holtzlander M, Eisner M, Gushue C, Palacios S, Mull E, Imran S, Kotha K, McCoy KS",
+      "Journal": "Respiratory medicine"
+    },
+    {
+      "PMID": "42536714",
+      "Title": "CFTR modulators exert subset-specific phenotype remodeling on circulating neutrophils in cystic fibrosis",
+      "Authors": "Chable de la H\u00e9ronni\u00e8re F, Dh\u00f4te T, de Oliveira Formiga R, Regard L, Saraceni-Tasso G, Andrieu M, Many S, Da Silva J, P\u00e8ne F, Martin C, Ladjemi MZ, Burgel PR, Witko-Sarsat V",
+      "Journal": "ImmunoHorizons"
+    },
+    {
+      "PMID": "42533177",
+      "Title": "Developmental dynamics of ovine lung in health and cystic fibrosis at single-cell resolution",
+      "Authors": "Tkachenko S, Leir SH, Van Wettere AJ, Perisse IV, Mustafa Y, Marriott CM, Patrick T, Liu Y, White KL, Polejaeva IA, Harris A",
+      "Journal": "Functional & integrative genomics"
+    },
+    {
+      "PMID": "42532735",
+      "Title": "Real-world population pharmacokinetic modeling of elexacaftor, tezacaftor, and ivacaftor",
+      "Authors": "Kunzelmann AK, Naehrig S, Shad C, Breuling M, Goetschke M, Habler K, Sommerburg O, Behr J, Schatz LM, Starp J, Vogeser M, Paal M, Liebchen U",
+      "Journal": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society"
+    },
+    {
+      "PMID": "42529376",
+      "Title": "Extracellular vesicle-based delivery to airway basal cells for durable gene therapy in cystic fibrosis",
+      "Authors": "Ivleva A, Demchenko A, Smirnikhina S",
+      "Journal": "Frontiers in bioengineering and biotechnology"
+    },
+    {
+      "PMID": "42521039",
+      "Title": "Weight Gain is Associated with Reduced Inflammation in Children with Cystic Fibrosis on Elexacaftor/Tezacaftor/Ivacaftor",
+      "Authors": "G\u00f6kbulut N, Heer P, Ezri J, Mornand A, Regamey N, Rochat I, Rybak A, Blanchon S",
+      "Journal": "Respiratory medicine"
+    }
+  ]
+}

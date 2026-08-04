@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_tp53_tumor_suppressor",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42544660",
+      "Title": "[Impact of TP53 and MYD88 Mutations on Treatment Efficacy in Diffuse Large B-Cell Lymphoma]",
+      "Authors": "Yao YM, Shi YY, Deng Y, Li YJ, Chen QN, Miao YQ, Wang CL",
+      "Journal": "Zhongguo shi yan xue ye xue za zhi"
+    },
+    {
+      "PMID": "42544575",
+      "Title": "JNK and p53 cause human and mouse \u03b2 cell death during excessive unfolded protein response",
+      "Authors": "Sharma RB, Darko C, Wang Y, Castro TA, Lama TD, Gablaski B, Rappa A, Redmond D, Kim JK, Lee AS, Alonso LC",
+      "Journal": "The Journal of clinical investigation"
+    },
+    {
+      "PMID": "42541598",
+      "Title": "Mutant p53-R280K hijacks SREBP1 to promote fatty acid synthesis and breast cancer progression via FASN",
+      "Authors": "Fang Y, Zhang T, Huang M, Lin J, Ye Q",
+      "Journal": "Molecular biology reports"
+    },
+    {
+      "PMID": "42536940",
+      "Title": "Interplay between p53 dysfunction and inflammatory cytokines in colorectal cancer pathogenesis",
+      "Authors": "Al-Khafaji MH, Hussein SI, Majeed MI",
+      "Journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)"
+    },
+    {
+      "PMID": "42533115",
+      "Title": "p53 hotspot mutants attenuate CTL-mediated tumor cell killing through a novel ALKBH5-YTHDF3-PD-L1 pathway",
+      "Authors": "Ju Z, Zhang X, Zuo W, Zhang L, Fan X, Zhang C, Zhang X, Zhang X, Wang Y, Xing Y, Zuo B, Yang A, Zhang R, Yin H",
+      "Journal": "Oncogene"
+    },
+    {
+      "PMID": "42530251",
+      "Title": "GPR19 Drives Cell Cycle Progression via ERK-Dependent FOXM1 Activation in p53-Mutant Breast Cancer",
+      "Authors": "Qiu J, Tian C, Li H, Gao S, Yang C, Luo Q, Liu Y, He K, Li K, Peng Y, Yu H, Tang L, Liu S",
+      "Journal": "Frontiers in bioscience (Landmark edition)"
+    },
+    {
+      "PMID": "42516388",
+      "Title": "TP53 loss attenuates C1q-associated macrophage remodeling in early adenomatous polyps in a porcine FAP model",
+      "Authors": "Chan Q, Liang W, Flisikowska T, Ebner F, Flisikowski K",
+      "Journal": "Frontiers in immunology"
+    },
+    {
+      "PMID": "42511745",
+      "Title": "Activation of EZH2 Promoter Is Mediated by MAPK Signaling Regulated Transcription Factors in Anaplastic Thyroid Cancer",
+      "Authors": "Cristov\u00e3o MM, de Mello DC, Kimura ET, Fuziwara CS",
+      "Journal": "International journal of molecular sciences"
+    },
+    {
+      "PMID": "42511703",
+      "Title": "Modulation of TP53 Expression by Cosmos caudatus (Ulam raja) in OSCC Cell Lines",
+      "Authors": "Liaw KS, Ng SL, Mahyuddin A, Ibrahim N, Chua EW, You YX, Mahamad Apandi NI",
+      "Journal": "International journal of molecular sciences"
+    },
+    {
+      "PMID": "42510971",
+      "Title": "p53 and p21 Status Influences Cellular Response to Metformin in KRAS-Mutant HCT116 Colorectal Cancer Cells",
+      "Authors": "Saeed A, Hijazi J, Bashir Z, Khoueiry P, Eid AA, Darwiche N, Bengoechea-Alonso MT, Ericsson J, Mifsud BI, Nemer G",
+      "Journal": "Current issues in molecular biology"
+    }
+  ]
+}

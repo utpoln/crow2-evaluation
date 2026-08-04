@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_ferritin",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P02792",
+      "EntryName": "FRIL_HUMAN",
+      "GeneName": "FTL"
+    },
+    {
+      "Accession": "P29391",
+      "EntryName": "FRIL1_MOUSE",
+      "GeneName": "Ftl1"
+    },
+    {
+      "Accession": "Q8N4E7",
+      "EntryName": "FTMT_HUMAN",
+      "GeneName": "FTMT"
+    },
+    {
+      "Accession": "P19132",
+      "EntryName": "FRIH_RAT",
+      "GeneName": "Fth1"
+    },
+    {
+      "Accession": "P09528",
+      "EntryName": "FRIH_MOUSE",
+      "GeneName": "Fth1"
+    },
+    {
+      "Accession": "P02794",
+      "EntryName": "FRIH_HUMAN",
+      "GeneName": "FTH1"
+    },
+    {
+      "Accession": "P19130",
+      "EntryName": "FRIH_PIG",
+      "GeneName": "FTH1"
+    },
+    {
+      "Accession": "P0A998",
+      "EntryName": "FTNA_ECOLI",
+      "GeneName": "ftnA"
+    },
+    {
+      "Accession": "P07798",
+      "EntryName": "FRI2_AQUCT",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q13772",
+      "EntryName": "NCOA4_HUMAN",
+      "GeneName": "NCOA4"
+    },
+    {
+      "Accession": "Q9VA83",
+      "EntryName": "FRIL_DROME",
+      "GeneName": "Fer2LCH"
+    },
+    {
+      "Accession": "Q7KRU8",
+      "EntryName": "FRIH_DROME",
+      "GeneName": "Fer1HCH"
+    },
+    {
+      "Accession": "P29036",
+      "EntryName": "FRI1_MAIZE",
+      "GeneName": "FER1"
+    },
+    {
+      "Accession": "P29390",
+      "EntryName": "FRI2_MAIZE",
+      "GeneName": "FER2"
+    },
+    {
+      "Accession": "Q9LYN2",
+      "EntryName": "FRI3_ARATH",
+      "GeneName": "FER3"
+    },
+    {
+      "Accession": "P24602",
+      "EntryName": "FTNA_SYNY3",
+      "GeneName": "bfrA"
+    },
+    {
+      "Accession": "Q39101",
+      "EntryName": "FRI1_ARATH",
+      "GeneName": "FER1"
+    },
+    {
+      "Accession": "Q9S756",
+      "EntryName": "FRI4_ARATH",
+      "GeneName": "FER4"
+    },
+    {
+      "Accession": "P19976",
+      "EntryName": "FRI1_SOYBN",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P02793",
+      "EntryName": "FRIL1_RAT",
+      "GeneName": "Ftl1"
+    },
+    {
+      "Accession": "P02791",
+      "EntryName": "FRIL_HORSE",
+      "GeneName": "FTL"
+    },
+    {
+      "Accession": "P07229",
+      "EntryName": "FRI1_AQUCT",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P42578",
+      "EntryName": "FRIY_LYMST",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q9HWF9",
+      "EntryName": "FTNA_PSEAE",
+      "GeneName": "ftnA"
+    },
+    {
+      "Accession": "P9WNE5",
+      "EntryName": "BFRB_MYCTU",
+      "GeneName": "bfrB"
+    }
+  ]
+}

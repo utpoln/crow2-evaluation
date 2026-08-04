@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_schizophrenia_genetics",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=schizophrenia+genetics&sort=date",
+  "elapsed_seconds": 5.420593000000011,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Correction: Identification of hub genes involved in early-onset schizophrenia: from genetic susceptibility to predicted regulated gene expression.",
+      "Authors": "Jen Y, Yu SL, Hsiao PC, Kuo PH, Liu CM, Liu CC, Hwang TJ, Hsieh MH, Chien YL, Lin YT, Huang H, Feng YA, Hsiao CK, Lin YF, Faraone SV, Neale B, Glatt SJ, Tsuang MT, Hwu HG, Chen WJ.",
+      "Journal": "Mol Psychiatry. 2026 Aug 3. doi: 10.1038/s41380-026-03781-3. Online ahead of print.",
+      "PMID": "42547804"
+    },
+    {
+      "Title": "Neuroinflammatory pathways linking pain and rehabilitation outcomes in schizophrenia: a narrative review.",
+      "Authors": "Sedghi Esfahani S, Mahdinia E, Dehkhodaei S, Abedi Oumali N, Taherkhani S, Rafaiee R.",
+      "Journal": "Pain Manag. 2026 Aug 3:1-19. doi: 10.1080/17581869.2026.2713532. Online ahead of print.",
+      "PMID": "42547491"
+    },
+    {
+      "Title": "Baseline neutrophil count, benign ethnic neutropenia risk, and clozapine haematological monitoring: A multi-ethnic retrospective cohort study from the United Arab Emirates.",
+      "Authors": "Bokhari SA, Elnoor M, Sabri M, Bardi M, Nawaz FA, Javaid SF.",
+      "Journal": "Schizophr Res. 2026 Aug 3;297:76-88. doi: 10.1016/j.schres.2026.07.026. Online ahead of print.",
+      "PMID": "42546354"
+    },
+    {
+      "Title": "The Omnicausal Model Reveals the Highly Polyfactorial Nature of Complex Diseases.",
+      "Authors": "M\u00e1rquez-Luna C, Tournaire M, Rocheleau G, Do R, Verbanck M.",
+      "Journal": "Genet Epidemiol. 2026 Sep;50(6):e70052. doi: 10.1002/gepi.70052.",
+      "PMID": "42541367"
+    },
+    {
+      "Title": "DNA methylation as proxy of genetic, prenatal and perinatal psychiatric risk factors.",
+      "Authors": "Isaevska E, Mulder RH, Schuurmans IK, Creasey N, Felix JF, Pingault JB, van Haren N, Cecil C, Neumann A.",
+      "Journal": "medRxiv [Preprint]. 2026 Jul 24:2026.07.22.26358558. doi: 10.64898/2026.07.22.26358558.",
+      "PMID": "42539042"
+    },
+    {
+      "Title": "Subtypes of Somatostatin and Other Interneurons Are Real, Whether We Believe in Them or Not.",
+      "Authors": "Duncan L.",
+      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):520-522. doi: 10.1176/appi.ajp.20260532. Epub 2026 Aug 1.",
+      "PMID": "42538590"
+    },
+    {
+      "Title": "Schizophrenia Beyond Genome-Wide Association Studies: It's About Time.",
+      "Authors": "Pergola G, Weinberger DR.",
+      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):526-539. doi: 10.1176/appi.ajp.20260566. Epub 2026 Aug 1.",
+      "PMID": "42538589"
+    },
+    {
+      "Title": "Schizophrenia: Insights Into its Etiology and Pathophysiology.",
+      "Authors": "Kalin NH.",
+      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):511-513. doi: 10.1176/appi.ajp.20260614. Epub 2026 Aug 1.",
+      "PMID": "42538588"
+    },
+    {
+      "Title": "Copy Number Variation in Schizophrenia: Developmental Timing and Clinical Heterogeneity.",
+      "Authors": "Birnbaum R.",
+      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):517-519. doi: 10.1176/appi.ajp.20260449. Epub 2026 Aug 1.",
+      "PMID": "42538587"
+    },
+    {
+      "Title": "Cerebrospinal fluid biomarkers reveal transdiagnostic synaptic dysfunction across major psychiatric disorders.",
+      "Authors": "G\u00f6teson A, Nilsson J, Camporesi E, Klahn AL, H\u00f6rbeck E, Sigstr\u00f6m R, Jonsson L, Sparding T, P\u00e5lsson E, Pelanis A, Goulding A, Isgren A, Erhardt S, Cervenka S, Bulik CM, Zetterberg H, Blennow K, Sellgren CM, Brinkmalm A, Land\u00e9n M.",
+      "Journal": "Nat Commun. 2026 Jul 30;17(1):7604. doi: 10.1038/s41467-026-76187-y.",
+      "PMID": "42532998"
+    }
+  ]
+}

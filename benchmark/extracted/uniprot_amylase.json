@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_amylase",
+  "url": "https://www.uniprot.org/uniprotkb?query=amylase&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.197770208999998,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "P21543",
+      "EntryName": "AMYB_PAEPO",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P0DTE8",
+      "EntryName": "AMY1C_HUMAN",
+      "GeneName": "AMY1C, AMY1"
+    },
+    {
+      "Accession": "P0DTE7",
+      "EntryName": "AMY1B_HUMAN",
+      "GeneName": "AMY1B, AMY1"
+    },
+    {
+      "Accession": "P0DUB6",
+      "EntryName": "AMY1A_HUMAN",
+      "GeneName": "AMY1A, AMY1"
+    },
+    {
+      "Accession": "H2N0D4",
+      "EntryName": "AMY_ORYLA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P9WQ19",
+      "EntryName": "TRES_MYCTU",
+      "GeneName": "treS, Rv0126"
+    },
+    {
+      "Accession": "A0R6E0",
+      "EntryName": "TRES_MYCS2",
+      "GeneName": "treS, MSMEG_6515, MSMEI_6343"
+    },
+    {
+      "Accession": "Q9LIR6",
+      "EntryName": "BAM1_ARATH",
+      "GeneName": "BAM1, BMY7, TRBAMY, At3g23920, F14O13.12"
+    },
+    {
+      "Accession": "O23553",
+      "EntryName": "BAM3_ARATH",
+      "GeneName": "BAM3, BMY8, CTBMY, At4g17090, dl4575c, FCAALL.5"
+    },
+    {
+      "Accession": "P13507",
+      "EntryName": "AMT4_STUST",
+      "GeneName": "amyP"
+    },
+    {
+      "Accession": "O65258",
+      "EntryName": "BAM2_ARATH",
+      "GeneName": "BAM2, BMY9, At4g00490, F6N23.1"
+    },
+    {
+      "Accession": "P04746",
+      "EntryName": "AMYP_HUMAN",
+      "GeneName": "AMY2A"
+    },
+    {
+      "Accession": "P00687",
+      "EntryName": "AMY1_MOUSE",
+      "GeneName": "Amy1, Amy-1-a, Amy1a"
+    },
+    {
+      "Accession": "P25853",
+      "EntryName": "BAM5_ARATH",
+      "GeneName": "BAM5, BMY1, RAM1, At4g15210, dl3650c, FCAALL.97"
+    },
+    {
+      "Accession": "L8B068",
+      "EntryName": "MALA_HALJT",
+      "GeneName": "malA, C444_04352"
+    },
+    {
+      "Accession": "P17654",
+      "EntryName": "AMY1_ORYSJ",
+      "GeneName": "AMY1.1, AMY1A, Os02g0765600, LOC_Os02g52710, OJ1004_A11.13, P0539D10.32"
+    },
+    {
+      "Accession": "P56634",
+      "EntryName": "AMY_TENMO",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P25718",
+      "EntryName": "AMY1_ECOLI",
+      "GeneName": "malS, b3571, JW3543"
+    },
+    {
+      "Accession": "P00693",
+      "EntryName": "AMY1_HORVU",
+      "GeneName": "AMY1.1"
+    },
+    {
+      "Accession": "P19531",
+      "EntryName": "AMYM_GEOSE",
+      "GeneName": "amyM"
+    },
+    {
+      "Accession": "P36924",
+      "EntryName": "AMYB_BACCE",
+      "GeneName": "spoII"
+    },
+    {
+      "Accession": "P29957",
+      "EntryName": "AMY_PSEHA",
+      "GeneName": "amy"
+    },
+    {
+      "Accession": "P00688",
+      "EntryName": "AM2A5_MOUSE",
+      "GeneName": "Amy2a5, Amy2, Amy2a"
+    },
+    {
+      "Accession": "P01083",
+      "EntryName": "IAA2_WHEAT",
+      "GeneName": "IMA1"
+    },
+    {
+      "Accession": "P10538",
+      "EntryName": "AMYB_SOYBN",
+      "GeneName": "BMY1"
+    }
+  ]
+}

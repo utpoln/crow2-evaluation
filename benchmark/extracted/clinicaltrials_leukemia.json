@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_leukemia",
+  "url": "https://clinicaltrials.gov/search?term=leukemia&viewType=Table",
+  "elapsed_seconds": 4.355304375000003,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Matched Targeted Therapy For High-Risk Leukemias and Myelodysplastic Syndrome",
+      "NCT_ID": "NCT02670525",
+      "Status": "Active, not recruiting\u00a0 View Results"
+    },
+    {
+      "Title": "Addressing Cancer Care Equity With Social Determinants of Health Screening and Early InterventionNew",
+      "NCT_ID": "NCT07671209",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "The Safety and Tolerability of LBS-007 in Patients With Relapsed or Resistant Acute Leukaemias",
+      "NCT_ID": "NCT05756322",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Banking of Chronic Lymphocytic Leukemia Tumor Cells for Vaccine Generation",
+      "NCT_ID": "NCT00428233",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Rituximab in Hairy Cell Leukemia: a Multicenter Retrospective Study",
+      "NCT_ID": "NCT02883946",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Venetoclax Combined With Azactidine in the Treatment of ALAL",
+      "NCT_ID": "NCT05901974",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Stepped-Care Support for Children With LeukaemiaNew",
+      "NCT_ID": "NCT07587411",
+      "Status": "Enrolling by invitation"
+    },
+    {
+      "Title": "Evaluation of the BD OneFlow Acute Leukemia Panel on the BD FACSLyric Flow Cytometer",
+      "NCT_ID": "NCT05035615",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Collection and Banking of Leukemia Cells MDS/AML",
+      "NCT_ID": "NCT00809367",
+      "Status": "Completed"
+    },
+    {
+      "Title": "A Collaborative Palliative and Oncology Care Model for Patients With Acute Myeloid Leukemia",
+      "NCT_ID": "NCT02975869",
+      "Status": "Completed"
+    }
+  ]
+}

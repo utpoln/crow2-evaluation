@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_insulin_resistance_type_2_diabetes",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550210",
+      "Title": "A Technology-Blended Exercise Intervention for Cognitive Risk Reduction and Brain Health in Middle-Aged and Older Adults with Type 2 Diabetes in Singapore",
+      "Authors": "Zhang J, San Tam WW, Lu J, Chen J, Montayre J, Kusuyama J, Dong Y, Yap XY, Zhou W, Wang N, Yeo HN, Sy Lee FJ, Wu VX",
+      "Journal": "The journals of gerontology. Series A, Biological sciences and medical sciences"
+    },
+    {
+      "PMID": "42549109",
+      "Title": "Type 2 Diabetes Mellitus: Molecular Pathogenesis and Therapeutic Interventions",
+      "Authors": "Fei S, Xiong X, Zhang L, Zhang J, Chan LWC, Jiang H, Xiong Q, Hu C, Chen J, Yang S",
+      "Journal": "MedComm"
+    },
+    {
+      "PMID": "42548880",
+      "Title": "Dapagliflozin and cognitive impairment: pharmacological mechanisms, translational evidence, and future directions",
+      "Authors": "Alhowail AH",
+      "Journal": "Frontiers in pharmacology"
+    },
+    {
+      "PMID": "42548745",
+      "Title": "Dapagliflozin & pioglitazone combination therapy in T2DM with or without MASLD - a systematic review and meta-analysis: PRO-2 study",
+      "Authors": "Joshi S, Samajdar SS, Gupta A, Bhartia M, Lodha S, Bhattacharyya S, Seshadri K, Nagendra L, Unnikrishnan AG, Padhye D, Kopalle LN, Das AK, Lakhani O, Kesavadev J, Joshi A, Das S, Gadia S, Anthuvan T",
+      "Journal": "Frontiers in clinical diabetes and healthcare"
+    },
+    {
+      "PMID": "42547868",
+      "Title": "Association of the triglyceride-glucose index with subclinical left ventricular dysfunction in type 2 diabetes mellitus: mediation by myocardial energetic efficiency and resting perfusion",
+      "Authors": "Jiang L, Li Y, Xu HY, Li XM, Shi K, Wang J, Yu SQ, Jiang Y, Fang H, Yan WF, Guo YK, Yang ZG",
+      "Journal": "Cardiovascular diabetology"
+    },
+    {
+      "PMID": "42547683",
+      "Title": "Sleep loss as a cardiometabolic risk factor: a narrative review of clinical and public health implications",
+      "Authors": "Ghanem FK, Attarian H, Al-Khalil Z, Kabrita CS",
+      "Journal": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine"
+    },
+    {
+      "PMID": "42547586",
+      "Title": "Incidence and independent risk factors for heart failure in a population-based cohort of 19,892 individuals with newly diagnosed diabetes",
+      "Authors": "Lejonberg C, Czuba T, Bennet L, Coral DE, Braun OO, Melander O, Gomez MF, Ahlqvist E, Smith JG",
+      "Journal": "Diabetologia"
+    },
+    {
+      "PMID": "42547104",
+      "Title": "Dietary intakes of anthocyanins and cardiometabolic health: a systematic review and meta-analysis of randomized trials and prospective cohort studies in healthy participants",
+      "Authors": "Avendano EE, Ellingson H, Digga E, Velasco Nieves AM, Chen L, Wu M, Setty SH, Morley S, Curtis P, Nirmala N, Cassidy A",
+      "Journal": "The American journal of clinical nutrition"
+    },
+    {
+      "PMID": "42545501",
+      "Title": "Circadian distribution of carbohydrate intake during adolescence and association with risk markers of type 2 diabetes in adulthood-the role of chronotype",
+      "Authors": "Jankovic N, Schmitting S, Perrar I, Hohoff E, Lesani A, Goletzke J, Stutz B, Herder C, Wudy SA, N\u00f6thlings U, Alexy U",
+      "Journal": "European journal of nutrition"
+    },
+    {
+      "PMID": "42545323",
+      "Title": "[Regional features of the main indicators of carbohydrate metabolism in young residents of various climatic and geographical zones of residence]",
+      "Authors": "Yusupova SK, Nishanova MS, Yusupov KA, Abdurazakova DS, Mukhamedova VM, Abdulazizhojiyeva RB, Chartakova KK, Juliyeva YG, Khamidova MI, Ismoilova SK, Khalilova SR, Supichakov KK",
+      "Journal": "Problemy endokrinologii"
+    }
+  ]
+}

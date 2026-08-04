@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_cystic_fibrosis",
+  "url": "https://clinicaltrials.gov/search?term=cystic+fibrosis&viewType=Table",
+  "elapsed_seconds": 4.356975290999969,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Muscle Strength, Functional Capacity, Respiratory Function and Quality Of Life In Cystic Fibrosis Patients",
+      "NCT_ID": "NCT04734743",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Volatile Organic Compounds in Cystic Fibrosis",
+      "NCT_ID": "NCT01379040",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Cystic Fibrosis and Cognitive Function",
+      "NCT_ID": "NCT03820349",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Psychological Study in Children With Mucoviscidosis",
+      "NCT_ID": "NCT05948488",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Building Adherence to Live With And Navigate my Cystic Fibrosis (CF) Experience",
+      "NCT_ID": "NCT01013896",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Phase I Study of Liposome-Mediated Gene Transfer in Patients With Cystic Fibrosis",
+      "NCT_ID": "NCT00004806",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Exercise Capacity in Patients With Cystic Fibrosis vs. Non-cystic Fibrosis Bronchiectasis",
+      "NCT_ID": "NCT03147651",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Combating Diagnostic Wandering and Impasse for Cystic Fibrosis",
+      "NCT_ID": "NCT05654480",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Cystic Fibrosis Blood Neutrophils",
+      "NCT_ID": "NCT04970225",
+      "Status": "Completed"
+    },
+    {
+      "Title": "YOGA-CF (Yoga Outcomes Get Assessed in Cystic Fibrosis)",
+      "NCT_ID": "NCT06120465",
+      "Status": "Active, not recruiting"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_crispr",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT03057912",
+      "Title": "A Safety and Efficacy Study of TALEN and CRISPR/Cas9 in the Treatment of HPV-related Cervical Intraepithelial Neoplasia\u2160",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT04535648",
+      "Title": "Detection of Enterovirus Genotypes by CRISPR Technology",
+      "Status": "WITHDRAWN"
+    },
+    {
+      "NCT_ID": "NCT06783270",
+      "Title": "T-cell Therapy with CRISPR PD1-edited Tumor Infiltrating Lymphocytes for Patients with Metastatic Melanoma",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04074369",
+      "Title": "Evaluation of CRISPR-based Test for the Rapid Identification of TB in Pulmonary Tuberculosis Suspects",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06208878",
+      "Title": "A Long-term Follow-up Study of Subjects Who Received CRISPR CAR T Cellular Therapies",
+      "Status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "NCT_ID": "NCT07053488",
+      "Title": "CRISPR-Edited HLA Donor Liver Transplant to Reduce Rejection",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04178382",
+      "Title": "Effect of PCR-CRISPR/Cas12a on the Early Anti-infective Schemes in Patients With Open Air Pneumonia",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT03167450",
+      "Title": "Examining the Knowledge, Attitudes, and Beliefs of Sickle Cell Disease Patients, Parents of Patients With Sickle Cell Disease, and Providers Towards the Integration of CRISPR in Clinical Care",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT07580001",
+      "Title": "Evaluating the Diagnostic Performance and Impact on Clinical Outcomes of the NuRapid-CRISPR Pathogen Profile Assay in ICU Patients With Sepsis",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07053462",
+      "Title": "CRISPR-Edited HLA Donor Kidney Transplant to Reduce Rejection Risk",
+      "Status": "RECRUITING"
+    }
+  ]
+}

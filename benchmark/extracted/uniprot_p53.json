@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_p53",
+  "url": "https://www.uniprot.org/uniprotkb?query=p53&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.217134582999961,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "Q29537",
+      "EntryName": "P53_CANLF",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "Q9TTA1",
+      "EntryName": "P53_TUPBE",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P56424",
+      "EntryName": "P53_MACMU",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P79820",
+      "EntryName": "P53_ORYLA",
+      "GeneName": "tp53, p53"
+    },
+    {
+      "Accession": "P79892",
+      "EntryName": "P53_HORSE",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P79734",
+      "EntryName": "P53_DANRE",
+      "GeneName": "tp53, drp53"
+    },
+    {
+      "Accession": "O09185",
+      "EntryName": "P53_CRIGR",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "Q8SPZ3",
+      "EntryName": "P53_DELLE",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P61260",
+      "EntryName": "P53_MACFU",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P56423",
+      "EntryName": "P53_MACFA",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "Q9TUB2",
+      "EntryName": "P53_PIG",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P67939",
+      "EntryName": "P53_BOVIN",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "Q64662",
+      "EntryName": "P53_OTOBE",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "P51664",
+      "EntryName": "P53_SHEEP",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "P41685",
+      "EntryName": "P53_FELCA",
+      "GeneName": "TP53, TRP53"
+    },
+    {
+      "Accession": "Q95330",
+      "EntryName": "P53_RABIT",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "Q9WUR6",
+      "EntryName": "P53_CAVPO",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "O36006",
+      "EntryName": "P53_MARMO",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "Q29480",
+      "EntryName": "P53_EQUAS",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "P67938",
+      "EntryName": "P53_BOSIN",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "Q00366",
+      "EntryName": "P53_MESAU",
+      "GeneName": "TP53"
+    },
+    {
+      "Accession": "P02340",
+      "EntryName": "P53_MOUSE",
+      "GeneName": "Tp53, P53, Trp53"
+    },
+    {
+      "Accession": "P04637",
+      "EntryName": "P53_HUMAN",
+      "GeneName": "TP53, P53"
+    },
+    {
+      "Accession": "P10361",
+      "EntryName": "P53_RAT",
+      "GeneName": "Tp53, P53"
+    },
+    {
+      "Accession": "P13481",
+      "EntryName": "P53_CHLAE",
+      "GeneName": "TP53"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_obesity_leptin_signaling",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42547683",
+      "Title": "Sleep loss as a cardiometabolic risk factor: a narrative review of clinical and public health implications",
+      "Authors": "Ghanem FK, Attarian H, Al-Khalil Z, Kabrita CS",
+      "Journal": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine"
+    },
+    {
+      "PMID": "42547334",
+      "Title": "Genetic burden of rare leptin-melanocortin variants in pediatric nonsyndromic obesity: Evidence from a Taiwanese cohort",
+      "Authors": "Chang YM, Hwang DY, Chou YY, Pan YW, Weng YH, Tsai MC",
+      "Journal": "Obesity research & clinical practice"
+    },
+    {
+      "PMID": "42525211",
+      "Title": "The Gut-brain-adipose Axis in Ultra-processed Food and Obesity: A Mechanistic Synthesis and Its Implications for Food Classification",
+      "Authors": "Louie JCY",
+      "Journal": "Current obesity reports"
+    },
+    {
+      "PMID": "42515672",
+      "Title": "Peptide Hormones in Appetite Regulation: A Complex Network",
+      "Authors": "Abdollahi S, Adam H, Al Musaimi O",
+      "Journal": "Pharmaceuticals (Basel, Switzerland)"
+    },
+    {
+      "PMID": "42512113",
+      "Title": "Modulation of Leptin and Serotonin by Honey and Its Glycoproteins Against High-Fat Diet-Induced Metabolic and Anxiety Phenotypes",
+      "Authors": "Gohar A, Atkinson RL, Shakeel M, Haleem DJ, Ullah K, Rasool A",
+      "Journal": "Biomedicines"
+    },
+    {
+      "PMID": "42511811",
+      "Title": "BIX02189 Suppresses Adipogenesis and Lipid Accumulation Through Inhibition of MEK5-STAT3/STAT5 Signaling and Activation of AMPK in Adipocytes and Zebrafish",
+      "Authors": "Perumal NL, Hussain M, Son DG, Stephens JM, Park GY, Jang BC",
+      "Journal": "International journal of molecular sciences"
+    },
+    {
+      "PMID": "42509824",
+      "Title": "Secretion Patterns of Leptin: A Key Component in the Regulation of Energy Homeostasis and Its Therapeutic Applications",
+      "Authors": "Wang C, Rong X",
+      "Journal": "Biomolecules"
+    },
+    {
+      "PMID": "42501875",
+      "Title": "Alternate-Day Fasting Enhances Leptin Sensitivity via JMJD3-Dependent Epigenetic Regulation of the Leptin Receptor in the Hypothalamus",
+      "Authors": "Oladun B, Mall S, Fan B, Lee J, Ha JH, Roberts JL, Kim MH",
+      "Journal": "The Journal of nutritional biochemistry"
+    },
+    {
+      "PMID": "42499770",
+      "Title": "Monogenic and syndromic obesity in children: Clinical recognition, genetics, and precision management",
+      "Authors": "Khalil H, Feigin E, Zaitoon H",
+      "Journal": "Pediatric investigation"
+    },
+    {
+      "PMID": "42492686",
+      "Title": "Adolescent food insecurity impairs gut signal sensitivity and cue-induced appetitive behaviours in female rats",
+      "Authors": "Livermore A, Ong ZY",
+      "Journal": "Appetite"
+    }
+  ]
+}

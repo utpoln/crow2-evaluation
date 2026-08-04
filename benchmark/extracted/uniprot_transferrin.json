@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_transferrin",
+  "url": "https://www.uniprot.org/uniprotkb?query=transferrin&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.193399709000005,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "Q9K0U9",
+      "EntryName": "TBPA_NEIMB",
+      "GeneName": "tbp1, tbpA, NMB0461"
+    },
+    {
+      "Accession": "P02786",
+      "EntryName": "TFR1_HUMAN",
+      "GeneName": "TFRC"
+    },
+    {
+      "Accession": "Q9UP52",
+      "EntryName": "TFR2_HUMAN",
+      "GeneName": "TFR2"
+    },
+    {
+      "Accession": "Q9VTZ5",
+      "EntryName": "TRFM_DROME",
+      "GeneName": "Tsf2, MTf, CG10620"
+    },
+    {
+      "Accession": "P02787",
+      "EntryName": "TRFE_HUMAN",
+      "GeneName": "TF, PRO1400"
+    },
+    {
+      "Accession": "Q9JKX3",
+      "EntryName": "TFR2_MOUSE",
+      "GeneName": "Tfr2, Trfr2"
+    },
+    {
+      "Accession": "Q2FZE9",
+      "EntryName": "ISDA_STAA8",
+      "GeneName": "isdA, frpA, stbA, SAOUHSC_01081"
+    },
+    {
+      "Accession": "Q921I1",
+      "EntryName": "TRFE_MOUSE",
+      "GeneName": "Tf, Trf"
+    },
+    {
+      "Accession": "Q9R0R1",
+      "EntryName": "TRFM_MOUSE",
+      "GeneName": "Meltf, Mfi2, Mtf"
+    },
+    {
+      "Accession": "P19134",
+      "EntryName": "TRFE_RABIT",
+      "GeneName": "TF"
+    },
+    {
+      "Accession": "A5A6I6",
+      "EntryName": "TRFE_PANTR",
+      "GeneName": "TF"
+    },
+    {
+      "Accession": "P12346",
+      "EntryName": "TRFE_RAT",
+      "GeneName": "Tf"
+    },
+    {
+      "Accession": "P02789",
+      "EntryName": "TRFE_CHICK",
+      "GeneName": ""
+    },
+    {
+      "Accession": "Q9K0V0",
+      "EntryName": "TBPB_NEIMB",
+      "GeneName": "tbpB, tbp2, NMB0460"
+    },
+    {
+      "Accession": "Q99376",
+      "EntryName": "TFR1_RAT",
+      "GeneName": "Tfrc, Trfr"
+    },
+    {
+      "Accession": "Q90997",
+      "EntryName": "TFR1_CHICK",
+      "GeneName": "TFRC"
+    },
+    {
+      "Accession": "Q62351",
+      "EntryName": "TFR1_MOUSE",
+      "GeneName": "Tfrc, Trfr"
+    },
+    {
+      "Accession": "Q09057",
+      "EntryName": "TBPB1_NEIMI",
+      "GeneName": "tbpB, tbp2"
+    },
+    {
+      "Accession": "Q8WPU1",
+      "EntryName": "ESAG6_TRYBB",
+      "GeneName": "ESAG6, 13J3.10"
+    },
+    {
+      "Accession": "Q8WPU2",
+      "EntryName": "ESAG7_TRYBB",
+      "GeneName": "ESAG7, 13J3.09"
+    },
+    {
+      "Accession": "Q9P0V3",
+      "EntryName": "SH3B4_HUMAN",
+      "GeneName": "SH3BP4, BOG25, EHB10, TTP"
+    },
+    {
+      "Accession": "B2GUY2",
+      "EntryName": "TFR2_RAT",
+      "GeneName": "Tfr2, Trfr2"
+    },
+    {
+      "Accession": "Q29443",
+      "EntryName": "TRFE_BOVIN",
+      "GeneName": "TF"
+    },
+    {
+      "Accession": "P0C1S5",
+      "EntryName": "ISDA_STAAU",
+      "GeneName": "isdA, frpA, sasE, stbA"
+    },
+    {
+      "Accession": "P27425",
+      "EntryName": "TRFE_HORSE",
+      "GeneName": "TF"
+    }
+  ]
+}

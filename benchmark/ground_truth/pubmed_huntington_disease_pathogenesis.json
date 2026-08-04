@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_huntington_disease_pathogenesis",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42549268",
+      "Title": "Enhancing the detection of HTT1a with neoepitope antibodies in mouse models of Huntington's disease",
+      "Authors": "Osborne GF, Smith EJ, Sathasivam K, Kang Z, Nita IM, Ca\u00f1ibano-Pico M, Phillips J, Bates GP, Landles C",
+      "Journal": "Brain communications"
+    },
+    {
+      "PMID": "42536688",
+      "Title": "Integrative network pharmacology, transcriptomics, and molecular docking identify candidate Centella asiatica constituents and targets in neurodegenerative diseases",
+      "Authors": "Xie Y, Lim CT, Lam XJ, Cheah PS, Ling KH, Huang T",
+      "Journal": "PloS one"
+    },
+    {
+      "PMID": "42533554",
+      "Title": "The Effect of a Probiotic on Gut Microbiota Stability and Systemic Well-Being during Short-Term Travel",
+      "Authors": "Yang K, Yang M, Yu Q, Liong MT, Chen D, Cai M",
+      "Journal": "Journal of microbiology and biotechnology"
+    },
+    {
+      "PMID": "42527584",
+      "Title": "In vivo CRISPR base editing for treatment of Huntington's disease",
+      "Authors": "Shirguppe S, Gapinske M, Swami D, Shenouda K, Miskalis A, Gosstola N, Del Bosque Siller D, Guerra I, Acharya P, Joulani D, Szkwarek MG, Nambiar A, Bhattacharjee A, Dangi AS, Odle N, Nathan GE, Elias G, Stilger M, Winter J, Woods WS, Anand D, Lim CKW, Maslov S, Gaj T, Perez-Pinera P",
+      "Journal": "Nature biomedical engineering"
+    },
+    {
+      "PMID": "42527363",
+      "Title": "Clostridium innocuum Bacteremia: Case Report and Systematic Review",
+      "Authors": "de Matos-Konrad C, Chima N, Huntington MK",
+      "Journal": "South Dakota medicine : the journal of the South Dakota State Medical Association"
+    },
+    {
+      "PMID": "42521817",
+      "Title": "The genetic architecture of fibromyalgia across 2.5 million individuals",
+      "Authors": "Kerrebijn I, Bjornsdottir G, Arbabi K, Urpa L, Haapaniemi H, Thorleifsson G, Stefansdottir L, Frangakis S, Valliere J, Kunorozva L, Abner E, Ji C, Kangur M, Aagaard B, Bliddal H, Brunak S, Bruun MT, Didriksen M, Erikstrup C, Finer S, Geirsson AJ, Gudbjartsson DF, Hansen TF, van Heel D, Jonsdottir I, Knight S, Knowlton KU, Mikkelsen C, Nadauld LD, Olafsdottir TA, Ostrowski SR, Pedersen OBV, Saevarsdottir S, Skuladottir AT, S\u00f8rensen E, Stefansson H, Sulem P, Sveinsson OA, Thorlacius GE, Thorsteinsdottir U, Ullum H, Vikingsson A, Werge TM, Chronic Pain Genomics Consortium, FinnGen, DBDS Genomic Consortium, Estonian Biobank Research Team, Genes & Health Research Team, Saxena R, Stefansson K, Brummett CM, Glintborg B, Clauw DJ, Thorgeirsson TE, Williams FMK, Sinnott-Armstrong N, Ollila HM, Wainberg M",
+      "Journal": "Nature medicine"
+    },
+    {
+      "PMID": "42515735",
+      "Title": "Integrative Network Pharmacology and Molecular Docking Analysis Reveals the Multitarget Mechanisms of Pterostilbene in Neurodegenerative Diseases",
+      "Authors": "Rosiak N, Stojceski F, Maroni G, Piontek B, Cielecka-Piontek J",
+      "Journal": "Pharmaceuticals (Basel, Switzerland)"
+    },
+    {
+      "PMID": "42513086",
+      "Title": "Grape Seed Extract as an Adjuvant Therapy for Huntington Disease; A Narrative Review of Biological Plausibility and Potential Clinical Outcomes",
+      "Authors": "DeBoth C, Kasper J, McDonald C, Duriancik DM",
+      "Journal": "Molecules (Basel, Switzerland)"
+    },
+    {
+      "PMID": "42511959",
+      "Title": "HDDF2-A Novel Patient-Derived Fibroblast Line from Huntington's Disease with Prominent Cellular Senescence and polyQ Pathology",
+      "Authors": "Parfenova P, Kraskovskaya N, Koltsova A, Shatrova A, Yartseva N, Mikhailova N",
+      "Journal": "Biomedicines"
+    },
+    {
+      "PMID": "42508540",
+      "Title": "R-loops: Biological functions, regulatory mechanisms, and therapeutic implications in brain diseases-A review",
+      "Authors": "Sun R, Duan X, Wang X, Liu J, Li Z, Wang Y",
+      "Journal": "Molecular and cellular probes"
+    }
+  ]
+}

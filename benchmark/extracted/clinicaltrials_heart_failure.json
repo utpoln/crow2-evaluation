@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_heart_failure",
+  "url": "https://clinicaltrials.gov/search?term=heart+failure&viewType=Table",
+  "elapsed_seconds": 4.647199625000013,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Ccf mtDNA as a Neurodegenerative Biomarker",
+      "NCT_ID": "NCT03938909",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Utility of Some Novel Biomarkers of Patients With Chronic Heart Failure",
+      "NCT_ID": "NCT03772275",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Predicting Successful Sleep Apnea Treatment With Acetazolamide in Heart Failure Patients",
+      "NCT_ID": "NCT01377987",
+      "Status": "Completed\u00a0 View Results"
+    },
+    {
+      "Title": "HEart fAiluRe evaluaTion Questionnaire",
+      "NCT_ID": "NCT03895073",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Brazilian Heart Insufficiency With Telemedicine",
+      "NCT_ID": "NCT04466852",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "The Effect of Education on Symptom Burden, Medication Adherence, and Nutritional Behaviour",
+      "NCT_ID": "NCT07017751",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Blood Flow Restricted Resistance Exercises Versus Low Level Laser on Cardiac Functions in Patients With Chronic Heart Failure",
+      "NCT_ID": "NCT07045038",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Comparison of Lipophilic Versus Hydrophilic Statins on Patients With Heart Failure",
+      "NCT_ID": "NCT03255044",
+      "Status": "Completed"
+    },
+    {
+      "Title": "The T\u00fcrkiye Heart Failure Registry",
+      "NCT_ID": "NCT06707220",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "The Determination of Important Mechanical Patterns of Left Ventricular Efficiency-MV02 Study",
+      "NCT_ID": "NCT01807819",
+      "Status": "Completed"
+    }
+  ]
+}

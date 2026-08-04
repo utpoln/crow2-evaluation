@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_psoriasis_treatment",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=psoriasis+treatment&sort=date",
+  "elapsed_seconds": 5.049705208999995,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Hemophagocytic Lymphohistiocytosis Triggered by HSV-1 in a Patient with Refractory Crohn's Disease After Long-Term Sequential Immunosuppressive Therapy.",
+      "Authors": "Yao L, Tu H, Cao Q.",
+      "Journal": "Biologics. 2026 Jul 30;20:616623. doi: 10.2147/BTT.S616623. eCollection 2026.",
+      "PMID": "42549318"
+    },
+    {
+      "Title": "The Definition of Psoriasis Severity and Treatment Target of Psoriasis: Korean Expert Consensus Using the Modified Delphi Method.",
+      "Authors": "Bang CH, Baek YS, Kim TG, Jeong KH, Kim JE, Jo SJ, Lee ES, Choe YB; Korean Society for Psoriasis.",
+      "Journal": "Ann Dermatol. 2026 Aug;38(4):304-312. doi: 10.5021/ad.26.008.",
+      "PMID": "42547478"
+    },
+    {
+      "Title": "Factors Associated With PASI90 Maintenance Without Flare-Up and Predictors of Biologics Discontinuation in Psoriasis: Two-Center Retrospective Cohort Study in Korea.",
+      "Authors": "Choi MS, Yeom K, Jung SW, Hong SP, Kong KA, Kim MH.",
+      "Journal": "Ann Dermatol. 2026 Aug;38(4):293-303. doi: 10.5021/ad.25.153.",
+      "PMID": "42547477"
+    },
+    {
+      "Title": "Real-World Effectiveness and Safety of Deucravacitinib for Plaque Psoriasis: A Multicenter Study in Korea.",
+      "Authors": "Shin BS, Kim BS, Lee GJ, Seong J, Kim G, Gwack J, Nam KH.",
+      "Journal": "Ann Dermatol. 2026 Aug;38(4):282-292. doi: 10.5021/ad.26.009.",
+      "PMID": "42547476"
+    },
+    {
+      "Title": "Clinical Outcomes After Week-12 Response-Guided Secukinumab Discontinuation in Psoriasis: A Prospective Real-World Cohort Study.",
+      "Authors": "Ma X, Jiang Y, Liu D, Xu Q, Shen F, Duan Z, Gao X, Zhang X, Cai R, Zhang R, Li B, Wang R.",
+      "Journal": "BioDrugs. 2026 Aug 3. doi: 10.1007/s40259-026-00801-0. Online ahead of print.",
+      "PMID": "42545602"
+    },
+    {
+      "Title": "Systemic single-cell analysis of GPP reveals treatment-responsive and persistent immune signatures.",
+      "Authors": "Jeong S, Lee S, Joh CS, Krueger JG, Kim HJ, Jo SJ, Chae JH.",
+      "Journal": "Clin Transl Med. 2026 Aug;16(8):e70753. doi: 10.1002/ctm2.70753.",
+      "PMID": "42544704"
+    },
+    {
+      "Title": "Impact of Psoriasis on Patient Well-Being Across Life Stages: A Cross-Sectional Survey (Inpsight Working Group).",
+      "Authors": "Daud\u00e9n E, De la Cueva P, Belinch\u00f3n I, Gallardo F, Coto P, Ruiz-Villaverde R, Poveda JL, Ramirez E, Colominas E, Ros S, Alfonso S, L\u00f3pez-P\u00e9rez D, Comellas M.",
+      "Journal": "Psoriasis (Auckl). 2026 Jul 29;16:603931. doi: 10.2147/PTT.S603931. eCollection 2026.",
+      "PMID": "42544342"
+    },
+    {
+      "Title": "Therapeutic management of axial spondyloarthritis: summary of 2024 update of the Spanish clinical practice guideline (ESPOGUIA).",
+      "Authors": "L\u00f3pez-Medina C, Montilla-Morales C, Moreno M, Moreno-Ramos MJ, Queiro R, Ram\u00edrez J, D\u00edaz-Valle D, Fern\u00e1ndez-Clotet A, Riera J, D\u00edaz-Del Campo P, Ca\u00f1ete JD, Navarro-Comp\u00e1n V.",
+      "Journal": "Ther Adv Musculoskelet Dis. 2026 Aug 1;18:1759720X261464260. doi: 10.1177/1759720X261464260. eCollection 2026.",
+      "PMID": "42544184"
+    },
+    {
+      "Title": "Comment on: Psoriasis under B-cell depleting therapies in multiple sclerosis: a retrospective multicenter analysis.",
+      "Authors": "Li M, Mo Z.",
+      "Journal": "Ther Adv Neurol Disord. 2026 Aug 1;19:17562864261468450. doi: 10.1177/17562864261468450. eCollection 2026.",
+      "PMID": "42544141"
+    },
+    {
+      "Title": "Hepatic Steatosis in Biologic-Treated Patients With Psoriasis and Low Current Disease Activity: Prevalence and Metabolic Determinants.",
+      "Authors": "Ding L, Chen J, Dong X.",
+      "Journal": "J Dermatol. 2026 Aug 2. doi: 10.1111/1346-8138.70441. Online ahead of print.",
+      "PMID": "42543704"
+    }
+  ]
+}

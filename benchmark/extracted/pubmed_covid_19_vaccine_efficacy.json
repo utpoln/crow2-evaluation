@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_covid_19_vaccine_efficacy",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=COVID-19+vaccine+efficacy&sort=date",
+  "elapsed_seconds": 4.890041375000003,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Vaccines for the Prevention of COVID-19 in Older Adults.",
+      "Authors": "Olagunju OJ, Oyebanji OA, Mylonakis E, Canaday DH.",
+      "Journal": "Clin Geriatr Med. 2026 Aug;42(3):427-448. doi: 10.1016/j.cger.2025.09.003.",
+      "PMID": "42547171"
+    },
+    {
+      "Title": "Past achievements and future perspectives of personalized vaccines and the role of dendritic cells.",
+      "Authors": "Sadat Larijani M, Bavand A, Moradi L, Ramezani A.",
+      "Journal": "Immunol Res. 2026 Aug 1;74(1):77. doi: 10.1007/s12026-026-09812-z.",
+      "PMID": "42541646"
+    },
+    {
+      "Title": "Modeling the public health impact of vaccination with Pfizer-BioNTech COVID-19 vaccine, LP.8.1, 2025-2026 formula in the pediatric population aged 5-17 years at high risk of severe outcomes from COVID-19 in the United States.",
+      "Authors": "Yehoshua A, Di Fusco M, Rudolph AE, Thoburn E, Lopez SMC, Dodd J, Yarnoff B.",
+      "Journal": "Expert Rev Vaccines. 2026 Dec;25(1):2708203. doi: 10.1080/14760584.2026.2708203. Epub 2026 Jul 31.",
+      "PMID": "42535780"
+    },
+    {
+      "Title": "Effectiveness of BNT162B2 and CoronaVac vaccines in reducing COVID-19 severity among children aged 3-4 years in Brazil.",
+      "Authors": "de Padua MC, Antunes MOB, Stein RT, Pinto LA, Jones MH, Friedrich F, Scotta MC.",
+      "Journal": "Vaccine. 2026 Jul 29;88:128974. doi: 10.1016/j.vaccine.2026.128974. Online ahead of print.",
+      "PMID": "42526176"
+    },
+    {
+      "Title": "Impact of ABO Blood System on Immunogenicity and Vaccine Efficacy of COVID-19 Booster Vaccination-A Population-Based Study of 3066 Individuals.",
+      "Authors": "Sieghart D, Jordakieva G, D\u00fcrrschmid C, Hana CA, Tran LV, Heinz LX, Haslacher H, Zlesak M, Marzoner V, Nasztl P, Piccini G, Manenti A, Montomoli E, Jorda A, Fedrizzi C, Hasenoehrl T, Zdravkovic A, Anderle K, Wiedermann U, Drapalik S, Steinbrecher H, Bergmann F, Firbas C, Wagner B, Leonardi M, Pierleoni G, Ballini M, Benincasa L, Marchi S, Trombetta CM, Perkmann T, Crevenna R, Zeitlinger M, Bonelli M, Aletaha D, Radner H.",
+      "Journal": "Influenza Other Respir Viruses. 2026 Aug;20(8):e70300. doi: 10.1111/irv.70300.",
+      "PMID": "42524760"
+    },
+    {
+      "Title": "Antiviral Candidates and Vaccine Development for the Neglected Oropouche Virus.",
+      "Authors": "Soares VC, Dias SSG.",
+      "Journal": "Viruses. 2026 Jul 8;18(7):754. doi: 10.3390/v18070754.",
+      "PMID": "42515606"
+    },
+    {
+      "Title": "Folic Acid and Endothelial Dysfunction in COVID-19.",
+      "Authors": "Massip Copiz MM.",
+      "Journal": "Life (Basel). 2026 Jul 4;16(7):1116. doi: 10.3390/life16071116.",
+      "PMID": "42514186"
+    },
+    {
+      "Title": "The current landscape of mRNA therapy and the strategies for mRNA purification and dsRNA removal.",
+      "Authors": "Liu JH, Zang J, Xu JR, Ran XB, Su M, Zhang WM, Ge ZW, Sun QY, Ding LW.",
+      "Journal": "J Biomed Sci. 2026 Jul 27;33(1):79. doi: 10.1186/s12929-026-01277-4.",
+      "PMID": "42509561"
+    },
+    {
+      "Title": "Neutralizing Antibody Response Dynamics in COVID-19: Insights from Healthy Vaccinees, Breakthrough Infections, and Critically Ill Patients.",
+      "Authors": "Ahmed N, Yusof W, Musa N, Cheng KY, Abdullah N, Hassan R, Samsudin MNF, Hashim AMB, Ravichandran M, Chuan CW, Yean CY.",
+      "Journal": "Trop Med Infect Dis. 2026 Jun 27;11(7):178. doi: 10.3390/tropicalmed11070178.",
+      "PMID": "42506747"
+    },
+    {
+      "Title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants.",
+      "Authors": "Galili U.",
+      "Journal": "Vaccines (Basel). 2026 Jun 29;14(7):571. doi: 10.3390/vaccines14070571.",
+      "PMID": "42506608"
+    }
+  ]
+}

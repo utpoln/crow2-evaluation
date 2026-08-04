@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_apoe",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "APOE",
+      "GeneID": "ID: 348",
+      "Description": "apolipoprotein E"
+    },
+    {
+      "Symbol": "TOMM40",
+      "GeneID": "ID: 10452",
+      "Description": "translocase of outer mitochondrial membrane 40"
+    },
+    {
+      "Symbol": "APOC1",
+      "GeneID": "ID: 341",
+      "Description": "apolipoprotein C1"
+    },
+    {
+      "Symbol": "CETP",
+      "GeneID": "ID: 1071",
+      "Description": "cholesteryl ester transfer protein"
+    },
+    {
+      "Symbol": "LRP8",
+      "GeneID": "ID: 7804",
+      "Description": "LDL receptor related protein 8"
+    },
+    {
+      "Symbol": "BCHE",
+      "GeneID": "ID: 590",
+      "Description": "butyrylcholinesterase"
+    },
+    {
+      "Symbol": "HFE",
+      "GeneID": "ID: 3077",
+      "Description": "homeostatic iron regulator"
+    },
+    {
+      "Symbol": "APOB",
+      "GeneID": "ID: 338",
+      "Description": "apolipoprotein B"
+    },
+    {
+      "Symbol": "LDLR",
+      "GeneID": "ID: 3949",
+      "Description": "low density lipoprotein receptor"
+    },
+    {
+      "Symbol": "ABCG2",
+      "GeneID": "ID: 9429",
+      "Description": "ATP binding cassette subfamily G member 2 (JR blood group)"
+    },
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A"
+    },
+    {
+      "Symbol": "MAPT",
+      "GeneID": "ID: 4137",
+      "Description": "microtubule associated protein tau"
+    },
+    {
+      "Symbol": "MTHFR",
+      "GeneID": "ID: 4524",
+      "Description": "methylenetetrahydrofolate reductase"
+    },
+    {
+      "Symbol": "LPL",
+      "GeneID": "ID: 4023",
+      "Description": "lipoprotein lipase"
+    },
+    {
+      "Symbol": "APP",
+      "GeneID": "ID: 351",
+      "Description": "amyloid beta precursor protein"
+    },
+    {
+      "Symbol": "SNCA",
+      "GeneID": "ID: 6622",
+      "Description": "synuclein alpha"
+    },
+    {
+      "Symbol": "CD33",
+      "GeneID": "ID: 945",
+      "Description": "CD33 molecule"
+    },
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor"
+    }
+  ]
+}

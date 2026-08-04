@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_zika_virus_microcephaly",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42519621",
+      "Title": "SLC3A2 promotes early-stage of Zika virus infection in human placental cells and astrocytes",
+      "Authors": "Chen Z, Feng D, Liu J, Chen J, Zhao C, Zhang S, Zhang X, Xu J",
+      "Journal": "Infectious diseases & immunity"
+    },
+    {
+      "PMID": "42441890",
+      "Title": "Positivity of anti-Zika virus (ZIKV) antibodies among patients undergoing ART in S\u00e3o Paulo State, Brazil (2016-2024): a retrospective record analysis",
+      "Authors": "Christofolini DM, Valle CHVFD, Oliveira GB, Paiva LDS, Bianco B, Barbosa CP",
+      "Journal": "JBRA assisted reproduction"
+    },
+    {
+      "PMID": "42439538",
+      "Title": "Mouse models of Zika virus infection-induced placenta and fetal brain damage",
+      "Authors": "Krishnamoorthy C, Natarajan SK",
+      "Journal": "Journal of animal science"
+    },
+    {
+      "PMID": "42433967",
+      "Title": "Maternal-fetal transmission of Zika virus and long-term neurodevelopmental outcomes in children: a narrative review",
+      "Authors": "Aljahdali A, Alenzi T, Alammari W, Alshumrani A, Awaji A, Alotaibi M, Alanazi R, Mozayan T, Alotaibi F, Almnaizel A, Al-Khlaiwi T",
+      "Journal": "Translational pediatrics"
+    },
+    {
+      "PMID": "42377185",
+      "Title": "Zika Virus in Pregnancy: Maternal Infection and Fetal Consequences",
+      "Authors": "Marulkar CS, Wagh SS, Mukhida S",
+      "Journal": "Journal of vector borne diseases"
+    },
+    {
+      "PMID": "42357625",
+      "Title": "Inflammation Exacerbates Congenital Zika Virus Infection and Naringenin Provides Protective Effects",
+      "Authors": "Branco ACCC, Ramos Y\u00c1L, Polonio CM, Zanluqui NG, Oliveira LG, Peron JPS, Yamada Yoshikawa FS, Sousa DP, Dias LLMDS, Sousa ESA, Azamor da Costa Barros T, Avvad-Portari E, Vasconcelos ZFM, Duarte-Neto AN, Pereira NV, Sotto MN, Sato MN",
+      "Journal": "Viruses"
+    },
+    {
+      "PMID": "42334674",
+      "Title": "Zika virus infection in the brains of lymphocyte-deficient mice does not lead to neurological symptoms despite sustained high viral load",
+      "Authors": "Montemarano A, Balint E, Ashkar AA",
+      "Journal": "Journal of neurovirology"
+    },
+    {
+      "PMID": "42323182",
+      "Title": "A novel Kazal-type protease inhibitor from Aedes aegypti effective for NS2B-NS3 protease from the Zika virus and subtilases",
+      "Authors": "Silva FAA, Scomparim G, Costa GCA, Manzato VM, Torquato RJS, Costa-da-Silva AL, Lemos FJA, Tanaka AS",
+      "Journal": "Archives of biochemistry and biophysics"
+    },
+    {
+      "PMID": "42312689",
+      "Title": "Cortical Auditory Neural Responses to Speech and Communicative Functioning in Normocephalic Children With Prenatal Exposure to the Zika Virus",
+      "Authors": "Key AP, Mason C, Powell SL, Cavalcante J, Frizzo A, Mandra PP, Tavares A, Menezes P, Hood LJ",
+      "Journal": "Ear and hearing"
+    },
+    {
+      "PMID": "42302463",
+      "Title": "Cortical auditory response and language development in children with microcephaly by Zika virus",
+      "Authors": "Figueiredo Frizzo AC, Lira de Andrade KC, Rombola IT, Teixeira da Costa KV, Baisi Chagas EF, de Lemos Menezes P",
+      "Journal": "Brazilian journal of otorhinolaryngology"
+    }
+  ]
+}

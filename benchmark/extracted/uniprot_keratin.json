@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_keratin",
+  "url": "https://www.uniprot.org/uniprotkb?query=keratin&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.204935542000044,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "P02533",
+      "EntryName": "K1C14_HUMAN",
+      "GeneName": "KRT14"
+    },
+    {
+      "Accession": "Q8N1A0",
+      "EntryName": "KT222_HUMAN",
+      "GeneName": "KRT222, KA21, KRT222P"
+    },
+    {
+      "Accession": "P78386",
+      "EntryName": "KRT85_HUMAN",
+      "GeneName": "KRT85, KRTHB5"
+    },
+    {
+      "Accession": "P78385",
+      "EntryName": "KRT83_HUMAN",
+      "GeneName": "KRT83, KRTHB3"
+    },
+    {
+      "Accession": "O43790",
+      "EntryName": "KRT86_HUMAN",
+      "GeneName": "KRT86, KRTHB6"
+    },
+    {
+      "Accession": "Q5XKE5",
+      "EntryName": "K2C79_HUMAN",
+      "GeneName": "KRT79, K6L, KB38, KRT6L"
+    },
+    {
+      "Accession": "Q9NSB4",
+      "EntryName": "KRT82_HUMAN",
+      "GeneName": "KRT82, KRTHB2"
+    },
+    {
+      "Accession": "Q9NSB2",
+      "EntryName": "KRT84_HUMAN",
+      "GeneName": "KRT84, KRTHB4"
+    },
+    {
+      "Accession": "P35908",
+      "EntryName": "K22E_HUMAN",
+      "GeneName": "KRT2, KRT2A, KRT2E"
+    },
+    {
+      "Accession": "Q8N1N4",
+      "EntryName": "K2C78_HUMAN",
+      "GeneName": "KRT78, K5B, KB40"
+    },
+    {
+      "Accession": "O95678",
+      "EntryName": "K2C75_HUMAN",
+      "GeneName": "KRT75, K6HF, KB18"
+    },
+    {
+      "Accession": "Q92764",
+      "EntryName": "KRT35_HUMAN",
+      "GeneName": "KRT35, HHA5, HKA5, KRTHA5"
+    },
+    {
+      "Accession": "O76013",
+      "EntryName": "KRT36_HUMAN",
+      "GeneName": "KRT36, HHA6, HKA6, KRTHA6"
+    },
+    {
+      "Accession": "Q14532",
+      "EntryName": "K1H2_HUMAN",
+      "GeneName": "KRT32, HHA2, HKA2, KRTHA2"
+    },
+    {
+      "Accession": "Q15323",
+      "EntryName": "K1H1_HUMAN",
+      "GeneName": "KRT31, HHA1, HKA1, KRTHA1"
+    },
+    {
+      "Accession": "O76011",
+      "EntryName": "KRT34_HUMAN",
+      "GeneName": "KRT34, HHA4, HKA4, KRTHA4"
+    },
+    {
+      "Accession": "O76015",
+      "EntryName": "KRT38_HUMAN",
+      "GeneName": "KRT38, HHA8, HKA8, KRTHA8"
+    },
+    {
+      "Accession": "O76014",
+      "EntryName": "KRT37_HUMAN",
+      "GeneName": "KRT37, HHA7, HKA7, KRTHA7"
+    },
+    {
+      "Accession": "P48668",
+      "EntryName": "K2C6C_HUMAN",
+      "GeneName": "KRT6C, KRT6E"
+    },
+    {
+      "Accession": "P05787",
+      "EntryName": "K2C8_HUMAN",
+      "GeneName": "KRT8, CYK8"
+    },
+    {
+      "Accession": "P19013",
+      "EntryName": "K2C4_HUMAN",
+      "GeneName": "KRT4, CYK4"
+    },
+    {
+      "Accession": "Q6KB66",
+      "EntryName": "K2C80_HUMAN",
+      "GeneName": "KRT80, KB20"
+    },
+    {
+      "Accession": "Q7Z794",
+      "EntryName": "K2C1B_HUMAN",
+      "GeneName": "KRT77, KRT1B"
+    },
+    {
+      "Accession": "Q2M2I5",
+      "EntryName": "K1C24_HUMAN",
+      "GeneName": "KRT24, KA24"
+    },
+    {
+      "Accession": "Q7Z3Y8",
+      "EntryName": "K1C27_HUMAN",
+      "GeneName": "KRT27, KRT25C"
+    }
+  ]
+}

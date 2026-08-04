@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_alzheimer_amyloid_beta",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550339",
+      "Title": "Kaempferol-Conjugated Manganese Oxide Nanocomposites Mitigate Aluminium Chloride-Induced Neurobehavioral Impairments in a Rat Model of Alzheimer's disease",
+      "Authors": "Yu H, Liu X, Liu J, Tang D",
+      "Journal": "Journal of molecular neuroscience : MN"
+    },
+    {
+      "PMID": "42549510",
+      "Title": "Intranasal Administration of Isoeugenol Improves Memory Deficits in APP/PS1 Old Mice-A Role Beyond Nrf2 Activation?",
+      "Authors": "Silva A, Silva S, Macedo J, Moreira P, Baptista D, Bicker J, Fortuna A, Liberal J, Rodrigues B, Resende R, Vitorino I, Santos AE, Neves BM, Pereira C, Cruz MT",
+      "Journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    },
+    {
+      "PMID": "42549172",
+      "Title": "Inhibition of amyloid \u03b2 aggregation by venetoclax: a computational and in vitro experimental approach",
+      "Authors": "Liu BB, Wang HC, He YL, Zhang LJ, Meng DL, Fu Y, Wang MY, Zhang W",
+      "Journal": "RSC advances"
+    },
+    {
+      "PMID": "42548982",
+      "Title": "Editorial: New horizons in Alzheimer's disease research: combining cell, gene, and emerging therapies",
+      "Authors": "Piccarducci R, Mainardi M, Marchetti L",
+      "Journal": "Frontiers in medicine"
+    },
+    {
+      "PMID": "42547900",
+      "Title": "Brain insulin resistance as a driver of proteinopathy in neurodegeneration: from cell-type-specific mechanisms to targeted therapeutics",
+      "Authors": "Xiang M, Cao SY, Sun XH, Hu JW, Lv MZ, Li JY, Li W",
+      "Journal": "Translational neurodegeneration"
+    },
+    {
+      "PMID": "42547799",
+      "Title": "High prevalence of tau pathologies in late-onset psychosis: A PET study",
+      "Authors": "Kubota M, Kurose S, Tagai K, Momota Y, Ichihashi M, Endo H, Seki C, Moriguchi S, Yamamoto Y, Kataoka Y, Goto R, Tamura T, Shiwaku H, Matsuoka K, Suzuki H, Onaya M, Tokuda T, Uchida H, Takahashi H, Kawamura K, Zhang MR, Higuchi M, Takahata K",
+      "Journal": "Molecular psychiatry"
+    },
+    {
+      "PMID": "42546981",
+      "Title": "New insights on microglial lysosomal acidification: A therapeutic target of neurodegenerative diseases",
+      "Authors": "Jaganathan R, Vijayakumar S, Chen Y, Ye J, Bakthavatchalam P, Wankar D, Yang C, Iyaswamy A, Li M",
+      "Journal": "Neurobiology of disease"
+    },
+    {
+      "PMID": "42544975",
+      "Title": "Sleep and Neurodegeneration",
+      "Authors": "Branson CO",
+      "Journal": "Continuum (Minneapolis, Minn.)"
+    },
+    {
+      "PMID": "42543274",
+      "Title": "[Research progress on active ingredients of Astragali Radix and Acori Tatarinowii Rhizoma and mechanism of their herb pair against Alzheimer's disease]",
+      "Authors": "DU YZ, Wang Z, Ma DC, Liu T, Ma LL, Zhou YM, Li XL, Dou FY, Lyu RL, Chai MN, Zhang YG, Li YF",
+      "Journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+    },
+    {
+      "PMID": "42543199",
+      "Title": "Gait Impairment and Alzheimer's Disease Pathology: A Narrative Review on Mechanistic Links",
+      "Authors": "Sakurai R, Montero-Odasso M",
+      "Journal": "Geriatrics & gerontology international"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_osteoarthritis_cartilage",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42550347",
+      "Title": "Machine learning assisted prediction of cartilage histology using MR fingerprinting - a preliminary study",
+      "Authors": "Kantola V, Nyk\u00e4nen O, Casula V, Karjalainen VP, Cloos MA, Lattanzi R, Nissi MJ, Nieminen MT",
+      "Journal": "Magma (New York, N.Y.)"
+    },
+    {
+      "PMID": "42550314",
+      "Title": "The role of the HB-EGF-regulated EGFR-mitophagy axis in maintaining cartilage homeostasis and osteoarthritis",
+      "Authors": "Wang J, Mo C, Wang Q, Qin J, Li Y, Peng W",
+      "Journal": "Journal of molecular histology"
+    },
+    {
+      "PMID": "42547948",
+      "Title": "Quadriceps Tendon Autografts Are Associated With Increased Short-term Reoperation Rates for Extension Deficit or Pain and Inferior Patient-Reported Outcomes Compared With Hamstring Tendon Autografts: An Analysis of 5653 Cases of Primary Anterior Cruciate Ligament Reconstruction",
+      "Authors": "Kekki C, Cristiani R, St\u00e5lman A, von Essen C",
+      "Journal": "The American journal of sports medicine"
+    },
+    {
+      "PMID": "42546205",
+      "Title": "Palmitoylation of TK1 exacerbates osteoarthritis by promoting JNK-mediated metabolic reprogramming",
+      "Authors": "Zhang Z, Zhang C, Ju Y, Zhou Y, Guo W, Xie J, Huang Z",
+      "Journal": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "PMID": "42546098",
+      "Title": "Research Trends and Hotspots of Traditional Chinese Medicine for Knee Osteoarthritis from 2005 to 2025: A Bibliometric Analysis",
+      "Authors": "Liu X, Zeng C, Zhou J, Ren F, Mao J, Deng Y, Wei J, Yuan F, Li B, Liu L",
+      "Journal": "Journal of visualized experiments : JoVE"
+    },
+    {
+      "PMID": "42545528",
+      "Title": "Balloon acetabuloplasty for cartilage impaction reduction in traumatic acetabular fractures: a case series and technical note",
+      "Authors": "Serfaty L, Riouallon G, Melhem E, Zaraa M, Upex P, Moreau PE",
+      "Journal": "European journal of orthopaedic surgery & traumatology : orthopedie traumatologie"
+    },
+    {
+      "PMID": "42545381",
+      "Title": "Circular RNAs orchestrate molecular networks in osteoarthritis: From miRNA sponging to epigenetic and exosome-mediated regulation",
+      "Authors": "Yang J, Kubav A",
+      "Journal": "Molecular biology reports"
+    },
+    {
+      "PMID": "42545000",
+      "Title": "Relationship of Retropatellar Knee Cartilage and Subchondral Patellar Bone During the Course of Osteoarthritis",
+      "Authors": "Lahm A, Kasch R, Spank H, Zilkens C",
+      "Journal": "Ortopedia, traumatologia, rehabilitacja"
+    },
+    {
+      "PMID": "42544546",
+      "Title": "Safety and Efficacy of Allogeneic Integrin \u03b110\u03b21-Selected Mesenchymal Stem Cells in the Treatment of Knee Osteoarthritis: A First-In-Human Phase I/IIa Dose Escalation Study",
+      "Authors": "Vonk LA, Wennersten C, Uvebrant K, Siva K, Theorell L, Russo M, Hall S, Lundgren-\u00c5kerlund E",
+      "Journal": "Cartilage"
+    },
+    {
+      "PMID": "42543780",
+      "Title": "Curcumin-Loaded GelMA Microspheres Alleviate Osteoarthritis: Transcriptomic Evidence for Immune Microenvironment Remodeling and ECM Homeostasis Restoration",
+      "Authors": "Jiang B, Jiang X, Li S, Niu H, Ji W",
+      "Journal": "Chemical biology & drug design"
+    }
+  ]
+}

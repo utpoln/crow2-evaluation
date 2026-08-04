@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_covid_19",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT05812612",
+      "Title": "UDCA in the Treatment of COVID-19 Infection and Its Clinical Prognosis in Patients With Autoimmune Liver Disease",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT04579458",
+      "Title": "Assessment of COVID-19 in Tearfilm",
+      "Status": "WITHDRAWN"
+    },
+    {
+      "NCT_ID": "NCT04497779",
+      "Title": "Analysis of Coronavirus Disease 19 (COVID-19) Convalescent Plasma",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04367805",
+      "Title": "COVID-19 Infection in Patients With Hepatocellular Carcinoma",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04573062",
+      "Title": "Natural History of Post-Coronavirus Disease 19 Convalescence at the National Institutes of Health",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04753762",
+      "Title": "Multimodal IMAgery Characterization of Cardiac Damage and Severity After COVID-19 Infection",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04303299",
+      "Title": "Fight COVID-19 Trial",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05706064",
+      "Title": "Survey of COVID-19 Infection",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04424004",
+      "Title": "MURDOCK Cabarrus County COVID-19 Prevalence and Immunity (C3PI) Study",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04927442",
+      "Title": "Natural History Study of COVID-19 Using Digital Wearables",
+      "Status": "COMPLETED"
+    }
+  ]
+}

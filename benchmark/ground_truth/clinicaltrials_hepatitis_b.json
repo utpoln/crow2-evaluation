@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_hepatitis_b",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT01203319",
+      "Title": "The Immunogenicity and Safety of 60mcg/30mcg Recombinant Hepatitis B Vaccines in People Who Failed to Respond to Routine Administration of Hepatitis B Vaccines",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01195246",
+      "Title": "Safety and Immunogenicity of HEPLISAV\u2122 a Hepatitis B Virus Vaccine in Adults on Hemodialysis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02117934",
+      "Title": "Safety and Immunogenicity Study of the Hepatitis B Vaccine, HEPLISAV\u2122, Compared to Engerix-B\u00ae Vaccine",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03685708",
+      "Title": "HEPLISAV-B Hepatitis B Vaccine in Chronic Lymphocytic Leukemia (CLL) and CLL Treated With Bruton's-Tyrosine Kinase Inhibitor (BTK-I)",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04490499",
+      "Title": "A Hepatitis B Vaccine Challenge Study After Previous Vaxelis\u00ae Vaccination (V419-013)",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT00289731",
+      "Title": "Effect of Risk Factors Likely to Influence Immuno of Combined Hepatitis A & B Vacc vs Monovalent Hepatitis A & B Vacc",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03934736",
+      "Title": "HEPLISAV-B\u00ae in Adults With End-Stage Renal Disease (ESRD) Undergoing Hemodialysis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01282762",
+      "Title": "Long-Term Study on Safety and Immunogenicity of HEPLISAV\u2122 and Engerix-B\u00ae in Adults With Chronic Kidney Disease",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03459521",
+      "Title": "Efficacy of HBVaxpro40\u00a9 and Fendrix\u00a9 in Patients With Chronic Liver Disease.",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04199715",
+      "Title": "Safety and Efficacy of a Hepatitis B Vaccine in Immunosuppressed Patients",
+      "Status": "COMPLETED"
+    }
+  ]
+}

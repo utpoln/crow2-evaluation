@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_tuberculosis_diagnosis",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tuberculosis+diagnosis&sort=date",
+  "elapsed_seconds": 5.053699791999996,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Outcomes of Patients with Positive Latent Tuberculosis Screening in the San Antonio Military Health System.",
+      "Authors": "Kim J CPT, Marcus JE Maj, Homeyer DC Col.",
+      "Journal": "Mil Med. 2026 Aug 4:usag372. doi: 10.1093/milmed/usag372. Online ahead of print.",
+      "PMID": "42550075"
+    },
+    {
+      "Title": "Musculoskeletal Tuberculous Arthritis Mimicking Septic Arthritis.",
+      "Authors": "Rathnam AA, Sidhu H, Sivalingam T, Prakash TA, Kanevsky J.",
+      "Journal": "J Investig Med High Impact Case Rep. 2026 Jan-Dec;14:23247096261475077. doi: 10.1177/23247096261475077. Epub 2026 Aug 4.",
+      "PMID": "42549708"
+    },
+    {
+      "Title": "Multidrug resistant tuberculosis (MDR-TB) in Eritrea: a retrospective cohort analysis of mortality and associated factors (2013 - 2023).",
+      "Authors": "Teumezgi HA, Suud NN, Berhane YM, Said SM, Hailu DT, Habtetsion KK, Weldetnsae TM, Achila OO.",
+      "Journal": "Front Cell Infect Microbiol. 2026 Jul 20;16:1793864. doi: 10.3389/fcimb.2026.1793864. eCollection 2026.",
+      "PMID": "42548840"
+    },
+    {
+      "Title": "Innate Immune Cells in Non-Small Cell Lung Cancer: Roles in Tumor Progression and Therapeutic Responses.",
+      "Authors": "Liu J, Jia J, Wang C, Zhou Z, Cheng Z, Zhang Z, Jiang X, Huang Z, Li C.",
+      "Journal": "Cancer Innov. 2026 Aug 2;5(4):e70072. doi: 10.1002/cai2.70072. eCollection 2026 Aug.",
+      "PMID": "42548768"
+    },
+    {
+      "Title": "Tuberculous meningoencephalitis concurrent with autoimmune glial fibrillary acidic protein astrocytopathy: a case report.",
+      "Authors": "Deng Y, Bao Z, Zhuang S, Wu T, Zhong S.",
+      "Journal": "Front Immunol. 2026 Jul 20;17:1827602. doi: 10.3389/fimmu.2026.1827602. eCollection 2026.",
+      "PMID": "42548599"
+    },
+    {
+      "Title": "Beyond culturability: VBNC-like and differentially culturable Mycobacterium tuberculosis challenge growth-based interpretations of bacterial viability.",
+      "Authors": "Niu J, Zhang P, Wei Z, Zou Y, Wang Z.",
+      "Journal": "Front Cell Infect Microbiol. 2026 Jul 20;16:1896879. doi: 10.3389/fcimb.2026.1896879. eCollection 2026.",
+      "PMID": "42548556"
+    },
+    {
+      "Title": "Oral Tuberculosis Presenting in a Patient With Asymptomatic Miliary Pulmonary Tuberculosis.",
+      "Authors": "Silveira HA, Pala\u00e7on MP, Laor GET, Viccari HFR, Bufalino A, Le\u00f3n JE.",
+      "Journal": "Am J Dermatopathol. 2026 Aug 3. doi: 10.1097/DAD.0000000000003397. Online ahead of print.",
+      "PMID": "42546342"
+    },
+    {
+      "Title": "Time to treatment initiation in pregnant women with tuberculosis in Cape Town, South Africa.",
+      "Authors": "Meehan SA, Hesseling AC, Kalk E, Hughes JA, Seddon JA, Namukuta VE, Osman M.",
+      "Journal": "PLoS One. 2026 Aug 3;21(8):e0344059. doi: 10.1371/journal.pone.0344059. eCollection 2026.",
+      "PMID": "42545963"
+    },
+    {
+      "Title": "MAG3 SPECT/CT Detection of Vesicocolic Fistula in Genitourinary Tuberculosis.",
+      "Authors": "Mohd Rohani MF, Ahmad Tajudin NA, Amir Hassan SZ.",
+      "Journal": "Clin Nucl Med. 2026 Jul 16. doi: 10.1097/RLU.0000000000006618. Online ahead of print.",
+      "PMID": "42545118"
+    },
+    {
+      "Title": "Concomitant effect of high altitude and thrombophilia on multi-organ thrombosis.",
+      "Authors": "Sabzi F, Faraji R, Shokri F, Ghaysouri A, Maleki A, Rashidi T.",
+      "Journal": "Glob Cardiol Sci Pract. 2026 Jun 30;2026(3):e202622. doi: 10.21542/gcsp.2026.22. eCollection 2026 Jun 30.",
+      "PMID": "42544281"
+    }
+  ]
+}

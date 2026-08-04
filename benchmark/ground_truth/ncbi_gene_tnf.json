@@ -1,0 +1,106 @@
+{
+  "resource_id": "ncbi_gene_tnf",
+  "method": "ncbi_gene_eutils",
+  "records": [
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor"
+    },
+    {
+      "Symbol": "FASLG",
+      "GeneID": "ID: 356",
+      "Description": "Fas ligand"
+    },
+    {
+      "Symbol": "TNFSF10",
+      "GeneID": "ID: 8743",
+      "Description": "TNF superfamily member 10"
+    },
+    {
+      "Symbol": "TNFRSF1A",
+      "GeneID": "ID: 7132",
+      "Description": "TNF receptor superfamily member 1A"
+    },
+    {
+      "Symbol": "TNFSF11",
+      "GeneID": "ID: 8600",
+      "Description": "TNF superfamily member 11"
+    },
+    {
+      "Symbol": "TNFSF13B",
+      "GeneID": "ID: 10673",
+      "Description": "TNF superfamily member 13b"
+    },
+    {
+      "Symbol": "ADAM17",
+      "GeneID": "ID: 6868",
+      "Description": "ADAM metallopeptidase domain 17"
+    },
+    {
+      "Symbol": "FAS",
+      "GeneID": "ID: 355",
+      "Description": "Fas cell surface death receptor"
+    },
+    {
+      "Symbol": "TNFAIP3",
+      "GeneID": "ID: 7128",
+      "Description": "TNF alpha induced protein 3"
+    },
+    {
+      "Symbol": "TNFRSF11B",
+      "GeneID": "ID: 4982",
+      "Description": "TNF receptor superfamily member 11b"
+    },
+    {
+      "Symbol": "TNFRSF10B",
+      "GeneID": "ID: 8795",
+      "Description": "TNF receptor superfamily member 10b"
+    },
+    {
+      "Symbol": "CD40LG",
+      "GeneID": "ID: 959",
+      "Description": "CD40 ligand"
+    },
+    {
+      "Symbol": "TNFRSF11A",
+      "GeneID": "ID: 8792",
+      "Description": "TNF receptor superfamily member 11a"
+    },
+    {
+      "Symbol": "TNFSF12",
+      "GeneID": "ID: 8742",
+      "Description": "TNF superfamily member 12"
+    },
+    {
+      "Symbol": "LTA",
+      "GeneID": "ID: 4049",
+      "Description": "lymphotoxin alpha"
+    },
+    {
+      "Symbol": "TNFRSF1B",
+      "GeneID": "ID: 7133",
+      "Description": "TNF receptor superfamily member 1B"
+    },
+    {
+      "Symbol": "TNFRSF10A",
+      "GeneID": "ID: 8797",
+      "Description": "TNF receptor superfamily member 10a"
+    },
+    {
+      "Symbol": "CD40",
+      "GeneID": "ID: 958",
+      "Description": "CD40 molecule"
+    },
+    {
+      "Symbol": "TRAF6",
+      "GeneID": "ID: 7189",
+      "Description": "TNF receptor associated factor 6"
+    },
+    {
+      "Symbol": "TNFSF13",
+      "GeneID": "ID: 8741",
+      "Description": "TNF superfamily member 13"
+    }
+  ]
+}

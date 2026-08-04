@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_zika_virus_microcephaly",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Zika+virus+microcephaly&sort=date",
+  "elapsed_seconds": 5.203605667000005,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "SLC3A2 promotes early-stage of Zika virus infection in human placental cells and astrocytes.",
+      "Authors": "Chen Z, Feng D, Liu J, Chen J, Zhao C, Zhang S, Zhang X, Xu J.",
+      "Journal": "Infect Dis Immun. 2026 Jul;6(3):176-185. doi: 10.1097/ID9.0000000000000206. Epub 2026 Mar 10.",
+      "PMID": "42519621"
+    },
+    {
+      "Title": "Positivity of anti-Zika virus (ZIKV) antibodies among patients undergoing ART in Sao Paulo State, Brazil (2016-2024): a retrospective record analysis.",
+      "Authors": "Christofolini DM, Valle CHVFD, Oliveira GB, Paiva LDS, Bianco B, Barbosa CP.",
+      "Journal": "JBRA Assist Reprod. 2026 Jul 13. doi: 10.5935/1518-0557.20260041. Online ahead of print.",
+      "PMID": "42441890"
+    },
+    {
+      "Title": "Mouse models of Zika virus infection-induced placenta and fetal brain damage.",
+      "Authors": "Krishnamoorthy C, Natarajan SK.",
+      "Journal": "J Anim Sci. 2026 Jan 8;104:skag214. doi: 10.1093/jas/skag214.",
+      "PMID": "42439538"
+    },
+    {
+      "Title": "Maternal-fetal transmission of Zika virus and long-term neurodevelopmental outcomes in children: a narrative review.",
+      "Authors": "Aljahdali A, Alenzi T, Alammari W, Alshumrani A, Awaji A, Alotaibi M, Alanazi R, Mozayan T, Alotaibi F, Almnaizel A, Al-Khlaiwi T.",
+      "Journal": "Transl Pediatr. 2026 Jun 30;15(6):249. doi: 10.21037/tp-2026-1-0118. Epub 2026 May 14.",
+      "PMID": "42433967"
+    },
+    {
+      "Title": "Zika Virus in Pregnancy: Maternal Infection and Fetal Consequences.",
+      "Authors": "Marulkar CS, Wagh SS, Mukhida S.",
+      "Journal": "J Vector Borne Dis. 2026 Jun 29. doi: 10.4103/jvbd.jvbd_242_25. Online ahead of print.",
+      "PMID": "42377185"
+    },
+    {
+      "Title": "Inflammation Exacerbates Congenital Zika Virus Infection and Naringenin Provides Protective Effects.",
+      "Authors": "Branco ACCC, Ramos Y\u00c1L, Polonio CM, Zanluqui NG, Oliveira LG, Peron JPS, Yamada Yoshikawa FS, Sousa DP, Dias LLMDS, Sousa ESA, Azamor da Costa Barros T, Avvad-Portari E, Vasconcelos ZFM, Duarte-Neto AN, Pereira NV, Sotto MN, Sato MN.",
+      "Journal": "Viruses. 2026 May 28;18(6):615. doi: 10.3390/v18060615.",
+      "PMID": "42357625"
+    },
+    {
+      "Title": "Zika virus infection in the brains of lymphocyte-deficient mice does not lead to neurological symptoms despite sustained high viral load.",
+      "Authors": "Montemarano A, Balint E, Ashkar AA.",
+      "Journal": "J Neurovirol. 2026 Jun 23;32(4):22. doi: 10.1007/s13365-026-01319-5.",
+      "PMID": "42334674"
+    },
+    {
+      "Title": "A novel Kazal-type protease inhibitor from Aedes aegypti effective for NS2B-NS3 protease from the Zika virus and subtilases.",
+      "Authors": "Silva FAA, Scomparim G, Costa GCA, Manzato VM, Torquato RJS, Costa-da-Silva AL, Lemos FJA, Tanaka AS.",
+      "Journal": "Arch Biochem Biophys. 2026 Sep;783:110908. doi: 10.1016/j.abb.2026.110908. Epub 2026 Jun 20.",
+      "PMID": "42323182"
+    },
+    {
+      "Title": "Cortical Auditory Neural Responses to Speech and Communicative Functioning in Normocephalic Children With Prenatal Exposure to the Zika Virus.",
+      "Authors": "Key AP, Mason C, Powell SL, Cavalcante J, Frizzo A, Mandra PP, Tavares A, Menezes P, Hood LJ.",
+      "Journal": "Ear Hear. 2026 Jun 19. doi: 10.1097/AUD.0000000000001854. Online ahead of print.",
+      "PMID": "42312689"
+    },
+    {
+      "Title": "Cortical auditory response and language development in children with microcephaly by Zika virus.",
+      "Authors": "Figueiredo Frizzo AC, Lira de Andrade KC, Rombola IT, Teixeira da Costa KV, Baisi Chagas EF, de Lemos Menezes P.",
+      "Journal": "Braz J Otorhinolaryngol. 2026 Jun 16;92(5):101770. doi: 10.1016/j.bjorl.2026.101770. Online ahead of print.",
+      "PMID": "42302463"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_melanoma_checkpoint_inhibitor",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42541214",
+      "Title": "Effective Multi-agent Therapy With Anakinra, Corticosteroids and Mycophenolate in Immunotherapy-Associated Haemophagocytic Lymphohistiocytosis (HLH)",
+      "Authors": "Tanmoy AD, Eaw FJ, Mykura C, Pradeep DS, Gold S",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42539517",
+      "Title": "Case Report: Penile malignant melanoma: insights from a three-case series and literature review on diagnosis and management",
+      "Authors": "Xu X, Hou X, Li H, Chen Y, Jiang B, Zhang H",
+      "Journal": "Frontiers in oncology"
+    },
+    {
+      "PMID": "42538280",
+      "Title": "Efficacy and safety of immune checkpoint inhibitor rechallenge in cervical and endometrial cancer: a multi-center retrospective study (RICE study)",
+      "Authors": "Kabirian R, de Saint Ghislain M, Le Saux O, Mathiot L, Frenel JS, Augereau P, Forestier A, Fumet JD, Eberst L, Quesada S, Kalbacher E, Lescure C, De La Motte Rouge T, Grau Bejar JF, Barraud S, Genevee T, Bello Roufai D, Rodrigues M, Leary A",
+      "Journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society"
+    },
+    {
+      "PMID": "42537395",
+      "Title": "Modelling targeted therapy efficacy in NRAS mutant conjunctival melanoma",
+      "Authors": "V\u00e4lim\u00e4ki E, Alanne E, Suhonen J, Ruiz W, Torkkila J, Kukkula A, Hartiala P, Vainio P, Sundvall M, Rantala JK, PROEXMET study group",
+      "Journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+    },
+    {
+      "PMID": "42534945",
+      "Title": "Case Report: Durable remission in stage IV melanoma following strategic immune checkpoint inhibitor class rotation and rechallenge",
+      "Authors": "Raja J, Li S, Patterson A, Martinez SR, Soriano PA, Wang X, Jiang PYZ",
+      "Journal": "Frontiers in oncology"
+    },
+    {
+      "PMID": "42533742",
+      "Title": "Secondary Adrenal Insufficiency and Multisystem Endocrinopathy Following Immune Checkpoint Inhibitor Therapy",
+      "Authors": "Fedorova O, AlSaraj F",
+      "Journal": "Annals of African medicine"
+    },
+    {
+      "PMID": "42533258",
+      "Title": "Impact of Dietary Fiber Intake on the Immunological Response to Immunotherapy in Cancer Patients: A Scoping Review",
+      "Authors": "Sousa MES, de Almeida VD, da Silva J\u00fanior RR, de Fernandes TAAM, de Andrade MF",
+      "Journal": "Cancer medicine"
+    },
+    {
+      "PMID": "42530945",
+      "Title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial",
+      "Authors": "Isaacs C, Nanda R, Yau C, Chien AJ, Hershman DL, Stringer-Reasor EM, Wallace AM, Thomas A, Vaklavas C, Clark AS, Kennedy LC, Sanford A, Boughey JC, Albain KS, Pusztai L, Kalinsky KM, Beckwith H, Williams NO, Han HS, Falkson C, Arora M, Elias AD, Pohlmann PR, Rozenblit M, Marshall N, Chen YY, Trivedi MS, McGuinness JE, Howard FM, Chen N, Khoury K, Lancaster RB, Yeung KT, Douglas E, Wei M, Mainor C, LeStage B, Delson AL, Asare AL, Brown-Swigart L, Hirst GL, Matthews JB, Perlmutter J, Symmans WF, Yee D, Hylton NM, van 't Veer LJ, Rugo HS, DeMichele AM, Berry DA, Esserman LJ",
+      "Journal": "JAMA oncology"
+    },
+    {
+      "PMID": "42528939",
+      "Title": "Life-Threatening Secondary Adrenal Crisis Triggered by Pembrolizumab-Induced Hypophysitis: A Case Report",
+      "Authors": "Thu AN, Babar M",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42527077",
+      "Title": "A Single Center Real-world Observational Study of Response to Dacarbazine or Dacarbazine Combinations in Metastatic Melanoma Refractory to Immunotherapy",
+      "Authors": "Anwar M, Melendez-Torres GJ, Frazer RD",
+      "Journal": "Anticancer research"
+    }
+  ]
+}

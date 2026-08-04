@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_tnf",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=TNF+AND+human%5Borgn%5D",
+  "elapsed_seconds": 8.604246624999973,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "TNF",
+      "GeneID": "ID: 7124",
+      "Description": "tumor necrosis factor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "FASLG",
+      "GeneID": "ID: 356",
+      "Description": "Fas ligand [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFSF10",
+      "GeneID": "ID: 8743",
+      "Description": "TNF superfamily member 10 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFRSF1A",
+      "GeneID": "ID: 7132",
+      "Description": "TNF receptor superfamily member 1A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFSF11",
+      "GeneID": "ID: 8600",
+      "Description": "TNF superfamily member 11 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFSF13B",
+      "GeneID": "ID: 10673",
+      "Description": "TNF superfamily member 13b [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ADAM17",
+      "GeneID": "ID: 6868",
+      "Description": "ADAM metallopeptidase domain 17 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "FAS",
+      "GeneID": "ID: 355",
+      "Description": "Fas cell surface death receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFAIP3",
+      "GeneID": "ID: 7128",
+      "Description": "TNF alpha induced protein 3 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFRSF11B",
+      "GeneID": "ID: 4982",
+      "Description": "TNF receptor superfamily member 11b [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFRSF10B",
+      "GeneID": "ID: 8795",
+      "Description": "TNF receptor superfamily member 10b [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CD40LG",
+      "GeneID": "ID: 959",
+      "Description": "CD40 ligand [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFRSF11A",
+      "GeneID": "ID: 8792",
+      "Description": "TNF receptor superfamily member 11a [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFSF12",
+      "GeneID": "ID: 8742",
+      "Description": "TNF superfamily member 12 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "LTA",
+      "GeneID": "ID: 4049",
+      "Description": "lymphotoxin alpha [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFRSF1B",
+      "GeneID": "ID: 7133",
+      "Description": "TNF receptor superfamily member 1B [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFRSF10A",
+      "GeneID": "ID: 8797",
+      "Description": "TNF receptor superfamily member 10a [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CD40",
+      "GeneID": "ID: 958",
+      "Description": "CD40 molecule [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TRAF6",
+      "GeneID": "ID: 7189",
+      "Description": "TNF receptor associated factor 6 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TNFSF13",
+      "GeneID": "ID: 8741",
+      "Description": "TNF superfamily member 13 [Homo sapiens (human)]"
+    }
+  ]
+}

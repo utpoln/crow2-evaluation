@@ -1,0 +1,133 @@
+{
+  "resource_id": "uniprot_hemoglobin",
+  "url": "https://www.uniprot.org/uniprotkb?query=hemoglobin&facets=reviewed%3Atrue",
+  "elapsed_seconds": 12.227523749999989,
+  "record_count": 25,
+  "records": [
+    {
+      "Accession": "P68871",
+      "EntryName": "HBB_HUMAN",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P02042",
+      "EntryName": "HBD_HUMAN",
+      "GeneName": "HBD"
+    },
+    {
+      "Accession": "P02100",
+      "EntryName": "HBE_HUMAN",
+      "GeneName": "HBE1, HBE"
+    },
+    {
+      "Accession": "P69892",
+      "EntryName": "HBG2_HUMAN",
+      "GeneName": "HBG2"
+    },
+    {
+      "Accession": "P02008",
+      "EntryName": "HBAZ_HUMAN",
+      "GeneName": "HBZ, HBZ2"
+    },
+    {
+      "Accession": "P69891",
+      "EntryName": "HBG1_HUMAN",
+      "GeneName": "HBG1, PRO2979"
+    },
+    {
+      "Accession": "P69905",
+      "EntryName": "HBA_HUMAN",
+      "GeneName": "HBA1, HBA2"
+    },
+    {
+      "Accession": "P11517",
+      "EntryName": "HBB2_RAT",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P02091",
+      "EntryName": "HBB1_RAT",
+      "GeneName": "Hbb"
+    },
+    {
+      "Accession": "P02089",
+      "EntryName": "HBB2_MOUSE",
+      "GeneName": "Hbb-b2"
+    },
+    {
+      "Accession": "P02088",
+      "EntryName": "HBB1_MOUSE",
+      "GeneName": "Hbb-b1"
+    },
+    {
+      "Accession": "P01966",
+      "EntryName": "HBA_BOVIN",
+      "GeneName": "HBA"
+    },
+    {
+      "Accession": "P02070",
+      "EntryName": "HBB_BOVIN",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P02094",
+      "EntryName": "HBB_MESAU",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "B3EWR7",
+      "EntryName": "HBAC_OPHSE",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P83479",
+      "EntryName": "HBAC_CONCO",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P84792",
+      "EntryName": "HBB_AYTFU",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P68225",
+      "EntryName": "HBB_MACNE",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P02104",
+      "EntryName": "HBE_MOUSE",
+      "GeneName": "Hbb-y"
+    },
+    {
+      "Accession": "P18984",
+      "EntryName": "HBB_BALAC",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P68224",
+      "EntryName": "HBB_MACAR",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P68872",
+      "EntryName": "HBB_PANPA",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P04244",
+      "EntryName": "HBB_PANPO",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P18983",
+      "EntryName": "HBB_AILME",
+      "GeneName": "HBB"
+    },
+    {
+      "Accession": "P68222",
+      "EntryName": "HBB_MACFU",
+      "GeneName": "HBB"
+    }
+  ]
+}

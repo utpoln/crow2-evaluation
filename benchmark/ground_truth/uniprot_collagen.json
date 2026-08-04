@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_collagen",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "Q02388",
+      "EntryName": "CO7A1_HUMAN",
+      "GeneName": "COL7A1"
+    },
+    {
+      "Accession": "P25067",
+      "EntryName": "CO8A2_HUMAN",
+      "GeneName": "COL8A2"
+    },
+    {
+      "Accession": "P27658",
+      "EntryName": "CO8A1_HUMAN",
+      "GeneName": "COL8A1"
+    },
+    {
+      "Accession": "P02458",
+      "EntryName": "CO2A1_HUMAN",
+      "GeneName": "COL2A1"
+    },
+    {
+      "Accession": "P02452",
+      "EntryName": "CO1A1_HUMAN",
+      "GeneName": "COL1A1"
+    },
+    {
+      "Accession": "Q63870",
+      "EntryName": "CO7A1_MOUSE",
+      "GeneName": "Col7a1"
+    },
+    {
+      "Accession": "Q14993",
+      "EntryName": "COJA1_HUMAN",
+      "GeneName": "COL19A1"
+    },
+    {
+      "Accession": "P08123",
+      "EntryName": "CO1A2_HUMAN",
+      "GeneName": "COL1A2"
+    },
+    {
+      "Accession": "P25318",
+      "EntryName": "CO8A2_MOUSE",
+      "GeneName": "Col8a2"
+    },
+    {
+      "Accession": "Q17RW2",
+      "EntryName": "COOA1_HUMAN",
+      "GeneName": "COL24A1"
+    },
+    {
+      "Accession": "P05997",
+      "EntryName": "CO5A2_HUMAN",
+      "GeneName": "COL5A2"
+    },
+    {
+      "Accession": "P25940",
+      "EntryName": "CO5A3_HUMAN",
+      "GeneName": "COL5A3"
+    },
+    {
+      "Accession": "P29400",
+      "EntryName": "CO4A5_HUMAN",
+      "GeneName": "COL4A5"
+    },
+    {
+      "Accession": "Q14031",
+      "EntryName": "CO4A6_HUMAN",
+      "GeneName": "COL4A6"
+    },
+    {
+      "Accession": "Q8NFW1",
+      "EntryName": "COMA1_HUMAN",
+      "GeneName": "COL22A1"
+    },
+    {
+      "Accession": "P13942",
+      "EntryName": "COBA2_HUMAN",
+      "GeneName": "COL11A2"
+    },
+    {
+      "Accession": "P53420",
+      "EntryName": "CO4A4_HUMAN",
+      "GeneName": "COL4A4"
+    },
+    {
+      "Accession": "P12110",
+      "EntryName": "CO6A2_HUMAN",
+      "GeneName": "COL6A2"
+    },
+    {
+      "Accession": "P12111",
+      "EntryName": "CO6A3_HUMAN",
+      "GeneName": "COL6A3"
+    },
+    {
+      "Accession": "P20849",
+      "EntryName": "CO9A1_HUMAN",
+      "GeneName": "COL9A1"
+    },
+    {
+      "Accession": "Q14050",
+      "EntryName": "CO9A3_HUMAN",
+      "GeneName": "COL9A3"
+    },
+    {
+      "Accession": "Q14055",
+      "EntryName": "CO9A2_HUMAN",
+      "GeneName": "COL9A2"
+    },
+    {
+      "Accession": "A6NMZ7",
+      "EntryName": "CO6A6_HUMAN",
+      "GeneName": "COL6A6"
+    },
+    {
+      "Accession": "P02461",
+      "EntryName": "CO3A1_HUMAN",
+      "GeneName": "COL3A1"
+    },
+    {
+      "Accession": "P20908",
+      "EntryName": "CO5A1_HUMAN",
+      "GeneName": "COL5A1"
+    }
+  ]
+}

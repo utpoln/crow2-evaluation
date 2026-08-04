@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_fibrinogen",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P02675",
+      "EntryName": "FIBB_HUMAN",
+      "GeneName": "FGB"
+    },
+    {
+      "Accession": "P02671",
+      "EntryName": "FIBA_HUMAN",
+      "GeneName": "FGA"
+    },
+    {
+      "Accession": "P02679",
+      "EntryName": "FIBG_HUMAN",
+      "GeneName": "FGG"
+    },
+    {
+      "Accession": "P02676",
+      "EntryName": "FIBB_BOVIN",
+      "GeneName": "FGB"
+    },
+    {
+      "Accession": "Q8K0E8",
+      "EntryName": "FIBB_MOUSE",
+      "GeneName": "Fgb"
+    },
+    {
+      "Accession": "P06399",
+      "EntryName": "FIBA_RAT",
+      "GeneName": "Fga"
+    },
+    {
+      "Accession": "E9PV24",
+      "EntryName": "FIBA_MOUSE",
+      "GeneName": "Fga"
+    },
+    {
+      "Accession": "P02672",
+      "EntryName": "FIBA_BOVIN",
+      "GeneName": "FGA"
+    },
+    {
+      "Accession": "Q14314",
+      "EntryName": "FGL2_HUMAN",
+      "GeneName": "FGL2"
+    },
+    {
+      "Accession": "Q8VCM7",
+      "EntryName": "FIBG_MOUSE",
+      "GeneName": "Fgg"
+    },
+    {
+      "Accession": "P02678",
+      "EntryName": "FIBB_PETMA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P02680",
+      "EntryName": "FIBG_RAT",
+      "GeneName": "Fgg"
+    },
+    {
+      "Accession": "Q08830",
+      "EntryName": "FGL1_HUMAN",
+      "GeneName": "FGL1"
+    },
+    {
+      "Accession": "O95073",
+      "EntryName": "FSBP_HUMAN",
+      "GeneName": "FSBP"
+    },
+    {
+      "Accession": "Q71KU9",
+      "EntryName": "FGL1_MOUSE",
+      "GeneName": "Fgl1"
+    },
+    {
+      "Accession": "Q02020",
+      "EntryName": "FIBB_CHICK",
+      "GeneName": "FGB"
+    },
+    {
+      "Accession": "P14448",
+      "EntryName": "FIBA_CHICK",
+      "GeneName": "FGA"
+    },
+    {
+      "Accession": "P33573",
+      "EntryName": "FIBA2_PETMA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "P04115",
+      "EntryName": "FIBG_PETMA",
+      "GeneName": "FGG"
+    },
+    {
+      "Accession": "P12799",
+      "EntryName": "FIBG_BOVIN",
+      "GeneName": "FGG"
+    },
+    {
+      "Accession": "Q8N539",
+      "EntryName": "FBCD1_HUMAN",
+      "GeneName": "FIBCD1"
+    },
+    {
+      "Accession": "P02674",
+      "EntryName": "FIBA1_PETMA",
+      "GeneName": ""
+    },
+    {
+      "Accession": "O75636",
+      "EntryName": "FCN3_HUMAN",
+      "GeneName": "FCN3"
+    },
+    {
+      "Accession": "P14480",
+      "EntryName": "FIBB_RAT",
+      "GeneName": "Fgb"
+    },
+    {
+      "Accession": "Q2G015",
+      "EntryName": "CLFA_STAA8",
+      "GeneName": "clfA"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_schizophrenia",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT06872424",
+      "Title": "The Effect of Psychosocial Skills Focused Group Psychoeducation in Schizophrenia Patients",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07342465",
+      "Title": "Gamma Light and Sound Stimulation in Schizophrenia",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT05164289",
+      "Title": "Interest of EMDR Schizophrenic Disorders",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT02868879",
+      "Title": "Anatomical and Structural Connectivity in Two Psychotic Phenotypes : Periodic Catatonia and Cataphasia",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05115604",
+      "Title": "Insomnia in the Patient With Schizophrenic Disorder: Evaluation of a CBT and Psychoeducational Intervention",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02834182",
+      "Title": "fMRI of Theory of Mind in Schizophrenia and Bipolar Disorder",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT03209778",
+      "Title": "Involuntary Memories Investigation in Schizophrenia",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT07618338",
+      "Title": "Virtual Reality-Based Smoking Cessation Treatment in Patients With Schizophrenia",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02664129",
+      "Title": "Video as a Tool to Improve Insight in Schizophrenia",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02224430",
+      "Title": "Prediction of Relapse in Schizophrenia/Schizoaffective Disorder With Smartphones and On-body Sensors",
+      "Status": "COMPLETED"
+    }
+  ]
+}

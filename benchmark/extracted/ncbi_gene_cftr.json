@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_cftr",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=CFTR+AND+human%5Borgn%5D",
+  "elapsed_seconds": 6.953837708000037,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "CFTR",
+      "GeneID": "ID: 1080",
+      "Description": "CF transmembrane conductance regulator [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC2",
+      "GeneID": "ID: 1244",
+      "Description": "ATP binding cassette subfamily C member 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC8",
+      "GeneID": "ID: 6833",
+      "Description": "ATP binding cassette subfamily C member 8 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC4",
+      "GeneID": "ID: 10257",
+      "Description": "ATP binding cassette subfamily C member 4 (PEL blood group) [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC1",
+      "GeneID": "ID: 4363",
+      "Description": "ATP binding cassette subfamily C member 1 (ABCC1 blood group) [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC6",
+      "GeneID": "ID: 368",
+      "Description": "ATP binding cassette subfamily C member 6 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC9",
+      "GeneID": "ID: 10060",
+      "Description": "ATP binding cassette subfamily C member 9 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC5",
+      "GeneID": "ID: 10057",
+      "Description": "ATP binding cassette subfamily C member 5 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC11",
+      "GeneID": "ID: 85320",
+      "Description": "ATP binding cassette subfamily C member 11 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "GOPC",
+      "GeneID": "ID: 57120",
+      "Description": "golgi associated PDZ and coiled-coil motif containing [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC3",
+      "GeneID": "ID: 8714",
+      "Description": "ATP binding cassette subfamily C member 3 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PDZK1",
+      "GeneID": "ID: 5174",
+      "Description": "PDZ domain containing 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ABCC10",
+      "GeneID": "ID: 89845",
+      "Description": "ATP binding cassette subfamily C member 10 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "VEGFA",
+      "GeneID": "ID: 7422",
+      "Description": "vascular endothelial growth factor A [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "LOC111674463",
+      "GeneID": "ID: 111674463",
+      "Description": "CFTR promoter region [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TGFB1",
+      "GeneID": "ID: 7040",
+      "Description": "transforming growth factor beta 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MTOR",
+      "GeneID": "ID: 2475",
+      "Description": "mechanistic target of rapamycin kinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "IL1B",
+      "GeneID": "ID: 3553",
+      "Description": "interleukin 1 beta [Homo sapiens (human)]"
+    }
+  ]
+}

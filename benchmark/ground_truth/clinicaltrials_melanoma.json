@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_melanoma",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT05928962",
+      "Title": "An Exploratory Single-arm Study: PD-1 With Recombinant Human Adenovirus Type 5 Injection for Malignant Melanomas",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06952400",
+      "Title": "The Registry Study of Genetic Alterations of Melanoma in Taiwan",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT00368615",
+      "Title": "Characterization of the Melanoma-Specific Immune Response",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06549439",
+      "Title": "eFLASH for Skin Lesions of Malignant Melanomas",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT05172232",
+      "Title": "Diagnostic Precision of the AI Tool Dermalyzer to Identify Malignant Melanomas in Subjects Seeking Primary Care for Melanoma-suspected Cutaneous Lesions",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04702854",
+      "Title": "Evaluation of Ultrasound Biomicroscopy in the Local Staging of Cutaneous Melanoma",
+      "Status": "TERMINATED"
+    },
+    {
+      "NCT_ID": "NCT00813449",
+      "Title": "Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06784778",
+      "Title": "Observational Study of Patients With Advanced Melanoma (Skin Cancer) to Assess if IOpener\u00ae-Melanoma Test Can Predict Response to Immunotherapy.",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT03541148",
+      "Title": "Evaluation of Oncoxin-Viusid\u00ae in Cutaneous Melanoma",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04253080",
+      "Title": "Expression of IL4 Induced Gene 1 in Patients With Cutaneous Melanoma: Value in Prognosis and/or in Predictive Response to Immune Checkpoint Inhibitors",
+      "Status": "COMPLETED"
+    }
+  ]
+}

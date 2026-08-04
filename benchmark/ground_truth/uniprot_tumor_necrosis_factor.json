@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_tumor_necrosis_factor",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P01375",
+      "EntryName": "TNFA_HUMAN",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "P19438",
+      "EntryName": "TNR1A_HUMAN",
+      "GeneName": "TNFRSF1A"
+    },
+    {
+      "Accession": "P20333",
+      "EntryName": "TNR1B_HUMAN",
+      "GeneName": "TNFRSF1B"
+    },
+    {
+      "Accession": "P36941",
+      "EntryName": "TNR3_HUMAN",
+      "GeneName": "LTBR"
+    },
+    {
+      "Accession": "O19131",
+      "EntryName": "TNR1A_BOVIN",
+      "GeneName": "TNFRSF1A"
+    },
+    {
+      "Accession": "Q9QYH9",
+      "EntryName": "TNF14_MOUSE",
+      "GeneName": "Tnfsf14"
+    },
+    {
+      "Accession": "Q06643",
+      "EntryName": "TNFC_HUMAN",
+      "GeneName": "LTB"
+    },
+    {
+      "Accession": "P22934",
+      "EntryName": "TNR1A_RAT",
+      "GeneName": "Tnfrsf1a"
+    },
+    {
+      "Accession": "P50555",
+      "EntryName": "TNR1A_PIG",
+      "GeneName": "TNFRSF1A"
+    },
+    {
+      "Accession": "Q9WU72",
+      "EntryName": "TN13B_MOUSE",
+      "GeneName": "Tnfsf13b"
+    },
+    {
+      "Accession": "Q06599",
+      "EntryName": "TNFA_BOVIN",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "P51743",
+      "EntryName": "TNFA_CEREL",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "O54907",
+      "EntryName": "TNF12_MOUSE",
+      "GeneName": "Tnfsf12"
+    },
+    {
+      "Accession": "P29553",
+      "EntryName": "TNFA_HORSE",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "Q539C2",
+      "EntryName": "TNFA_TUPTA",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "P41155",
+      "EntryName": "TNFC_MOUSE",
+      "GeneName": "Ltb"
+    },
+    {
+      "Accession": "O77510",
+      "EntryName": "TNFA_PAPHU",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "P25119",
+      "EntryName": "TNR1B_MOUSE",
+      "GeneName": "Tnfrsf1b"
+    },
+    {
+      "Accession": "P25118",
+      "EntryName": "TNR1A_MOUSE",
+      "GeneName": "Tnfrsf1a"
+    },
+    {
+      "Accession": "P04924",
+      "EntryName": "TNFA_RABIT",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "O95150",
+      "EntryName": "TNF15_HUMAN",
+      "GeneName": "TNFSF15"
+    },
+    {
+      "Accession": "P06804",
+      "EntryName": "TNFA_MOUSE",
+      "GeneName": "Tnf"
+    },
+    {
+      "Accession": "P16599",
+      "EntryName": "TNFA_RAT",
+      "GeneName": "Tnf"
+    },
+    {
+      "Accession": "Q9BEA1",
+      "EntryName": "TNFA_TURTR",
+      "GeneName": "TNF"
+    },
+    {
+      "Accession": "Q80WY6",
+      "EntryName": "TNR1B_RAT",
+      "GeneName": "Tnfrsf1b"
+    }
+  ]
+}

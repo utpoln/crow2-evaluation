@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_asthma",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT03239431",
+      "Title": "A Study to Determine the Clinical Characteristics, Comorbidities, Treatment Status and Exacerbations of Asthma Patients",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06962761",
+      "Title": "the Effect of Use of Vit d and Probiotic as a Supplementaition in the Treatment of Bronchial Asthma in Patient Aged 6 to 50 Year and Its Effect in Decrasing Excerbation.",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT00410098",
+      "Title": "Bikram Yoga and Asthma",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT02126865",
+      "Title": "Multiple Rising Oral Doses of BI 1060469 in Healthy Subjects and Mild Asthma Patients",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04051060",
+      "Title": "Evaluation of Exercise Capacity and Activity Role Adequacy in Patients With Adult Bronchial Asthma",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT06331897",
+      "Title": "Bronchial Asthma & Its Exacerbation",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT04650464",
+      "Title": "Cardiopulmonary Fitness in Children With Asthma Versus Healthy Children",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01918293",
+      "Title": "Self-Management Using Smartphone Application for Chronic Disease Care in Real siTuation (SMART-Asthma): Adult",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04552301",
+      "Title": "Assessing Inflammatory and Behavioral Pathways Linking PTSD to Increased Asthma Morbidity in WTC Workers",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT02158338",
+      "Title": "Do Bonding Disruptions Occur More Often in Children With Asthma Than in Non-asthmatic Populations?",
+      "Status": "COMPLETED"
+    }
+  ]
+}

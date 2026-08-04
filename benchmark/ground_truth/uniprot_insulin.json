@@ -1,0 +1,131 @@
+{
+  "resource_id": "uniprot_insulin",
+  "method": "uniprot_api",
+  "records": [
+    {
+      "Accession": "P01308",
+      "EntryName": "INS_HUMAN",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "P06213",
+      "EntryName": "INSR_HUMAN",
+      "GeneName": "INSR"
+    },
+    {
+      "Accession": "P14735",
+      "EntryName": "IDE_HUMAN",
+      "GeneName": "IDE"
+    },
+    {
+      "Accession": "P01317",
+      "EntryName": "INS_BOVIN",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "P01321",
+      "EntryName": "INS_CANLF",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "P01315",
+      "EntryName": "INS_PIG",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "P67970",
+      "EntryName": "INS_CHICK",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "Q91XI3",
+      "EntryName": "INS_ICTTR",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "P01329",
+      "EntryName": "INS_CAVPO",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "P17715",
+      "EntryName": "INS_OCTDE",
+      "GeneName": "INS"
+    },
+    {
+      "Accession": "Q9Y5Q6",
+      "EntryName": "INSL5_HUMAN",
+      "GeneName": "INSL5"
+    },
+    {
+      "Accession": "P01322",
+      "EntryName": "INS1_RAT",
+      "GeneName": "Ins1"
+    },
+    {
+      "Accession": "P15208",
+      "EntryName": "INSR_MOUSE",
+      "GeneName": "Insr"
+    },
+    {
+      "Accession": "P01323",
+      "EntryName": "INS2_RAT",
+      "GeneName": "Ins2"
+    },
+    {
+      "Accession": "P01326",
+      "EntryName": "INS2_MOUSE",
+      "GeneName": "Ins2"
+    },
+    {
+      "Accession": "P01325",
+      "EntryName": "INS1_MOUSE",
+      "GeneName": "Ins1"
+    },
+    {
+      "Accession": "P15127",
+      "EntryName": "INSR_RAT",
+      "GeneName": "Insr"
+    },
+    {
+      "Accession": "Q9JHR7",
+      "EntryName": "IDE_MOUSE",
+      "GeneName": "Ide"
+    },
+    {
+      "Accession": "P51460",
+      "EntryName": "INSL3_HUMAN",
+      "GeneName": "INSL3"
+    },
+    {
+      "Accession": "Q24K02",
+      "EntryName": "IDE_BOVIN",
+      "GeneName": "IDE"
+    },
+    {
+      "Accession": "P35559",
+      "EntryName": "IDE_RAT",
+      "GeneName": "Ide"
+    },
+    {
+      "Accession": "Q9VT52",
+      "EntryName": "INSL3_DROME",
+      "GeneName": "Ilp3"
+    },
+    {
+      "Accession": "P22817",
+      "EntryName": "IDE_DROME",
+      "GeneName": "Ide"
+    },
+    {
+      "Accession": "O77801",
+      "EntryName": "INSL3_BOVIN",
+      "GeneName": "INSL3"
+    },
+    {
+      "Accession": "Q7KUD5",
+      "EntryName": "INSL5_DROME",
+      "GeneName": "Ilp5"
+    }
+  ]
+}

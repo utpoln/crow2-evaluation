@@ -1,0 +1,108 @@
+{
+  "resource_id": "ncbi_gene_apc",
+  "url": "https://www.ncbi.nlm.nih.gov/gene/?term=APC+AND+human%5Borgn%5D",
+  "elapsed_seconds": 10.559515666000038,
+  "record_count": 20,
+  "records": [
+    {
+      "Symbol": "APC",
+      "GeneID": "ID: 324",
+      "Description": "APC regulator of Wnt signaling pathway [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PROC",
+      "GeneID": "ID: 5624",
+      "Description": "protein C, inactivator of coagulation factors Va and VIIIa [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PROCR",
+      "GeneID": "ID: 10544",
+      "Description": "protein C receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MAPRE1",
+      "GeneID": "ID: 22919",
+      "Description": "microtubule associated protein RP/EB family member 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "APOH",
+      "GeneID": "ID: 350",
+      "Description": "apolipoprotein H [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "AMER1",
+      "GeneID": "ID: 139285",
+      "Description": "APC membrane recruitment protein 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "TP53",
+      "GeneID": "ID: 7157",
+      "Description": "tumor protein p53 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CTNNB1",
+      "GeneID": "ID: 1499",
+      "Description": "catenin beta 1 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "APC2",
+      "GeneID": "ID: 10297",
+      "Description": "APC regulator of Wnt signaling pathway 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "BRAF",
+      "GeneID": "ID: 673",
+      "Description": "B-Raf proto-oncogene, serine/threonine kinase [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ARHGEF4",
+      "GeneID": "ID: 50649",
+      "Description": "Rho guanine nucleotide exchange factor 4 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "EGFR",
+      "GeneID": "ID: 1956",
+      "Description": "epidermal growth factor receptor [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "ERBB2",
+      "GeneID": "ID: 2064",
+      "Description": "erb-b2 receptor tyrosine kinase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MAPRE2",
+      "GeneID": "ID: 10982",
+      "Description": "microtubule associated protein RP/EB family member 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PTEN",
+      "GeneID": "ID: 5728",
+      "Description": "phosphatase and tensin homolog [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "SAPCD2",
+      "GeneID": "ID: 89958",
+      "Description": "suppressor APC domain containing 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "CD274",
+      "GeneID": "ID: 29126",
+      "Description": "CD274 molecule [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "MAPRE3",
+      "GeneID": "ID: 22924",
+      "Description": "microtubule associated protein RP/EB family member 3 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "PTGS2",
+      "GeneID": "ID: 5743",
+      "Description": "prostaglandin-endoperoxide synthase 2 [Homo sapiens (human)]"
+    },
+    {
+      "Symbol": "IL6",
+      "GeneID": "ID: 3569",
+      "Description": "interleukin 6 [Homo sapiens (human)]"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_obesity_leptin_signaling",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=obesity+leptin+signaling&sort=date",
+  "elapsed_seconds": 5.036039166000002,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Sleep loss as a cardiometabolic risk factor: a narrative review of clinical and public health implications.",
+      "Authors": "Ghanem FK, Attarian H, Al-Khalil Z, Kabrita CS.",
+      "Journal": "J Clin Sleep Med. 2026 Aug 3;22(1):129. doi: 10.1007/s44470-026-00144-1.",
+      "PMID": "42547683"
+    },
+    {
+      "Title": "Genetic burden of rare leptin-melanocortin variants in pediatric nonsyndromic obesity: Evidence from a Taiwanese cohort.",
+      "Authors": "Chang YM, Hwang DY, Chou YY, Pan YW, Weng YH, Tsai MC.",
+      "Journal": "Obes Res Clin Pract. 2026 Aug 3:S1871-403X(26)00073-6. doi: 10.1016/j.orcp.2026.07.003. Online ahead of print.",
+      "PMID": "42547334"
+    },
+    {
+      "Title": "The Gut-brain-adipose Axis in Ultra-processed Food and Obesity: A Mechanistic Synthesis and Its Implications for Food Classification.",
+      "Authors": "Louie JCY.",
+      "Journal": "Curr Obes Rep. 2026 Jul 29;15(1):67. doi: 10.1007/s13679-026-00745-0.",
+      "PMID": "42525211"
+    },
+    {
+      "Title": "Peptide Hormones in Appetite Regulation: A Complex Network.",
+      "Authors": "Abdollahi S, Adam H, Al Musaimi O.",
+      "Journal": "Pharmaceuticals (Basel). 2026 Jun 25;19(7):989. doi: 10.3390/ph19070989.",
+      "PMID": "42515672"
+    },
+    {
+      "Title": "Modulation of Leptin and Serotonin by Honey and Its Glycoproteins Against High-Fat Diet-Induced Metabolic and Anxiety Phenotypes.",
+      "Authors": "Gohar A, Atkinson RL, Shakeel M, Haleem DJ, Ullah K, Rasool A.",
+      "Journal": "Biomedicines. 2026 Jul 21;14(7):1641. doi: 10.3390/biomedicines14071641.",
+      "PMID": "42512113"
+    },
+    {
+      "Title": "BIX02189 Suppresses Adipogenesis and Lipid Accumulation Through Inhibition of MEK5-STAT3/STAT5 Signaling and Activation of AMPK in Adipocytes and Zebrafish.",
+      "Authors": "Perumal NL, Hussain M, Son DG, Stephens JM, Park GY, Jang BC.",
+      "Journal": "Int J Mol Sci. 2026 Jul 21;27(14):6468. doi: 10.3390/ijms27146468.",
+      "PMID": "42511811"
+    },
+    {
+      "Title": "Secretion Patterns of Leptin: A Key Component in the Regulation of Energy Homeostasis and Its Therapeutic Applications.",
+      "Authors": "Wang C, Rong X.",
+      "Journal": "Biomolecules. 2026 Jul 14;16(7):1031. doi: 10.3390/biom16071031.",
+      "PMID": "42509824"
+    },
+    {
+      "Title": "Alternate-Day Fasting Enhances Leptin Sensitivity via JMJD3-Dependent Epigenetic Regulation of the Leptin Receptor in the Hypothalamus.",
+      "Authors": "Oladun B, Mall S, Fan B, Lee J, Ha JH, Roberts JL, Kim MH.",
+      "Journal": "J Nutr Biochem. 2026 Jul 25:110476. doi: 10.1016/j.jnutbio.2026.110476. Online ahead of print.",
+      "PMID": "42501875"
+    },
+    {
+      "Title": "Monogenic and syndromic obesity in children: Clinical recognition, genetics, and precision management.",
+      "Authors": "Khalil H, Feigin E, Zaitoon H.",
+      "Journal": "Pediatr Investig. 2026 Feb 9:10.1002/ped4.70040. doi: 10.1002/ped4.70040. Online ahead of print.",
+      "PMID": "42499770"
+    },
+    {
+      "Title": "Adolescent food insecurity impairs gut signal sensitivity and cue-induced appetitive behaviours in female rats.",
+      "Authors": "Livermore A, Ong ZY.",
+      "Journal": "Appetite. 2026 Jul 23;227:108728. doi: 10.1016/j.appet.2026.108728. Online ahead of print.",
+      "PMID": "42492686"
+    }
+  ]
+}

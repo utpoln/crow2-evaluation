@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_cystic_fibrosis_cftr",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=cystic+fibrosis+CFTR&sort=date",
+  "elapsed_seconds": 5.514717750000003,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Polymicrobial Extracellular Vesicles Reduce the Innate Immune Response of Human Cystic Fibrosis Bronchial Epithelial Cells.",
+      "Authors": "Charpentier LA, Barnaby RL, Roche CT, Cho BK, Kaushal P, Goo YA, Vietje B, Taatjes DJ, Ashare A, Jean-Pierre F, Stanton BA.",
+      "Journal": "J Extracell Biol. 2026 Aug 3;5(8):e70176. doi: 10.1002/jex2.70176. eCollection 2026 Aug.",
+      "PMID": "42549208"
+    },
+    {
+      "Title": "Potassium Channels of the Airway Epithelium.",
+      "Authors": "Villanueva S, Vera E, Apablaza T, Catal\u00e1n MA, Flores CA.",
+      "Journal": "Acta Physiol (Oxf). 2026 Sep;242(9):e70287. doi: 10.1111/apha.70287.",
+      "PMID": "42547963"
+    },
+    {
+      "Title": "DNA sequencing for microbial surveillance in cystic fibrosis airways: advances, challenges, and clinical translation.",
+      "Authors": "Carlson-Jones JAP, Goddard TR, Papudeshi B, Mallawaarachchi V, Whiteson KL, Warner MS, Morton JM, Jersmann HPA, Edwards RA.",
+      "Journal": "Clin Microbiol Rev. 2026 Aug 3:e0035225. doi: 10.1128/cmr.00352-25. Online ahead of print.",
+      "PMID": "42545024"
+    },
+    {
+      "Title": "Pathogenic respiratory microbiota in cystic fibrosis: impact of 2 years of triple CFTR modulator therapy.",
+      "Authors": "Demeule C, Amoureux L, Huet F, Allou N, Le Naour C, Garrigos T; Collaborators.",
+      "Journal": "Clin Microbiol Infect. 2026 Jul 31:S1198-743X(26)00405-2. doi: 10.1016/j.cmi.2026.07.038. Online ahead of print.",
+      "PMID": "42537882"
+    },
+    {
+      "Title": "Real-world Efficacy, Safety and Heterogenicity of Efficacy of Elexacaftor-Tezacaftor-Ivacaftor in Younger Children (6-11 Years Old) with Cystic Fibrosis.",
+      "Authors": "Sheikh S, Holtzlander M, Eisner M, Gushue C, Palacios S, Mull E, Imran S, Kotha K, McCoy KS.",
+      "Journal": "Respir Med. 2026 Jul 31:109063. doi: 10.1016/j.rmed.2026.109063. Online ahead of print.",
+      "PMID": "42537817"
+    },
+    {
+      "Title": "CFTR modulators exert subset-specific phenotype remodeling on circulating neutrophils in cystic fibrosis.",
+      "Authors": "Chable de la H\u00e9ronni\u00e8re F, Dh\u00f4te T, de Oliveira Formiga R, Regard L, Saraceni-Tasso G, Andrieu M, Many S, Da Silva J, P\u00e8ne F, Martin C, Ladjemi MZ, Burgel PR, Witko-Sarsat V.",
+      "Journal": "Immunohorizons. 2026 Jul 10;10(7):vlag030. doi: 10.1093/immhor/vlag030.",
+      "PMID": "42536714"
+    },
+    {
+      "Title": "Developmental dynamics of ovine lung in health and cystic fibrosis at single-cell resolution.",
+      "Authors": "Tkachenko S, Leir SH, Van Wettere AJ, Perisse IV, Mustafa Y, Marriott CM, Patrick T, Liu Y, White KL, Polejaeva IA, Harris A.",
+      "Journal": "Funct Integr Genomics. 2026 Jul 31;26(1):213. doi: 10.1007/s10142-026-01981-2.",
+      "PMID": "42533177"
+    },
+    {
+      "Title": "Real-world population pharmacokinetic modeling of elexacaftor, tezacaftor, and ivacaftor.",
+      "Authors": "Kunzelmann AK, Naehrig S, Shad C, Breuling M, Goetschke M, Habler K, Sommerburg O, Behr J, Schatz LM, Starp J, Vogeser M, Paal M, Liebchen U.",
+      "Journal": "J Cyst Fibros. 2026 Jul 30:S1569-1993(26)03659-3. doi: 10.1016/j.jcf.2026.07.1984. Online ahead of print.",
+      "PMID": "42532735"
+    },
+    {
+      "Title": "Extracellular vesicle-based delivery to airway basal cells for durable gene therapy in cystic fibrosis.",
+      "Authors": "Ivleva A, Demchenko A, Smirnikhina S.",
+      "Journal": "Front Bioeng Biotechnol. 2026 Jul 15;14:1855907. doi: 10.3389/fbioe.2026.1855907. eCollection 2026.",
+      "PMID": "42529376"
+    },
+    {
+      "Title": "Weight Gain is Associated with Reduced Inflammation in Children with Cystic Fibrosis on Elexacaftor/Tezacaftor/Ivacaftor.",
+      "Authors": "G\u00f6kbulut N, Heer P, Ezri J, Mornand A, Regamey N, Rochat I, Rybak A, Blanchon S.",
+      "Journal": "Respir Med. 2026 Jul 28:109060. doi: 10.1016/j.rmed.2026.109060. Online ahead of print.",
+      "PMID": "42521039"
+    }
+  ]
+}

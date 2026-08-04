@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_cystic_fibrosis",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT04734743",
+      "Title": "Muscle Strength, Functional Capacity, Respiratory Function and Quality Of Life In Cystic Fibrosis Patients",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01379040",
+      "Title": "Volatile Organic Compounds in Cystic Fibrosis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03820349",
+      "Title": "Cystic Fibrosis and Cognitive Function",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05948488",
+      "Title": "Psychological Study in Children With Mucoviscidosis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT01013896",
+      "Title": "Building Adherence to Live With And Navigate my Cystic Fibrosis (CF) Experience",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT00004806",
+      "Title": "Phase I Study of Liposome-Mediated Gene Transfer in Patients With Cystic Fibrosis",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03147651",
+      "Title": "Exercise Capacity in Patients With Cystic Fibrosis vs. Non-cystic Fibrosis Bronchiectasis",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT05654480",
+      "Title": "Combating Diagnostic Wandering and Impasse for Cystic Fibrosis",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT04970225",
+      "Title": "Cystic Fibrosis Blood Neutrophils",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06120465",
+      "Title": "YOGA-CF (Yoga Outcomes Get Assessed in Cystic Fibrosis)",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    }
+  ]
+}

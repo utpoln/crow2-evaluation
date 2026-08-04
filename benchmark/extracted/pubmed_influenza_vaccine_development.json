@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_influenza_vaccine_development",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=influenza+vaccine+development&sort=date",
+  "elapsed_seconds": 5.082122208999991,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025 US influenza season.",
+      "Authors": "Joshi K, Situ A, Mehta D, Li L, Canan C, Youhanna J, Radin JM, Rudin D, Georgieva M, Van de Velde N.",
+      "Journal": "J Med Econ. 2026 Dec;29(1):2046-2062. doi: 10.1080/13696998.2026.2706361. Epub 2026 Aug 4.",
+      "PMID": "42550058"
+    },
+    {
+      "Title": "Theranostic innovation in infectious lung diseases: integrating biotechnology and nanotechnology for precision medicine.",
+      "Authors": "Jafari A, Manzari-Tavakoli A, Manzari Tavakoli M, Hashemian SM, Jamaati H, Akhtari M, Tabarsi P, Omrani M.",
+      "Journal": "Expert Rev Mol Diagn. 2026 Aug 4. doi: 10.1080/14737159.2026.2714060. Online ahead of print.",
+      "PMID": "42549821"
+    },
+    {
+      "Title": "Mucosal immune cell priming by intranasally delivered Haemophilus haemolyticus is associated with heterologous protection against influenza and nontypeable Haemophilus influenzae.",
+      "Authors": "Pepper JS, Granland CM, Clark SL, Thornton RB, Bayliss J, Foo MZE, Billingham W, Scott N, Fulurija A, Strickland DH, Wiertsema SP, Richmond PC, Seppanen EJ, Kirkham LS, Tjiam MC.",
+      "Journal": "Front Immunol. 2026 Jul 20;17:1855464. doi: 10.3389/fimmu.2026.1855464. eCollection 2026.",
+      "PMID": "42548815"
+    },
+    {
+      "Title": "Advances in clinical immunogenicity evaluation of influenza vaccines.",
+      "Authors": "Xu N, Wang L, Zhao C, Shen Y, Zhao Z, Nie J.",
+      "Journal": "Vaccine. 2026 Aug 3;89:128989. doi: 10.1016/j.vaccine.2026.128989. Online ahead of print.",
+      "PMID": "42546636"
+    },
+    {
+      "Title": "A bivalent inactivated influenza vaccine incorporating epitope-optimized surface proteins confers cross-protective immunity against H9N2 influenza virus.",
+      "Authors": "Hao M, Guan Y, Xu M, Yang W, Wang Y, Zhang Y, Chen J.",
+      "Journal": "Emerg Microbes Infect. 2026 Aug 3:2713325. doi: 10.1080/22221751.2026.2713325. Online ahead of print.",
+      "PMID": "42546126"
+    },
+    {
+      "Title": "Lactylation in influenza a virus infection: Current evidence, knowledge gaps, and future perspectives.",
+      "Authors": "Yan YC, Li Z, He H, Wu M, Yang H, Wei F.",
+      "Journal": "Virulence. 2026 Dec;17(1):2712045. doi: 10.1080/21505594.2026.2712045. Epub 2026 Aug 2.",
+      "PMID": "42543035"
+    },
+    {
+      "Title": "In silico docking and molecular dynamics simulation analysis of phytochemicals targeting human metapneumovirus fusion protein.",
+      "Authors": "Syeda A, Ali R, Beg MA.",
+      "Journal": "In Silico Pharmacol. 2026 Jul 31;14(2):206. doi: 10.1007/s40203-026-00716-2. eCollection 2026.",
+      "PMID": "42542672"
+    },
+    {
+      "Title": "Favorable safety and immunogenicity of a combined quadrivalent influenza and recombinant SARS-CoV-2 vaccine in Sprague-Dawley rats for both primary and booster immunization.",
+      "Authors": "Shao J, Zhang C, She G, Qin T, Zhang J, Fang M, Zhao D, Wang L, Xia L, Yang Q, Zhang L, Zhang Y, Zhang S, Wang J, Xie Z, Chen Y, Chen Y, Huang E, Zhang L.",
+      "Journal": "Front Immunol. 2026 Jul 17;17:1849279. doi: 10.3389/fimmu.2026.1849279. eCollection 2026.",
+      "PMID": "42539595"
+    },
+    {
+      "Title": "Elicitation of stem-directed antibodies in rhesus macaques by a conventional hemagglutinin immunogen.",
+      "Authors": "Gu S, Finney J, Luo K, Valencia SM, Mielke D, Von Holle TA, Marshall DJ, Parks R, Sutherland LL, Scearce RM, Wiehe K, Santra S, Harris S, DuVall J, Landon CD, Spurrier MA, Heaton NS, Yassine HM, Graham BS, Kepler TB, Liao HX, Schmidt AG, Ferrari G, Haynes BF, Harrison SC, Moody MA.",
+      "Journal": "bioRxiv [Preprint]. 2026 Jul 21:2026.07.16.738984. doi: 10.64898/2026.07.16.738984.",
+      "PMID": "42539121"
+    },
+    {
+      "Title": "Loss of hemagglutination ability by H3N2 influenza A virus, subclade K.",
+      "Authors": "Liang R, Lexmond P, Grant OC, Pronk M, Pieters RJ, Fouchier RAM, Boons GJ, Koel BF, de Vries RP.",
+      "Journal": "bioRxiv [Preprint]. 2026 Jul 20:2026.07.20.739523. doi: 10.64898/2026.07.20.739523.",
+      "PMID": "42538938"
+    }
+  ]
+}

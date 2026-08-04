@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_stroke",
+  "url": "https://clinicaltrials.gov/search?term=stroke&viewType=Table",
+  "elapsed_seconds": 4.340991958000018,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Stroke Cerebral Reorganization Pathways (SPECTRE)",
+      "NCT_ID": "NCT06784518",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Multimodal Retinal Imaging of Cerebrovascular Stroke",
+      "NCT_ID": "NCT03964610",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Brain Attack Surveillance in Corpus Christi--Cognitive (BASIC-Cognitive)",
+      "NCT_ID": "NCT03403257",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Burden Fatty Liver Among Acute Ischemic Cerebral Stroke Patients",
+      "NCT_ID": "NCT06628700",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Benefits of Extracorporeal Shockwave Therapy to Reduce Spasticity in Stroke/CP",
+      "NCT_ID": "NCT06548321",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Telemonitoring of CPAP Therapy in Apoplexy Patients With OSA",
+      "NCT_ID": "NCT01986452",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Cardiac Changes Associated With Acute Cerebro-vascular Stroke",
+      "NCT_ID": "NCT05770050",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Role of Advanced Magnetic Resonance Imaging in Assessment of Pediatric Cerebral Stroke",
+      "NCT_ID": "NCT03617159",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Research on the Application of Sigma Radiopharmaceutical FBFP in Cerebral Stroke",
+      "NCT_ID": "NCT07558577",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Clinical Evaluation of Acupuncture on the Complications of Cerebral Vascular Accident",
+      "NCT_ID": "NCT02197663",
+      "Status": "Terminated"
+    }
+  ]
+}

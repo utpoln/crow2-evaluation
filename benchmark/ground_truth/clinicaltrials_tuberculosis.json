@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_tuberculosis",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT05202431",
+      "Title": "The Effect of Telephone Follow-up and Training on Treatment Adherence in Tuberculosis Patients and Contacts",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT07357844",
+      "Title": "Pediatric Optimal Tuberculosis Treatment Evaluation and Reassessment",
+      "Status": "ACTIVE_NOT_RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT07607288",
+      "Title": "Collect Data From Patients Receiving Standardized Anti-tuberculosis Therapy, Collect Monitoring Data, and Evaluate Treatment Efficacy and Potential Adverse Reactions.",
+      "Status": "ENROLLING_BY_INVITATION"
+    },
+    {
+      "NCT_ID": "NCT07086820",
+      "Title": "Window Prophylaxis for Pediatric Tuberculosis Prevention Trial",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT05756582",
+      "Title": "Prevalence of Latent Tuberculosis Infection in Health-care Workers and Students",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT03220464",
+      "Title": "Early Diagnosis of Active Tuberculosis Using Ultra Low-dose Chest CT",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT07587164",
+      "Title": "C-TST for Diagnosis of Latent Mycobacterium Tuberculosis Infection in Indonesia",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06408129",
+      "Title": "COMPArison of Screening Strategies for Active TuBerculosis (COMPASS-TB)",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT05048381",
+      "Title": "miRNA in Sweat, a Novel Digital Biomarker for Detection of Active Tuberculosis (TB)",
+      "Status": "WITHDRAWN"
+    },
+    {
+      "NCT_ID": "NCT01698476",
+      "Title": "Immune Reconstitution in Tuberculosis Disease",
+      "Status": "COMPLETED"
+    }
+  ]
+}

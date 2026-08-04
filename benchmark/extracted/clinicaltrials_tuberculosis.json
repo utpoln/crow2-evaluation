@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_tuberculosis",
+  "url": "https://clinicaltrials.gov/search?term=tuberculosis&viewType=Table",
+  "elapsed_seconds": 4.373796624999983,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "The Effect of Telephone Follow-up and Training on Treatment Adherence in Tuberculosis Patients and Contacts",
+      "NCT_ID": "NCT05202431",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Pediatric Optimal Tuberculosis Treatment Evaluation and Reassessment",
+      "NCT_ID": "NCT07357844",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Collect Data From Patients Receiving Standardized Anti-tuberculosis Therapy, Collect Monitoring Data, and Evaluate Treatment Efficacy and Potential Adverse Reactions.New",
+      "NCT_ID": "NCT07607288",
+      "Status": "Enrolling by invitation"
+    },
+    {
+      "Title": "Window Prophylaxis for Pediatric Tuberculosis Prevention Trial",
+      "NCT_ID": "NCT07086820",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Prevalence of Latent Tuberculosis Infection in Health-care Workers and Students",
+      "NCT_ID": "NCT05756582",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Early Diagnosis of Active Tuberculosis Using Ultra Low-dose Chest CT",
+      "NCT_ID": "NCT03220464",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "C-TST for Diagnosis of Latent Mycobacterium Tuberculosis Infection in IndonesiaNew",
+      "NCT_ID": "NCT07587164",
+      "Status": "Completed"
+    },
+    {
+      "Title": "COMPArison of Screening Strategies for Active TuBerculosis (COMPASS-TB)",
+      "NCT_ID": "NCT06408129",
+      "Status": "Completed"
+    },
+    {
+      "Title": "miRNA in Sweat, a Novel Digital Biomarker for Detection of Active Tuberculosis (TB)",
+      "NCT_ID": "NCT05048381",
+      "Status": "Withdrawn"
+    },
+    {
+      "Title": "Immune Reconstitution in Tuberculosis Disease",
+      "NCT_ID": "NCT01698476",
+      "Status": "Completed"
+    }
+  ]
+}

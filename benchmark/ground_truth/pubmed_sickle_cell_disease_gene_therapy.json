@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_sickle_cell_disease_gene_therapy",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42537632",
+      "Title": "Addressing the slow uptake of gene therapy for sickle cell disease: a lack of interest, a high-cost, or a more complex issue?",
+      "Authors": "Krishnamurti L, Aiyer A, Rayapureddi K",
+      "Journal": "Expert review of hematology"
+    },
+    {
+      "PMID": "42529569",
+      "Title": "Haemolytic Anaemia; Beyond Sickle Cell Anaemia: A Case Series of Patients With Paroxysmal Nocturnal Haemoglobinuria in Kenya",
+      "Authors": "Ong'ondi M, Lavender O, Gathinji M, Bagha Z",
+      "Journal": "Case reports in hematology"
+    },
+    {
+      "PMID": "42526888",
+      "Title": "Characteristics of Donor and Recipient Clonal Hematopoiesis in Nonmyeloablative Transplant for Sickle Cell Disease",
+      "Authors": "Weeks LD, Neuberg DS, Limerick EM, Hsieh MM, Xu X, Kabore MD, Lawal RA, Leonard A, Wang Y, Phang O, Brooks J, Ali MAE, Lindsley RC, Fitzhugh CD",
+      "Journal": "Blood"
+    },
+    {
+      "PMID": "42517119",
+      "Title": "Sickle cell disease knowledge, attitudes, and management practices among nurses in northern Ghana: a cross-sectional study",
+      "Authors": "Yakubu M, Salifu Y, Kombian SD, Suglo AM, Salifu T, Lasong J, Nukpezah RN",
+      "Journal": "Frontiers in public health"
+    },
+    {
+      "PMID": "42512120",
+      "Title": "Sickle Cell Disease: From Ancient Origins to Modern Breakthroughs in Gene Therapy",
+      "Authors": "Ikolo B, Oyelami M, Mgbeke O, Jones K, Thomas S, Ikolo F",
+      "Journal": "Biomedicines"
+    },
+    {
+      "PMID": "42511925",
+      "Title": "Gene Therapy for \u03b2-Haemoglobinopathies: From Molecular Correction to Curative Medicine",
+      "Authors": "Fogliazza F, Carbone G, Berzieri M, Ciriaco D, Esposito S",
+      "Journal": "Biomedicines"
+    },
+    {
+      "PMID": "42510769",
+      "Title": "Oligonucleotide Synthesis Errors Are a Source of Untoward Variation in HDR-Mediated Gene Editing",
+      "Authors": "Wyman SK, Romero Z, Heo SJ, Navarrete M, Krishnappa N, Kohn DB, Martin DIK, Walters MC, Boffelli D",
+      "Journal": "Genes"
+    },
+    {
+      "PMID": "42504814",
+      "Title": "Evaluating the design and implementation challenges of the Centers for Medicare & Medicaid Services' Cell and Gene Therapy Access Model",
+      "Authors": "Bo Y, Thachil V, Kannarkat JT, Kannarkat JT",
+      "Journal": "Journal of managed care & specialty pharmacy"
+    },
+    {
+      "PMID": "42499294",
+      "Title": "Out of Reach: Understanding Resource Barriers to Gene Therapy for Pediatric Patients With Sickle Cell Disease",
+      "Authors": "Kelly CA, Paul MA, Griffin M, Kang S, Aziz-Bose R, Duhaney L, Fry C, Umaretiya PJ, Karvonen K, Esrick E, Azar S, Archer NM, Bona K",
+      "Journal": "Pediatric blood & cancer"
+    },
+    {
+      "PMID": "42496997",
+      "Title": "FDA Approves Gene Therapy for Younger Children With Sickle Cell Disease",
+      "Authors": "Anderer S",
+      "Journal": "JAMA"
+    }
+  ]
+}

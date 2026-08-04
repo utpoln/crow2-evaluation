@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_parkinson_disease",
+  "url": "https://clinicaltrials.gov/search?term=Parkinson+disease&viewType=Table",
+  "elapsed_seconds": 4.465982542000006,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Evaluation of [18F]MK-9470 as a Brain Tracer of Cannabinoid-1 Receptor in Parkinson's Disease and Healthy Subjects",
+      "NCT_ID": "NCT01462708",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Effect of Stellate Ganglion Block on Drooling in Parkinson's Syndrome",
+      "NCT_ID": "NCT06370195",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Fall Risk Assessment in Parkinson's Disease Using Kinetikos Health",
+      "NCT_ID": "NCT07257393",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Freezing in Parkinson's Disease",
+      "NCT_ID": "NCT07212205",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Individual Neuromodulation for PDS",
+      "NCT_ID": "NCT06193278",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Vascular Abnormalities in Idiopathic Parkinson's Disease",
+      "NCT_ID": "NCT02045420",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Gait Control in Parkinson Disease",
+      "NCT_ID": "NCT05908279",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Flexible Reaching Control in Parkinson Disease",
+      "NCT_ID": "NCT05908266",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Effectiveness of Virtual Reality in Parkinson's Disease: Effects on Balance, Fall Risk, and Exercise Capacity.",
+      "NCT_ID": "NCT07251231",
+      "Status": "Not yet recruiting"
+    },
+    {
+      "Title": "Prognostic Value of FP-CIT-SPECT in Parkinson\u00b4s Disease",
+      "NCT_ID": "NCT01038310",
+      "Status": "Completed"
+    }
+  ]
+}

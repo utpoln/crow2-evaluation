@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_brca1_breast_cancer",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=BRCA1+breast+cancer&sort=date",
+  "elapsed_seconds": 5.013700417,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "BRCA1 and BRCA2 population screening in Latvia: feasibility, engagement, and early lessons from a pilot study.",
+      "Authors": "Irmejs A, Daneberga Z, Kiploka K, Augucevica M, Cerneikina A, Gailite L, Kalcenaua A, Kononova I, Syundyukov E, Miklasevics E, Bjorvatn C, Vetti HH, Gardovskis J.",
+      "Journal": "Eur J Hum Genet. 2026 Jul 30. doi: 10.1038/s41431-026-02191-x. Online ahead of print.",
+      "PMID": "42533093"
+    },
+    {
+      "Title": "Breast and Ovarian Cancer Among Individuals Undergoing BRCA1 and BRCA2 Testing.",
+      "Authors": "Dossa F, Metcalfe K, Ante Z, Liu N, Lerner-Ellis J, Eisen A, Baxter NN.",
+      "Journal": "JAMA Netw Open. 2026 Jul 1;9(7):e2626334. doi: 10.1001/jamanetworkopen.2026.26334.",
+      "PMID": "42530926"
+    },
+    {
+      "Title": "Determinants of response to neoadjuvant chemotherapy in breast cancer: Integrated roles of immune pathways, DNA damage response, and cell cycle regulators.",
+      "Authors": "Ahdi D, Hashemi S, Gholami A, Derakhshan SM.",
+      "Journal": "Mol Biol Rep. 2026 Jul 30;53(1):1305. doi: 10.1007/s11033-026-12512-4.",
+      "PMID": "42530655"
+    },
+    {
+      "Title": "VAF-tumor content graph: a simple visual framework for interpreting hereditary cancer variants and supporting genetic counseling in tumor-only sequencing.",
+      "Authors": "Kashima M, Tsubamoto H, Ueda T, Kinjo C, Okada C, Muroi Y, Ueda M, Otsuki T, Kataoka K, Nagahashi M, Matsuda I, Sawai H, Kijima T, Miyazaki A.",
+      "Journal": "J Hum Genet. 2026 Jul 29. doi: 10.1038/s10038-026-01494-7. Online ahead of print.",
+      "PMID": "42527578"
+    },
+    {
+      "Title": "Whole-genome sequencing in Brazilian patients with neurofibromatosis type 1, including novel variants, incidental findings, and dual diagnoses.",
+      "Authors": "Angeloni LL, Jorente J, Oliveira Sobrinho RP, Gil-da-Silva-Lopes VL, Vidoti-Nascimento CG, Guaragna MS, Vieira TP, Steiner CE; Brazilian Rare Genomes Project Consortium; Teixeira ACB, Coelho AVC, Quaio CRAC, Moreno CA, Perrone E, Nascimento Junior JBD, Espolaor JGA, Prota JRM, Oliveira Filho JB, Ceroni JRM, Chen K, Ferreira LT, Santana LS, Mofatto LS, Virmond LDA, Silva MFB, Migliavacca MP, Minillo RM, Yamada RY, Sitnik R, Almeida TF, Silva TYT, Cintra VP.",
+      "Journal": "Einstein (Sao Paulo). 2026 Jul 24;24:eAO2160. doi: 10.31744/einstein_journal/2026AO2160. eCollection 2026.",
+      "PMID": "42524928"
+    },
+    {
+      "Title": "Transposable elements shape olaparib response according to BRCA1 status in triple-negative breast cancer.",
+      "Authors": "Mombach DM, Mendez-Dorantes C, Mercuri RLV, Schofield P, Soares Baal SC, Poersch MA, Burns KH, de Oliveira JC, Loreto ELS, Galante PAF.",
+      "Journal": "bioRxiv [Preprint]. 2026 Jul 16:2026.07.15.738694. doi: 10.64898/2026.07.15.738694.",
+      "PMID": "42523269"
+    },
+    {
+      "Title": "Breast Cancer: Epidemiology, Molecular Classification, Diagnostics and Evolving Treatment Paradigms.",
+      "Authors": "Unuofin JO, Adefisan-Adeoye AO, Paimo OK, Maphetu N, Lebelo SL.",
+      "Journal": "Molecules. 2026 Jul 22;31(14):2551. doi: 10.3390/molecules31142551.",
+      "PMID": "42513228"
+    },
+    {
+      "Title": "Preoperative Germline Genetic Testing and Surgical Timing in Breast Cancer: Implementation of National Reimbursement Programs: A Retrospective Cohort Study.",
+      "Authors": "Vlad IC, Vlad CI, Balacescu O, Gata VA, Morariu DS, Miclaus M, Muntean AL, Catana A, Antone N, Achimas-Cadariu P.",
+      "Journal": "Medicina (Kaunas). 2026 Jul 19;62(7):1397. doi: 10.3390/medicina62071397.",
+      "PMID": "42512939"
+    },
+    {
+      "Title": "BRCA1 Gene as a Potential Marker for Lung Cancer Therapy.",
+      "Authors": "Tsyganov MM, Tsydenova IA, Dolgasheva DS, Ibragimova MK.",
+      "Journal": "Int J Mol Sci. 2026 Jul 17;27(14):6364. doi: 10.3390/ijms27146364.",
+      "PMID": "42511710"
+    },
+    {
+      "Title": "Assessing the Clinical Relevance of BRCA1 RING Domain Variants of Uncertain Significance.",
+      "Authors": "Martin MD, Torretto GC, Islam K, Archer NE, Feilotter HE, Davey SK.",
+      "Journal": "Curr Oncol. 2026 Jul 3;33(7):399. doi: 10.3390/curroncol33070399.",
+      "PMID": "42505201"
+    }
+  ]
+}

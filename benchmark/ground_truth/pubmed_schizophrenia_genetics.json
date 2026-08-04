@@ -1,0 +1,66 @@
+{
+  "resource_id": "pubmed_schizophrenia_genetics",
+  "method": "pubmed_eutils",
+  "records": [
+    {
+      "PMID": "42547804",
+      "Title": "Correction: Identification of hub genes involved in early-onset schizophrenia: from genetic susceptibility to predicted regulated gene expression",
+      "Authors": "Jen Y, Yu SL, Hsiao PC, Kuo PH, Liu CM, Liu CC, Hwang TJ, Hsieh MH, Chien YL, Lin YT, Huang H, Feng YA, Hsiao CK, Lin YF, Faraone SV, Neale B, Glatt SJ, Tsuang MT, Hwu HG, Chen WJ",
+      "Journal": "Molecular psychiatry"
+    },
+    {
+      "PMID": "42547491",
+      "Title": "Neuroinflammatory pathways linking pain and rehabilitation outcomes in schizophrenia: a narrative review",
+      "Authors": "Sedghi Esfahani S, Mahdinia E, Dehkhodaei S, Abedi Oumali N, Taherkhani S, Rafaiee R",
+      "Journal": "Pain management"
+    },
+    {
+      "PMID": "42546354",
+      "Title": "Baseline neutrophil count, benign ethnic neutropenia risk, and clozapine haematological monitoring: A multi-ethnic retrospective cohort study from the United Arab Emirates",
+      "Authors": "Bokhari SA, Elnoor M, Sabri M, Bardi M, Nawaz FA, Javaid SF",
+      "Journal": "Schizophrenia research"
+    },
+    {
+      "PMID": "42541367",
+      "Title": "The Omnicausal Model Reveals the Highly Polyfactorial Nature of Complex Diseases",
+      "Authors": "M\u00e1rquez-Luna C, Tournaire M, Rocheleau G, Do R, Verbanck M",
+      "Journal": "Genetic epidemiology"
+    },
+    {
+      "PMID": "42539042",
+      "Title": "DNA methylation as proxy of genetic, prenatal and perinatal psychiatric risk factors",
+      "Authors": "Isaevska E, Mulder RH, Schuurmans IK, Creasey N, Felix JF, Pingault JB, van Haren N, Cecil C, Neumann A",
+      "Journal": "medRxiv : the preprint server for health sciences"
+    },
+    {
+      "PMID": "42538590",
+      "Title": "Subtypes of Somatostatin and Other Interneurons Are Real, Whether We Believe in Them or Not",
+      "Authors": "Duncan L",
+      "Journal": "The American journal of psychiatry"
+    },
+    {
+      "PMID": "42538589",
+      "Title": "Schizophrenia Beyond Genome-Wide Association Studies: It's About Time",
+      "Authors": "Pergola G, Weinberger DR",
+      "Journal": "The American journal of psychiatry"
+    },
+    {
+      "PMID": "42538588",
+      "Title": "Schizophrenia: Insights Into its Etiology and Pathophysiology",
+      "Authors": "Kalin NH",
+      "Journal": "The American journal of psychiatry"
+    },
+    {
+      "PMID": "42538587",
+      "Title": "Copy Number Variation in Schizophrenia: Developmental Timing and Clinical Heterogeneity",
+      "Authors": "Birnbaum R",
+      "Journal": "The American journal of psychiatry"
+    },
+    {
+      "PMID": "42532998",
+      "Title": "Cerebrospinal fluid biomarkers reveal transdiagnostic synaptic dysfunction across major psychiatric disorders",
+      "Authors": "G\u00f6teson A, Nilsson J, Camporesi E, Klahn AL, H\u00f6rbeck E, Sigstr\u00f6m R, Jonsson L, Sparding T, P\u00e5lsson E, Pelanis A, Goulding A, Isgren A, Erhardt S, Cervenka S, Bulik CM, Zetterberg H, Blennow K, Sellgren CM, Brinkmalm A, Land\u00e9n M",
+      "Journal": "Nature communications"
+    }
+  ]
+}

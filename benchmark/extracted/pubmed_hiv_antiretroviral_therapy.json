@@ -1,0 +1,68 @@
+{
+  "resource_id": "pubmed_hiv_antiretroviral_therapy",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/?term=HIV+antiretroviral+therapy&sort=date",
+  "elapsed_seconds": 5.011003458000005,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Selection of effective LRAs using a newly designed in vitro HIV latency reactivation protocol: toward future application in HIV samples.",
+      "Authors": "Neri A, Rotili A, Morrocchi E, Pascucci GR, Pighi C, Olivieri G, Betto F, Emili E, Karmakar R, Iaconis D, Lunghini F, Coppola G, Amodio D, Cotugno N, Palma P.",
+      "Journal": "Microbiol Spectr. 2026 Aug 4:e0040726. doi: 10.1128/spectrum.00407-26. Online ahead of print.",
+      "PMID": "42549876"
+    },
+    {
+      "Title": "Sarcopenic Obesity in People With HIV: Diagnostic Criteria and Classification-A Scoping Review With a Meta-Analysis of Prevalence.",
+      "Authors": "Correia IM, Moraes CALC, J\u00fanior MFT, Brilhadori J, Anjos JRCD, Gomide EBG, Mazzonetto LF, Oliveira AS, Silva LS, Finco G, O 'Brien KK, Erlandson KM, Webel AR, Oliveira V, Cordeiro JFC, Santos APD.",
+      "Journal": "J Obes. 2026;2026(1):e7991603. doi: 10.1155/jobe/7991603.",
+      "PMID": "42549828"
+    },
+    {
+      "Title": "Factors influencing improved adherence and retention among men living with human immunodeficiency virus in sub-Saharan Africa: A scoping review.",
+      "Authors": "Matonyane LG, Ross A.",
+      "Journal": "Afr J Prim Health Care Fam Med. 2026 Jul 21;18(1):e1-e11. doi: 10.4102/phcfm.v18i1.5309.",
+      "PMID": "42549727"
+    },
+    {
+      "Title": "Experiences of human immunodeficiency virus-positive postpartum women in Angola: Challenges and opportunities in preventing vertical transmission.",
+      "Authors": "Solari PN, Pires JC, Aguiar PM, Goes AR, Augusto GF.",
+      "Journal": "Afr J Prim Health Care Fam Med. 2026 Jul 23;18(1):e1-e11. doi: 10.4102/phcfm.v18i1.5471.",
+      "PMID": "42549725"
+    },
+    {
+      "Title": "Ending the HIV Epidemic in the United States Among Men Who Have Sex With Men: A Modeling Analysis.",
+      "Authors": "Scott JA, Spaeth H, Chi KK, Pei P, Wattananimitgul N, Neilan AM, Holland DP, Hyle EP, Freedberg KA.",
+      "Journal": "Open Forum Infect Dis. 2026 Aug 3;13(8):ofag386. doi: 10.1093/ofid/ofag386. eCollection 2026 Aug.",
+      "PMID": "42549160"
+    },
+    {
+      "Title": "CD151 identifies a cytotoxic CD4 T cell population enriched in people with HIV that later develop cancer.",
+      "Authors": "Perez M, Zhu F, Carlin E, Greer BD, Schroeder A, Lowman KE, Opsteen S, Fram T, Tidwell C, Duverger A, Wagner F, Moylan DC, Prichard L, Kobie J, Heath SL, Goepfert PA, Hu H, Sabbaj S, Kutsch O, Erdmann NB.",
+      "Journal": "J Immunol. 2026 Aug 4;215(8):vkag208. doi: 10.1093/jimmun/vkag208.",
+      "PMID": "42548058"
+    },
+    {
+      "Title": "Update in Human Immunodeficiency Virus and Aging.",
+      "Authors": "Faulhaber JR, Baffoe-Bonnie AW, Oursler KK, Vasudeva SS.",
+      "Journal": "Clin Geriatr Med. 2026 Aug;42(3):559-578. doi: 10.1016/j.cger.2025.09.005.",
+      "PMID": "42547178"
+    },
+    {
+      "Title": "A TCR-mimic bispecific antibody reduces HIV-1 provirus and delays viral rebound in HLA-matched humanized mice.",
+      "Authors": "Yuan Z, Board NL, Zhao M, Zu G, Sengupta S, Li Q, Siliciano JD, Siliciano RF, Montaner LJ.",
+      "Journal": "Proc Natl Acad Sci U S A. 2026 Aug 11;123(32):e2527880123. doi: 10.1073/pnas.2527880123. Epub 2026 Aug 3.",
+      "PMID": "42546194"
+    },
+    {
+      "Title": "Sorafenib enforces HIV-1 latency by selectively inhibiting PKC-driven STAT1/3 serine 727 phosphorylation.",
+      "Authors": "Wang P, Meng Z, Zhou J, Wu H, Wang W, Gao Z, Zhang Y, Cai J.",
+      "Journal": "Antimicrob Agents Chemother. 2026 Aug 3:e0054026. doi: 10.1128/aac.00540-26. Online ahead of print.",
+      "PMID": "42545089"
+    },
+    {
+      "Title": "Association Between High Serum Aspartate Transaminase to Alanine Transaminase Ratio and Probable HIV Dementia Among People Living With HIV on Dolutegravir-Based Antiretroviral Therapy: A Cross-Sectional Study from Central Uganda.",
+      "Authors": "Bagenda CN, Nantongo C, Mugisa MJ, Olwoch V, Naziiwa F, Masereka C, Bagambe B, Somikwo G, Sempijja F, Tumusiime J, Tusubira D.",
+      "Journal": "J Int Assoc Provid AIDS Care. 2026 Jan-Dec;25:23259582261475552. doi: 10.1177/23259582261475552. Epub 2026 Aug 3.",
+      "PMID": "42544906"
+    }
+  ]
+}

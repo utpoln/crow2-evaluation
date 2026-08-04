@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_melanoma",
+  "url": "https://clinicaltrials.gov/search?term=melanoma&viewType=Table",
+  "elapsed_seconds": 4.325334542000007,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "An Exploratory Single-arm Study: PD-1 With Recombinant Human Adenovirus Type 5 Injection for Malignant Melanomas",
+      "NCT_ID": "NCT05928962",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "The Registry Study of Genetic Alterations of Melanoma in Taiwan",
+      "NCT_ID": "NCT06952400",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Characterization of the Melanoma-Specific Immune Response",
+      "NCT_ID": "NCT00368615",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "eFLASH for Skin Lesions of Malignant Melanomas",
+      "NCT_ID": "NCT06549439",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Diagnostic Precision of the AI Tool Dermalyzer to Identify Malignant Melanomas in Subjects Seeking Primary Care for Melanoma-suspected Cutaneous Lesions",
+      "NCT_ID": "NCT05172232",
+      "Status": "Completed\u00a0 View Results"
+    },
+    {
+      "Title": "Evaluation of Ultrasound Biomicroscopy in the Local Staging of Cutaneous Melanoma",
+      "NCT_ID": "NCT04702854",
+      "Status": "Terminated"
+    },
+    {
+      "Title": "Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma",
+      "NCT_ID": "NCT00813449",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Observational Study of Patients With Advanced Melanoma (Skin Cancer) to Assess if IOpener\u00ae-Melanoma Test Can Predict Response to Immunotherapy.",
+      "NCT_ID": "NCT06784778",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Evaluation of Oncoxin-Viusid\u00ae in Cutaneous Melanoma",
+      "NCT_ID": "NCT03541148",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Expression of IL4 Induced Gene 1 in Patients With Cutaneous Melanoma: Value in Prognosis and/or in Predictive Response to Immune Checkpoint Inhibitors",
+      "NCT_ID": "NCT04253080",
+      "Status": "Completed"
+    }
+  ]
+}

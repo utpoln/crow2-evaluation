@@ -1,0 +1,58 @@
+{
+  "resource_id": "clinicaltrials_covid_19",
+  "url": "https://clinicaltrials.gov/search?term=COVID-19&viewType=Table",
+  "elapsed_seconds": 4.393873208000002,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "UDCA in the Treatment of COVID-19 Infection and Its Clinical Prognosis in Patients With Autoimmune Liver Disease",
+      "NCT_ID": "NCT05812612",
+      "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Assessment of COVID-19 in Tearfilm",
+      "NCT_ID": "NCT04579458",
+      "Status": "Withdrawn"
+    },
+    {
+      "Title": "Analysis of Coronavirus Disease 19 (COVID-19) Convalescent Plasma",
+      "NCT_ID": "NCT04497779",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "COVID-19 Infection in Patients With Hepatocellular Carcinoma",
+      "NCT_ID": "NCT04367805",
+      "Status": "Active, not recruiting"
+    },
+    {
+      "Title": "Natural History of Post-Coronavirus Disease 19 Convalescence at the National Institutes of Health",
+      "NCT_ID": "NCT04573062",
+      "Status": "Recruiting"
+    },
+    {
+      "Title": "Multimodal IMAgery Characterization of Cardiac Damage and Severity After COVID-19 Infection",
+      "NCT_ID": "NCT04753762",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Fight COVID-19 Trial",
+      "NCT_ID": "NCT04303299",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Survey of COVID-19 Infection",
+      "NCT_ID": "NCT05706064",
+      "Status": "Completed"
+    },
+    {
+      "Title": "MURDOCK Cabarrus County COVID-19 Prevalence and Immunity (C3PI) Study",
+      "NCT_ID": "NCT04424004",
+      "Status": "Completed"
+    },
+    {
+      "Title": "Natural History Study of COVID-19 Using Digital Wearables",
+      "NCT_ID": "NCT04927442",
+      "Status": "Completed"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "resource_id": "clinicaltrials_alzheimer_disease",
+  "method": "clinicaltrials_api",
+  "records": [
+    {
+      "NCT_ID": "NCT01555827",
+      "Title": "Retinal Neurodegenerative Signs in Alzheimer's Diseases",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT04094025",
+      "Title": "Irritation and Sensitization Study of d-Amphetamine Transdermal System",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT03827733",
+      "Title": "Gut Microbiota and Alzheimer's Diseases",
+      "Status": "UNKNOWN"
+    },
+    {
+      "NCT_ID": "NCT03657732",
+      "Title": "The Chinese Familial Alzheimer's Network",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06883019",
+      "Title": "Lecanemab for Early Onset Familial Alzheimer's Disease",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06147999",
+      "Title": "Impact of a Biophoton Therapy on Patients With Brain Disorders",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT04579120",
+      "Title": "Neuroimaging in Healthy Aging and Senile Dementia (HASD_IND)",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06292351",
+      "Title": "DMB-I in the Treatment of Alzheimer Type Dementia",
+      "Status": "COMPLETED"
+    },
+    {
+      "NCT_ID": "NCT06619613",
+      "Title": "A Study of CM383 in Patients With Alzheimer's Disease Related Mild Cognitive Impairment and Mild Alzheimer's Disease",
+      "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT06330155",
+      "Title": "A Genetic Study for Alzheimer Dementia: Case-control Study",
+      "Status": "NOT_YET_RECRUITING"
+    }
+  ]
+}
