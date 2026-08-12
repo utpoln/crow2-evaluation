@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_pneumonia",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Pneumonia",
+      "URL": "https://medlineplus.gov/pneumonia.html"
+    },
+    {
+      "Title": "Pneumocystis Infections",
+      "URL": "https://medlineplus.gov/pneumocystisinfections.html"
+    },
+    {
+      "Title": "Legionnaires' Disease",
+      "URL": "https://medlineplus.gov/legionnairesdisease.html"
+    },
+    {
+      "Title": "HIV and Infections",
+      "URL": "https://medlineplus.gov/hivandinfections.html"
+    },
+    {
+      "Title": "Smoking",
+      "URL": "https://medlineplus.gov/smoking.html"
+    },
+    {
+      "Title": "Staphylococcal Infections",
+      "URL": "https://medlineplus.gov/staphylococcalinfections.html"
+    },
+    {
+      "Title": "Streptococcal Infections",
+      "URL": "https://medlineplus.gov/streptococcalinfections.html"
+    },
+    {
+      "Title": "Bird Flu",
+      "URL": "https://medlineplus.gov/birdflu.html"
+    },
+    {
+      "Title": "Breathing Problems",
+      "URL": "https://medlineplus.gov/breathingproblems.html"
+    },
+    {
+      "Title": "Chest Pain",
+      "URL": "https://medlineplus.gov/chestpain.html"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "resource_id": "uniprot_entry_p01308",
+  "url": "https://www.uniprot.org/uniprotkb/P01308/entry",
+  "elapsed_seconds": 12.369218333000001,
+  "record_count": 1,
+  "records": [
+    {
+      "ProteinName": "Insulin",
+      "GeneName": "INS",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

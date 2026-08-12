@@ -8,6 +8,11 @@
       "Status": "UNKNOWN"
     },
     {
+      "NCT_ID": "NCT04481633",
+      "Title": "Efficacy of Pre-exposure Treatment With Hydroxy-Chloroquine on the Risk and Severity of COVID-19 Infection",
+      "Status": "COMPLETED"
+    },
+    {
       "NCT_ID": "NCT04579458",
       "Title": "Assessment of COVID-19 in Tearfilm",
       "Status": "WITHDRAWN"
@@ -45,11 +50,6 @@
     {
       "NCT_ID": "NCT04424004",
       "Title": "MURDOCK Cabarrus County COVID-19 Prevalence and Immunity (C3PI) Study",
-      "Status": "COMPLETED"
-    },
-    {
-      "NCT_ID": "NCT04927442",
-      "Title": "Natural History Study of COVID-19 Using Digital Wearables",
       "Status": "COMPLETED"
     }
   ]

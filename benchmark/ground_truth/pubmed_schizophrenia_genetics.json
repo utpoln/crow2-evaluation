@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42547804",
-      "Title": "Correction: Identification of hub genes involved in early-onset schizophrenia: from genetic susceptibility to predicted regulated gene expression",
-      "Authors": "Jen Y, Yu SL, Hsiao PC, Kuo PH, Liu CM, Liu CC, Hwang TJ, Hsieh MH, Chien YL, Lin YT, Huang H, Feng YA, Hsiao CK, Lin YF, Faraone SV, Neale B, Glatt SJ, Tsuang MT, Hwu HG, Chen WJ",
-      "Journal": "Molecular psychiatry"
+      "PMID": "42576600",
+      "Title": "Spine nanostructure profiling of cultured neurons from mouse models reveals a schizophrenia-linked role for Ecrg4",
+      "Authors": "Kashiwagi Y, Liu Q, Go Y, Saito R, Aiba A, Nakazawa T, Okabe S",
+      "Journal": "eLife"
     },
     {
-      "PMID": "42547491",
-      "Title": "Neuroinflammatory pathways linking pain and rehabilitation outcomes in schizophrenia: a narrative review",
-      "Authors": "Sedghi Esfahani S, Mahdinia E, Dehkhodaei S, Abedi Oumali N, Taherkhani S, Rafaiee R",
-      "Journal": "Pain management"
+      "PMID": "42576199",
+      "Title": "ADAR-mediated RNA editing in CNS disorders: from pathogenic mechanisms to therapeutic opportunities",
+      "Authors": "Zheng F, Guan R, Yu X, Yang J, Zhao H, Yang F",
+      "Journal": "Cellular & molecular biology letters"
     },
     {
-      "PMID": "42546354",
-      "Title": "Baseline neutrophil count, benign ethnic neutropenia risk, and clozapine haematological monitoring: A multi-ethnic retrospective cohort study from the United Arab Emirates",
-      "Authors": "Bokhari SA, Elnoor M, Sabri M, Bardi M, Nawaz FA, Javaid SF",
-      "Journal": "Schizophrenia research"
+      "PMID": "42575342",
+      "Title": "Dramatic sex differences leading to different brain disease presentation: The requirement for sex-specific medications with ADNP/davunetide as a case study",
+      "Authors": "Lobyntseva A, Guz LS, Galushkin A, Gozes I",
+      "Journal": "Frontiers in neuroendocrinology"
     },
     {
-      "PMID": "42541367",
-      "Title": "The Omnicausal Model Reveals the Highly Polyfactorial Nature of Complex Diseases",
-      "Authors": "M\u00e1rquez-Luna C, Tournaire M, Rocheleau G, Do R, Verbanck M",
-      "Journal": "Genetic epidemiology"
+      "PMID": "42573752",
+      "Title": "Polygenic profiles in youth with early-onset psychosis and offspring of schizophrenia or bipolar disorder patients",
+      "Authors": "Mart\u00ednez-Serrano I, Segura AG, Ortu\u00f1o M, Fortea A, Borr\u00e0s R, Camprodon-Boadas P, De la Serna E, Moreno D, Garc\u00eda-Rizo C, Torrent C, Baeza I, Rodriguez N, Mas S, Castro-Fornieles J, Sugranyes G",
+      "Journal": "European child & adolescent psychiatry"
     },
     {
-      "PMID": "42539042",
-      "Title": "DNA methylation as proxy of genetic, prenatal and perinatal psychiatric risk factors",
-      "Authors": "Isaevska E, Mulder RH, Schuurmans IK, Creasey N, Felix JF, Pingault JB, van Haren N, Cecil C, Neumann A",
-      "Journal": "medRxiv : the preprint server for health sciences"
+      "PMID": "42573657",
+      "Title": "Association of dopamine transporter gene DAT1 40-bp 3' UTR VNTR polymorphism (rs28363170) with Psychiatric disorders susceptibility: A study from the Pakistani population",
+      "Authors": "Hashmi AN, Dharejo RA, Qamar R, Omer W, Azam M",
+      "Journal": "Molecular biology reports"
     },
     {
-      "PMID": "42538590",
-      "Title": "Subtypes of Somatostatin and Other Interneurons Are Real, Whether We Believe in Them or Not",
-      "Authors": "Duncan L",
-      "Journal": "The American journal of psychiatry"
+      "PMID": "42571826",
+      "Title": "Thalamic Reticular Nucleus Dysfunction as a Stage-Dependent Integrative Circuit Mechanism in Psychosis",
+      "Authors": "Seif P",
+      "Journal": "Neuroscience and biobehavioral reviews"
     },
     {
-      "PMID": "42538589",
-      "Title": "Schizophrenia Beyond Genome-Wide Association Studies: It's About Time",
-      "Authors": "Pergola G, Weinberger DR",
-      "Journal": "The American journal of psychiatry"
+      "PMID": "42570040",
+      "Title": "Increased RHOA expression in peripheral blood mononuclear cells of patients with acute schizophrenia",
+      "Authors": "Khaki M, Davoodian N",
+      "Journal": "Molecular biology reports"
     },
     {
-      "PMID": "42538588",
-      "Title": "Schizophrenia: Insights Into its Etiology and Pathophysiology",
-      "Authors": "Kalin NH",
-      "Journal": "The American journal of psychiatry"
+      "PMID": "42569312",
+      "Title": "Effects of Schizophrenia, Bipolar Disorder, and Depression on Cardiopulmonary and Abdominal Organ Structure",
+      "Authors": "Chu S, Casanova F, Bala R, Howes OD, Osimo E, de Marvao A, Ardissino M, O'Regan DP, McIntosh A, Strawbridge RJ, Pillinger T, Tyrrell J",
+      "Journal": "Biological psychiatry global open science"
     },
     {
-      "PMID": "42538587",
-      "Title": "Copy Number Variation in Schizophrenia: Developmental Timing and Clinical Heterogeneity",
-      "Authors": "Birnbaum R",
-      "Journal": "The American journal of psychiatry"
+      "PMID": "42564028",
+      "Title": "Adolescent multi-omics and Mendelian randomization reveal transdiagnostic molecular mechanisms in psychiatric disorders",
+      "Authors": "Qian L, Shi R, Yu X, Chen D, Banaschewski T, Bokde ALW, Flor H, Grigis A, Garavan H, Gowland P, Heinz A, Martinot JL, Martinot MP, Artiges E, Nees F, Papadopoulos Orfanos D, Poustka L, Hohmann S, Holz N, Smolka MN, Vaidya N, Walter H, Whelan R, Schumann G, Lin X, Desrivi\u00e8res S, IMAGEN Consortium",
+      "Journal": "Nature. Mental health"
     },
     {
-      "PMID": "42532998",
-      "Title": "Cerebrospinal fluid biomarkers reveal transdiagnostic synaptic dysfunction across major psychiatric disorders",
-      "Authors": "G\u00f6teson A, Nilsson J, Camporesi E, Klahn AL, H\u00f6rbeck E, Sigstr\u00f6m R, Jonsson L, Sparding T, P\u00e5lsson E, Pelanis A, Goulding A, Isgren A, Erhardt S, Cervenka S, Bulik CM, Zetterberg H, Blennow K, Sellgren CM, Brinkmalm A, Land\u00e9n M",
-      "Journal": "Nature communications"
+      "PMID": "42562284",
+      "Title": "Revisiting the Links Between Asthma and the Psychosis Spectrum: shared molecular mechanisms",
+      "Authors": "Dardani C, Robinson JW, Havdahl A, Darrous L, Jones HJ, Zammit S, Sullivan SA, Rai D, Stergiakouli E, Zhu Z, Liang L, Nava GW, Gardner R, Grove J, Richardson TG, Smith GD, Dodd JW, Hemani G, Gaunt TR, Khandaker GM",
+      "Journal": "Biological psychiatry"
     }
   ]
 }

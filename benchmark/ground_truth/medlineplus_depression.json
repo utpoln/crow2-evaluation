@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_depression",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Depression",
+      "URL": "https://medlineplus.gov/depression.html"
+    },
+    {
+      "Title": "Postpartum Depression",
+      "URL": "https://medlineplus.gov/postpartumdepression.html"
+    },
+    {
+      "Title": "Teen Depression",
+      "URL": "https://medlineplus.gov/teendepression.html"
+    },
+    {
+      "Title": "Bipolar Disorder",
+      "URL": "https://medlineplus.gov/bipolardisorder.html"
+    },
+    {
+      "Title": "Seasonal Affective Disorder",
+      "URL": "https://medlineplus.gov/seasonalaffectivedisorder.html"
+    },
+    {
+      "Title": "Antidepressants",
+      "URL": "https://medlineplus.gov/antidepressants.html"
+    },
+    {
+      "Title": "Older Adult Mental Health",
+      "URL": "https://medlineplus.gov/olderadultmentalhealth.html"
+    },
+    {
+      "Title": "Mood Disorders",
+      "URL": "https://medlineplus.gov/mooddisorders.html"
+    },
+    {
+      "Title": "Anxiety",
+      "URL": "https://medlineplus.gov/anxiety.html"
+    },
+    {
+      "Title": "Bullying and Cyberbullying",
+      "URL": "https://medlineplus.gov/bullyingandcyberbullying.html"
+    }
+  ]
+}

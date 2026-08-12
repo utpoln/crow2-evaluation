@@ -33,24 +33,24 @@
       "Status": "NOT_YET_RECRUITING"
     },
     {
+      "NCT_ID": "NCT03255044",
+      "Title": "Comparison of Lipophilic Versus Hydrophilic Statins on Patients With Heart Failure",
+      "Status": "COMPLETED"
+    },
+    {
       "NCT_ID": "NCT07045038",
       "Title": "Blood Flow Restricted Resistance Exercises Versus Low Level Laser on Cardiac Functions in Patients With Chronic Heart Failure",
       "Status": "ACTIVE_NOT_RECRUITING"
     },
     {
-      "NCT_ID": "NCT03255044",
-      "Title": "Comparison of Lipophilic Versus Hydrophilic Statins on Patients With Heart Failure",
+      "NCT_ID": "NCT07747597",
+      "Title": "Effect of a Structured Nursing Intervention Incorporating Sleep Hygiene and Cognitive-Behavioral Strategies on Sleep Quality Among Patients With Chronic Heart Failure",
       "Status": "COMPLETED"
     },
     {
       "NCT_ID": "NCT06707220",
       "Title": "The T\u00fcrkiye Heart Failure Registry",
       "Status": "RECRUITING"
-    },
-    {
-      "NCT_ID": "NCT01807819",
-      "Title": "The Determination of Important Mechanical Patterns of Left Ventricular Efficiency-MV02 Study",
-      "Status": "COMPLETED"
     }
   ]
 }

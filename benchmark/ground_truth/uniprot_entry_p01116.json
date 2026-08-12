@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p01116",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "GTPase KRas",
+      "GeneName": "KRAS",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

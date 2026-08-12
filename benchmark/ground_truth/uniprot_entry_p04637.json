@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p04637",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Cellular tumor antigen p53",
+      "GeneName": "TP53",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

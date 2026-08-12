@@ -3,6 +3,30 @@
   "method": "pubmed_eutils",
   "records": [
     {
+      "PMID": "42576087",
+      "Title": "The Amino Acid-Neurodegeneration Axis: Excitotoxicity and Oxidative Stress as Context-Dependent Amplifiers of Metabolic Dysfunction",
+      "Authors": "Oyedokun PA, Gbadero JO, Ajao DI, Olorunsesan MD, Oyesiji AI, Ayilara GO, Ogunsina MK, Justus BS, Ademola FM, Adetunji EA, Okodio PS, Amedu NO",
+      "Journal": "Molecular neurobiology"
+    },
+    {
+      "PMID": "42552041",
+      "Title": "Intestinal microbiota in neurodegeneration and ageing: Mechanisms, pathways, and therapeutic interventions",
+      "Authors": "Khodve G, Raval S, Banerjee S",
+      "Journal": "International review of neurobiology"
+    },
+    {
+      "PMID": "42557952",
+      "Title": "In-Vitro Evaluation of HIV/SARS-CoV-2 Co-Infection Mediated Proteomic Changes in Astrocytes and Pericytes Reveals Altered Signaling Pathways Associated With Neurodegenerative Disorders",
+      "Authors": "Acharya A, Thurman M, Sutar D, Olasunkanmi OI, Malik JR, Dyavar SR, V\u00e9gv\u00e1ri \u00c1, Byrareddy SN",
+      "Journal": "Journal of medical virology"
+    },
+    {
+      "PMID": "42552550",
+      "Title": "Cholesterol nose-to-brain delivery as a possible therapeutic strategy in Huntington's disease",
+      "Authors": "Favagrossa M, Passoni A, Valenza M, Di Prisco D, Birolini G, Villa M, Scolz A, Pasetto L, Bonetto V, Zuccato C, Mariotti C, Bagnati R, Cattaneo E, Colombo L, Salmona M",
+      "Journal": "Translational neurodegeneration"
+    },
+    {
       "PMID": "42549268",
       "Title": "Enhancing the detection of HTT1a with neoepitope antibodies in mouse models of Huntington's disease",
       "Authors": "Osborne GF, Smith EJ, Sathasivam K, Kang Z, Nita IM, Ca\u00f1ibano-Pico M, Phillips J, Bates GP, Landles C",
@@ -37,30 +61,6 @@
       "Title": "The genetic architecture of fibromyalgia across 2.5 million individuals",
       "Authors": "Kerrebijn I, Bjornsdottir G, Arbabi K, Urpa L, Haapaniemi H, Thorleifsson G, Stefansdottir L, Frangakis S, Valliere J, Kunorozva L, Abner E, Ji C, Kangur M, Aagaard B, Bliddal H, Brunak S, Bruun MT, Didriksen M, Erikstrup C, Finer S, Geirsson AJ, Gudbjartsson DF, Hansen TF, van Heel D, Jonsdottir I, Knight S, Knowlton KU, Mikkelsen C, Nadauld LD, Olafsdottir TA, Ostrowski SR, Pedersen OBV, Saevarsdottir S, Skuladottir AT, S\u00f8rensen E, Stefansson H, Sulem P, Sveinsson OA, Thorlacius GE, Thorsteinsdottir U, Ullum H, Vikingsson A, Werge TM, Chronic Pain Genomics Consortium, FinnGen, DBDS Genomic Consortium, Estonian Biobank Research Team, Genes & Health Research Team, Saxena R, Stefansson K, Brummett CM, Glintborg B, Clauw DJ, Thorgeirsson TE, Williams FMK, Sinnott-Armstrong N, Ollila HM, Wainberg M",
       "Journal": "Nature medicine"
-    },
-    {
-      "PMID": "42515735",
-      "Title": "Integrative Network Pharmacology and Molecular Docking Analysis Reveals the Multitarget Mechanisms of Pterostilbene in Neurodegenerative Diseases",
-      "Authors": "Rosiak N, Stojceski F, Maroni G, Piontek B, Cielecka-Piontek J",
-      "Journal": "Pharmaceuticals (Basel, Switzerland)"
-    },
-    {
-      "PMID": "42513086",
-      "Title": "Grape Seed Extract as an Adjuvant Therapy for Huntington Disease; A Narrative Review of Biological Plausibility and Potential Clinical Outcomes",
-      "Authors": "DeBoth C, Kasper J, McDonald C, Duriancik DM",
-      "Journal": "Molecules (Basel, Switzerland)"
-    },
-    {
-      "PMID": "42511959",
-      "Title": "HDDF2-A Novel Patient-Derived Fibroblast Line from Huntington's Disease with Prominent Cellular Senescence and polyQ Pathology",
-      "Authors": "Parfenova P, Kraskovskaya N, Koltsova A, Shatrova A, Yartseva N, Mikhailova N",
-      "Journal": "Biomedicines"
-    },
-    {
-      "PMID": "42508540",
-      "Title": "R-loops: Biological functions, regulatory mechanisms, and therapeutic implications in brain diseases-A review",
-      "Authors": "Sun R, Duan X, Wang X, Liu J, Li Z, Wang Y",
-      "Journal": "Molecular and cellular probes"
     }
   ]
 }

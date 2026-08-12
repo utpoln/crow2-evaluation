@@ -1,0 +1,133 @@
+{
+  "resource_id": "ncbi_gene_insulin",
+  "status": "success",
+  "elapsed_seconds": 14.07,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Symbol": "IGF1",
+          "GeneID": "3479",
+          "Description": "insulin like growth factor 1 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IRS1",
+          "GeneID": "3667",
+          "Description": "insulin receptor substrate 1 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGF1R",
+          "GeneID": "3480",
+          "Description": "insulin like growth factor 1 receptor [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "INSR",
+          "GeneID": "3643",
+          "Description": "insulin receptor [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGFBP3",
+          "GeneID": "3486",
+          "Description": "insulin like growth factor binding protein 3 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGF2",
+          "GeneID": "3481",
+          "Description": "insulin like growth factor 2 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "INS",
+          "GeneID": "3630",
+          "Description": "insulin [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGFBP1",
+          "GeneID": "3484",
+          "Description": "insulin like growth factor binding protein 1 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "CTLA4",
+          "GeneID": "1493",
+          "Description": "cytotoxic T-lymphocyte associated protein 4 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGF2BP2",
+          "GeneID": "10644",
+          "Description": "insulin like growth factor 2 mRNA binding protein 2 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "SLC2A4",
+          "GeneID": "6517",
+          "Description": "solute carrier family 2 member 4 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IRS2",
+          "GeneID": "8660",
+          "Description": "insulin receptor substrate 2 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "MAPK3",
+          "GeneID": "5595",
+          "Description": "mitogen-activated protein kinase 3 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "CCN2",
+          "GeneID": "1490",
+          "Description": "cellular communication network factor 2 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "TCF7L2",
+          "GeneID": "6934",
+          "Description": "transcription factor 7 like 2 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGFBP5",
+          "GeneID": "3488",
+          "Description": "insulin like growth factor binding protein 5 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "IGFBP2",
+          "GeneID": "3485",
+          "Description": "insulin like growth factor binding protein 2 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "SLC30A8",
+          "GeneID": "169026",
+          "Description": "solute carrier family 30 member 8 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "PDX1",
+          "GeneID": "3651",
+          "Description": "pancreatic and duodenal homeobox 1 [_Homo sapiens_ (human)]"
+        },
+        {
+          "Symbol": "GRB10",
+          "GeneID": "2887",
+          "Description": "growth factor receptor bound protein 10 [_Homo sapiens_ (human)]"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 12433,
+      "completion_tokens": 2829
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 3840
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "2a6165f4-09dc-4723-aa62-02516c657a4a"
+  },
+  "error": null
+}

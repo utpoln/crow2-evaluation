@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_parkinson_disease_dopamine",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Parkinson+disease+dopamine&sort=date",
-  "elapsed_seconds": 5.0475475829999965,
+  "elapsed_seconds": 5.8985987080000015,
   "record_count": 10,
   "records": [
     {
-      "Title": "Add-on safinamide and amantadine in Filipino Parkinson's disease patients with motor fluctuations: a retrospective exploratory cohort study.",
-      "Authors": "Sermense YNA, Rosales RL, Tanglao MJ.",
-      "Journal": "J Neural Transm (Vienna). 2026 Aug 4. doi: 10.1007/s00702-026-03246-5. Online ahead of print.",
-      "PMID": "42550256"
+      "Title": "Therapeutic landscape of Parkinson's disease: Recent advances in saponin-mediated interventions.",
+      "Authors": "Tripathy D, Sarma SS, Kumar D, Chakraborty J.",
+      "Journal": "Neurochem Int. 2026 Aug 11:106239. doi: 10.1016/j.neuint.2026.106239. Online ahead of print.",
+      "PMID": "42580480"
     },
     {
-      "Title": "Psychological and neurological benefits of physical activity: impact on mental health, Parkinson's disease, and Alzheimer's disease.",
-      "Authors": "Li G, Li Y.",
-      "Journal": "Brain Struct Funct. 2026 Aug 4;231(7):111. doi: 10.1007/s00429-026-03132-6.",
-      "PMID": "42550250"
+      "Title": "Corticostriatal glutamate mechanisms underlying beta synchrony and motor deficits via striatal NMDA receptors in Parkinson's disease.",
+      "Authors": "Wang Z, Fan X, Zhao Y, Su W, Jiang X, Huang H, Xu T, Gong X, Zhang Y, Jiang Y, Zhang T, Hjorth JJJ, Kozlov A, Kotaleski JH, Jia J.",
+      "Journal": "EBioMedicine. 2026 Aug 11;131:106418. doi: 10.1016/j.ebiom.2026.106418. Online ahead of print.",
+      "PMID": "42580034"
     },
     {
-      "Title": "Peptide-targeted cubosome and hexosome nanoassemblies mitigate mitochondrial dysfunction in a MitoPark model.",
-      "Authors": "Akanchise T, Luo F, Angelov B, Deng Y, Fujino T, Angelova A.",
-      "Journal": "Signal Transduct Target Ther. 2026 Aug 4;11(1):310. doi: 10.1038/s41392-026-02897-w.",
-      "PMID": "42547496"
+      "Title": "Corrected Version: Neutralization of RANTES and Eotaxin Prevents the Loss of Dopaminergic Neurons in a Mouse Model of Parkinson's Disease.",
+      "Authors": "Chandra G, Rangasamy SB, Pahan K.",
+      "Journal": "J Clin Exp Immunol. 2026;11(3):10.33140/JCEI.11.03.04. doi: 10.33140/JCEI.11.03.04. Epub 2026 Aug 3.",
+      "PMID": "42578101"
     },
     {
-      "Title": "[Mechanism of Tianma Gouteng Yin in treating early-stage Parkinson's disease based on 16S rRNA sequencing and metabolomics].",
-      "Authors": "Lin YS, Ma RZ, Jiang TY, Zhu HM, Ni H, Wang Y, Zhang G, Li JY, Shi JL.",
-      "Journal": "Zhongguo Zhong Yao Za Zhi. 2026 Jun;51(12):3522-3531. doi: 10.19540/j.cnki.cjcmm.20260312.701.",
-      "PMID": "42543311"
+      "Title": "COVID-19 Amplifies Sex-Specific Dopamine and Glial Responses in a Parkinson's Disease Mouse Model.",
+      "Authors": "Awogbindin I, Bourque M, Morissette M, Hamelin M\u00c8, Rh\u00e9aume C, VanderZwaag J, Landwehr A, Patel D, Boivin G, Tremblay M\u00c8, Di Paolo T.",
+      "Journal": "Mov Disord. 2026 Aug 9. doi: 10.1002/mds.70454. Online ahead of print.",
+      "PMID": "42572406"
     },
     {
-      "Title": "Falls induced by optogenetic inhibition of basal forebrain cholinergic neurons after dorsomedial striatal dopamine depletion in a dual disruption model of falling vulnerability in Parkinson's disease.",
-      "Authors": "Kucinski A.",
-      "Journal": "Behav Brain Res. 2026 Aug 1;515:116409. doi: 10.1016/j.bbr.2026.116409. Online ahead of print.",
-      "PMID": "42542273"
+      "Title": "Chemogenetic activation and inhibition of CaMK\u2161\u03b1-positive neurons in the dorsal hippocampus modulate spatial working memory and hippocampus-dependent memory in the hemiparkinsonian rat.",
+      "Authors": "Wang XC, Liu J, Qiu ZH, Guo Y, Hu H, Li F, Chen L, Zhang L.",
+      "Journal": "Neurochem Int. 2026 Aug 10;200:106237. doi: 10.1016/j.neuint.2026.106237. Online ahead of print.",
+      "PMID": "42570797"
     },
     {
-      "Title": "Thioredoxin-1 in the SNpc Regulates Subventricular Zone Neural Proliferation and Olfactory Bulb Neural Differentiation in MPTP-Induced Olfactory Dysfunction.",
-      "Authors": "Zhang X, Li Y, He X, Yang A, Chen Y, Yan F, Bai L, Bai J.",
-      "Journal": "Neurochem Res. 2026 Aug 1;51(4):228. doi: 10.1007/s11064-026-04850-3.",
-      "PMID": "42541661"
+      "Title": "Dopamine D2 receptor dependent and independent structural, intrinsic and synaptic adaptations in experimental parkinsonism.",
+      "Authors": "Alberquilla S, Prieto CS, Serrais PM, Murer MG, Moratalla R.",
+      "Journal": "Neurobiol Dis. 2026 Aug 8:107569. doi: 10.1016/j.nbd.2026.107569. Online ahead of print.",
+      "PMID": "42570776"
     },
     {
-      "Title": "What's in a name? reframing advanced Parkinson's disease as a multidimensional state.",
-      "Authors": "Phokaewvarangkul O, Jost WH, Bhidayasiri R.",
-      "Journal": "J Neural Transm (Vienna). 2026 Aug 1. doi: 10.1007/s00702-026-03257-2. Online ahead of print.",
-      "PMID": "42541557"
+      "Title": "MRI-based glymphatic metrics correlate with caudate nucleus dopaminergic deficits and are independent of amyloid-beta pathway in Parkinson's disease.",
+      "Authors": "Xie X, Dai R, Xin M, Du Y, Lu Z, Liu J, Wang H, Zhang C, Wang G.",
+      "Journal": "Neuroimage Clin. 2026 Aug 4;51:104047. doi: 10.1016/j.nicl.2026.104047. Online ahead of print.",
+      "PMID": "42570606"
     },
     {
-      "Title": "Serum UCHL-1, GFAP, and NfL track tyrosine hydroxylase loss in substantia nigra in two Rat Models of Parkinson's Disease.",
-      "Authors": "Soto I, McManus R, Navarrete W, Mhatre-Winters I, Rogers EV, Vancil J, Doshier K, Richardson JR, Nejtek VA, Salvatore MF.",
-      "Journal": "bioRxiv [Preprint]. 2026 Jul 20:2026.07.14.738586. doi: 10.64898/2026.07.14.738586.",
-      "PMID": "42539129"
+      "Title": "Dysphagia and Dysphonia in Parkinson's Disease: Pathophysiological Mechanisms, Treatment Approaches, and Clinical Implications.",
+      "Authors": "Hong ER.",
+      "Journal": "Biomed Hub. 2026 Jun 27;11(1):143-149. doi: 10.1159/000553345. eCollection 2026 Jan-Dec.",
+      "PMID": "42569781"
     },
     {
-      "Title": "Single-neuron resolution mapping of dopaminergic connectivity across development, adulthood, and degeneration.",
-      "Authors": "Grossouw LM, Heijmink N, Garritsen O, van de Mheen T, Naert W, D'Angelo R, Rybiczka-Te\u0161ulov M, Adolfs Y, van Kronenburg NCH, Broekhoven MH, Smith GP, Meye FJ, van Battum EY, Pasterkamp RJ.",
-      "Journal": "Neuron. 2026 Jul 31:S0896-6273(26)00538-6. doi: 10.1016/j.neuron.2026.07.009. Online ahead of print.",
-      "PMID": "42537639"
+      "Title": "Advances in dopamine transporter inhibitors: Design strategies, structural features, and pharmacological insights.",
+      "Authors": "Zhao H, Gao R, Zhang B, Gao J, Xue B, Zhang Y.",
+      "Journal": "Eur J Med Chem. 2026 Aug 4;318:119189. doi: 10.1016/j.ejmech.2026.119189. Online ahead of print.",
+      "PMID": "42566883"
     },
     {
-      "Title": "Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease.",
-      "Authors": "Habets JGV, Merk T, Mathiopoulou V, Kaplan J, Lofredi R, Busch JL, Binns TS, K\u00f6hler RM, Memarpouri A, Al-Fatly B, Faust K, Krause P, Schneider GH, Neumann WJ, Tovote P, K\u00fchn AA.",
-      "Journal": "Brain. 2026 Jul 31:awag256. doi: 10.1093/brain/awag256. Online ahead of print.",
-      "PMID": "42533668"
+      "Title": "Vesicular Monoamine Transporters at the Crossroads of Structure and Function: Advances, Challenges, and Future Perspectives.",
+      "Authors": "Lange KH, Dalton MP, Mandal SK, Coleman JA.",
+      "Journal": "Annu Rev Pharmacol Toxicol. 2026 Aug 7. doi: 10.1146/annurev-pharmtox-060225-123449. Online ahead of print.",
+      "PMID": "42566692"
     }
   ]
 }

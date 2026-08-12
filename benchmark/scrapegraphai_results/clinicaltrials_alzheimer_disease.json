@@ -1,0 +1,86 @@
+{
+  "resource_id": "clinicaltrials_alzheimer_disease",
+  "status": "success",
+  "elapsed_seconds": 8.13,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "Retinal Neurodegenerative Signs in Alzheimer's Diseases",
+          "NCT_ID": "NCT01555827",
+          "Status": "Completed"
+        },
+        {
+          "Title": "Irritation and Sensitization Study of d-Amphetamine Transdermal System",
+          "NCT_ID": "NCT04094025",
+          "Status": "Completed"
+        },
+        {
+          "Title": "Gut Microbiota and Alzheimer's Diseases",
+          "NCT_ID": "NCT03827733",
+          "Status": "Unknown status"
+        },
+        {
+          "Title": "The Chinese Familial Alzheimer's Network",
+          "NCT_ID": "NCT03657732",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "Lecanemab for Early Onset Familial Alzheimer's Disease",
+          "NCT_ID": "NCT06883019",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "Impact of a Biophoton Therapy on Patients With Brain Disorders",
+          "NCT_ID": "NCT06147999",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "Neuroimaging in Healthy Aging and Senile Dementia (HASD_IND)",
+          "NCT_ID": "NCT04579120",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "DMB-I in the Treatment of Alzheimer Type Dementia",
+          "NCT_ID": "NCT06292351",
+          "Status": "Completed"
+        },
+        {
+          "Title": "A Study of CM383 in Patients With Alzheimer's Disease Related Mild Cognitive Impairment and Mild Alzheimer's Disease",
+          "NCT_ID": "NCT06619613",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "A Genetic Study for Alzheimer Dementia: Case-control Study",
+          "NCT_ID": "NCT06330155",
+          "Status": "Not yet recruiting"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 16940,
+      "completion_tokens": 1660
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 3342
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "38d0b3db-f0df-4432-b390-4d21b8be1b7e"
+  },
+  "error": null
+}

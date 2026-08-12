@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_tuberculosis",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Tuberculosis",
+      "URL": "https://medlineplus.gov/tuberculosis.html"
+    },
+    {
+      "Title": "Mycobacterial Infections",
+      "URL": "https://medlineplus.gov/mycobacterialinfections.html"
+    },
+    {
+      "Title": "Health Disparities",
+      "URL": "https://medlineplus.gov/healthdisparities.html"
+    },
+    {
+      "Title": "Infections and Pregnancy",
+      "URL": "https://medlineplus.gov/infectionsandpregnancy.html"
+    },
+    {
+      "Title": "Antibiotic Resistance",
+      "URL": "https://medlineplus.gov/antibioticresistance.html"
+    },
+    {
+      "Title": "Bone Infections",
+      "URL": "https://medlineplus.gov/boneinfections.html"
+    },
+    {
+      "Title": "Global Health",
+      "URL": "https://medlineplus.gov/globalhealth.html"
+    },
+    {
+      "Title": "Health Screening",
+      "URL": "https://medlineplus.gov/healthscreening.html"
+    },
+    {
+      "Title": "HIV",
+      "URL": "https://medlineplus.gov/hiv.html"
+    },
+    {
+      "Title": "HIV and Infections",
+      "URL": "https://medlineplus.gov/hivandinfections.html"
+    }
+  ]
+}

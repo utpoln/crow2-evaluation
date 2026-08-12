@@ -1,7 +1,7 @@
 {
   "resource_id": "clinicaltrials_melanoma",
   "url": "https://clinicaltrials.gov/search?term=melanoma&viewType=Table",
-  "elapsed_seconds": 4.325334542000007,
+  "elapsed_seconds": 4.4356525410000245,
   "record_count": 10,
   "records": [
     {
@@ -35,14 +35,14 @@
       "Status": "Terminated"
     },
     {
-      "Title": "Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma",
-      "NCT_ID": "NCT00813449",
-      "Status": "Unknown status\u00a0  *"
-    },
-    {
       "Title": "Observational Study of Patients With Advanced Melanoma (Skin Cancer) to Assess if IOpener\u00ae-Melanoma Test Can Predict Response to Immunotherapy.",
       "NCT_ID": "NCT06784778",
       "Status": "Recruiting"
+    },
+    {
+      "Title": "Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma",
+      "NCT_ID": "NCT00813449",
+      "Status": "Unknown status\u00a0  *"
     },
     {
       "Title": "Evaluation of Oncoxin-Viusid\u00ae in Cutaneous Melanoma",

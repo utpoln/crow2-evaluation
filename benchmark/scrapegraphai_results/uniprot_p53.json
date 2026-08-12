@@ -1,0 +1,29 @@
+{
+  "resource_id": "uniprot_p53",
+  "status": "success",
+  "elapsed_seconds": 5.76,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": []
+    },
+    "usage": {
+      "prompt_tokens": 912,
+      "completion_tokens": 114
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 449
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "c8398bdc-c665-4132-a62a-fb488745e7b3"
+  },
+  "error": null
+}

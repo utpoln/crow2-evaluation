@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_asthma",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=asthma&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.06149625,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Asthma",
+      "URL": "https://medlineplus.gov/asthma.html"
+    },
+    {
+      "Title": "Asthma in Children",
+      "URL": "https://medlineplus.gov/asthmainchildren.html"
+    },
+    {
+      "Title": "Latex Allergy",
+      "URL": "https://medlineplus.gov/latexallergy.html"
+    },
+    {
+      "Title": "Allergy",
+      "URL": "https://medlineplus.gov/allergy.html"
+    },
+    {
+      "Title": "COPD",
+      "URL": "https://medlineplus.gov/copd.html"
+    },
+    {
+      "Title": "Flu",
+      "URL": "https://medlineplus.gov/flu.html"
+    },
+    {
+      "Title": "Smoking",
+      "URL": "https://medlineplus.gov/smoking.html"
+    },
+    {
+      "Title": "Hay Fever",
+      "URL": "https://medlineplus.gov/hayfever.html"
+    },
+    {
+      "Title": "Molds",
+      "URL": "https://medlineplus.gov/molds.html"
+    },
+    {
+      "Title": "Occupational Health",
+      "URL": "https://medlineplus.gov/occupationalhealth.html"
+    }
+  ]
+}

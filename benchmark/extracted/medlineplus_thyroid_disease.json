@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_thyroid_disease",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=thyroid+disease&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.668152458000009,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Thyroid Diseases",
+      "URL": "https://medlineplus.gov/thyroiddiseases.html"
+    },
+    {
+      "Title": "Thyroid Tests",
+      "URL": "https://medlineplus.gov/thyroidtests.html"
+    },
+    {
+      "Title": "Hyperthyroidism",
+      "URL": "https://medlineplus.gov/hyperthyroidism.html"
+    },
+    {
+      "Title": "Health Problems in Pregnancy",
+      "URL": "https://medlineplus.gov/healthproblemsinpregnancy.html"
+    },
+    {
+      "Title": "Hypothyroidism",
+      "URL": "https://medlineplus.gov/hypothyroidism.html"
+    },
+    {
+      "Title": "Heart Failure",
+      "URL": "https://medlineplus.gov/heartfailure.html"
+    },
+    {
+      "Title": "High Cholesterol in Children and Teens",
+      "URL": "https://medlineplus.gov/highcholesterolinchildrenandteens.html"
+    },
+    {
+      "Title": "Fatigue",
+      "URL": "https://medlineplus.gov/fatigue.html"
+    },
+    {
+      "Title": "Thyroid Cancer",
+      "URL": "https://medlineplus.gov/thyroidcancer.html"
+    },
+    {
+      "Title": "Triglycerides",
+      "URL": "https://medlineplus.gov/triglycerides.html"
+    }
+  ]
+}

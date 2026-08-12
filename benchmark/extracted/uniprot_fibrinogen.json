@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_fibrinogen",
   "url": "https://www.uniprot.org/uniprotkb?query=fibrinogen&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.19589058400004,
+  "elapsed_seconds": 12.259672125000009,
   "record_count": 25,
   "records": [
     {

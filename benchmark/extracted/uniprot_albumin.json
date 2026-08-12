@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_albumin",
   "url": "https://www.uniprot.org/uniprotkb?query=albumin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.355297791999988,
+  "elapsed_seconds": 12.382918915999994,
   "record_count": 25,
   "records": [
     {

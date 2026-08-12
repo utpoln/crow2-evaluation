@@ -1,7 +1,7 @@
 {
   "resource_id": "ncbi_gene_alk",
   "url": "https://www.ncbi.nlm.nih.gov/gene/?term=ALK+AND+human%5Borgn%5D",
-  "elapsed_seconds": 9.176879750000012,
+  "elapsed_seconds": 7.326100791000044,
   "record_count": 20,
   "records": [
     {

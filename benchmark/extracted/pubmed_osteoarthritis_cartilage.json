@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_osteoarthritis_cartilage",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=osteoarthritis+cartilage&sort=date",
-  "elapsed_seconds": 5.115348124999997,
+  "elapsed_seconds": 5.41927849999999,
   "record_count": 10,
   "records": [
     {
-      "Title": "Machine learning assisted prediction of cartilage histology using MR fingerprinting - a preliminary study.",
-      "Authors": "Kantola V, Nyk\u00e4nen O, Casula V, Karjalainen VP, Cloos MA, Lattanzi R, Nissi MJ, Nieminen MT.",
-      "Journal": "MAGMA. 2026 Aug 4. doi: 10.1007/s10334-026-01397-w. Online ahead of print.",
-      "PMID": "42550347"
+      "Title": "Second Harmonic Generation Imaging Links Collagen Structure and Biochemical Composition in Human Osteoarthritic Cartilage.",
+      "Authors": "Abusara Z, Moo EK, Tughra B, Joumaa V, Jinha A, Miller S, Timmermann S, Herzog W.",
+      "Journal": "Ann Biomed Eng. 2026 Aug 11. doi: 10.1007/s10439-026-04327-y. Online ahead of print.",
+      "PMID": "42579228"
     },
     {
-      "Title": "The role of the HB-EGF-regulated EGFR-mitophagy axis in maintaining cartilage homeostasis and osteoarthritis.",
-      "Authors": "Wang J, Mo C, Wang Q, Qin J, Li Y, Peng W.",
-      "Journal": "J Mol Histol. 2026 Aug 4;57(4):256. doi: 10.1007/s10735-026-10916-x.",
-      "PMID": "42550314"
+      "Title": "Meniscal Allograft Transplantation Failure Is Associated With Female Sex: A 15-Year Survival Analysis.",
+      "Authors": "Park YL, Wackerle AM, Jiang C, Vieider RP, Winkler PW, Irrgang JJ, Musahl V, Hughes JD.",
+      "Journal": "Am J Sports Med. 2026 Aug 11:3635465261470172. doi: 10.1177/03635465261470172. Online ahead of print.",
+      "PMID": "42578469"
     },
     {
-      "Title": "Quadriceps Tendon Autografts Are Associated With Increased Short-term Reoperation Rates for Extension Deficit or Pain and Inferior Patient-Reported Outcomes Compared With Hamstring Tendon Autografts: An Analysis of 5653 Cases of Primary Anterior Cruciate Ligament Reconstruction.",
-      "Authors": "Kekki C, Cristiani R, St\u00e5lman A, von Essen C.",
-      "Journal": "Am J Sports Med. 2026 Aug 3:3635465261465107. doi: 10.1177/03635465261465107. Online ahead of print.",
-      "PMID": "42547948"
+      "Title": "From Therapeutic Dilemma to Precision Modulation: Harnessing Biomaterials to Target the Dual Face of TGF-beta in Osteoarthritis.",
+      "Authors": "Peng P, Xia L, Shang X.",
+      "Journal": "J Inflamm Res. 2026 Aug 6;19:618988. doi: 10.2147/JIR.S618988. eCollection 2026.",
+      "PMID": "42578007"
     },
     {
-      "Title": "Palmitoylation of TK1 exacerbates osteoarthritis by promoting JNK-mediated metabolic reprogramming.",
-      "Authors": "Zhang Z, Zhang C, Ju Y, Zhou Y, Guo W, Xie J, Huang Z.",
-      "Journal": "Proc Natl Acad Sci U S A. 2026 Aug 11;123(32):e2602136123. doi: 10.1073/pnas.2602136123. Epub 2026 Aug 3.",
-      "PMID": "42546205"
+      "Title": "Correction: Association of MRI-derived muscle-fat composition with knee osteoarthritis severity: a gender-stratified X-ray and MRI correlation study.",
+      "Authors": "Al-Harbi M, Hamdoun A, Hamd ZY, Alhegail S, Mallisho A, Salih R, Abuzaid M, Elshami W.",
+      "Journal": "Front Med (Lausanne). 2026 Jul 27;13:1924209. doi: 10.3389/fmed.2026.1924209. eCollection 2026.",
+      "PMID": "42578004"
     },
     {
-      "Title": "Research Trends and Hotspots of Traditional Chinese Medicine for Knee Osteoarthritis from 2005 to 2025: A Bibliometric Analysis.",
-      "Authors": "Liu X, Zeng C, Zhou J, Ren F, Mao J, Deng Y, Wei J, Yuan F, Li B, Liu L.",
-      "Journal": "J Vis Exp. 2026 Jul 14;(233). doi: 10.3791/70528.",
-      "PMID": "42546098"
+      "Title": "[Electroacupuncture alleviates articular chondrocyte apoptosis in rats with knee osteoarthritis by regulating the TLR4/MyD88/NF-kappaB signaling pathway].",
+      "Authors": "Li C, Yang Q, Zhang Z, Bao L, Jiang T, Zhang Y, Li F.",
+      "Journal": "Nan Fang Yi Ke Da Xue Xue Bao. 2026 Aug 20;46(8):1886-1895. doi: 10.12122/j.issn.1673-4254.2026.08.16.",
+      "PMID": "42576497"
     },
     {
-      "Title": "Balloon acetabuloplasty for cartilage impaction reduction in traumatic acetabular fractures: a case series and technical note.",
-      "Authors": "Serfaty L, Riouallon G, Melhem E, Zaraa M, Upex P, Moreau PE.",
-      "Journal": "Eur J Orthop Surg Traumatol. 2026 Aug 3;36(1):316. doi: 10.1007/s00590-026-04878-9.",
-      "PMID": "42545528"
+      "Title": "Tetrahedral framework nucleic acids loaded with microRNA-17 for treating temporomandibular joint osteoarthritis: mechanisms of action.",
+      "Authors": "Liu X, Liao J, Han X, Lu W, Sun Y, Lin Y, Shi S.",
+      "Journal": "Nanoscale. 2026 Aug 10. doi: 10.1039/d6nr02169g. Online ahead of print.",
+      "PMID": "42573179"
     },
     {
-      "Title": "Circular RNAs orchestrate molecular networks in osteoarthritis: From miRNA sponging to epigenetic and exosome-mediated regulation.",
-      "Authors": "Yang J, Kubav A.",
-      "Journal": "Mol Biol Rep. 2026 Aug 3;53(1):1322. doi: 10.1007/s11033-026-12505-3.",
-      "PMID": "42545381"
+      "Title": "Clinical improvement despite structural degeneration after nonoperative treatment of medial meniscus posterior root tear: A prospective longitudinal study.",
+      "Authors": "Nonaka S, Hatayama K, Okada K, Kakiage H, Terauchi M, Chikuda H.",
+      "Journal": "Knee Surg Sports Traumatol Arthrosc. 2026 Aug 10. doi: 10.1002/ksa.70570. Online ahead of print.",
+      "PMID": "42573108"
     },
     {
-      "Title": "Relationship of Retropatellar Knee Cartilage and Subchondral Patellar Bone During the Course of Osteoarthritis.",
-      "Authors": "Lahm A, Kasch R, Spank H, Zilkens C.",
-      "Journal": "Ortop Traumatol Rehabil. 2026 Jun 30;28(2):73-82. doi: 10.5604/01.3001.0055.8579.",
-      "PMID": "42545000"
+      "Title": "Dual-modal antioxidant and epigenetic synergy attenuates the self-perpetuating senescence cycle in osteoarthritis.",
+      "Authors": "An X, Cai H, Wu W, Cai M, Ben Y, Shen T, Zhang P, Chen J, Xu Z, Jiang Q.",
+      "Journal": "Bioact Mater. 2026 Jul 31;67:22-37. doi: 10.1016/j.bioactmat.2026.07.051. eCollection 2027 Jan.",
+      "PMID": "42571396"
     },
     {
-      "Title": "Safety and Efficacy of Allogeneic Integrin alpha10beta1-Selected Mesenchymal Stem Cells in the Treatment of Knee Osteoarthritis: A First-In-Human Phase I/IIa Dose Escalation Study.",
-      "Authors": "Vonk LA, Wennersten C, Uvebrant K, Siva K, Theorell L, Russo M, Hall S, Lundgren-\u00c5kerlund E.",
-      "Journal": "Cartilage. 2026 Aug 3:19476035261475741. doi: 10.1177/19476035261475741. Online ahead of print.",
-      "PMID": "42544546"
+      "Title": "Immunomodulatory thermosensitive hydroxypropyl chitin hydrogel platform maintains cartilage-synovium homeostasis for enhanced osteoarthritis therapy.",
+      "Authors": "Shao H, Lei Z, Yang W, Zhou J, Li Q, Xu S, Shi W, Xu Z, Luo G, Qian X, Zhou Z, Liao H, Jiang X, Zhang Y, Ji X.",
+      "Journal": "Bioact Mater. 2026 Jul 29;66:1167-1185. doi: 10.1016/j.bioactmat.2026.07.042. eCollection 2026 Dec.",
+      "PMID": "42571192"
     },
     {
-      "Title": "Curcumin-Loaded GelMA Microspheres Alleviate Osteoarthritis: Transcriptomic Evidence for Immune Microenvironment Remodeling and ECM Homeostasis Restoration.",
-      "Authors": "Jiang B, Jiang X, Li S, Niu H, Ji W.",
-      "Journal": "Chem Biol Drug Des. 2026 Aug;108(2):e70373. doi: 10.1111/cbdd.70373.",
-      "PMID": "42543780"
+      "Title": "Focalplasty for Resurfacing of Focal Articular Lesions of the Medial Femoral Condyle.",
+      "Authors": "Thamrongskulsiri N, Valdivia San Roman A, Moews LD, Vega TF, Casanova F, Morgan JT, Nishioka T, Chahla J.",
+      "Journal": "Video J Sports Med. 2026 Aug 7;6(4):26350254261429887. doi: 10.1177/26350254261429887. eCollection 2026 Jul-Aug.",
+      "PMID": "42571111"
     }
   ]
 }

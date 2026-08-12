@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_anemia",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Anemia",
+      "URL": "https://medlineplus.gov/anemia.html"
+    },
+    {
+      "Title": "Aplastic Anemia",
+      "URL": "https://medlineplus.gov/aplasticanemia.html"
+    },
+    {
+      "Title": "Thalassemia",
+      "URL": "https://medlineplus.gov/thalassemia.html"
+    },
+    {
+      "Title": "Sickle Cell Disease",
+      "URL": "https://medlineplus.gov/sicklecelldisease.html"
+    },
+    {
+      "Title": "Iron",
+      "URL": "https://medlineplus.gov/iron.html"
+    },
+    {
+      "Title": "B Vitamins",
+      "URL": "https://medlineplus.gov/bvitamins.html"
+    },
+    {
+      "Title": "Bone Marrow Diseases",
+      "URL": "https://medlineplus.gov/bonemarrowdiseases.html"
+    },
+    {
+      "Title": "Blood Disorders",
+      "URL": "https://medlineplus.gov/blooddisorders.html"
+    },
+    {
+      "Title": "Malnutrition",
+      "URL": "https://medlineplus.gov/malnutrition.html"
+    },
+    {
+      "Title": "Bone Marrow Transplantation",
+      "URL": "https://medlineplus.gov/bonemarrowtransplantation.html"
+    }
+  ]
+}

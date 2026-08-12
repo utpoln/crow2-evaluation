@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_amylase",
   "url": "https://www.uniprot.org/uniprotkb?query=amylase&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.197770208999998,
+  "elapsed_seconds": 12.267724333999979,
   "record_count": 25,
   "records": [
     {

@@ -1,7 +1,7 @@
 {
   "resource_id": "clinicaltrials_lung_cancer_immunotherapy",
   "url": "https://clinicaltrials.gov/search?term=lung+cancer+immunotherapy&viewType=Table",
-  "elapsed_seconds": 4.381926875000005,
+  "elapsed_seconds": 4.674893790999988,
   "record_count": 10,
   "records": [
     {
@@ -35,6 +35,11 @@
       "Status": "Completed"
     },
     {
+      "Title": "Virtual Reality in Lung Cancer PatientsNew",
+      "NCT_ID": "NCT07755501",
+      "Status": "Not yet recruiting"
+    },
+    {
       "Title": "Survival Efficacy of Combined Radiotherapy and Immunotherapy in Patients With Metastatic Non-small Cell Lung Carcinoma",
       "NCT_ID": "NCT07111104",
       "Status": "Completed"
@@ -48,11 +53,6 @@
       "Title": "Pragmatic Analysis of Complex Radiotherapy Cases In Cancer of the Lung",
       "NCT_ID": "NCT07202260",
       "Status": "Active, not recruiting"
-    },
-    {
-      "Title": "Efficacy of Neoadjuvant Immunotherapy in Patients With Lung Cancer",
-      "NCT_ID": "NCT07166003",
-      "Status": "Recruiting"
     }
   ]
 }

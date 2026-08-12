@@ -1,0 +1,10 @@
+{
+  "resource_id": "clinicaltrials_study_nct04178382",
+  "method": "clinicaltrials_study_api",
+  "records": [
+    {
+      "Title": "Effect of PCR-CRISPR/Cas12a on the Early Anti-infective Schemes in Patients With Open Air Pneumonia",
+      "Status": "Unknown status"
+    }
+  ]
+}

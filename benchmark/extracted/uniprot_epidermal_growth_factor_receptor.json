@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_epidermal_growth_factor_receptor",
   "url": "https://www.uniprot.org/uniprotkb?query=epidermal+growth+factor+receptor&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.26575087499998,
+  "elapsed_seconds": 12.33620062500006,
   "record_count": 25,
   "records": [
     {

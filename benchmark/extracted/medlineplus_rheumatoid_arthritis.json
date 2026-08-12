@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_rheumatoid_arthritis",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=rheumatoid+arthritis&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 5.287530542000013,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Rheumatoid Arthritis",
+      "URL": "https://medlineplus.gov/rheumatoidarthritis.html"
+    },
+    {
+      "Title": "Juvenile Arthritis",
+      "URL": "https://medlineplus.gov/juvenilearthritis.html"
+    },
+    {
+      "Title": "Arthritis",
+      "URL": "https://medlineplus.gov/arthritis.html"
+    },
+    {
+      "Title": "Sjogren's Syndrome",
+      "URL": "https://medlineplus.gov/sjogrenssyndrome.html"
+    },
+    {
+      "Title": "Ankle Injuries and Disorders",
+      "URL": "https://medlineplus.gov/ankleinjuriesanddisorders.html"
+    },
+    {
+      "Title": "Atherosclerosis",
+      "URL": "https://medlineplus.gov/atherosclerosis.html"
+    },
+    {
+      "Title": "Autoimmune Diseases",
+      "URL": "https://medlineplus.gov/autoimmunediseases.html"
+    },
+    {
+      "Title": "Bone Density",
+      "URL": "https://medlineplus.gov/bonedensity.html"
+    },
+    {
+      "Title": "Carpal Tunnel Syndrome",
+      "URL": "https://medlineplus.gov/carpaltunnelsyndrome.html"
+    },
+    {
+      "Title": "Fibromyalgia",
+      "URL": "https://medlineplus.gov/fibromyalgia.html"
+    }
+  ]
+}

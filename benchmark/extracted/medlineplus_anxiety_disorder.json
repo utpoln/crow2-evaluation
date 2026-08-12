@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_anxiety_disorder",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=anxiety+disorder&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.821676959000001,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Anxiety",
+      "URL": "https://medlineplus.gov/anxiety.html"
+    },
+    {
+      "Title": "Phobias",
+      "URL": "https://medlineplus.gov/phobias.html"
+    },
+    {
+      "Title": "Panic Disorder",
+      "URL": "https://medlineplus.gov/panicdisorder.html"
+    },
+    {
+      "Title": "Mental Disorders",
+      "URL": "https://medlineplus.gov/mentaldisorders.html"
+    },
+    {
+      "Title": "Child Mental Health",
+      "URL": "https://medlineplus.gov/childmentalhealth.html"
+    },
+    {
+      "Title": "Obsessive-Compulsive Disorder",
+      "URL": "https://medlineplus.gov/obsessivecompulsivedisorder.html"
+    },
+    {
+      "Title": "Migraine",
+      "URL": "https://medlineplus.gov/migraine.html"
+    },
+    {
+      "Title": "Teen Depression",
+      "URL": "https://medlineplus.gov/teendepression.html"
+    },
+    {
+      "Title": "Drugs and Young People",
+      "URL": "https://medlineplus.gov/drugsandyoungpeople.html"
+    },
+    {
+      "Title": "Cancer--Living with Cancer",
+      "URL": "https://medlineplus.gov/cancerlivingwithcancer.html"
+    }
+  ]
+}

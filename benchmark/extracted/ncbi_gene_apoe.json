@@ -1,7 +1,7 @@
 {
   "resource_id": "ncbi_gene_apoe",
   "url": "https://www.ncbi.nlm.nih.gov/gene/?term=APOE+AND+human%5Borgn%5D",
-  "elapsed_seconds": 7.487263125000027,
+  "elapsed_seconds": 8.929212750000033,
   "record_count": 20,
   "records": [
     {

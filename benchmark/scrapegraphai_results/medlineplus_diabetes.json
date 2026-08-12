@@ -1,0 +1,70 @@
+{
+  "resource_id": "medlineplus_diabetes",
+  "status": "success",
+  "elapsed_seconds": 7.93,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "Diabetes",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetes.html&rid=Ndoc0&v%3aframe=redirect&v%3aredirect-hash=6c0b903af4282eb14a07e4683de1184e&\\%22"
+        },
+        {
+          "Title": "Diabetes Type 1",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetestype1.html&rid=Ndoc1&v%3aframe=redirect&v%3aredirect-hash=44b62dc9072850b2de4fb83bfe33ba8a&\\%22"
+        },
+        {
+          "Title": "Diabetes Type 2",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetestype2.html&rid=Ndoc2&v%3aframe=redirect&v%3aredirect-hash=a475e4bdb8f188499554a91358837343&\\%22"
+        },
+        {
+          "Title": "Diabetes and Pregnancy",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetesandpregnancy.html&rid=Ndoc3&v%3aframe=redirect&v%3aredirect-hash=9710debf96d6c576a5f9783e0549f989&\\%22"
+        },
+        {
+          "Title": "Diabetes in Children and Teens",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetesinchildrenandteens.html&rid=Ndoc4&v%3aframe=redirect&v%3aredirect-hash=fc080366eef631978eafe86e1fec931e&\\%22"
+        },
+        {
+          "Title": "Diabetes Medicines",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetesmedicines.html&rid=Ndoc5&v%3aframe=redirect&v%3aredirect-hash=38086f24c98d710ddd42de208e90ce40&\\%22"
+        },
+        {
+          "Title": "How to Prevent Diabetes",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fhowtopreventdiabetes.html&rid=Ndoc6&v%3aframe=redirect&v%3aredirect-hash=209593087421e10903e23a2d3f3607fe&\\%22"
+        },
+        {
+          "Title": "Diabetes Complications",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetescomplications.html&rid=Ndoc7&v%3aframe=redirect&v%3aredirect-hash=b324608cae0156612f063231c69d4800&\\%22"
+        },
+        {
+          "Title": "Diabetes Insipidus",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabetesinsipidus.html&rid=Ndoc8&v%3aframe=redirect&v%3aredirect-hash=7a6e783839a04164d9638ddd8039f86c&\\%22"
+        },
+        {
+          "Title": "Diabetic Diet",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_GlD8B2&server=pvlb7srch13&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdiabeticdiet.html&rid=Ndoc9&v%3aframe=redirect&v%3aredirect-hash=666d11dff89016f60edcac381d67c6e0&\\%22"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 5393,
+      "completion_tokens": 2978
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 4950
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "b3c50fe5-1dad-4ebd-8f53-47dbc4ee0b40"
+  },
+  "error": null
+}

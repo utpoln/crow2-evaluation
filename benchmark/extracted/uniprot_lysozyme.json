@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_lysozyme",
   "url": "https://www.uniprot.org/uniprotkb?query=lysozyme&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.312129749999997,
+  "elapsed_seconds": 12.381552,
   "record_count": 25,
   "records": [
     {

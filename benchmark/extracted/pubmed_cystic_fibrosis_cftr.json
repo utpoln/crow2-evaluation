@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_cystic_fibrosis_cftr",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=cystic+fibrosis+CFTR&sort=date",
-  "elapsed_seconds": 5.514717750000003,
+  "elapsed_seconds": 5.338521374999999,
   "record_count": 10,
   "records": [
+    {
+      "Title": "S-equol shifts afatinib-altered mucosal immune-epithelial defense indices toward baseline and attenuates increases in DEFA5 and SOX9 promoter methylation indices.",
+      "Authors": "Uemura I, Satoh T, Takahashi-Suzuki N.",
+      "Journal": "Immunol Lett. 2026 Aug 11:107227. doi: 10.1016/j.imlet.2026.107227. Online ahead of print.",
+      "PMID": "42580454"
+    },
+    {
+      "Title": "Mental health, sleep, and quality of life following CFTR modulator therapy: a longitudinal study of children with cystic fibrosis and caregivers.",
+      "Authors": "Yeti\u015fgin H, Bilgi\u00e7 I, K\u00fcrt\u00fcl \u00c7akar M, Akca Din\u00e7 G, \u00dcnl\u00fc A, Y\u0131ld\u0131r\u0131m \u00c7, La\u00e7in Tekin A, \u00d6zkan Tabak\u00e7\u0131 S, Akyan \u015eS, Tu\u011fcu GD, Ademhan Tural D, Ery\u0131lmaz Polat S, \u015eenses Din\u00e7 G, \u00c7\u00f6p E, Cinel G.",
+      "Journal": "Eur J Pediatr. 2026 Aug 11;185(9):651. doi: 10.1007/s00431-026-07331-5.",
+      "PMID": "42576010"
+    },
+    {
+      "Title": "Obstructive Azoospermia Revealing CFTR-Related Disorder in an Adult With Recurrent Pancreatitis.",
+      "Authors": "Gonzalez-Carranza HR, Montero-Sanchez G, Vazquez-Ni\u00f1o LC, Reyes-Vallejo LA.",
+      "Journal": "Cureus. 2026 Jul 10;18(7):e112411. doi: 10.7759/cureus.112411. eCollection 2026 Jul.",
+      "PMID": "42572672"
+    },
+    {
+      "Title": "Clinical characteristics and outcomes of people with cystic fibrosis with homozygous minimal function genotypes compared to those with F508del/minimal function genotypes.",
+      "Authors": "Konstan MW, Lumsden B, Menon P, DerSarkissian M, Rice M.",
+      "Journal": "Respir Med. 2026 Aug 4;262:109079. doi: 10.1016/j.rmed.2026.109079. Online ahead of print.",
+      "PMID": "42551715"
+    },
+    {
+      "Title": "MITF Regulates CFTR Expression to Participate in Myocardial Ischemia-Reperfusion Injury.",
+      "Authors": "Tang B, Zhu C, Wang H, Gao M, Li T.",
+      "Journal": "J Gene Med. 2026 Aug;28(8):e70102. doi: 10.1002/jgm.70102.",
+      "PMID": "42562793"
+    },
+    {
+      "Title": "An Integrated Quality by Design RP-UPLC Method for Lumacaftor and Ivacaftor in Human Plasma.",
+      "Authors": "Jhampani S, Mounica RVS, Vidhyadhara S.",
+      "Journal": "Biomed Chromatogr. 2026 Sep;40(9):e70587. doi: 10.1002/bmc.70587.",
+      "PMID": "42562396"
+    },
+    {
+      "Title": "Resolution of recurrent pancreatitis and nutritional recovery with CFTR modulator therapy in CFTR-related disorder: a case report.",
+      "Authors": "Jose FA.",
+      "Journal": "Front Pediatr. 2026 Jul 22;14:1815310. doi: 10.3389/fped.2026.1815310. eCollection 2026.",
+      "PMID": "42558769"
+    },
+    {
+      "Title": "[Bronchiectasis with elevated liver enzymes and pancreatic exocrine insufficiency].",
+      "Authors": "Li AY, Zhou WJ, Yang YL, Li J, Li YX, Wang YQ, Chen QL, Fan JP, Liu YP, Tian XL.",
+      "Journal": "Zhonghua Jie He He Hu Xi Za Zhi. 2026 Aug 12;49(8):857-861. doi: 10.3760/cma.j.cn112147-20251230-00835.",
+      "PMID": "42557072"
+    },
+    {
+      "Title": "Cystic fibrosis: insights from zebrafish models.",
+      "Authors": "Corn\u00e9lie S, Yatime L, Lutfalla G, Renshaw SA, Bernut A.",
+      "Journal": "Dis Model Mech. 2026 Jul 1;19(7):dmm052856. doi: 10.1242/dmm.052856. Epub 2026 Aug 5.",
+      "PMID": "42554051"
+    },
     {
       "Title": "Polymicrobial Extracellular Vesicles Reduce the Innate Immune Response of Human Cystic Fibrosis Bronchial Epithelial Cells.",
       "Authors": "Charpentier LA, Barnaby RL, Roche CT, Cho BK, Kaushal P, Goo YA, Vietje B, Taatjes DJ, Ashare A, Jean-Pierre F, Stanton BA.",
       "Journal": "J Extracell Biol. 2026 Aug 3;5(8):e70176. doi: 10.1002/jex2.70176. eCollection 2026 Aug.",
       "PMID": "42549208"
-    },
-    {
-      "Title": "Potassium Channels of the Airway Epithelium.",
-      "Authors": "Villanueva S, Vera E, Apablaza T, Catal\u00e1n MA, Flores CA.",
-      "Journal": "Acta Physiol (Oxf). 2026 Sep;242(9):e70287. doi: 10.1111/apha.70287.",
-      "PMID": "42547963"
-    },
-    {
-      "Title": "DNA sequencing for microbial surveillance in cystic fibrosis airways: advances, challenges, and clinical translation.",
-      "Authors": "Carlson-Jones JAP, Goddard TR, Papudeshi B, Mallawaarachchi V, Whiteson KL, Warner MS, Morton JM, Jersmann HPA, Edwards RA.",
-      "Journal": "Clin Microbiol Rev. 2026 Aug 3:e0035225. doi: 10.1128/cmr.00352-25. Online ahead of print.",
-      "PMID": "42545024"
-    },
-    {
-      "Title": "Pathogenic respiratory microbiota in cystic fibrosis: impact of 2 years of triple CFTR modulator therapy.",
-      "Authors": "Demeule C, Amoureux L, Huet F, Allou N, Le Naour C, Garrigos T; Collaborators.",
-      "Journal": "Clin Microbiol Infect. 2026 Jul 31:S1198-743X(26)00405-2. doi: 10.1016/j.cmi.2026.07.038. Online ahead of print.",
-      "PMID": "42537882"
-    },
-    {
-      "Title": "Real-world Efficacy, Safety and Heterogenicity of Efficacy of Elexacaftor-Tezacaftor-Ivacaftor in Younger Children (6-11 Years Old) with Cystic Fibrosis.",
-      "Authors": "Sheikh S, Holtzlander M, Eisner M, Gushue C, Palacios S, Mull E, Imran S, Kotha K, McCoy KS.",
-      "Journal": "Respir Med. 2026 Jul 31:109063. doi: 10.1016/j.rmed.2026.109063. Online ahead of print.",
-      "PMID": "42537817"
-    },
-    {
-      "Title": "CFTR modulators exert subset-specific phenotype remodeling on circulating neutrophils in cystic fibrosis.",
-      "Authors": "Chable de la H\u00e9ronni\u00e8re F, Dh\u00f4te T, de Oliveira Formiga R, Regard L, Saraceni-Tasso G, Andrieu M, Many S, Da Silva J, P\u00e8ne F, Martin C, Ladjemi MZ, Burgel PR, Witko-Sarsat V.",
-      "Journal": "Immunohorizons. 2026 Jul 10;10(7):vlag030. doi: 10.1093/immhor/vlag030.",
-      "PMID": "42536714"
-    },
-    {
-      "Title": "Developmental dynamics of ovine lung in health and cystic fibrosis at single-cell resolution.",
-      "Authors": "Tkachenko S, Leir SH, Van Wettere AJ, Perisse IV, Mustafa Y, Marriott CM, Patrick T, Liu Y, White KL, Polejaeva IA, Harris A.",
-      "Journal": "Funct Integr Genomics. 2026 Jul 31;26(1):213. doi: 10.1007/s10142-026-01981-2.",
-      "PMID": "42533177"
-    },
-    {
-      "Title": "Real-world population pharmacokinetic modeling of elexacaftor, tezacaftor, and ivacaftor.",
-      "Authors": "Kunzelmann AK, Naehrig S, Shad C, Breuling M, Goetschke M, Habler K, Sommerburg O, Behr J, Schatz LM, Starp J, Vogeser M, Paal M, Liebchen U.",
-      "Journal": "J Cyst Fibros. 2026 Jul 30:S1569-1993(26)03659-3. doi: 10.1016/j.jcf.2026.07.1984. Online ahead of print.",
-      "PMID": "42532735"
-    },
-    {
-      "Title": "Extracellular vesicle-based delivery to airway basal cells for durable gene therapy in cystic fibrosis.",
-      "Authors": "Ivleva A, Demchenko A, Smirnikhina S.",
-      "Journal": "Front Bioeng Biotechnol. 2026 Jul 15;14:1855907. doi: 10.3389/fbioe.2026.1855907. eCollection 2026.",
-      "PMID": "42529376"
-    },
-    {
-      "Title": "Weight Gain is Associated with Reduced Inflammation in Children with Cystic Fibrosis on Elexacaftor/Tezacaftor/Ivacaftor.",
-      "Authors": "G\u00f6kbulut N, Heer P, Ezri J, Mornand A, Regamey N, Rochat I, Rybak A, Blanchon S.",
-      "Journal": "Respir Med. 2026 Jul 28:109060. doi: 10.1016/j.rmed.2026.109060. Online ahead of print.",
-      "PMID": "42521039"
     }
   ]
 }

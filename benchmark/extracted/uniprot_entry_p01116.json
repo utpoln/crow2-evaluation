@@ -1,0 +1,14 @@
+{
+  "resource_id": "uniprot_entry_p01116",
+  "url": "https://www.uniprot.org/uniprotkb/P01116/entry",
+  "elapsed_seconds": 12.162593291999997,
+  "record_count": 1,
+  "records": [
+    {
+      "ProteinName": "GTPase KRas",
+      "GeneName": "KRAS",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

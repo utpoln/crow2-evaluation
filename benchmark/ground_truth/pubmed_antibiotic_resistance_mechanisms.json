@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42550586",
-      "Title": "Metabolism as a driver of antibiotic resistance",
-      "Authors": "Aksoy CS",
+      "PMID": "42580134",
+      "Title": "Making Waves: towards a harmonized approach for monitoring antimicrobial resistance in European surface waters",
+      "Authors": "Krzeminski P, Schwermer CU, Angl\u00e8s d'Auriac M, B\u00fcrgmann H, Schmitt H, Vierheilig J, Gjeitnes M, Moe SJ, Bellanger X, Garc\u00eda RC, Iniesta PC, Dagot C, de la Casa-Resino I, Ferrari G, F\u04e7rster C, Guerra B, Haro A, Kibilds J, O'Connor AE, Rousseau M, Rathinavelu S, Sovova K, Whalley C, Hocquet D",
+      "Journal": "Water research"
+    },
+    {
+      "PMID": "42580037",
+      "Title": "Hospital sinks and healthcare-associated infection: ecology, transmission, surveillance and mitigation",
+      "Authors": "Kearney A, Chau K, Kotay S, Martin J, Kirby A, Mathers AJ, Stoesser N",
+      "Journal": "EBioMedicine"
+    },
+    {
+      "PMID": "42579494",
+      "Title": "Microbiota-derived isovalerate ameliorates sex-specific gut barrier dysfunction in malnutrition",
+      "Authors": "Lynch LE, Soni KG, Spinler JK, Ambati CSR, Putluri N, Fowler SW, Conner ME, Nguyen-Phuc H, Zeng XL, Blutt SE, Estes MK, Preidis GA",
+      "Journal": "Proceedings of the National Academy of Sciences of the United States of America"
+    },
+    {
+      "PMID": "42579328",
+      "Title": "Microbial interactions as key players shaping the emergence and spread of de novo resistance mutations",
+      "Authors": "Pittaccio L, Knowles J, Wheatley RM",
       "Journal": "Microbiology (Reading, England)"
     },
     {
-      "PMID": "42550299",
-      "Title": "Biofilms on microplastics across ecological systems: Formation mechanisms, community composition, environmental impacts, and ecotoxicity",
-      "Authors": "\u00d6zt\u00fcrk FY, \u00d6zdemir F",
-      "Journal": "World journal of microbiology & biotechnology"
+      "PMID": "42579153",
+      "Title": "Clade-specific evolution and genome plasticity underlying antimicrobial resistance in Enterococcus faecium",
+      "Authors": "Patel K, Chavan M, Shah J, Chatterjee S",
+      "Journal": "Archives of microbiology"
     },
     {
-      "PMID": "42549944",
-      "Title": "Data-driven optimization of siderophore fermentation by Bacillus altitudinis AS19 and investigation of AS19's antifungal properties against Candida albicans",
-      "Authors": "Li C, Gao Z, Ke H, Jia H, Xiang H, Cui X, Li T, Zhang Y, Ding W, Liu H",
-      "Journal": "Applied and environmental microbiology"
+      "PMID": "42577996",
+      "Title": "Pharmacology of Bacteriophage Therapy in Children: A Re-Emerging Paradigm in Antibacterial Therapy",
+      "Authors": "Le J, Bradley JS, Ramchandar N",
+      "Journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG"
     },
     {
-      "PMID": "42549665",
-      "Title": "Active Free Radical Cold Atmosphere Plasma Promotes Healing of Diabetes Foot Ulcer: Mechanism and Challenge",
-      "Authors": "Wang Y, Zhang J, Yan J, Bi W, Ma J",
-      "Journal": "Diabetes/metabolism research and reviews"
+      "PMID": "42577856",
+      "Title": "Rational Design and Optimization of MCh-AMP1: A Stable \u03b1-Helical Antifungal Peptide with Enhanced Activity Against Candida albicans",
+      "Authors": "Pooshang Bagheri K, Salehi Z, Arablou MM, Goudarzi M, Jahanshiri Z, Hasannejad-Asl B, Razzaghi-Abyaneh M, Seyedjavadi SS",
+      "Journal": "Drug design, development and therapy"
     },
     {
-      "PMID": "42548818",
-      "Title": "In vitro exposure to the agricultural triazole tebuconazole selects for fluconazole cross-resistance and echinocandin tolerance in Candidozyma auris",
-      "Authors": "Peng L, Xu Y, Chen X, Li W, Guo L",
+      "PMID": "42577614",
+      "Title": "Antimicrobial resistance mechanisms, treatment challenges, and emerging strategies in Stenotrophomonas maltophilia infections",
+      "Authors": "Xu S, Wang Z, Li B, Li Y, Chen J, Li J, Xu G, Yan K, Zhang P",
       "Journal": "Frontiers in cellular and infection microbiology"
     },
     {
-      "PMID": "42548794",
-      "Title": "Fangchinoline drives NOS2-dependent host immunity to restrict intracellular enteric pathogens",
-      "Authors": "Sadhu S, Dalal R, Gupta SK, Kumar Y, Rathore DK, Awasthi A",
-      "Journal": "iScience"
+      "PMID": "42576999",
+      "Title": "Genomic characterization of carbapenem-resistant Gram-negative bacilli isolated from hospital wastewater in Niamey, Niger",
+      "Authors": "Hamidou O, Yacouba A, Tapha O, Massir IN, Salifou II, Daouda AM, Moussa H, Brah S, Mamadou S, Baba-Moussa L",
+      "Journal": "IJID regions"
     },
     {
-      "PMID": "42548519",
-      "Title": "Microbiotherapy: an emerging adjunct for burn wound healing",
-      "Authors": "Zhang J, Zhang K, Wang Y, Fan G, Lv Y, Ma J",
-      "Journal": "Frontiers in cellular and infection microbiology"
-    },
-    {
-      "PMID": "42548246",
-      "Title": "Targeting Ferroptosis and Cuproptosis for Antimicrobial Control in Postharvest Preservation",
-      "Authors": "Feng Y, Sun J, Qian RQ, Zheng X, Zhou WW",
-      "Journal": "Comprehensive reviews in food science and food safety"
-    },
-    {
-      "PMID": "42547693",
-      "Title": "Duloxetine repositioning: Investigation of antifungal and antibiofilm activity against fluconazole-sensitive and resistant Candida Spp. strains",
-      "Authors": "Barbosa SA, Pinheiro DRS, de Oliveira LC, de Almeida Moreira LE, Cabral VPF, Rodrigues DS, de Souza BO, Nobre J\u00fanior HV, Sa LGDAV, Cavalcanti BC, Magalh\u00e3es IL, de Oliveira Ferreira JR, de Moraes MO, de Andrade Neto JB, da Silva CR",
-      "Journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]"
-    },
-    {
-      "PMID": "42547657",
-      "Title": "Identification of KL29 type acinetobacter baumannii phage of obolenskvirus subfamily and tail-associated depolymerase activity",
-      "Authors": "Wei J, Yu T, Wang Q, Wang C, Li X, Lu G, Li L, Xu A, Zhao L",
-      "Journal": "Archives of virology"
+      "PMID": "42576818",
+      "Title": "House dust-a Pandora's box of antimicrobial resistance (AMR) activity?",
+      "Authors": "Pearce DA, Crown M, Nelson A, Jabeen K, Thompson JR, Argyraki A, Hursthouse AS, Bashton M, Entwistle JA",
+      "Journal": "Sustainable microbiology"
     }
   ]
 }

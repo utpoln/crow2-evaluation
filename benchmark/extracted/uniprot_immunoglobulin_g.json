@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_immunoglobulin_g",
   "url": "https://www.uniprot.org/uniprotkb?query=immunoglobulin+G&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.252331916999992,
+  "elapsed_seconds": 12.282353250000028,
   "record_count": 25,
   "records": [
     {

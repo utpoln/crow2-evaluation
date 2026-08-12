@@ -1,7 +1,7 @@
 {
   "resource_id": "ncbi_gene_tnf",
   "url": "https://www.ncbi.nlm.nih.gov/gene/?term=TNF+AND+human%5Borgn%5D",
-  "elapsed_seconds": 8.604246624999973,
+  "elapsed_seconds": 7.801745541999935,
   "record_count": 20,
   "records": [
     {

@@ -3,6 +3,42 @@
   "method": "pubmed_eutils",
   "records": [
     {
+      "PMID": "42575338",
+      "Title": "Leptin modulates NK cell function and MAPK signaling in obesity",
+      "Authors": "de Andrade AG, de Lima ARV, de Queiroz AC, Alexandre-Moreira MS, Cavalcante-Silva LHA, Keesen TSL",
+      "Journal": "Immunology letters"
+    },
+    {
+      "PMID": "42564187",
+      "Title": "Food additives with aldehyde skeleton exhibited leptin resistance in cells",
+      "Authors": "Shibuya Y, Yoshida H, Tsuge K, Hamasaki Y, Kuriya K, Nakagawa T, Sugiyama A, Miyamoto K, Shimamoto A, Jockers R, Dam J, Hosoi T",
+      "Journal": "Frontiers in nutrition"
+    },
+    {
+      "PMID": "42562076",
+      "Title": "Obestatin and Its Fragment Analog Nt8U Influence Levels of Satiety Peptides in Diet-Induced Obese Mice",
+      "Authors": "Murthy STS, Manjappara UV",
+      "Journal": "Biochimie"
+    },
+    {
+      "PMID": "42559090",
+      "Title": "Maternal Western diet programs persistent transcriptomic signatures in offspring PBMCs that are largely reversible by interventions during lactation",
+      "Authors": "Pomar CA, Valle A, Caimari A, Palou A, Palou M, Pic\u00f3 C",
+      "Journal": "Frontiers in nutrition"
+    },
+    {
+      "PMID": "42557820",
+      "Title": "Serum Bone-, Muscle- and Fat- Derived Factors Sclerostin, Irisin and Leptin Show Different Correlations With Body Composition and Bone Mineral Density in Chinese Men With Obesity: A Cross-Sectional Study",
+      "Authors": "Chen X, Shen S, Zou M, Zhang Z, Tong N, Li J",
+      "Journal": "Diabetes/metabolism research and reviews"
+    },
+    {
+      "PMID": "42553099",
+      "Title": "Integrative functional bioinformatic analysis of NAD(+)-associated protein coding genes in adipose tissue (dys)function - evidence from targeted rodent transcriptomic studies",
+      "Authors": "Postolov F, Milenkovic D, Ruskovska T",
+      "Journal": "Frontiers in endocrinology"
+    },
+    {
       "PMID": "42547683",
       "Title": "Sleep loss as a cardiometabolic risk factor: a narrative review of clinical and public health implications",
       "Authors": "Ghanem FK, Attarian H, Al-Khalil Z, Kabrita CS",
@@ -25,42 +61,6 @@
       "Title": "Peptide Hormones in Appetite Regulation: A Complex Network",
       "Authors": "Abdollahi S, Adam H, Al Musaimi O",
       "Journal": "Pharmaceuticals (Basel, Switzerland)"
-    },
-    {
-      "PMID": "42512113",
-      "Title": "Modulation of Leptin and Serotonin by Honey and Its Glycoproteins Against High-Fat Diet-Induced Metabolic and Anxiety Phenotypes",
-      "Authors": "Gohar A, Atkinson RL, Shakeel M, Haleem DJ, Ullah K, Rasool A",
-      "Journal": "Biomedicines"
-    },
-    {
-      "PMID": "42511811",
-      "Title": "BIX02189 Suppresses Adipogenesis and Lipid Accumulation Through Inhibition of MEK5-STAT3/STAT5 Signaling and Activation of AMPK in Adipocytes and Zebrafish",
-      "Authors": "Perumal NL, Hussain M, Son DG, Stephens JM, Park GY, Jang BC",
-      "Journal": "International journal of molecular sciences"
-    },
-    {
-      "PMID": "42509824",
-      "Title": "Secretion Patterns of Leptin: A Key Component in the Regulation of Energy Homeostasis and Its Therapeutic Applications",
-      "Authors": "Wang C, Rong X",
-      "Journal": "Biomolecules"
-    },
-    {
-      "PMID": "42501875",
-      "Title": "Alternate-Day Fasting Enhances Leptin Sensitivity via JMJD3-Dependent Epigenetic Regulation of the Leptin Receptor in the Hypothalamus",
-      "Authors": "Oladun B, Mall S, Fan B, Lee J, Ha JH, Roberts JL, Kim MH",
-      "Journal": "The Journal of nutritional biochemistry"
-    },
-    {
-      "PMID": "42499770",
-      "Title": "Monogenic and syndromic obesity in children: Clinical recognition, genetics, and precision management",
-      "Authors": "Khalil H, Feigin E, Zaitoon H",
-      "Journal": "Pediatric investigation"
-    },
-    {
-      "PMID": "42492686",
-      "Title": "Adolescent food insecurity impairs gut signal sensitivity and cue-induced appetitive behaviours in female rats",
-      "Authors": "Livermore A, Ong ZY",
-      "Journal": "Appetite"
     }
   ]
 }

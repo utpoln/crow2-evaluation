@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_p53",
   "url": "https://www.uniprot.org/uniprotkb?query=p53&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.217134582999961,
+  "elapsed_seconds": 12.446122124999988,
   "record_count": 25,
   "records": [
     {

@@ -3,6 +3,48 @@
   "method": "pubmed_eutils",
   "records": [
     {
+      "PMID": "42579681",
+      "Title": "Barriers to epilepsy care: Measuring the treatment gap in rural and peri-urban districts in Ghana",
+      "Authors": "Darkwa EK, Adjei P, Asiamah S, Awini E, Sottie C, Godi A, Williams JE, Atuguba F, Sataru F, Adjei A, Sen A, Newton CR, Danso-Appiah A, Cross JH, Sander JW, Akpalu A, EPInA investigators",
+      "Journal": "PloS one"
+    },
+    {
+      "PMID": "42574692",
+      "Title": "Psychiatric Outcomes of Antiseizure Medications in Newly Diagnosed Focal Onset Epilepsy: From the Human Epilepsy Project Cohort Study",
+      "Authors": "Altalib HH, Nuthalapati P, Zhang Z, Gopaul MT, Kanner AM, Gidal BE, as the HEP Investigators",
+      "Journal": "Neurology. Clinical practice"
+    },
+    {
+      "PMID": "42571574",
+      "Title": "Impact of Antiseizure Medication on Thyroid Function in Children With Epilepsy: A Case-Control Study",
+      "Authors": "Kumar N, Singh P, Singh VK, Singh SN",
+      "Journal": "Cureus"
+    },
+    {
+      "PMID": "42571224",
+      "Title": "Epileptic seizures temporally associated with recombinant human growth hormone therapy in children: A case series of three patients",
+      "Authors": "Nagaki S, Shichiji M, Oguni H, Osawa M",
+      "Journal": "SAGE open medical case reports"
+    },
+    {
+      "PMID": "42566488",
+      "Title": "Assessment of psychotropic medicines utilization patterns for the treatment of mental and neurological disorders in Public Hospitals of Hadiya Zone, Southern Ethiopia: A record-based study",
+      "Authors": "Tirore MG, Fenta TG, Teshale AA",
+      "Journal": "PLOS mental health"
+    },
+    {
+      "PMID": "42563258",
+      "Title": "Safety and Efficacy of GLP-1 Receptor Agonists in Adults With Epilepsy, Obesity, and Type 2 Diabetes",
+      "Authors": "Son H, Hwang I, Lee SW, Kim Y",
+      "Journal": "Annals of clinical and translational neurology"
+    },
+    {
+      "PMID": "42558964",
+      "Title": "Polysaccharide-rich birch sap attenuates kainic acid-induced acute seizures by suppressing TLR4/NF-\u03baB-mediated inflammation and preserving blood-brain barrier and glutamate homeostasis",
+      "Authors": "Lu CW, Wu CC, Chiu KM, Lee MY, Pan WJ, Lin TY, Wang SJ",
+      "Journal": "Frontiers in pharmacology"
+    },
+    {
       "PMID": "42543996",
       "Title": "Navigating Bone Health in Epilepsy-A Detailed Review of Anticonvulsant-induced Osteomalacia: Its Mechanisms and Therapeutic Strategies",
       "Authors": "Mk SS, Krishnan K",
@@ -19,48 +61,6 @@
       "Title": "Parvalbumin interneuron activation rescues both seizures and impaired social novelty in digenic absence epilepsy mice",
       "Authors": "Miao QL, Okoh J, Asan AS, Karedia S, Pan JQ, Costa-Mattioli M, Noebels JL",
       "Journal": "Science advances"
-    },
-    {
-      "PMID": "42532179",
-      "Title": "Cannabidiol attenuates seizure progression and recognition memory deficit induced by hippocampal HCN(1) knockdown in the kindling model of epilepsy in male rats",
-      "Authors": "Aliakbari S, Naderi N, Hasanzadeh L, Sayyah M, Ilkhanizadeh-Qomi M, Cheng Y, Asadi S, Gholami Pourbadie H",
-      "Journal": "Neuropharmacology"
-    },
-    {
-      "PMID": "42524508",
-      "Title": "Intranasal Biodegradable Nanomedicine for Epilepsy Management: Targeting the Brain Beyond the Blood-Brain Barrier",
-      "Authors": "Gilani SJ, Sultan AM, Alshawwa SZ, Rizwanullah M",
-      "Journal": "International journal of nanomedicine"
-    },
-    {
-      "PMID": "42522649",
-      "Title": "The MID1IP1/S100A10-mGluR5 Axis in Seizures: Immune-Metabolic Crosstalk and Enhanced Therapeutic Efficacy of Benfotiamine/Phenytoin Combination",
-      "Authors": "Li S, Zhou M, Wei X, Cao Y, Luo X, Li D, Kang B, Wang X, He K, He J, Lv Y",
-      "Journal": "Current neuropharmacology"
-    },
-    {
-      "PMID": "42516561",
-      "Title": "Association of decreased CYP2C9 function, HLA-B*40:06, and hemoglobin levels with phenytoin-induced cutaneous adverse reactions in a Southern Thai population",
-      "Authors": "Seree-Aphinan C, Sangiemchoey A, Setthawatcharawanich S, Pattharachayakul S, Hnoonual A, Ruanglertboon W, Intapiboon P, Kaewborisutsakul A, Thamcharoenvipas T, Rachatawiriyakul P, Chongsuvivatwong T, Sittipong S, Sukasem C, Jaruthamsophon K",
-      "Journal": "Frontiers in pharmacology"
-    },
-    {
-      "PMID": "42511761",
-      "Title": "Effects of Clopidogrel on the Anticonvulsant Efficacy of Valproic Acid and Levetiracetam in a PTZ-Induced Seizure Model",
-      "Authors": "\u00d6zdemir S, Bolayir E, \u015eahin \u0130nan ZD",
-      "Journal": "International journal of molecular sciences"
-    },
-    {
-      "PMID": "42511612",
-      "Title": "ML-171 Attenuates Pentylenetetrazole-Associated Oxidative and Apoptotic Injury Without Robust Suppression of Seizure Expression: An In Vitro and In Vivo Study",
-      "Authors": "Kaleci AO, Altun A, Ta\u015fk\u0131ran A\u015e, \u00d6zkaraca M, Ba\u011f\u00e7ivan \u0130",
-      "Journal": "International journal of molecular sciences"
-    },
-    {
-      "PMID": "42501962",
-      "Title": "Beneficial effects of turmeric oil and sunflower seed oil in the rapid kindling rat model of epileptogenesis",
-      "Authors": "Kalf RS, Broekaart DWM, Ter Horst EE, Schipper F, Aronica E, Gorter JA, van Vliet EA",
-      "Journal": "Neuropharmacology"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "resource_id": "ncbi_gene_braf",
   "url": "https://www.ncbi.nlm.nih.gov/gene/?term=BRAF+AND+human%5Borgn%5D",
-  "elapsed_seconds": 8.734198583999955,
+  "elapsed_seconds": 7.629662875000008,
   "record_count": 20,
   "records": [
     {

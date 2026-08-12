@@ -1,7 +1,7 @@
 {
   "resource_id": "ncbi_gene_mlh1",
   "url": "https://www.ncbi.nlm.nih.gov/gene/?term=MLH1+AND+human%5Borgn%5D",
-  "elapsed_seconds": 10.549387249999995,
+  "elapsed_seconds": 7.321918208999932,
   "record_count": 20,
   "records": [
     {

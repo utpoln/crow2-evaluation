@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_ferritin",
   "url": "https://www.uniprot.org/uniprotkb?query=ferritin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.199727166999992,
+  "elapsed_seconds": 12.265288499999997,
   "record_count": 25,
   "records": [
     {

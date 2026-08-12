@@ -1,0 +1,12 @@
+{
+  "resource_id": "clinicaltrials_study_nct06783270",
+  "url": "https://clinicaltrials.gov/study/NCT06783270",
+  "elapsed_seconds": 5.078657292000001,
+  "record_count": 1,
+  "records": [
+    {
+      "Title": "T-cell Therapy with CRISPR PD1-edited Tumor Infiltrating Lymphocytes for Patients with Metastatic Melanoma (CRISPR-TIL)",
+      "Status": "Recruiting"
+    }
+  ]
+}

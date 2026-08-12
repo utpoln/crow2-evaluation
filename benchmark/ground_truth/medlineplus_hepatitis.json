@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_hepatitis",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Hepatitis",
+      "URL": "https://medlineplus.gov/hepatitis.html"
+    },
+    {
+      "Title": "Hepatitis A",
+      "URL": "https://medlineplus.gov/hepatitisa.html"
+    },
+    {
+      "Title": "Hepatitis B",
+      "URL": "https://medlineplus.gov/hepatitisb.html"
+    },
+    {
+      "Title": "Hepatitis C",
+      "URL": "https://medlineplus.gov/hepatitisc.html"
+    },
+    {
+      "Title": "Autoimmune Diseases",
+      "URL": "https://medlineplus.gov/autoimmunediseases.html"
+    },
+    {
+      "Title": "Liver Diseases",
+      "URL": "https://medlineplus.gov/liverdiseases.html"
+    },
+    {
+      "Title": "Steatotic Liver Disease",
+      "URL": "https://medlineplus.gov/steatoticliverdisease.html"
+    },
+    {
+      "Title": "HIV",
+      "URL": "https://medlineplus.gov/hiv.html"
+    },
+    {
+      "Title": "Liver Cancer",
+      "URL": "https://medlineplus.gov/livercancer.html"
+    },
+    {
+      "Title": "Sexually Transmitted Infections",
+      "URL": "https://medlineplus.gov/sexuallytransmittedinfections.html"
+    }
+  ]
+}

@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42550339",
-      "Title": "Kaempferol-Conjugated Manganese Oxide Nanocomposites Mitigate Aluminium Chloride-Induced Neurobehavioral Impairments in a Rat Model of Alzheimer's disease",
-      "Authors": "Yu H, Liu X, Liu J, Tang D",
-      "Journal": "Journal of molecular neuroscience : MN"
+      "PMID": "42580481",
+      "Title": "A new method for the production of recombinant human A\u03b2(1-42) peptide",
+      "Authors": "Chen P, Guo L, Guo X, Hong W, Meng W",
+      "Journal": "Neurochemistry international"
     },
     {
-      "PMID": "42549510",
-      "Title": "Intranasal Administration of Isoeugenol Improves Memory Deficits in APP/PS1 Old Mice-A Role Beyond Nrf2 Activation?",
-      "Authors": "Silva A, Silva S, Macedo J, Moreira P, Baptista D, Bicker J, Fortuna A, Liberal J, Rodrigues B, Resende R, Vitorino I, Santos AE, Neves BM, Pereira C, Cruz MT",
-      "Journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+      "PMID": "42580461",
+      "Title": "High-field MRI correlates with immunohistochemical analysis of the normal and Alzheimer's disease anterior olfactory nucleus",
+      "Authors": "Murray HC, Dieriks BV, Dodd S, Usdin T, Hamlin D, Highet B, Sit Z, Kim M, Faull R, Turner C, Scadeng M, Curtis MA, Koretsky A",
+      "Journal": "NeuroImage"
     },
     {
-      "PMID": "42549172",
-      "Title": "Inhibition of amyloid \u03b2 aggregation by venetoclax: a computational and in vitro experimental approach",
-      "Authors": "Liu BB, Wang HC, He YL, Zhang LJ, Meng DL, Fu Y, Wang MY, Zhang W",
-      "Journal": "RSC advances"
+      "PMID": "42579359",
+      "Title": "Glymphatic System Function and Cognition: Converging Evidence from DTI-ALPS Imaging - A Narrative Review",
+      "Authors": "Marcinkowska AB, Grzywi\u0144ska M, Winklewski PJ",
+      "Journal": "Aging and disease"
     },
     {
-      "PMID": "42548982",
-      "Title": "Editorial: New horizons in Alzheimer's disease research: combining cell, gene, and emerging therapies",
-      "Authors": "Piccarducci R, Mainardi M, Marchetti L",
-      "Journal": "Frontiers in medicine"
+      "PMID": "42578810",
+      "Title": "Effects of damaged astrocytes on DNA damage and repair in human neurons: Implications for Alzheimer's disease",
+      "Authors": "Welty S, Bagnell M, Ma F, Herrup K, Levine AS",
+      "Journal": "Journal of Alzheimer's disease : JAD"
     },
     {
-      "PMID": "42547900",
-      "Title": "Brain insulin resistance as a driver of proteinopathy in neurodegeneration: from cell-type-specific mechanisms to targeted therapeutics",
-      "Authors": "Xiang M, Cao SY, Sun XH, Hu JW, Lv MZ, Li JY, Li W",
-      "Journal": "Translational neurodegeneration"
+      "PMID": "42578516",
+      "Title": "Attenuation of Tau Hyperphosphorylation by Chronic Toxoplasma gondii Infection in a Mouse Model of Alzheimer's Disease",
+      "Authors": "Seo SH, Lee JE, Cho EJ, Shin EH",
+      "Journal": "Parasite immunology"
     },
     {
-      "PMID": "42547799",
-      "Title": "High prevalence of tau pathologies in late-onset psychosis: A PET study",
-      "Authors": "Kubota M, Kurose S, Tagai K, Momota Y, Ichihashi M, Endo H, Seki C, Moriguchi S, Yamamoto Y, Kataoka Y, Goto R, Tamura T, Shiwaku H, Matsuoka K, Suzuki H, Onaya M, Tokuda T, Uchida H, Takahashi H, Kawamura K, Zhang MR, Higuchi M, Takahata K",
-      "Journal": "Molecular psychiatry"
+      "PMID": "42577511",
+      "Title": "The prognostic potential of circulating BDNF levels and its polymorphisms in age-related cognitive impairment and neurodegeneration",
+      "Authors": "Tulupova TV, Vedunova MV, Mitroshina EV",
+      "Journal": "Frontiers in aging neuroscience"
     },
     {
-      "PMID": "42546981",
-      "Title": "New insights on microglial lysosomal acidification: A therapeutic target of neurodegenerative diseases",
-      "Authors": "Jaganathan R, Vijayakumar S, Chen Y, Ye J, Bakthavatchalam P, Wankar D, Yang C, Iyaswamy A, Li M",
-      "Journal": "Neurobiology of disease"
+      "PMID": "42577341",
+      "Title": "Multi-modal deep learning and explainable AI for predicting multiple dementia-related neuropathologies from brain MRI, clinical, and genetic data",
+      "Authors": "Chattopadhyay T, Kush R, Ankarath RH, Senthilkumar P, Gleave EJ, Patterson C, Owens-Walton C, Thomopoulos SI, Johnson SC, Mormino EC, Tosun D, Hohman TJ, Thompson PM",
+      "Journal": "Frontiers in neurology"
     },
     {
-      "PMID": "42544975",
-      "Title": "Sleep and Neurodegeneration",
-      "Authors": "Branson CO",
-      "Journal": "Continuum (Minneapolis, Minn.)"
+      "PMID": "42576583",
+      "Title": "A Narrative Review: Suvorexant's Role in Sleep Deprivation and Neurodegenerative Disease",
+      "Authors": "Ahmed A, Fu X, Khan H, Li P",
+      "Journal": "Current neuropharmacology"
     },
     {
-      "PMID": "42543274",
-      "Title": "[Research progress on active ingredients of Astragali Radix and Acori Tatarinowii Rhizoma and mechanism of their herb pair against Alzheimer's disease]",
-      "Authors": "DU YZ, Wang Z, Ma DC, Liu T, Ma LL, Zhou YM, Li XL, Dou FY, Lyu RL, Chai MN, Zhang YG, Li YF",
-      "Journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica"
+      "PMID": "42576561",
+      "Title": "Transforming Growth Factor Beta-1 Alleviates Neurodegeneration by Regulating A\u03b242 and VDAC1 Expression in the Temporal Lobe and Cerebellum in an Alzheimer's Disease-Like Model",
+      "Authors": "Kara S, \u00d6zanda\u00e7 S, Sencar L, Akillioglu K, Polat S",
+      "Journal": "Current molecular medicine"
     },
     {
-      "PMID": "42543199",
-      "Title": "Gait Impairment and Alzheimer's Disease Pathology: A Narrative Review on Mechanistic Links",
-      "Authors": "Sakurai R, Montero-Odasso M",
-      "Journal": "Geriatrics & gerontology international"
+      "PMID": "42576518",
+      "Title": "An Overview of 1,2,4-Triazole-5-Thiol and 3-Thione Derivatives as Promising Scaffolds for Anti-Neuroinflammatory Drug Discovery",
+      "Authors": "Shakya M, Patel SK, Singh M, Rao H, Moorthy NHN, Tiwari A",
+      "Journal": "Mini reviews in medicinal chemistry"
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_cystic_fibrosis",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Cystic Fibrosis",
+      "URL": "https://medlineplus.gov/cysticfibrosis.html"
+    },
+    {
+      "Title": "Newborn Screening",
+      "URL": "https://medlineplus.gov/newbornscreening.html"
+    },
+    {
+      "Title": "Pulmonary Rehabilitation",
+      "URL": "https://medlineplus.gov/pulmonaryrehabilitation.html"
+    },
+    {
+      "Title": "Aspergillosis",
+      "URL": "https://medlineplus.gov/aspergillosis.html"
+    },
+    {
+      "Title": "Dehydration",
+      "URL": "https://medlineplus.gov/dehydration.html"
+    },
+    {
+      "Title": "Lung Transplantation",
+      "URL": "https://medlineplus.gov/lungtransplantation.html"
+    },
+    {
+      "Title": "Oxygen Therapy",
+      "URL": "https://medlineplus.gov/oxygentherapy.html"
+    },
+    {
+      "Title": "Pancreatic Diseases",
+      "URL": "https://medlineplus.gov/pancreaticdiseases.html"
+    },
+    {
+      "Title": "Pancreatitis",
+      "URL": "https://medlineplus.gov/pancreatitis.html"
+    },
+    {
+      "Title": "Prenatal Testing",
+      "URL": "https://medlineplus.gov/prenataltesting.html"
+    }
+  ]
+}

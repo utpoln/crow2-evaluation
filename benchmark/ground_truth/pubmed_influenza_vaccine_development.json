@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42550058",
-      "Title": "Indirect comparison of mRNA-1010 versus enhanced influenza vaccines in adults aged 65 years and older during the 2024-2025\u2009US influenza season",
-      "Authors": "Joshi K, Situ A, Mehta D, Li L, Canan C, Youhanna J, Radin JM, Rudin D, Georgieva M, Van de Velde N",
-      "Journal": "Journal of medical economics"
+      "PMID": "42580038",
+      "Title": "Protective effect of A(H5N8) stockpiled vaccine against a virus genetically identical to a human isolate of bovine A(H5N1) influenza virus",
+      "Authors": "Uraki R, Kiso M, Iwatsuki-Horimoto K, Ito M, Yamayoshi S, Imai M, Kawaoka Y",
+      "Journal": "EBioMedicine"
     },
     {
-      "PMID": "42549821",
-      "Title": "Theranostic innovation in infectious lung diseases: integrating biotechnology and nanotechnology for precision medicine",
-      "Authors": "Jafari A, Manzari-Tavakoli A, Manzari Tavakoli M, Hashemian SM, Jamaati H, Akhtari M, Tabarsi P, Omrani M",
-      "Journal": "Expert review of molecular diagnostics"
+      "PMID": "42576386",
+      "Title": "Lineage-specific pulmonary transcriptome landscape of coronavirus infection unveils universal immunotherapy for viral pneumonia",
+      "Authors": "Zhou M, Liu X, Xiao H, Su Z, Wu K, Zhang L, Li X, Li W, Zhang C, Li H, Shi B, Chen C, Xu N, Li J, Miao J, Hu Y, Zhu H, Guan Y, Cheng T, Xia N, Yuan L",
+      "Journal": "Molecular therapy : the journal of the American Society of Gene Therapy"
     },
     {
-      "PMID": "42548815",
-      "Title": "Mucosal immune cell priming by intranasally delivered Haemophilus haemolyticus is associated with heterologous protection against influenza and nontypeable Haemophilus influenzae",
-      "Authors": "Pepper JS, Granland CM, Clark SL, Thornton RB, Bayliss J, Foo MZE, Billingham W, Scott N, Fulurija A, Strickland DH, Wiertsema SP, Richmond PC, Seppanen EJ, Kirkham LS, Tjiam MC",
+      "PMID": "42572581",
+      "Title": "An orthogonal transcription system enables high-efficiency rescue of measles virus-based vaccine vectors against multiple pathogens",
+      "Authors": "Ma Z, Wang W, Lou Q, Jiang H, Xiang Y, Zhang W, Tian X, Fan Y, Yin W, Lou C",
+      "Journal": "Synthetic and systems biotechnology"
+    },
+    {
+      "PMID": "42570975",
+      "Title": "Passive surveillance of infectious bursal disease virus circulating in Egyptian chicken flocks in 2025",
+      "Authors": "Abd El-Fatah AH, Salama B, Elnahhas MO, Abo Shama NM, Shehata M",
+      "Journal": "Scientific reports"
+    },
+    {
+      "PMID": "42570801",
+      "Title": "id.DRIVE: a public-private partnership for infectious disease surveillance, vaccine research, and pandemic preparedness in Europe and beyond",
+      "Authors": "Carmona A, Breugelmans JG, Beutels P, S\u00e1nchez BM, Miller E, Moyersoen J, Nair H, Nguyen JL, S\u00e1nchez AO, Rebry G, Smith PG, Sullivan SG, Torcel-Pagnon L, Van Aalst R, Praet N, Gomez JP, Rousculp M, Savic M, Wang C, Bollaerts K",
+      "Journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases"
+    },
+    {
+      "PMID": "42569481",
+      "Title": "U.S. Public Health Policy Shifts Under the Second Trump Administration and Implications for the Republic of Korea's Health Security",
+      "Authors": "Shin H",
+      "Journal": "Public health weekly report"
+    },
+    {
+      "PMID": "42568657",
+      "Title": "Spatial transcriptomic mapping of early immune responses to an adjuvanted recombinant hemagglutinin vaccine",
+      "Authors": "Jackson L, Williams SM, Sinclair J, Kume A, Bahadoran A, Langohr IM, Danz H, Lu B, Bangari DS, Cox AJ, Macia L, Chivukula S, West NP",
       "Journal": "Frontiers in immunology"
     },
     {
-      "PMID": "42546636",
-      "Title": "Advances in clinical immunogenicity evaluation of influenza vaccines",
-      "Authors": "Xu N, Wang L, Zhao C, Shen Y, Zhao Z, Nie J",
-      "Journal": "Vaccine"
+      "PMID": "42567171",
+      "Title": "Safety and immunogenicity of one or two doses of the rVSV\u0394G-ZEBOV-GP Ebola virus vaccine in adults and adolescents living with HIV: a phase 2, multicentre, double-blind, randomised, placebo-controlled trial",
+      "Authors": "Tremblay C, Valea I, Ndiaye BP, Barry H, ElSherif M, Cooper C, Breeze JL, Cai Y, Ye L, Omole T, Halperin SA, Mboup S, Langley JM",
+      "Journal": "The lancet. HIV"
     },
     {
-      "PMID": "42546126",
-      "Title": "A bivalent inactivated influenza vaccine incorporating epitope-optimized surface proteins confers cross-protective immunity against H9N2 influenza virus",
-      "Authors": "Hao M, Guan Y, Xu M, Yang W, Wang Y, Zhang Y, Chen J",
+      "PMID": "42565473",
+      "Title": "A Rapid Detection of Nipah Virus Nucleocapsid Antigen in Inactivated Viral Cultures",
+      "Authors": "Choi G, Kim J, Lee H, Jeon P, Jeong JH, Jung Y, Park JS, Lee MK, Kim KC, Lee JY, Park HY, Park C, Kim S, Yi H, Song J, Kim HJ, Lee JH, Kim HG",
       "Journal": "Emerging microbes & infections"
     },
     {
-      "PMID": "42543035",
-      "Title": "Lactylation in influenza a virus infection: Current evidence, knowledge gaps, and future perspectives",
-      "Authors": "Yan YC, Li Z, He H, Wu M, Yang H, Wei F",
-      "Journal": "Virulence"
-    },
-    {
-      "PMID": "42542672",
-      "Title": "In silico docking and molecular dynamics simulation analysis of phytochemicals targeting human metapneumovirus fusion protein",
-      "Authors": "Syeda A, Ali R, Beg MA",
-      "Journal": "In silico pharmacology"
-    },
-    {
-      "PMID": "42539595",
-      "Title": "Favorable safety and immunogenicity of a combined quadrivalent influenza and recombinant SARS-CoV-2 vaccine in Sprague-Dawley rats for both primary and booster immunization",
-      "Authors": "Shao J, Zhang C, She G, Qin T, Zhang J, Fang M, Zhao D, Wang L, Xia L, Yang Q, Zhang L, Zhang Y, Zhang S, Wang J, Xie Z, Chen Y, Chen Y, Huang E, Zhang L",
-      "Journal": "Frontiers in immunology"
-    },
-    {
-      "PMID": "42539121",
-      "Title": "Elicitation of stem-directed antibodies in rhesus macaques by a conventional hemagglutinin immunogen",
-      "Authors": "Gu S, Finney J, Luo K, Valencia SM, Mielke D, Von Holle TA, Marshall DJ, Parks R, Sutherland LL, Scearce RM, Wiehe K, Santra S, Harris S, DuVall J, Landon CD, Spurrier MA, Heaton NS, Yassine HM, Graham BS, Kepler TB, Liao HX, Schmidt AG, Ferrari G, Haynes BF, Harrison SC, Moody MA",
-      "Journal": "bioRxiv : the preprint server for biology"
-    },
-    {
-      "PMID": "42538938",
-      "Title": "Loss of hemagglutination ability by H3N2 influenza A virus, subclade K",
-      "Authors": "Liang R, Lexmond P, Grant OC, Pronk M, Pieters RJ, Fouchier RAM, Boons GJ, Koel BF, de Vries RP",
-      "Journal": "bioRxiv : the preprint server for biology"
+      "PMID": "42565337",
+      "Title": "Perceived implementation determinants of influenza vaccination by Chinese older adults: a CFIR-guided qualitative study comparing Beijing and Guizhou",
+      "Authors": "Liu Y, Zheng J, Shi R, Jiang H, Yu H, Qi B, Jiang Y, Cao Y, Jia M, Feng L",
+      "Journal": "Expert review of vaccines"
     }
   ]
 }

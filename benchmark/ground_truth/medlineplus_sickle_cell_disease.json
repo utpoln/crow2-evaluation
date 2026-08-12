@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_sickle_cell_disease",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Sickle Cell Disease",
+      "URL": "https://medlineplus.gov/sicklecelldisease.html"
+    },
+    {
+      "Title": "Pulmonary Hypertension",
+      "URL": "https://medlineplus.gov/pulmonaryhypertension.html"
+    },
+    {
+      "Title": "Ischemic Stroke",
+      "URL": "https://medlineplus.gov/ischemicstroke.html"
+    },
+    {
+      "Title": "Newborn Screening",
+      "URL": "https://medlineplus.gov/newbornscreening.html"
+    },
+    {
+      "Title": "Genes and Gene Therapy",
+      "URL": "https://medlineplus.gov/genesandgenetherapy.html"
+    },
+    {
+      "Title": "Pain",
+      "URL": "https://medlineplus.gov/pain.html"
+    },
+    {
+      "Title": "Preconception Care",
+      "URL": "https://medlineplus.gov/preconceptioncare.html"
+    },
+    {
+      "Title": "Bone Marrow Transplantation",
+      "URL": "https://medlineplus.gov/bonemarrowtransplantation.html"
+    },
+    {
+      "Title": "Genetic Disorders",
+      "URL": "https://medlineplus.gov/geneticdisorders.html"
+    },
+    {
+      "Title": "Anemia",
+      "URL": "https://medlineplus.gov/anemia.html"
+    }
+  ]
+}

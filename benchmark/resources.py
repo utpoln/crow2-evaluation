@@ -103,6 +103,81 @@ def ncbi_gene(gene, retmax=20):
     }
 
 
+def medlineplus(term, retmax=10):
+    import urllib.parse
+    # binning-state=group==Health Topics restricts the federated Vivisimo search
+    # to the same single source (healthTopics) the wsearch.nlm.nih.gov ground-truth
+    # API queries. Without this filter the website blends in Genetics/Medical
+    # Encyclopedia/etc. results the API never returns -- verified by hand for
+    # "epilepsy" (0% overlap unfiltered vs. exact 10/10 match filtered).
+    binning = urllib.parse.quote("group==Health Topics")
+    return {
+        "id": f"medlineplus_{_slug(term)}",
+        "name": f"MedlinePlus — {term}",
+        "category": "disease",
+        "url": f"https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query={urllib.parse.quote_plus(term)}&binning-state={binning}",
+        "mode": "A",
+        "row_xpath": "//ol[contains(@class,'results')]/li",
+        "columns": [
+            {"name": "Title", "xpath": ".//a[@class='title']"},
+            {"name": "URL", "xpath": ".//span[@class='url']"},
+        ],
+        "pagination": {"type": "none"},
+        "ground_truth": {"method": "medlineplus_api", "term": term, "retmax": retmax},
+        "key_field": "URL",
+    }
+
+
+def uniprot_entry(accession):
+    # Single Page Mode: absolute XPath per field, no row selector, one record
+    # per page. Field selectors navigate from a stable data-article-id label
+    # to its sibling value div -- hand-verified against the real rendered
+    # entry page (see README) before being templated here.
+    def field(article_id):
+        return f"(//span[@data-article-id='{article_id}'])[1]/parent::div/following-sibling::div[1]"
+    return {
+        "id": f"uniprot_entry_{_slug(accession)}",
+        "name": f"UniProt Entry — {accession}",
+        "category": "protein",
+        "url": f"https://www.uniprot.org/uniprotkb/{accession}/entry",
+        "mode": "B",
+        "row_xpath": None,
+        "columns": [
+            {"name": "ProteinName", "xpath": field("protein_names")},
+            {"name": "GeneName", "xpath": field("gene_name")},
+            {"name": "Organism", "xpath": field("organism-name")},
+            {"name": "Status", "xpath": field("entry_status")},
+        ],
+        "pagination": {"type": "none"},
+        "ground_truth": {"method": "uniprot_entry_api", "accession": accession},
+        "key_field": None,  # single-page mode: field-level comparison, not row matching
+    }
+
+
+def clinicaltrials_study(nct_id):
+    # Single Page Mode: absolute XPath per field on an individual study page.
+    # Selectors hand-verified against the real rendered page for NCT03057912
+    # (see README): the visible title is an <h2 class="brief-title">, not an
+    # <h1>; status is a span with class "overall-status" whose display text
+    # ("Unknown status") differs in wording from the API's raw enum value
+    # ("UNKNOWN") -- normalized via STATUS_DISPLAY in fetch_ground_truth.py.
+    return {
+        "id": f"clinicaltrials_study_{_slug(nct_id)}",
+        "name": f"ClinicalTrials.gov Study — {nct_id}",
+        "category": "clinical",
+        "url": f"https://clinicaltrials.gov/study/{nct_id}",
+        "mode": "B",
+        "row_xpath": None,
+        "columns": [
+            {"name": "Title", "xpath": "(//h2[@class='brief-title'])[1]"},
+            {"name": "Status", "xpath": "(//*[contains(@class,'overall-status')])[1]"},
+        ],
+        "pagination": {"type": "none"},
+        "ground_truth": {"method": "clinicaltrials_study_api", "nct_id": nct_id},
+        "key_field": None,
+    }
+
+
 RESOURCES = [
     # biomedical_search (PubMed)
     pubmed("TP53 tumor suppressor"),
@@ -186,6 +261,33 @@ RESOURCES = [
     uniprot("vascular endothelial growth factor"),
     uniprot("epidermal growth factor receptor"),
 
+    # clinical, Single Page Mode (ClinicalTrials.gov individual study pages)
+    clinicaltrials_study("NCT03057912"),
+    clinicaltrials_study("NCT04535648"),
+    clinicaltrials_study("NCT06783270"),
+    clinicaltrials_study("NCT04074369"),
+    clinicaltrials_study("NCT06208878"),
+    clinicaltrials_study("NCT07053488"),
+    clinicaltrials_study("NCT04178382"),
+    clinicaltrials_study("NCT03167450"),
+    clinicaltrials_study("NCT07580001"),
+    clinicaltrials_study("NCT07053462"),
+
+    # protein, Single Page Mode (UniProt individual entry pages)
+    uniprot_entry("P01308"),  # Insulin (INS)
+    uniprot_entry("P04637"),  # Cellular tumor antigen p53 (TP53)
+    uniprot_entry("P38398"),  # BRCA1
+    uniprot_entry("P00533"),  # EGFR
+    uniprot_entry("P60484"),  # PTEN
+    uniprot_entry("P01116"),  # KRAS
+    uniprot_entry("P01106"),  # MYC
+    uniprot_entry("P15692"),  # VEGFA
+    uniprot_entry("P13569"),  # CFTR
+    uniprot_entry("P01375"),  # TNF
+    uniprot_entry("P05231"),  # IL6
+    uniprot_entry("P42336"),  # PIK3CA
+    uniprot_entry("P15056"),  # BRAF
+
     # genomic (NCBI Gene)
     ncbi_gene("insulin"),
     ncbi_gene("BRCA1"),
@@ -207,4 +309,28 @@ RESOURCES = [
     ncbi_gene("STAT3"),
     ncbi_gene("NOTCH1"),
     ncbi_gene("SMAD4"),
+
+    # disease (MedlinePlus)
+    medlineplus("diabetes"),
+    medlineplus("hypertension"),
+    medlineplus("asthma"),
+    medlineplus("epilepsy"),
+    medlineplus("migraine"),
+    medlineplus("osteoporosis"),
+    medlineplus("anemia"),
+    medlineplus("thyroid disease"),
+    medlineplus("hepatitis"),
+    medlineplus("tuberculosis"),
+    medlineplus("malaria"),
+    medlineplus("influenza"),
+    medlineplus("pneumonia"),
+    medlineplus("rheumatoid arthritis"),
+    medlineplus("depression"),
+    medlineplus("anxiety disorder"),
+    medlineplus("obesity"),
+    medlineplus("stroke"),
+    medlineplus("multiple sclerosis"),
+    medlineplus("cystic fibrosis"),
+    medlineplus("sickle cell disease"),
+    medlineplus("lupus"),
 ]

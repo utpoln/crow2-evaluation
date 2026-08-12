@@ -3,6 +3,36 @@
   "method": "pubmed_eutils",
   "records": [
     {
+      "PMID": "42580099",
+      "Title": "Chemotherapy type and survival in young BRCA1/2 carriers with HER2-negative early breast cancer",
+      "Authors": "Bernstein-Molho R, Sella T, Delucchi V, Coussy F, Kim HJ, Linn S, Di Meglio A, Pogoda K, Kwong A, Agostinetto E, Bajpai J, Van Herck Y, Ferrari A, Balmana J, Moore HCF, Peccatori FA, Partridge AH, Winocur M, Renaud T, Rousset-Jablonski C, Lee JE, Toss A, Paluch-Shimon S, Wong SM, Matikas A, Villarreal-Garza C, Vernieri C, Lee M, Guven DC, Cui W, Ruddy KJ, Dieci MV, Fruscio R, De Marchis L, Kemp Z, Meireles PA, Razeti MG, Diz MDP, Hwang SE, Puglisi F, Clatot F, Yerushalmi R, Cichowska-Cwalinska N, Chirco A, De Angelis C, Blondeaux E, Lambertini M",
+      "Journal": "European journal of cancer (Oxford, England : 1990)"
+    },
+    {
+      "PMID": "42575068",
+      "Title": "Hormone replacement therapy in healthy BRCA1 and 2 mutation carriers after risk-reducing salpingo-oophorectomy: A 5 Ws and 2 Hs practitioner toolkit",
+      "Authors": "Bounous VE, Andronico N, Lavalle G, Suraci S, D'Alonzo M, Actis S, Pace L, Ferrero A",
+      "Journal": "Maturitas"
+    },
+    {
+      "PMID": "42572130",
+      "Title": "Mitochondria Dictate Progressive Versus Bimodal Aging of the Mammary Gland",
+      "Authors": "Jenkins EC, Chattopadhyay M, Mashaka T, Torres-Martin M, Sia D, Bado I, Germain D",
+      "Journal": "Aging cell"
+    },
+    {
+      "PMID": "42572030",
+      "Title": "Randomized phase 2 trial of a PARP inhibitor TSL-1502 in germline BRCA-mutated, HER2-negative locally advanced/metastatic breast cancer",
+      "Authors": "Lan B, Xu F, Sun T, Qiu F, Wang Y, Wang S, Li W, Zhong Y, Wu X, Ouyang Q, Wang K, Mi X, Liu R, Xu B",
+      "Journal": "Signal transduction and targeted therapy"
+    },
+    {
+      "PMID": "42553790",
+      "Title": "Predictive value of peripheral blood cell-free DNA breast cancer gene mutation profiling for postoperative pathological malignancy in BI-RADS 4 breast nodules",
+      "Authors": "Lyu G, Duan H, Sheng X, Liu L, Luo J",
+      "Journal": "Frontiers in genetics"
+    },
+    {
       "PMID": "42533093",
       "Title": "BRCA1 and BRCA2 population screening in Latvia: feasibility, engagement, and early lessons from a pilot study",
       "Authors": "Irmejs A, Daneberga Z, Kiploka K, Augucevica M, Cerneikina A, Gailite L, Kalcenaua A, Kononova I, Syundyukov E, Miklasevics E, Bjorvatn C, Vetti HH, Gardovskis J",
@@ -31,36 +61,6 @@
       "Title": "Whole-genome sequencing in Brazilian patients with neurofibromatosis type 1, including novel variants, incidental findings, and dual diagnoses",
       "Authors": "Angeloni LL, Jorente J, Oliveira Sobrinho RP, Gil-da-Silva-Lopes VL, Vidoti-Nascimento CG, Guaragna MS, Vieira TP, Steiner CE, Brazilian Rare Genomes Project Consortium, Teixeira ACB, Coelho AVC, Quaio CRAC, Moreno CA, Perrone E, Nascimento Junior JBD, Espolaor JGA, Prota JRM, Oliveira Filho JB, Ceroni JRM, Chen K, Ferreira LT, Santana LS, Mofatto LS, Virmond LDA, Silva MFB, Migliavacca MP, Minillo RM, Yamada RY, Sitnik R, Almeida TF, Silva TYT, Cintra VP",
       "Journal": "Einstein (Sao Paulo, Brazil)"
-    },
-    {
-      "PMID": "42523269",
-      "Title": "Transposable elements shape olaparib response according to BRCA1 status in triple-negative breast cancer",
-      "Authors": "Mombach DM, Mendez-Dorantes C, Mercuri RLV, Schofield P, Soares Baal SC, Poersch MA, Burns KH, de Oliveira JC, Loreto ELS, Galante PAF",
-      "Journal": "bioRxiv : the preprint server for biology"
-    },
-    {
-      "PMID": "42513228",
-      "Title": "Breast Cancer: Epidemiology, Molecular Classification, Diagnostics and Evolving Treatment Paradigms",
-      "Authors": "Unuofin JO, Adefisan-Adeoye AO, Paimo OK, Maphetu N, Lebelo SL",
-      "Journal": "Molecules (Basel, Switzerland)"
-    },
-    {
-      "PMID": "42512939",
-      "Title": "Preoperative Germline Genetic Testing and Surgical Timing in Breast Cancer: Implementation of National Reimbursement Programs: A Retrospective Cohort Study",
-      "Authors": "Vlad IC, Vlad CI, Balacescu O, Gata VA, Morariu DS, Miclaus M, Muntean AL, Catana A, Antone N, Achimas-Cadariu P",
-      "Journal": "Medicina (Kaunas, Lithuania)"
-    },
-    {
-      "PMID": "42511710",
-      "Title": "BRCA1 Gene as a Potential Marker for Lung Cancer Therapy",
-      "Authors": "Tsyganov MM, Tsydenova IA, Dolgasheva DS, Ibragimova MK",
-      "Journal": "International journal of molecular sciences"
-    },
-    {
-      "PMID": "42505201",
-      "Title": "Assessing the Clinical Relevance of BRCA1 RING Domain Variants of Uncertain Significance",
-      "Authors": "Martin MD, Torretto GC, Islam K, Archer NE, Feilotter HE, Davey SK",
-      "Journal": "Current oncology (Toronto, Ont.)"
     }
   ]
 }

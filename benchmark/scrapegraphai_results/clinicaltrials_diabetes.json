@@ -1,0 +1,86 @@
+{
+  "resource_id": "clinicaltrials_diabetes",
+  "status": "success",
+  "elapsed_seconds": 9.48,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "A1c Discordance in Diabetes Patients",
+          "NCT_ID": "NCT01213277",
+          "Status": "Suspended"
+        },
+        {
+          "Title": "Renal Mechanism of Action/Splay vs. TmG",
+          "NCT_ID": "NCT00726505",
+          "Status": "Terminated"
+        },
+        {
+          "Title": "PPAR-COMBO With Sulfonylurea",
+          "NCT_ID": "NCT00162175",
+          "Status": "Completed"
+        },
+        {
+          "Title": "Relationship Between Hemodynamic Changes and Cardiopulmonary Fitness in Type 2 Diabetes Mellitus Patients",
+          "NCT_ID": "NCT06842108",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "Effect of Insulin Degludec Versus Insulin Glargine on Glycemic Variability in Patients With Type 2 Diabetes Mellitus",
+          "NCT_ID": "NCT02680457",
+          "Status": "Completed"
+        },
+        {
+          "Title": "Shanghai Children and Adolescent Diabetes Eye Study",
+          "NCT_ID": "NCT03587948",
+          "Status": "Recruiting"
+        },
+        {
+          "Title": "An Epidemiological and Long-Term Endpoint Registry Study on Disease-Syndrome Correlation Patterns in Comorbid Population With Diabetes and Ischemic Cardio-Cerebrovascular Disease",
+          "NCT_ID": "NCT07104422",
+          "Status": "Not yet recruiting"
+        },
+        {
+          "Title": "The Effect of Diabetic Foot Training Given to Patients With Type-2 Diabetes Using Virtual Reality Glasses on Foot Care Behaviors",
+          "NCT_ID": "NCT07114445",
+          "Status": "Enrolling by invitation"
+        },
+        {
+          "Title": "A 2-Part Trial in Subjects With Type 2 Diabetes and in Healthy Subjects to Evaluate GSK1614235, a New Glucose Lowering Drug to Treat Type 2 Diabetes",
+          "NCT_ID": "NCT00976261",
+          "Status": "Completed"
+        },
+        {
+          "Title": "Effect of Stevia Leave Powder on Blood Glucose and Lipid Profile of Diabetic Patients",
+          "NCT_ID": "NCT06645002",
+          "Status": "Enrolling by invitation"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 17097,
+      "completion_tokens": 1961
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 3413
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "1287631a-2b64-4c23-b015-bd54a3c2fa79"
+  },
+  "error": null
+}

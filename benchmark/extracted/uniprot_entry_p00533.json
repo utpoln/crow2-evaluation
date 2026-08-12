@@ -1,0 +1,14 @@
+{
+  "resource_id": "uniprot_entry_p00533",
+  "url": "https://www.uniprot.org/uniprotkb/P00533/entry",
+  "elapsed_seconds": 12.295291458000001,
+  "record_count": 1,
+  "records": [
+    {
+      "ProteinName": "Epidermal growth factor receptor",
+      "GeneName": "EGFR",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

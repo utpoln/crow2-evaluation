@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p42336",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+      "GeneName": "PIK3CA",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

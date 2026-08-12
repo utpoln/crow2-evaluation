@@ -1,0 +1,14 @@
+{
+  "resource_id": "uniprot_entry_p01375",
+  "url": "https://www.uniprot.org/uniprotkb/P01375/entry",
+  "elapsed_seconds": 12.171458833000003,
+  "record_count": 1,
+  "records": [
+    {
+      "ProteinName": "Tumor necrosis factor",
+      "GeneName": "TNF",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_alzheimer_amyloid_beta",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Alzheimer+amyloid+beta&sort=date",
-  "elapsed_seconds": 5.856257582999998,
+  "elapsed_seconds": 5.020475000000001,
   "record_count": 10,
   "records": [
     {
-      "Title": "Kaempferol-Conjugated Manganese Oxide Nanocomposites Mitigate Aluminium Chloride-Induced Neurobehavioral Impairments in a Rat Model of Alzheimer's disease.",
-      "Authors": "Yu H, Liu X, Liu J, Tang D.",
-      "Journal": "J Mol Neurosci. 2026 Aug 4;76(3):122. doi: 10.1007/s12031-026-02571-4.",
-      "PMID": "42550339"
+      "Title": "A new method for the production of recombinant human A\u03b2(1-42) peptide.",
+      "Authors": "Chen P, Guo L, Guo X, Hong W, Meng W.",
+      "Journal": "Neurochem Int. 2026 Aug 11:106238. doi: 10.1016/j.neuint.2026.106238. Online ahead of print.",
+      "PMID": "42580481"
     },
     {
-      "Title": "Intranasal Administration of Isoeugenol Improves Memory Deficits in APP/PS1 Old Mice-A Role Beyond Nrf2 Activation?",
-      "Authors": "Silva A, Silva S, Macedo J, Moreira P, Baptista D, Bicker J, Fortuna A, Liberal J, Rodrigues B, Resende R, Vitorino I, Santos AE, Neves BM, Pereira C, Cruz MT.",
-      "Journal": "FASEB J. 2026 Aug 15;40(15):e72186. doi: 10.1096/fj.202601575R.",
-      "PMID": "42549510"
+      "Title": "High-field MRI correlates with immunohistochemical analysis of the normal and Alzheimer's disease anterior olfactory nucleus.",
+      "Authors": "Murray HC, Dieriks BV, Dodd S, Usdin T, Hamlin D, Highet B, Sit Z, Kim M, Faull R, Turner C, Scadeng M, Curtis MA, Koretsky A.",
+      "Journal": "Neuroimage. 2026 Aug 11:122166. doi: 10.1016/j.neuroimage.2026.122166. Online ahead of print.",
+      "PMID": "42580461"
     },
     {
-      "Title": "Inhibition of amyloid beta aggregation by venetoclax: a computational and in vitro experimental approach.",
-      "Authors": "Liu BB, Wang HC, He YL, Zhang LJ, Meng DL, Fu Y, Wang MY, Zhang W.",
-      "Journal": "RSC Adv. 2026 Aug 3. doi: 10.1039/d6ra03199d. Online ahead of print.",
-      "PMID": "42549172"
+      "Title": "Glymphatic System Function and Cognition: Converging Evidence from DTI-ALPS Imaging - A Narrative Review.",
+      "Authors": "Marcinkowska AB, Grzywi\u0144ska M, Winklewski PJ.",
+      "Journal": "Aging Dis. 2026 Jul 31. doi: 10.14336/AD.2026.0511. Online ahead of print.",
+      "PMID": "42579359"
     },
     {
-      "Title": "Editorial: New horizons in Alzheimer's disease research: combining cell, gene, and emerging therapies.",
-      "Authors": "Piccarducci R, Mainardi M, Marchetti L.",
-      "Journal": "Front Med (Lausanne). 2026 Jul 20;13:1919555. doi: 10.3389/fmed.2026.1919555. eCollection 2026.",
-      "PMID": "42548982"
+      "Title": "Effects of damaged astrocytes on DNA damage and repair in human neurons: Implications for Alzheimer's disease.",
+      "Authors": "Welty S, Bagnell M, Ma F, Herrup K, Levine AS.",
+      "Journal": "J Alzheimers Dis. 2026 Aug 11:13872877261476036. doi: 10.1177/13872877261476036. Online ahead of print.",
+      "PMID": "42578810"
     },
     {
-      "Title": "Brain insulin resistance as a driver of proteinopathy in neurodegeneration: from cell-type-specific mechanisms to targeted therapeutics.",
-      "Authors": "Xiang M, Cao SY, Sun XH, Hu JW, Lv MZ, Li JY, Li W.",
-      "Journal": "Transl Neurodegener. 2026 Aug 3;15(1):36. doi: 10.1186/s40035-026-00573-1.",
-      "PMID": "42547900"
+      "Title": "Attenuation of Tau Hyperphosphorylation by Chronic Toxoplasma gondii Infection in a Mouse Model of Alzheimer's Disease.",
+      "Authors": "Seo SH, Lee JE, Cho EJ, Shin EH.",
+      "Journal": "Parasite Immunol. 2026 Aug;48(8):e70096. doi: 10.1111/pim.70096.",
+      "PMID": "42578516"
     },
     {
-      "Title": "High prevalence of tau pathologies in late-onset psychosis: A PET study.",
-      "Authors": "Kubota M, Kurose S, Tagai K, Momota Y, Ichihashi M, Endo H, Seki C, Moriguchi S, Yamamoto Y, Kataoka Y, Goto R, Tamura T, Shiwaku H, Matsuoka K, Suzuki H, Onaya M, Tokuda T, Uchida H, Takahashi H, Kawamura K, Zhang MR, Higuchi M, Takahata K.",
-      "Journal": "Mol Psychiatry. 2026 Aug 3. doi: 10.1038/s41380-026-03749-3. Online ahead of print.",
-      "PMID": "42547799"
+      "Title": "The prognostic potential of circulating BDNF levels and its polymorphisms in age-related cognitive impairment and neurodegeneration.",
+      "Authors": "Tulupova TV, Vedunova MV, Mitroshina EV.",
+      "Journal": "Front Aging Neurosci. 2026 Jul 27;18:1901527. doi: 10.3389/fnagi.2026.1901527. eCollection 2026.",
+      "PMID": "42577511"
     },
     {
-      "Title": "New insights on microglial lysosomal acidification: A therapeutic target of neurodegenerative diseases.",
-      "Authors": "Jaganathan R, Vijayakumar S, Chen Y, Ye J, Bakthavatchalam P, Wankar D, Yang C, Iyaswamy A, Li M.",
-      "Journal": "Neurobiol Dis. 2026 Aug 3:107555. doi: 10.1016/j.nbd.2026.107555. Online ahead of print.",
-      "PMID": "42546981"
+      "Title": "Multi-modal deep learning and explainable AI for predicting multiple dementia-related neuropathologies from brain MRI, clinical, and genetic data.",
+      "Authors": "Chattopadhyay T, Kush R, Ankarath RH, Senthilkumar P, Gleave EJ, Patterson C, Owens-Walton C, Thomopoulos SI, Johnson SC, Mormino EC, Tosun D, Hohman TJ, Thompson PM.",
+      "Journal": "Front Neurol. 2026 Jul 27;17:1839071. doi: 10.3389/fneur.2026.1839071. eCollection 2026.",
+      "PMID": "42577341"
     },
     {
-      "Title": "Sleep and Neurodegeneration.",
-      "Authors": "Branson CO.",
-      "Journal": "Continuum (Minneap Minn). 2026 Aug;32(4):1142-1160. doi: 10.1212/cont.0000000000001734. Epub 2026 Aug 3.",
-      "PMID": "42544975"
+      "Title": "A Narrative Review: Suvorexant's Role in Sleep Deprivation and Neurodegenerative Disease.",
+      "Authors": "Ahmed A, Fu X, Khan H, Li P.",
+      "Journal": "Curr Neuropharmacol. 2026 Jul 30. doi: 10.2174/011570159X468876260722063322. Online ahead of print.",
+      "PMID": "42576583"
     },
     {
-      "Title": "[Research progress on active ingredients of Astragali Radix and Acori Tatarinowii Rhizoma and mechanism of their herb pair against Alzheimer's disease].",
-      "Authors": "DU YZ, Wang Z, Ma DC, Liu T, Ma LL, Zhou YM, Li XL, Dou FY, Lyu RL, Chai MN, Zhang YG, Li YF.",
-      "Journal": "Zhongguo Zhong Yao Za Zhi. 2026 Jun;51(11):3152-3159. doi: 10.19540/j.cnki.cjcmm.20260209.501.",
-      "PMID": "42543274"
+      "Title": "Transforming Growth Factor Beta-1 Alleviates Neurodegeneration by Regulating Abeta42 and VDAC1 Expression in the Temporal Lobe and Cerebellum in an Alzheimer's Disease-Like Model.",
+      "Authors": "Kara S, \u00d6zanda\u00e7 S, Sencar L, Akillioglu K, Polat S.",
+      "Journal": "Curr Mol Med. 2026 Jul 29. doi: 10.2174/0115665240501722260724103809. Online ahead of print.",
+      "PMID": "42576561"
     },
     {
-      "Title": "Gait Impairment and Alzheimer's Disease Pathology: A Narrative Review on Mechanistic Links.",
-      "Authors": "Sakurai R, Montero-Odasso M.",
-      "Journal": "Geriatr Gerontol Int. 2026 Aug;26(8):e70675. doi: 10.1111/ggi.70675.",
-      "PMID": "42543199"
+      "Title": "An Overview of 1,2,4-Triazole-5-Thiol and 3-Thione Derivatives as Promising Scaffolds for Anti-Neuroinflammatory Drug Discovery.",
+      "Authors": "Shakya M, Patel SK, Singh M, Rao H, Moorthy NHN, Tiwari A.",
+      "Journal": "Mini Rev Med Chem. 2026 Jul 28. doi: 10.2174/0113895575433269260710072055. Online ahead of print.",
+      "PMID": "42576518"
     }
   ]
 }

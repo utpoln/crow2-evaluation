@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p01106",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Myc proto-oncogene protein",
+      "GeneName": "MYC",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

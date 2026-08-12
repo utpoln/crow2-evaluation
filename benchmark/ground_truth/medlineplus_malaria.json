@@ -1,0 +1,38 @@
+{
+  "resource_id": "medlineplus_malaria",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Malaria",
+      "URL": "https://medlineplus.gov/malaria.html"
+    },
+    {
+      "Title": "Mosquito Bites",
+      "URL": "https://medlineplus.gov/mosquitobites.html"
+    },
+    {
+      "Title": "Global Health",
+      "URL": "https://medlineplus.gov/globalhealth.html"
+    },
+    {
+      "Title": "Infectious Diseases",
+      "URL": "https://medlineplus.gov/infectiousdiseases.html"
+    },
+    {
+      "Title": "Insect Bites and Stings",
+      "URL": "https://medlineplus.gov/insectbitesandstings.html"
+    },
+    {
+      "Title": "Parasitic Diseases",
+      "URL": "https://medlineplus.gov/parasiticdiseases.html"
+    },
+    {
+      "Title": "Pregnancy and Medicines",
+      "URL": "https://medlineplus.gov/pregnancyandmedicines.html"
+    },
+    {
+      "Title": "Traveler's Health",
+      "URL": "https://medlineplus.gov/travelershealth.html"
+    }
+  ]
+}

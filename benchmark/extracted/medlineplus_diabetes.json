@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_diabetes",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=diabetes&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 5.449897332999967,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Diabetes",
+      "URL": "https://medlineplus.gov/diabetes.html"
+    },
+    {
+      "Title": "Diabetes Type 1",
+      "URL": "https://medlineplus.gov/diabetestype1.html"
+    },
+    {
+      "Title": "Diabetes Type 2",
+      "URL": "https://medlineplus.gov/diabetestype2.html"
+    },
+    {
+      "Title": "Diabetes and Pregnancy",
+      "URL": "https://medlineplus.gov/diabetesandpregnancy.html"
+    },
+    {
+      "Title": "Diabetes in Children and Teens",
+      "URL": "https://medlineplus.gov/diabetesinchildrenandteens.html"
+    },
+    {
+      "Title": "Diabetes Medicines",
+      "URL": "https://medlineplus.gov/diabetesmedicines.html"
+    },
+    {
+      "Title": "How to Prevent Diabetes",
+      "URL": "https://medlineplus.gov/howtopreventdiabetes.html"
+    },
+    {
+      "Title": "Diabetes Complications",
+      "URL": "https://medlineplus.gov/diabetescomplications.html"
+    },
+    {
+      "Title": "Diabetes Insipidus",
+      "URL": "https://medlineplus.gov/diabetesinsipidus.html"
+    },
+    {
+      "Title": "Diabetic Diet",
+      "URL": "https://medlineplus.gov/diabeticdiet.html"
+    }
+  ]
+}

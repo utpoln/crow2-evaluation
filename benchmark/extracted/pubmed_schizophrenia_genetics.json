@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_schizophrenia_genetics",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=schizophrenia+genetics&sort=date",
-  "elapsed_seconds": 5.420593000000011,
+  "elapsed_seconds": 5.335586875000004,
   "record_count": 10,
   "records": [
     {
-      "Title": "Correction: Identification of hub genes involved in early-onset schizophrenia: from genetic susceptibility to predicted regulated gene expression.",
-      "Authors": "Jen Y, Yu SL, Hsiao PC, Kuo PH, Liu CM, Liu CC, Hwang TJ, Hsieh MH, Chien YL, Lin YT, Huang H, Feng YA, Hsiao CK, Lin YF, Faraone SV, Neale B, Glatt SJ, Tsuang MT, Hwu HG, Chen WJ.",
-      "Journal": "Mol Psychiatry. 2026 Aug 3. doi: 10.1038/s41380-026-03781-3. Online ahead of print.",
-      "PMID": "42547804"
+      "Title": "Spine nanostructure profiling of cultured neurons from mouse models reveals a schizophrenia-linked role for Ecrg4.",
+      "Authors": "Kashiwagi Y, Liu Q, Go Y, Saito R, Aiba A, Nakazawa T, Okabe S.",
+      "Journal": "Elife. 2026 Aug 11;14:RP109083. doi: 10.7554/eLife.109083.",
+      "PMID": "42576600"
     },
     {
-      "Title": "Neuroinflammatory pathways linking pain and rehabilitation outcomes in schizophrenia: a narrative review.",
-      "Authors": "Sedghi Esfahani S, Mahdinia E, Dehkhodaei S, Abedi Oumali N, Taherkhani S, Rafaiee R.",
-      "Journal": "Pain Manag. 2026 Aug 3:1-19. doi: 10.1080/17581869.2026.2713532. Online ahead of print.",
-      "PMID": "42547491"
+      "Title": "ADAR-mediated RNA editing in CNS disorders: from pathogenic mechanisms to therapeutic opportunities.",
+      "Authors": "Zheng F, Guan R, Yu X, Yang J, Zhao H, Yang F.",
+      "Journal": "Cell Mol Biol Lett. 2026 Jul 25;31(1):130. doi: 10.1186/s11658-026-00995-9.",
+      "PMID": "42576199"
     },
     {
-      "Title": "Baseline neutrophil count, benign ethnic neutropenia risk, and clozapine haematological monitoring: A multi-ethnic retrospective cohort study from the United Arab Emirates.",
-      "Authors": "Bokhari SA, Elnoor M, Sabri M, Bardi M, Nawaz FA, Javaid SF.",
-      "Journal": "Schizophr Res. 2026 Aug 3;297:76-88. doi: 10.1016/j.schres.2026.07.026. Online ahead of print.",
-      "PMID": "42546354"
+      "Title": "Dramatic sex differences leading to different brain disease presentation: The requirement for sex-specific medications with ADNP/davunetide as a case study.",
+      "Authors": "Lobyntseva A, Guz LS, Galushkin A, Gozes I.",
+      "Journal": "Front Neuroendocrinol. 2026 Aug 10:101274. doi: 10.1016/j.yfrne.2026.101274. Online ahead of print.",
+      "PMID": "42575342"
     },
     {
-      "Title": "The Omnicausal Model Reveals the Highly Polyfactorial Nature of Complex Diseases.",
-      "Authors": "M\u00e1rquez-Luna C, Tournaire M, Rocheleau G, Do R, Verbanck M.",
-      "Journal": "Genet Epidemiol. 2026 Sep;50(6):e70052. doi: 10.1002/gepi.70052.",
-      "PMID": "42541367"
+      "Title": "Polygenic profiles in youth with early-onset psychosis and offspring of schizophrenia or bipolar disorder patients.",
+      "Authors": "Mart\u00ednez-Serrano I, Segura AG, Ortu\u00f1o M, Fortea A, Borr\u00e0s R, Camprodon-Boadas P, De la Serna E, Moreno D, Garc\u00eda-Rizo C, Torrent C, Baeza I, Rodriguez N, Mas S, Castro-Fornieles J, Sugranyes G.",
+      "Journal": "Eur Child Adolesc Psychiatry. 2026 Aug 10. doi: 10.1007/s00787-026-03123-2. Online ahead of print.",
+      "PMID": "42573752"
     },
     {
-      "Title": "DNA methylation as proxy of genetic, prenatal and perinatal psychiatric risk factors.",
-      "Authors": "Isaevska E, Mulder RH, Schuurmans IK, Creasey N, Felix JF, Pingault JB, van Haren N, Cecil C, Neumann A.",
-      "Journal": "medRxiv [Preprint]. 2026 Jul 24:2026.07.22.26358558. doi: 10.64898/2026.07.22.26358558.",
-      "PMID": "42539042"
+      "Title": "Association of dopamine transporter gene DAT1 40-bp 3' UTR VNTR polymorphism (rs28363170) with Psychiatric disorders susceptibility: A study from the Pakistani population.",
+      "Authors": "Hashmi AN, Dharejo RA, Qamar R, Omer W, Azam M.",
+      "Journal": "Mol Biol Rep. 2026 Aug 10;53(1):1377. doi: 10.1007/s11033-026-12392-8.",
+      "PMID": "42573657"
     },
     {
-      "Title": "Subtypes of Somatostatin and Other Interneurons Are Real, Whether We Believe in Them or Not.",
-      "Authors": "Duncan L.",
-      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):520-522. doi: 10.1176/appi.ajp.20260532. Epub 2026 Aug 1.",
-      "PMID": "42538590"
+      "Title": "Thalamic Reticular Nucleus Dysfunction as a Stage-Dependent Integrative Circuit Mechanism in Psychosis.",
+      "Authors": "Seif P.",
+      "Journal": "Neurosci Biobehav Rev. 2026 Aug 9:106897. doi: 10.1016/j.neubiorev.2026.106897. Online ahead of print.",
+      "PMID": "42571826"
     },
     {
-      "Title": "Schizophrenia Beyond Genome-Wide Association Studies: It's About Time.",
-      "Authors": "Pergola G, Weinberger DR.",
-      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):526-539. doi: 10.1176/appi.ajp.20260566. Epub 2026 Aug 1.",
-      "PMID": "42538589"
+      "Title": "Increased RHOA expression in peripheral blood mononuclear cells of patients with acute schizophrenia.",
+      "Authors": "Khaki M, Davoodian N.",
+      "Journal": "Mol Biol Rep. 2026 Aug 8;53(1):1367. doi: 10.1007/s11033-026-12493-4.",
+      "PMID": "42570040"
     },
     {
-      "Title": "Schizophrenia: Insights Into its Etiology and Pathophysiology.",
-      "Authors": "Kalin NH.",
-      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):511-513. doi: 10.1176/appi.ajp.20260614. Epub 2026 Aug 1.",
-      "PMID": "42538588"
+      "Title": "Effects of Schizophrenia, Bipolar Disorder, and Depression on Cardiopulmonary and Abdominal Organ Structure.",
+      "Authors": "Chu S, Casanova F, Bala R, Howes OD, Osimo E, de Marvao A, Ardissino M, O'Regan DP, McIntosh A, Strawbridge RJ, Pillinger T, Tyrrell J.",
+      "Journal": "Biol Psychiatry Glob Open Sci. 2026 Jun 29;6(5):100783. doi: 10.1016/j.bpsgos.2026.100783. eCollection 2026 Sep.",
+      "PMID": "42569312"
     },
     {
-      "Title": "Copy Number Variation in Schizophrenia: Developmental Timing and Clinical Heterogeneity.",
-      "Authors": "Birnbaum R.",
-      "Journal": "Am J Psychiatry. 2026 Aug 1;183(8):517-519. doi: 10.1176/appi.ajp.20260449. Epub 2026 Aug 1.",
-      "PMID": "42538587"
+      "Title": "Adolescent multi-omics and Mendelian randomization reveal transdiagnostic molecular mechanisms in psychiatric disorders.",
+      "Authors": "Qian L, Shi R, Yu X, Chen D, Banaschewski T, Bokde ALW, Flor H, Grigis A, Garavan H, Gowland P, Heinz A, Martinot JL, Martinot MP, Artiges E, Nees F, Papadopoulos Orfanos D, Poustka L, Hohmann S, Holz N, Smolka MN, Vaidya N, Walter H, Whelan R, Schumann G, Lin X, Desrivi\u00e8res S; IMAGEN Consortium.",
+      "Journal": "Nat Ment Health. 2026;4(8):1248-1261. doi: 10.1038/s44220-026-00660-2. Epub 2026 Jun 5.",
+      "PMID": "42564028"
     },
     {
-      "Title": "Cerebrospinal fluid biomarkers reveal transdiagnostic synaptic dysfunction across major psychiatric disorders.",
-      "Authors": "G\u00f6teson A, Nilsson J, Camporesi E, Klahn AL, H\u00f6rbeck E, Sigstr\u00f6m R, Jonsson L, Sparding T, P\u00e5lsson E, Pelanis A, Goulding A, Isgren A, Erhardt S, Cervenka S, Bulik CM, Zetterberg H, Blennow K, Sellgren CM, Brinkmalm A, Land\u00e9n M.",
-      "Journal": "Nat Commun. 2026 Jul 30;17(1):7604. doi: 10.1038/s41467-026-76187-y.",
-      "PMID": "42532998"
+      "Title": "Revisiting the Links Between Asthma and the Psychosis Spectrum: shared molecular mechanisms.",
+      "Authors": "Dardani C, Robinson JW, Havdahl A, Darrous L, Jones HJ, Zammit S, Sullivan SA, Rai D, Stergiakouli E, Zhu Z, Liang L, Nava GW, Gardner R, Grove J, Richardson TG, Smith GD, Dodd JW, Hemani G, Gaunt TR, Khandaker GM.",
+      "Journal": "Biol Psychiatry. 2026 Aug 6:S0006-3223(26)01462-9. doi: 10.1016/j.biopsych.2026.07.023. Online ahead of print.",
+      "PMID": "42562284"
     }
   ]
 }

@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42546906",
-      "Title": "Why Not Now? Targeting Plasmodium falciparum histone methyltransferases for next-generation antimalarial strategies",
-      "Authors": "Parthiban E, Ramanibai R, Ramachandran M",
+      "PMID": "42573872",
+      "Title": "Decoding Leukocyte Dynamics: Functional Biomarkers and Precision Diagnostics in Parasitic Infections",
+      "Authors": "Li J, Soleimani Samarkhazan H",
+      "Journal": "Acta parasitologica"
+    },
+    {
+      "PMID": "42571437",
+      "Title": "Drug stock-outs in HIV, tuberculosis, and malaria programs: a systematic review",
+      "Authors": "Pandey AK, Bhandari RK, Charani E, Cohn J, Ghautare A, M\u00e4rtson AG, Gadde U, Dlamini S, Miller M, Malhotra S, T\u00e4ngd\u00e9n T, Singh S, Mendelson M, Shafiq N",
+      "Journal": "EClinicalMedicine"
+    },
+    {
+      "PMID": "42570799",
+      "Title": "Identification of vulnerable antimalarial targets using conditional loss of function mutants",
+      "Authors": "Shaw PJ, Prommana P, Wongsombat C, Pengon J, Laohasinnarong S, Posayapisit N, Akinola O, Suwanakitti N, Uthaipibull C, Kongkasuriyachai D, Yuthavong Y, Kamchonwongpaisan S",
       "Journal": "Molecular and biochemical parasitology"
     },
     {
-      "PMID": "42543976",
-      "Title": "Artesunate-resistant Plasmodium falciparum at a Tertiary Care Hospital in North India",
-      "Authors": "Taneja V, Khosla P, Narula S, Sachdeva M",
-      "Journal": "The Journal of the Association of Physicians of India"
+      "PMID": "42569042",
+      "Title": "Structure-Activity Relationship Study of Antimalarial Asparagine-Derived Proteasome Inhibitors",
+      "Authors": "Zhang H, Li D, Hsu HC, Vishwanatha A, Zhan W, Yukawa T, Visone J, Imaeda T, Okamoto R, Fajtova P, Hara R, Kawasaki M, Sato K, Michino M, Garg S, Kreutzfeld O, Tumwebaze PK, Orena S, Okitwi M, Aso K, Cooper RA, Rosenthal PJ, Meinke PT, Foley M, O'Donoghue AJ, Li H, Kirkman LA, Lin G",
+      "Journal": "ACS omega"
     },
     {
-      "PMID": "42541611",
-      "Title": "In silico identification of selective cyclodecapeptide inhibitors targeting Plasmodium falciparum Grp78 chaperone",
-      "Authors": "Mthembu W, Odugbemi A, Muzenda FL, Rautenbach M, Zininga T",
-      "Journal": "Journal of computer-aided molecular design"
+      "PMID": "42563466",
+      "Title": "Twenty Years of Benzimidazole Scaffold Optimization in Antiparasitic Drug Discovery",
+      "Authors": "Kond\u017ea M, Rezi\u0107 V, Drma\u010d D",
+      "Journal": "ChemMedChem"
     },
     {
-      "PMID": "42540770",
-      "Title": "Climate Change as a Health Security Threat in Pakistan: Preparing Health Systems for Extreme Events",
-      "Authors": "Akhtar TM, Akhtar H, Shaikh BT, Hassan Z",
-      "Journal": "Annals of global health"
+      "PMID": "42563162",
+      "Title": "Artemisinin resistance and Nigeria's malaria burden: urgent policy imperatives from the WHO World Malaria Report 2025!",
+      "Authors": "Musa SS, Laguitan RVM, Fadele KP, Malinda RP, Sium AF, Lucero-Prisno DE 3rd",
+      "Journal": "International journal for equity in health"
     },
     {
-      "PMID": "42532326",
-      "Title": "Naturally occurring triterpenoids from plants as potential agents against malaria: a review from 1994 to 2025",
-      "Authors": "Sikam KG, Happi GM, Mbock Mbamba AL, Kemayou GM, Wansi JD",
-      "Journal": "Phytochemistry"
+      "PMID": "42561758",
+      "Title": "Evolutionary diversity of the pfmdr1 hinge region and association with antimalarial drug resistance mutations post ACT introduction",
+      "Authors": "Hocke EF, Hansson H, Chopo-Pizarro A, Wellmann L, Kahunu GM, Mavoko HM, Nkoli PM, Sompwe EM, Mbongi D, Mitashi P, Ali IM, Nji A, Mbacham W, Moussiliou A, Dandonougbo C, Kpemasse A, Affoukou C, Akogbeto M, Ngufor C, Beshir K, Mousa A, Roper C, Sutherland CJ, Alifrangis M",
+      "Journal": "International journal for parasitology. Drugs and drug resistance"
     },
     {
-      "PMID": "42531257",
-      "Title": "An orally available PfPKG inhibitor blocks Plasmodium's infection of the liver",
-      "Authors": "Dhiyebi H, Mbaye A, Thaniana A, Gilleran J, Eck T, Ashraf K, Kudyba K, Fan H, Seibold S, Battaile KP, Siekierka J, Johnson E, Roth A, De Rocher A, Lovell S, Miller EB, Roberge JY, Bhanot P",
-      "Journal": "PLoS pathogens"
-    },
-    {
-      "PMID": "42531228",
-      "Title": "Field evaluation of 3-(N-acetyl-n-butyl) aminopropionic acid ethyl ester - IR3535 as a spatial repellent to control malaria: A Randomised, Before-After-Control-Intervention trial",
-      "Authors": "Lequechane JD, Lopes LF, Gon\u00e7alves L, Azevedo N, Ab\u00edlio AP, Duaj\u00e1 AB, Manuel JL, Silveira H",
+      "PMID": "42560985",
+      "Title": "Magnetic bead-based enhancement of qPCR detection rates in low-density Plasmodium falciparum samples: A comparative analysis of nucleic acid extraction methods",
+      "Authors": "Wen RQ, Ning W, Peng F, Wang MM, Huang JP, Tian B",
       "Journal": "PloS one"
     },
     {
-      "PMID": "42529832",
-      "Title": "Efficacy of artemisinin derivatives and kelch13 mutations in Plasmodium falciparum: a systematic review and meta-analysis",
-      "Authors": "Ulusan Ba\u011fc\u0131 \u00d6, Elhan AH, Akarsu GA",
-      "Journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene"
+      "PMID": "42557356",
+      "Title": "Genomic surveillance reveals co-occurrence of Plasmodium falciparum drug resistance variants across diverse transmission settings in Ethiopia",
+      "Authors": "Letebo A, Vanheer LN, Engdaw M, Ejigu LA, Hailu Alemayehu D, Deressa JD, Adnew B, Ayele A, Bezabih MK, Demisse M, Seyoum T, Shiferaw M, Sime H, Weldemariam AG, Shimelash A, Tafa EB, Chali W, Alemayehu L, Kassa FA, Zeleke AJ, Hamza TA, Tamirat AB, Misganaw T, Bogale A, Abriham ZY, Nasir Y, Jebessa G, Yohannes M, Kebede BA, Ayele MK, Abdo M, Habtamu G, Gizat A, Phelan J, Matlock B, Fidock DA, Campino S, Assefa A, Koepfli C, Massebo F, Tadesse FG",
+      "Journal": "Nature microbiology"
     },
     {
-      "PMID": "42525447",
-      "Title": "Benchmarking of real-time, field-deployable whole-genome sequencing of Plasmodium falciparum using Nanopore technology",
-      "Authors": "Razook Z, Mehra S, Naung MT, Gilchrist B, Wijegunasekara S, Utama D, Lautu-Gumal D, Fola AA, Menard D, Kazura J, Laman M, Mueller I, Robinson LJ, Bahlo M, Barry AE",
-      "Journal": "Microbial genomics"
-    },
-    {
-      "PMID": "42523104",
-      "Title": "Protection against Babesia infection by red blood cell PIEZO1 activation",
-      "Authors": "Wengelnik K, Lohia R, Paveyranne A, Le Guet J, P Jose G, Azoulay S, Honor\u00e9 E, Douguet D",
-      "Journal": "Microbiology spectrum"
+      "PMID": "42556607",
+      "Title": "Artificial Intelligence based identification of druggability of essential hypothetical proteins in Plasmodium falciparum",
+      "Authors": "Ray M, Dash SR, Mahapatra RK",
+      "Journal": "Experimental parasitology"
     }
   ]
 }

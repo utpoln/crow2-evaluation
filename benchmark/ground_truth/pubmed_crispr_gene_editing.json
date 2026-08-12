@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42550203",
-      "Title": "[Current and future therapies for bradykinin-mediated angioedema]",
-      "Authors": "Fasshauer M, Dominas N",
-      "Journal": "Dermatologie (Heidelberg, Germany)"
+      "PMID": "42580703",
+      "Title": "Adenovirus Vector-Mediated In\u00a0Vivo Knock-in Treatment of Neonatal Phenylketonuria Mice Using Terminally Cleaved Donor DNA",
+      "Authors": "Yamaji M, Tabata H, Nakamura M, Fuse R, Okada T, Ohba SI, Ohishi T, Kawada M, Saito I, Sato S, Nakanishi T",
+      "Journal": "The journal of gene medicine"
     },
     {
-      "PMID": "42549590",
-      "Title": "CRISPR/Cas9-edited organoids as a platform for tailored research of colorectal cancer",
-      "Authors": "Mojzesova N, Hladikova P, Kozovska Z, Poturnajova M, Tyciakova S, Matuskova M",
-      "Journal": "Neoplasma"
+      "PMID": "42580267",
+      "Title": "Clustered regularly interspaced short palindromic repeats\u2011associated protein 9 (CRISPR-Cas9) based genome editing in avian primordial germ cells: Comparative technologies, translational applications, and regulatory challenges",
+      "Authors": "Farooq M, Han D, Zhang L, Wadood AA, Geng Q, Chen J, Liang K, Xi Y, Jiao X, Hou J, Zhang Y",
+      "Journal": "Poultry science"
     },
     {
-      "PMID": "42549577",
-      "Title": "BASELINE: a CRISPR base editing platform for mammalian-scale single-cell lineage tracing",
-      "Authors": "Winter E, Emiliani F, Cook A, Abderrahim A, McKenna A",
-      "Journal": "Nucleic acids research"
+      "PMID": "42579301",
+      "Title": "Dual-line Genome-scale CRISPR Screening Enables Robust Target Gene Discovery",
+      "Authors": "Li Z, Qiao J, Zhang Q, Liu P, Zheng C, Zhou Q, Ji M, Zhu Z, Li X, Zhang H",
+      "Journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
     },
     {
-      "PMID": "42549575",
-      "Title": "Cas-regulation-targeting chimera enables selective and tunable control of CRISPR/Cas12a",
-      "Authors": "Li Y, Han P, Yuan R, Bai L, Qing M",
-      "Journal": "Nucleic acids research"
+      "PMID": "42579195",
+      "Title": "Effect of Glycosylphosphatidylinositol-specific phospholipase D1 knockout on the expression of antioxidant enzymes and sirtuin",
+      "Authors": "Lee SE, Kim MM",
+      "Journal": "Molecular biology reports"
     },
     {
-      "PMID": "42549491",
-      "Title": "The PtARF6/PtARF8-PtGH3.1 transcriptional module regulates auxin homeostasis and dwarfism in citrus",
-      "Authors": "Chen S, Fan Z, Peng J, Zheng H, Xu Q, Xiao S, Pan Z",
-      "Journal": "Plant physiology"
+      "PMID": "42578511",
+      "Title": "A strategy for decreasing prolamin content in rice endosperm through gene editing",
+      "Authors": "Shen Z, Li Y, Huang Y, Wang T, Jian S, Guan Z, Feng Y, Dang X, Shan X, Sun S, Guo M, Hu Z, Yang Y, Yan C",
+      "Journal": "Journal of integrative plant biology"
     },
     {
-      "PMID": "42545979",
-      "Title": "A Digital Microfluidic Electroporation Platform for Low-input CRISPR Genome Editing and mRNA Transfection In Suspension T Cells and 3D Cell Models",
-      "Authors": "Patel MA, Singh M, Sinha H, Vo PQN, Chin AB, Ellouzi A, West M, Hirukawa A",
-      "Journal": "Journal of visualized experiments : JoVE"
+      "PMID": "42578152",
+      "Title": "Disease-Modifying Therapies for Transthyretin Amyloid Cardiomyopathy: Current Evidence and Emerging Strategies",
+      "Authors": "Kachhadia MP, Gautam A, Meadows S, Kotadiya SR, Aryal R, Ilyas H, Shaikh JD, Gill G, Shah S, Patel J, Sanghvi HA",
+      "Journal": "Journal of clinical medicine research"
     },
     {
-      "PMID": "42545527",
-      "Title": "A Reproducible Electroporation Strategy for CRISPR-Cas9 RNP and mRNA Delivery in Fish Embryos",
-      "Authors": "Hu Y, Fang F, Cui Z, Chen S",
-      "Journal": "Marine biotechnology (New York, N.Y.)"
+      "PMID": "42577403",
+      "Title": "Highly efficient CRISPR editing enabled by magnetic nanoparticle delivery",
+      "Authors": "Go I, Lee SH",
+      "Journal": "Frontiers in genome editing"
     },
     {
-      "PMID": "42542076",
-      "Title": "Recent advances in biomarkers, artificial intelligence, and targeted therapeutic strategies in breast cancer: Current progress and future perspectives",
-      "Authors": "Sharma D, Bhardwaj P, Mishra KK, Mishra N, Tiwari A",
-      "Journal": "Cancer treatment and research communications"
+      "PMID": "42577382",
+      "Title": "Establishment of a scalable engineered cell-line platform for direct, GMP-grade production of eVLP vectors enabling streamlined generation of gene-edited CAR-T/NK cells",
+      "Authors": "Lin W, Shi J, Chen H, Chai R, Zhu S, Chen L, Mo S, Wang Z, Li H, Feng Y, Zhao L, Chen J, Yu G, Lu T, Wang J",
+      "Journal": "Frontiers in immunology"
     },
     {
-      "PMID": "42541388",
-      "Title": "Nonhuman Primate Genomes Have Limited Relevance for Evaluating Human CRISPR Off-Target Effects",
-      "Authors": "Blaha L, Bosinger M, Bodian DL, Qu V, Warner JB, Borges CM, Mueller C",
-      "Journal": "Human gene therapy"
+      "PMID": "42577088",
+      "Title": "Focused ultrasound-mediated lipid nanoparticle delivery for brain gene editing",
+      "Authors": "Zheng K, Tsitsos FN, Konofagou EE, Leong KW",
+      "Journal": "Molecular therapy. Nucleic acids"
     },
     {
-      "PMID": "42541310",
-      "Title": "Parahenipavirus langyaense (Langya virus): Spillover ecology, noncanonical receptor-mediated entry, and future control strategies",
-      "Authors": "Shen L, Tong Y, Chai W, Sun J, Zhao J, Yin L, Yang Y, Wang C, Tan W, Zhang J",
-      "Journal": "One health (Amsterdam, Netherlands)"
+      "PMID": "42576297",
+      "Title": "Innovation in pest management: can the past inform the future?",
+      "Authors": "Moog E, Dayan FE",
+      "Journal": "Pest management science"
     }
   ]
 }

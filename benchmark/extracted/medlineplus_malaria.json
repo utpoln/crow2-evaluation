@@ -1,0 +1,36 @@
+{
+  "resource_id": "medlineplus_malaria",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=malaria&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.775209208999968,
+  "record_count": 7,
+  "records": [
+    {
+      "Title": "Malaria",
+      "URL": "https://medlineplus.gov/malaria.html"
+    },
+    {
+      "Title": "Global Health",
+      "URL": "https://medlineplus.gov/globalhealth.html"
+    },
+    {
+      "Title": "Mosquito Bites",
+      "URL": "https://medlineplus.gov/mosquitobites.html"
+    },
+    {
+      "Title": "Infectious Diseases",
+      "URL": "https://medlineplus.gov/infectiousdiseases.html"
+    },
+    {
+      "Title": "Insect Bites and Stings",
+      "URL": "https://medlineplus.gov/insectbitesandstings.html"
+    },
+    {
+      "Title": "Parasitic Diseases",
+      "URL": "https://medlineplus.gov/parasiticdiseases.html"
+    },
+    {
+      "Title": "Pregnancy and Medicines",
+      "URL": "https://medlineplus.gov/pregnancyandmedicines.html"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_diabetes",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Diabetes",
+      "URL": "https://medlineplus.gov/diabetes.html"
+    },
+    {
+      "Title": "Diabetes Type 1",
+      "URL": "https://medlineplus.gov/diabetestype1.html"
+    },
+    {
+      "Title": "Diabetes Type 2",
+      "URL": "https://medlineplus.gov/diabetestype2.html"
+    },
+    {
+      "Title": "Diabetes and Pregnancy",
+      "URL": "https://medlineplus.gov/diabetesandpregnancy.html"
+    },
+    {
+      "Title": "Diabetes in Children and Teens",
+      "URL": "https://medlineplus.gov/diabetesinchildrenandteens.html"
+    },
+    {
+      "Title": "How to Prevent Diabetes",
+      "URL": "https://medlineplus.gov/howtopreventdiabetes.html"
+    },
+    {
+      "Title": "Diabetes Complications",
+      "URL": "https://medlineplus.gov/diabetescomplications.html"
+    },
+    {
+      "Title": "Diabetes Insipidus",
+      "URL": "https://medlineplus.gov/diabetesinsipidus.html"
+    },
+    {
+      "Title": "Diabetes Medicines",
+      "URL": "https://medlineplus.gov/diabetesmedicines.html"
+    },
+    {
+      "Title": "A1C",
+      "URL": "https://medlineplus.gov/a1c.html"
+    }
+  ]
+}

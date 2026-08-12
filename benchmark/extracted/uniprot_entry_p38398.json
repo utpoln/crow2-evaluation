@@ -1,0 +1,14 @@
+{
+  "resource_id": "uniprot_entry_p38398",
+  "url": "https://www.uniprot.org/uniprotkb/P38398/entry",
+  "elapsed_seconds": 12.335012666999997,
+  "record_count": 1,
+  "records": [
+    {
+      "ProteinName": "Breast cancer type 1 susceptibility protein",
+      "GeneName": "BRCA1",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

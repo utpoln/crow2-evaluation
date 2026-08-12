@@ -1,0 +1,70 @@
+{
+  "resource_id": "medlineplus_asthma",
+  "status": "success",
+  "elapsed_seconds": 7.06,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "Asthma",
+          "URL": "https://medlineplus.gov/asthma.html"
+        },
+        {
+          "Title": "Asthma in Children",
+          "URL": "https://medlineplus.gov/asthmainchildren.html"
+        },
+        {
+          "Title": "Latex Allergy",
+          "URL": "https://medlineplus.gov/latexallergy.html"
+        },
+        {
+          "Title": "Allergy",
+          "URL": "https://medlineplus.gov/allergy.html"
+        },
+        {
+          "Title": "COPD",
+          "URL": "https://medlineplus.gov/copd.html"
+        },
+        {
+          "Title": "Flu",
+          "URL": "https://medlineplus.gov/flu.html"
+        },
+        {
+          "Title": "Smoking",
+          "URL": "https://medlineplus.gov/smoking.html"
+        },
+        {
+          "Title": "Hay Fever",
+          "URL": "https://medlineplus.gov/hayfever.html"
+        },
+        {
+          "Title": "Molds",
+          "URL": "https://medlineplus.gov/molds.html"
+        },
+        {
+          "Title": "Occupational Health",
+          "URL": "https://medlineplus.gov/occupationalhealth.html"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 4968,
+      "completion_tokens": 554
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 4525
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "a1408655-b7a6-4d88-8eac-876f45ca033c"
+  },
+  "error": null
+}

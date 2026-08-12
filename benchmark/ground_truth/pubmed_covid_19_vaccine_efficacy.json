@@ -3,6 +3,24 @@
   "method": "pubmed_eutils",
   "records": [
     {
+      "PMID": "42576507",
+      "Title": "Public Perception and Acceptance of COVID-19 Vaccines in Iraq During the Pandemic",
+      "Authors": "Oufi HG, Hamid HK, Kutaif RH",
+      "Journal": "Pakistan journal of biological sciences : PJBS"
+    },
+    {
+      "PMID": "42570961",
+      "Title": "Healthy vaccinee effect in the evaluation of updated COVID-19 vaccines in elderly populations",
+      "Authors": "Lyth J, Spreco A, Hinkula J, Bj\u00f6rneld O, Eriksson O, Nordvall D, Dahlstr\u00f6m \u00d6, Gursky EA, Sch\u00f6n T, Timpka T",
+      "Journal": "Nature communications"
+    },
+    {
+      "PMID": "42560160",
+      "Title": "'I took the vaccine to protect myself': determinants of COVID-19 vaccine confidence in Indigenous communities in Northwest Territories, Canada",
+      "Authors": "Kolahdooz F, Zakkar M, Manning C, Omidimorad A, Jang SL, Nader F, Milani S, Wagg A, Gotay C, DeLancey D, Kandola K, Corriveau A, Irlbacher-Fox S, Sharma S",
+      "Journal": "Health promotion international"
+    },
+    {
       "PMID": "42547171",
       "Title": "Vaccines for the Prevention of COVID-19 in Older Adults",
       "Authors": "Olagunju OJ, Oyebanji OA, Mylonakis E, Canaday DH",
@@ -43,24 +61,6 @@
       "Title": "Folic Acid and Endothelial Dysfunction in COVID-19",
       "Authors": "Massip Copiz MM",
       "Journal": "Life (Basel, Switzerland)"
-    },
-    {
-      "PMID": "42509561",
-      "Title": "The current landscape of mRNA therapy and the strategies for mRNA purification and dsRNA removal",
-      "Authors": "Liu JH, Zang J, Xu JR, Ran XB, Su M, Zhang WM, Ge ZW, Sun QY, Ding LW",
-      "Journal": "Journal of biomedical science"
-    },
-    {
-      "PMID": "42506747",
-      "Title": "Neutralizing Antibody Response Dynamics in COVID-19: Insights from Healthy Vaccinees, Breakthrough Infections, and Critically Ill Patients",
-      "Authors": "Ahmed N, Yusof W, Musa N, Cheng KY, Abdullah N, Hassan R, Samsudin MNF, Hashim AMB, Ravichandran M, Chuan CW, Yean CY",
-      "Journal": "Tropical medicine and infectious disease"
-    },
-    {
-      "PMID": "42506608",
-      "Title": "Arming Inactivated Enveloped Virus Vaccines with the GGTA1 Gene: A Potent Method for Amplification of Viral Vaccines Effectiveness and Protection Against Variants",
-      "Authors": "Galili U",
-      "Journal": "Vaccines"
     }
   ]
 }

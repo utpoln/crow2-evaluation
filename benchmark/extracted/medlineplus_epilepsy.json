@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_epilepsy",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=epilepsy&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 5.196630625000012,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Epilepsy",
+      "URL": "https://medlineplus.gov/epilepsy.html"
+    },
+    {
+      "Title": "Seizures",
+      "URL": "https://medlineplus.gov/seizures.html"
+    },
+    {
+      "Title": "Movement Disorders",
+      "URL": "https://medlineplus.gov/movementdisorders.html"
+    },
+    {
+      "Title": "Aphasia",
+      "URL": "https://medlineplus.gov/aphasia.html"
+    },
+    {
+      "Title": "Bone Density",
+      "URL": "https://medlineplus.gov/bonedensity.html"
+    },
+    {
+      "Title": "Cerebellar Disorders",
+      "URL": "https://medlineplus.gov/cerebellardisorders.html"
+    },
+    {
+      "Title": "Dementia",
+      "URL": "https://medlineplus.gov/dementia.html"
+    },
+    {
+      "Title": "Genetic Brain Disorders",
+      "URL": "https://medlineplus.gov/geneticbraindisorders.html"
+    },
+    {
+      "Title": "Marijuana",
+      "URL": "https://medlineplus.gov/marijuana.html"
+    },
+    {
+      "Title": "Migraine",
+      "URL": "https://medlineplus.gov/migraine.html"
+    }
+  ]
+}

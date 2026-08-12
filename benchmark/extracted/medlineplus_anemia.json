@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_anemia",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=anemia&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 5.135962250000034,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Anemia",
+      "URL": "https://medlineplus.gov/anemia.html"
+    },
+    {
+      "Title": "Thalassemia",
+      "URL": "https://medlineplus.gov/thalassemia.html"
+    },
+    {
+      "Title": "Aplastic Anemia",
+      "URL": "https://medlineplus.gov/aplasticanemia.html"
+    },
+    {
+      "Title": "Sickle Cell Disease",
+      "URL": "https://medlineplus.gov/sicklecelldisease.html"
+    },
+    {
+      "Title": "B Vitamins",
+      "URL": "https://medlineplus.gov/bvitamins.html"
+    },
+    {
+      "Title": "Iron",
+      "URL": "https://medlineplus.gov/iron.html"
+    },
+    {
+      "Title": "Bone Marrow Diseases",
+      "URL": "https://medlineplus.gov/bonemarrowdiseases.html"
+    },
+    {
+      "Title": "Blood Disorders",
+      "URL": "https://medlineplus.gov/blooddisorders.html"
+    },
+    {
+      "Title": "Malnutrition",
+      "URL": "https://medlineplus.gov/malnutrition.html"
+    },
+    {
+      "Title": "Bone Marrow Transplantation",
+      "URL": "https://medlineplus.gov/bonemarrowtransplantation.html"
+    }
+  ]
+}

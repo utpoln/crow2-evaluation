@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_keratin",
   "url": "https://www.uniprot.org/uniprotkb?query=keratin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.204935542000044,
+  "elapsed_seconds": 12.275805167000044,
   "record_count": 25,
   "records": [
     {

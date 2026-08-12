@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_hemoglobin",
   "url": "https://www.uniprot.org/uniprotkb?query=hemoglobin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.227523749999989,
+  "elapsed_seconds": 12.345635540999979,
   "record_count": 25,
   "records": [
     {

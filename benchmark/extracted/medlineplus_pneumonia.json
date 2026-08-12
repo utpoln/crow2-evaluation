@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_pneumonia",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=pneumonia&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.785927124999944,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Pneumonia",
+      "URL": "https://medlineplus.gov/pneumonia.html"
+    },
+    {
+      "Title": "Pneumocystis Infections",
+      "URL": "https://medlineplus.gov/pneumocystisinfections.html"
+    },
+    {
+      "Title": "Legionnaires' Disease",
+      "URL": "https://medlineplus.gov/legionnairesdisease.html"
+    },
+    {
+      "Title": "Pneumococcal Infections",
+      "URL": "https://medlineplus.gov/pneumococcalinfections.html"
+    },
+    {
+      "Title": "HIV and Infections",
+      "URL": "https://medlineplus.gov/hivandinfections.html"
+    },
+    {
+      "Title": "Smoking",
+      "URL": "https://medlineplus.gov/smoking.html"
+    },
+    {
+      "Title": "Staphylococcal Infections",
+      "URL": "https://medlineplus.gov/staphylococcalinfections.html"
+    },
+    {
+      "Title": "Streptococcal Infections",
+      "URL": "https://medlineplus.gov/streptococcalinfections.html"
+    },
+    {
+      "Title": "Bird Flu",
+      "URL": "https://medlineplus.gov/birdflu.html"
+    },
+    {
+      "Title": "Breathing Problems",
+      "URL": "https://medlineplus.gov/breathingproblems.html"
+    }
+  ]
+}

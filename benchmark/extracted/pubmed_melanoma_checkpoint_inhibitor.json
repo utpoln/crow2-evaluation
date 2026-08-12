@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_melanoma_checkpoint_inhibitor",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=melanoma+checkpoint+inhibitor&sort=date",
-  "elapsed_seconds": 5.285149125000004,
+  "elapsed_seconds": 5.273791625000001,
   "record_count": 10,
   "records": [
     {
-      "Title": "Effective Multi-agent Therapy With Anakinra, Corticosteroids and Mycophenolate in Immunotherapy-Associated Haemophagocytic Lymphohistiocytosis (HLH).",
-      "Authors": "Tanmoy AD, Eaw FJ, Mykura C, Pradeep DS, Gold S.",
-      "Journal": "Cureus. 2026 Jul 1;18(7):e111913. doi: 10.7759/cureus.111913. eCollection 2026 Jul.",
-      "PMID": "42541214"
+      "Title": "Clinical outcomes of intrathecal anti-PD-1 therapy with or without whole-brain radiotherapy in melanoma leptomeningeal metastasis: a multicenter retrospective study.",
+      "Authors": "Zhen J, Zhang R, Li D, Ding Y, Wen X, Yang Y, Wang H, Lai M, Zhang X, Cai L, Li J.",
+      "Journal": "Front Immunol. 2026 Jul 27;17:1830452. doi: 10.3389/fimmu.2026.1830452. eCollection 2026.",
+      "PMID": "42577372"
     },
     {
-      "Title": "Case Report: Penile malignant melanoma: insights from a three-case series and literature review on diagnosis and management.",
-      "Authors": "Xu X, Hou X, Li H, Chen Y, Jiang B, Zhang H.",
-      "Journal": "Front Oncol. 2026 Jul 17;16:1817540. doi: 10.3389/fonc.2026.1817540. eCollection 2026.",
-      "PMID": "42539517"
+      "Title": "Ocular adverse events associated with immune checkpoint inhibitors: a pharmacovigilance analysis of the FAERS database.",
+      "Authors": "Liu X, Ji A.",
+      "Journal": "Front Pharmacol. 2026 Jul 27;17:1808874. doi: 10.3389/fphar.2026.1808874. eCollection 2026.",
+      "PMID": "42577260"
     },
     {
-      "Title": "Efficacy and safety of immune checkpoint inhibitor rechallenge in cervical and endometrial cancer: a multi-center retrospective study (RICE study).",
-      "Authors": "Kabirian R, de Saint Ghislain M, Le Saux O, Mathiot L, Frenel JS, Augereau P, Forestier A, Fumet JD, Eberst L, Quesada S, Kalbacher E, Lescure C, De La Motte Rouge T, Grau Bejar JF, Barraud S, Genevee T, Bello Roufai D, Rodrigues M, Leary A.",
-      "Journal": "Int J Gynecol Cancer. 2026 Jul 15:104867. doi: 10.1016/j.ijgc.2026.104867. Online ahead of print.",
-      "PMID": "42538280"
+      "Title": "Bilateral Blindness Due to Radiation-Induced Optic Neuropathy in a Patient with Nasal Mucosal Melanoma.",
+      "Authors": "Benetti MA, Le\u00f3n-Cejas L, Miquelini LA, Ribero-Ayerza D, Caiza-Zambrano F, Reisin R.",
+      "Journal": "Rom J Ophthalmol. 2026 Apr-Jun;70(2):338-342. doi: 10.22336/rjo.2026.47.",
+      "PMID": "42572628"
     },
     {
-      "Title": "Modelling targeted therapy efficacy in NRAS mutant conjunctival melanoma.",
-      "Authors": "V\u00e4lim\u00e4ki E, Alanne E, Suhonen J, Ruiz W, Torkkila J, Kukkula A, Hartiala P, Vainio P, Sundvall M, Rantala JK; PROEXMET study group.",
-      "Journal": "Biomed Pharmacother. 2026 Jul 31;202:119803. doi: 10.1016/j.biopha.2026.119803. Online ahead of print.",
-      "PMID": "42537395"
+      "Title": "Outcomes of Immune Check Point Inhibitor Use in US Veterans With Pre-Existing Idiopathic Inflammatory Myopathies: Case Series and Literature Review.",
+      "Authors": "Krutko D, Rubino S, Kunkel GA, Walsh JA, Rojas J, Sauer BC, Patel S, Cannon GW, Braaten TJ.",
+      "Journal": "ACR Open Rheumatol. 2026 Aug;8(8):e90127. doi: 10.1002/acr2.90127.",
+      "PMID": "42572441"
     },
     {
-      "Title": "Case Report: Durable remission in stage IV melanoma following strategic immune checkpoint inhibitor class rotation and rechallenge.",
-      "Authors": "Raja J, Li S, Patterson A, Martinez SR, Soriano PA, Wang X, Jiang PYZ.",
-      "Journal": "Front Oncol. 2026 Jul 16;16:1875467. doi: 10.3389/fonc.2026.1875467. eCollection 2026.",
-      "PMID": "42534945"
+      "Title": "Baseline dual-energy CT iodine uptake predicts systemic but not lesion-level progression in immunotherapy-treated metastatic melanoma.",
+      "Authors": "Bleymehl V, Akbal S, Schepers JC, Schroth M, Op Gen Oorth PV, Winneknecht F, Machiraju D, Holzschuh JC, Zhang KS, Hassel JC, Schlemmer HP, Rotkopf LT.",
+      "Journal": "Eur J Radiol. 2026 Aug 5;204:113137. doi: 10.1016/j.ejrad.2026.113137. Online ahead of print.",
+      "PMID": "42571761"
     },
     {
-      "Title": "Secondary Adrenal Insufficiency and Multisystem Endocrinopathy Following Immune Checkpoint Inhibitor Therapy.",
-      "Authors": "Fedorova O, AlSaraj F.",
-      "Journal": "Ann Afr Med. 2026 Jul 30. doi: 10.4103/aam.aam_658_25. Online ahead of print.",
-      "PMID": "42533742"
+      "Title": "The role of KIT mutations in oral melanoma and disease progression: A literature review on early detection and targeted therapy.",
+      "Authors": "Priyankha S, Ganapathy D, Nair S, Sivaperumal P.",
+      "Journal": "Mutat Res. 2026 Jul 30;833:111946. doi: 10.1016/j.mrfmmm.2026.111946. Online ahead of print.",
+      "PMID": "42551138"
     },
     {
-      "Title": "Impact of Dietary Fiber Intake on the Immunological Response to Immunotherapy in Cancer Patients: A Scoping Review.",
-      "Authors": "Sousa MES, de Almeida VD, da Silva J\u00fanior RR, de Fernandes TAAM, de Andrade MF.",
-      "Journal": "Cancer Med. 2026 Aug;15(8):e72108. doi: 10.1002/cam4.72108.",
-      "PMID": "42533258"
+      "Title": "Circulating thymidine kinase activity predicts survival and optimal treatment sequencing in BRAF-mutated metastatic melanoma in the SECOMBIT trial.",
+      "Authors": "Helgadottir H, Capone M, Ridolfi L, Zambelli A, Piccin L, Gogas H, Tucci M, Quaglino P, Del Vecchio M, Minisini AM, Spagnolo F, Rutkowski P, Ferraresi V, Arance A, Guida M, Maiello E, Lebb\u00e9 C, Bulgarelli J, Chiarion Sileni V, Paone M, Melero I, Trojaniello C, Bergqvist M, Dummer R, Giannarelli D, Palmieri G, Ascierto PA.",
+      "Journal": "Clin Cancer Res. 2026 Aug 4. doi: 10.1158/1078-0432.CCR-26-1402. Online ahead of print.",
+      "PMID": "42550831"
     },
     {
-      "Title": "Cemiplimab and Fianlimab With Neoadjuvant Chemotherapy in Early-Stage High-Risk ERBB2-Negative Breast Cancer: The I-SPY2 Randomized Clinical Trial.",
-      "Authors": "Isaacs C, Nanda R, Yau C, Chien AJ, Hershman DL, Stringer-Reasor EM, Wallace AM, Thomas A, Vaklavas C, Clark AS, Kennedy LC, Sanford A, Boughey JC, Albain KS, Pusztai L, Kalinsky KM, Beckwith H, Williams NO, Han HS, Falkson C, Arora M, Elias AD, Pohlmann PR, Rozenblit M, Marshall N, Chen YY, Trivedi MS, McGuinness JE, Howard FM, Chen N, Khoury K, Lancaster RB, Yeung KT, Douglas E, Wei M, Mainor C, LeStage B, Delson AL, Asare AL, Brown-Swigart L, Hirst GL, Matthews JB, Perlmutter J, Symmans WF, Yee D, Hylton NM, van 't Veer LJ, Rugo HS, DeMichele AM, Berry DA, Esserman LJ.",
-      "Journal": "JAMA Oncol. 2026 Jul 30:e262576. doi: 10.1001/jamaoncol.2026.2576. Online ahead of print.",
-      "PMID": "42530945"
+      "Title": "Drug-associated vitiligo: A systematic review of therapies, clinical patterns and mechanisms.",
+      "Authors": "Doolan BJ, Ali A, Ferguson J.",
+      "Journal": "Clin Exp Dermatol. 2026 Aug 8:llag350. doi: 10.1093/ced/llag350. Online ahead of print.",
+      "PMID": "42568118"
     },
     {
-      "Title": "Life-Threatening Secondary Adrenal Crisis Triggered by Pembrolizumab-Induced Hypophysitis: A Case Report.",
-      "Authors": "Thu AN, Babar M.",
-      "Journal": "Cureus. 2026 Jun 28;18(6):e111692. doi: 10.7759/cureus.111692. eCollection 2026 Jun.",
-      "PMID": "42528939"
+      "Title": "A rare case of cytomegalovirus mucositis resembling an immune-related adverse event during treatment with nivolumab and ipilimumab.",
+      "Authors": "Watanabe T, Omura G, Mori T, Yoshimoto S, Ogata D.",
+      "Journal": "Auris Nasus Larynx. 2026 Aug 7:S0385-8146(26)00119-7. doi: 10.1016/j.anl.2026.07.006. Online ahead of print.",
+      "PMID": "42567770"
     },
     {
-      "Title": "A Single Center Real-world Observational Study of Response to Dacarbazine or Dacarbazine Combinations in Metastatic Melanoma Refractory to Immunotherapy.",
-      "Authors": "Anwar M, Melendez-Torres GJ, Frazer RD.",
-      "Journal": "Anticancer Res. 2026 Aug;46(8):4471-4477. doi: 10.21873/anticanres.18303.",
-      "PMID": "42527077"
+      "Title": "Circulating B cell and T cell activation states predict clinical outcomes in melanoma and reveal dynamic immune reinvigoration with checkpoint inhibitor immunotherapy.",
+      "Authors": "Booth L, Adams R, Clifford A, Aguilar F, Ali N, Bishop C, Sufi J, Wu Y, Fitzpartick A, Geh JLC, MacKenzie Ross AD, Lloyd-Hughes H, Stodell M, Daniel CS, Whittaker S, Sinha K, Willsmore ZN, Terranova-Barberio M, Ali N, Lacy KE, Tull TJ, Tsoka S, Karagiannis SN.",
+      "Journal": "J Immunother Cancer. 2026 Aug 7;14(8):e015585. doi: 10.1136/jitc-2026-015585.",
+      "PMID": "42567561"
     }
   ]
 }

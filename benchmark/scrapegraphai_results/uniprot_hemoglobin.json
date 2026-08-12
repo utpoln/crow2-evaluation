@@ -1,0 +1,29 @@
+{
+  "resource_id": "uniprot_hemoglobin",
+  "status": "success",
+  "elapsed_seconds": 6.04,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": []
+    },
+    "usage": {
+      "prompt_tokens": 912,
+      "completion_tokens": 114
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 449
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "2d76a73a-07d2-4930-a4b6-f428ffe439c9"
+  },
+  "error": null
+}

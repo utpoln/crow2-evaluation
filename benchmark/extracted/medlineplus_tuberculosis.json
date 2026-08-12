@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_tuberculosis",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=tuberculosis&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 5.175208666000003,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Tuberculosis",
+      "URL": "https://medlineplus.gov/tuberculosis.html"
+    },
+    {
+      "Title": "Mycobacterial Infections",
+      "URL": "https://medlineplus.gov/mycobacterialinfections.html"
+    },
+    {
+      "Title": "Health Disparities",
+      "URL": "https://medlineplus.gov/healthdisparities.html"
+    },
+    {
+      "Title": "Infections and Pregnancy",
+      "URL": "https://medlineplus.gov/infectionsandpregnancy.html"
+    },
+    {
+      "Title": "Antibiotic Resistance",
+      "URL": "https://medlineplus.gov/antibioticresistance.html"
+    },
+    {
+      "Title": "Bone Infections",
+      "URL": "https://medlineplus.gov/boneinfections.html"
+    },
+    {
+      "Title": "Global Health",
+      "URL": "https://medlineplus.gov/globalhealth.html"
+    },
+    {
+      "Title": "Health Screening",
+      "URL": "https://medlineplus.gov/healthscreening.html"
+    },
+    {
+      "Title": "HIV",
+      "URL": "https://medlineplus.gov/hiv.html"
+    },
+    {
+      "Title": "HIV and Infections",
+      "URL": "https://medlineplus.gov/hivandinfections.html"
+    }
+  ]
+}

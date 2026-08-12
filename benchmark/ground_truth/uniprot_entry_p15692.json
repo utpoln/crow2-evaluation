@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p15692",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Vascular endothelial growth factor A, long form",
+      "GeneName": "VEGFA",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

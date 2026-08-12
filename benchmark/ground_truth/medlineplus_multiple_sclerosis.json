@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_multiple_sclerosis",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Multiple Sclerosis",
+      "URL": "https://medlineplus.gov/multiplesclerosis.html"
+    },
+    {
+      "Title": "Fatigue",
+      "URL": "https://medlineplus.gov/fatigue.html"
+    },
+    {
+      "Title": "Health Problems in Pregnancy",
+      "URL": "https://medlineplus.gov/healthproblemsinpregnancy.html"
+    },
+    {
+      "Title": "Marijuana",
+      "URL": "https://medlineplus.gov/marijuana.html"
+    },
+    {
+      "Title": "Optic Nerve Disorders",
+      "URL": "https://medlineplus.gov/opticnervedisorders.html"
+    },
+    {
+      "Title": "Steroids",
+      "URL": "https://medlineplus.gov/steroids.html"
+    },
+    {
+      "Title": "Tremor",
+      "URL": "https://medlineplus.gov/tremor.html"
+    },
+    {
+      "Title": "Trigeminal Neuralgia",
+      "URL": "https://medlineplus.gov/trigeminalneuralgia.html"
+    },
+    {
+      "Title": "Urinary Incontinence",
+      "URL": "https://medlineplus.gov/urinaryincontinence.html"
+    },
+    {
+      "Title": "Walking Problems",
+      "URL": "https://medlineplus.gov/walkingproblems.html"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_cystic_fibrosis",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=cystic+fibrosis&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.5540445830000635,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Cystic Fibrosis",
+      "URL": "https://medlineplus.gov/cysticfibrosis.html"
+    },
+    {
+      "Title": "Pulmonary Rehabilitation",
+      "URL": "https://medlineplus.gov/pulmonaryrehabilitation.html"
+    },
+    {
+      "Title": "Pancreatic Diseases",
+      "URL": "https://medlineplus.gov/pancreaticdiseases.html"
+    },
+    {
+      "Title": "Newborn Screening",
+      "URL": "https://medlineplus.gov/newbornscreening.html"
+    },
+    {
+      "Title": "Aspergillosis",
+      "URL": "https://medlineplus.gov/aspergillosis.html"
+    },
+    {
+      "Title": "Dehydration",
+      "URL": "https://medlineplus.gov/dehydration.html"
+    },
+    {
+      "Title": "Lung Transplantation",
+      "URL": "https://medlineplus.gov/lungtransplantation.html"
+    },
+    {
+      "Title": "Oxygen Therapy",
+      "URL": "https://medlineplus.gov/oxygentherapy.html"
+    },
+    {
+      "Title": "Pancreatitis",
+      "URL": "https://medlineplus.gov/pancreatitis.html"
+    },
+    {
+      "Title": "Prenatal Testing",
+      "URL": "https://medlineplus.gov/prenataltesting.html"
+    }
+  ]
+}

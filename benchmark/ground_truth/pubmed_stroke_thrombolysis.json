@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42549211",
-      "Title": "Treatment of a Symptomatic Carotid Web: A Case Report and Review of the Literature",
-      "Authors": "Shehata M, Tee S, Elsharkawy A",
-      "Journal": "Cureus"
+      "PMID": "42580926",
+      "Title": "Prognostic value of stroke etiology following bridging therapy with tenecteplase: A TETRIS analysis",
+      "Authors": "Wiener E, Gerschenfeld G, Chausson N, Olindo S, Marnat G, Turc G, Hassen WB, Seners P, Piotin M, Smadja D, Kyheng M, Caroff J, Claren\u00e7on F, Alamowitch S, Pico F",
+      "Journal": "Revue neurologique"
     },
     {
-      "PMID": "42548762",
-      "Title": "Association between plasma ADAMTS13 levels/activity and the risk of ischemic stroke and outcomes of recanalization therapies: a systematic review and meta-analysis",
-      "Authors": "Li Y, Ding R, Gao P, Liu Z, Pei X, Piao L",
+      "PMID": "42580861",
+      "Title": "Posttreatment FLAIR Hyperintense Vessels Refine mTICI-Based Reperfusion Phenotypes After Endovascular Thrombectomy",
+      "Authors": "Tsang DA, Gad M, Lalwani K, Ubachukwu T, Salim HA, Lakhani DA, Lu N, Sriwastwa A, Yedavalli VS",
+      "Journal": "AJNR. American journal of neuroradiology"
+    },
+    {
+      "PMID": "42580825",
+      "Title": "Efficacy and safety of intracoronary injection of recombinant human prourokinase in patients with slow blood flow/no-reflow during PCI for acute coronary syndrome: a randomised controlled, double-blind, placebo controlled, national multicentre clinical study protocol (PUK-ACS study)",
+      "Authors": "Lv W, Ye Y, Xie X, Zhang Y, Wang J",
+      "Journal": "BMJ open"
+    },
+    {
+      "PMID": "42579828",
+      "Title": "Distal Vessel Occlusions in Acute Ischemic Stroke: Reframing Patient Selection and Reperfusion Strategies",
+      "Authors": "Jab\u0142o\u0144ska M, Rib\u00f3 M",
+      "Journal": "Neurology"
+    },
+    {
+      "PMID": "42577070",
+      "Title": "A nomogram integrating hemodynamic and inflammatory markers to predict early neurological deterioration after tenecteplase in branch atheromatous disease: an early in-hospital risk stratification model",
+      "Authors": "Yuan C, Zhang Q, Zhu Y, Zhou Q, Liu Q, Zhang L",
       "Journal": "Frontiers in neurology"
     },
     {
-      "PMID": "42548511",
-      "Title": "Microcirculatory failure after successful recanalization in ischemic stroke: insights into mechanisms, imaging, and therapeutic strategies",
-      "Authors": "Wu G, Lin L, Hong W, Kang Z, Wang X, Wang F, Wang E",
-      "Journal": "Frontiers in pharmacology"
+      "PMID": "42576970",
+      "Title": "A Systemic embolization model in a rat with real-time micro-fluoroscopy for direct quantification of thrombolysis",
+      "Authors": "Scheer P, Hlo\u017ekov\u00e1 J, Novobilsk\u00fd A, Ondru\u0161 J, Brhelov\u00e1 E, Dole\u017ealov\u00e1 J, Aksu AD, Opat\u0159ilov\u00e1 R, Grayston A, Rosell A, Ma\u0161ek J, Mikul\u00edk R",
+      "Journal": "MethodsX"
     },
     {
-      "PMID": "42547965",
-      "Title": "Access and timeliness of acute stroke reperfusion after cluster-wide protocol standardisation: an interrupted time-series study in Hong Kong",
-      "Authors": "Koo HL, Sheng B, Engineer LD",
-      "Journal": "International journal for quality in health care : journal of the International Society for Quality in Health Care"
+      "PMID": "42576543",
+      "Title": "Mechanochemical endothelial-astrocyte signalling via Piezo1-Epac1 drives neurovascular injury after stroke",
+      "Authors": "Liu Y, Sun M, Shen M, Yang X, Sheng Z, Fang Z, Zhang Y, Wang Z, Zhou L, Wu J, Wang H, Zhang H, Chen H, Wu Z, Xu H, Li F, Feng J",
+      "Journal": "Brain : a journal of neurology"
     },
     {
-      "PMID": "42545430",
-      "Title": "Thrombolytic resistance: an important factor leading to the failure of intravenous thrombolytic therapy",
-      "Authors": "Liu J, Gao X, Sun Y, Shang Y, Guo J, Cheng J, Bi X, Zhang X",
-      "Journal": "Journal of neurology"
+      "PMID": "42575678",
+      "Title": "Spontaneous haemarthrosis after tenecteplase administration for acute ischaemic stroke",
+      "Authors": "Goldstein R, Menashe G",
+      "Journal": "BMJ case reports"
     },
     {
-      "PMID": "42544504",
-      "Title": "Standard Antiplatelet Therapy Versus Thrombolysis in Acute Spontaneous Spinal Cord Infarction: A Propensity Score-Matched Analysis",
-      "Authors": "AbuAlrob MA, Al-Salahat A, Zammar K, Al-Jerdi S",
-      "Journal": "Stroke"
+      "PMID": "42573948",
+      "Title": "Treatment interventions and outcomes of stroke patients transported by helicopter emergency medical services to a comprehensive stroke center",
+      "Authors": "Freymond M, Genise K, O'Dochartaigh D, Violato E, Holodinsky J, Berard JP, Lin K",
+      "Journal": "CJEM"
     },
     {
-      "PMID": "42544312",
-      "Title": "Comparison of Functional Recovery and In-Hospital Outcomes Between Thrombolysed and Non-thrombolysed Patients With Acute Ischemic Stroke: A Retrospective Comparative Cohort Study",
-      "Authors": "Ahmad MA, Haddad N, Israr MU, Aamir A, Baig AK, Ikram I, Saleem A",
-      "Journal": "Cureus"
-    },
-    {
-      "PMID": "42543956",
-      "Title": "A Study on Prehospital Factors Determining the Timely Arrival for Thrombolysis among Patients Presenting with Acute Ischemic Stroke at a Tertiary Care Center in South India",
-      "Authors": "P S NS, Vadanere NP, Mugundhan K, Velayudham S, Jeyaraj M, Sowmini PR",
-      "Journal": "The Journal of the Association of Physicians of India"
-    },
-    {
-      "PMID": "42542614",
-      "Title": "Delayed M1 Dissection After Thrombectomy Treated With Rescue Stenting and Tirofiban: A Case Report",
-      "Authors": "Vargas OF, Salcedo-Mesa J, Valera P, Ortiz Layton LC",
-      "Journal": "Cureus"
-    },
-    {
-      "PMID": "42539831",
-      "Title": "Cerebral small vessel disease impairs dynamic cerebral autoregulation and mediates outcomes after stroke thrombectomy",
-      "Authors": "Qiao Y, Liu R, Cai L, Zhao M, Yuan B, Fan S, Wang S, Li J, Wu L, Xing Y, Ma Q, Zhao W",
-      "Journal": "Therapeutic advances in neurological disorders"
+      "PMID": "42570210",
+      "Title": "Apolipoprotein B100 and white matter hyperintensity as distinct mediators of thrombolytic response in acute stroke: preliminary findings",
+      "Authors": "Hou D, Wang Y, Tang Y, Zhong P, Wu D",
+      "Journal": "Journal of thrombosis and thrombolysis"
     }
   ]
 }

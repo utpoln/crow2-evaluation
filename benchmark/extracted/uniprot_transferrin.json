@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_transferrin",
   "url": "https://www.uniprot.org/uniprotkb?query=transferrin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.193399709000005,
+  "elapsed_seconds": 12.270282333000011,
   "record_count": 25,
   "records": [
     {

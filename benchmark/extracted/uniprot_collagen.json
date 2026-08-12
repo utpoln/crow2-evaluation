@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_collagen",
   "url": "https://www.uniprot.org/uniprotkb?query=collagen&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.242042208999976,
+  "elapsed_seconds": 12.359894042000008,
   "record_count": 25,
   "records": [
     {

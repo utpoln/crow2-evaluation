@@ -33,6 +33,11 @@
       "Status": "COMPLETED"
     },
     {
+      "NCT_ID": "NCT07755501",
+      "Title": "Virtual Reality in Lung Cancer Patients",
+      "Status": "NOT_YET_RECRUITING"
+    },
+    {
       "NCT_ID": "NCT07111104",
       "Title": "Survival Efficacy of Combined Radiotherapy and Immunotherapy in Patients With Metastatic Non-small Cell Lung Carcinoma",
       "Status": "COMPLETED"
@@ -46,11 +51,6 @@
       "NCT_ID": "NCT07202260",
       "Title": "Pragmatic Analysis of Complex Radiotherapy Cases In Cancer of the Lung",
       "Status": "ACTIVE_NOT_RECRUITING"
-    },
-    {
-      "NCT_ID": "NCT07166003",
-      "Title": "Efficacy of Neoadjuvant Immunotherapy in Patients With Lung Cancer",
-      "Status": "RECRUITING"
     }
   ]
 }

@@ -33,14 +33,14 @@
       "Status": "TERMINATED"
     },
     {
-      "NCT_ID": "NCT00813449",
-      "Title": "Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma",
-      "Status": "UNKNOWN"
-    },
-    {
       "NCT_ID": "NCT06784778",
       "Title": "Observational Study of Patients With Advanced Melanoma (Skin Cancer) to Assess if IOpener\u00ae-Melanoma Test Can Predict Response to Immunotherapy.",
       "Status": "RECRUITING"
+    },
+    {
+      "NCT_ID": "NCT00813449",
+      "Title": "Safety Study of Combined Chemotherapy and Endostar to Untreated Patients With Advanced Melanoma",
+      "Status": "UNKNOWN"
     },
     {
       "NCT_ID": "NCT03541148",

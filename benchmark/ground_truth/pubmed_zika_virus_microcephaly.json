@@ -3,6 +3,12 @@
   "method": "pubmed_eutils",
   "records": [
     {
+      "PMID": "42556469",
+      "Title": "AI-driven Identification of Zika Virus Inhibitors",
+      "Authors": "Otsuka Y, Shumate J, Rye TF, Goldberg I, Clement A, Scampavia L, Chung D, Spicer TP",
+      "Journal": "SLAS discovery : advancing life sciences R & D"
+    },
+    {
       "PMID": "42519621",
       "Title": "SLC3A2 promotes early-stage of Zika virus infection in human placental cells and astrocytes",
       "Authors": "Chen Z, Feng D, Liu J, Chen J, Zhao C, Zhang S, Zhang X, Xu J",
@@ -55,12 +61,6 @@
       "Title": "Cortical Auditory Neural Responses to Speech and Communicative Functioning in Normocephalic Children With Prenatal Exposure to the Zika Virus",
       "Authors": "Key AP, Mason C, Powell SL, Cavalcante J, Frizzo A, Mandra PP, Tavares A, Menezes P, Hood LJ",
       "Journal": "Ear and hearing"
-    },
-    {
-      "PMID": "42302463",
-      "Title": "Cortical auditory response and language development in children with microcephaly by Zika virus",
-      "Authors": "Figueiredo Frizzo AC, Lira de Andrade KC, Rombola IT, Teixeira da Costa KV, Baisi Chagas EF, de Lemos Menezes P",
-      "Journal": "Brazilian journal of otorhinolaryngology"
     }
   ]
 }

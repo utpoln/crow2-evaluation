@@ -1,0 +1,102 @@
+{
+  "resource_id": "pubmed_tp53_tumor_suppressor",
+  "status": "success",
+  "elapsed_seconds": 0.56,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "Mechanistic Insights into Genomic Basis of Crosstalk Between Metabolic Reprogramming and Immune Dysfunction in Ovarian Cancer.",
+          "Authors": "Patial M, Kesari KK, Kumar D.",
+          "Journal": "Crit Rev Oncol Hematol",
+          "PMID": "42580462"
+        },
+        {
+          "Title": "TP53 status is associated with differential stress-marker expression and APP maturation in colon cancer cells.",
+          "Authors": "Choi HJ, Song SJ, Nguyen HD, Nguyen TT, Tran HBT, Lim JH, Kim YE.",
+          "Journal": "Mol Biol Rep",
+          "PMID": "42579179"
+        },
+        {
+          "Title": "Insulin Resistance and Cutaneous Squamous Cell Carcinoma: A Narrative Review of Molecular Mechanisms.",
+          "Authors": "Ardinata D, Alferraly TI, Yosi A, Pase MA.",
+          "Journal": "Iran J Med Sci",
+          "PMID": "42571124"
+        },
+        {
+          "Title": "AAV-delivered miRNA-gated Cre circuits enable programmable gene activation in AFP-active liver tumor models.",
+          "Authors": "Zhang X, Cao C, Huang Z, Wu D, Yin T, Liu Y, Shen J, Li A, Yang S, Nie L.",
+          "Journal": "Exp Hematol Oncol. 2026 Aug 8;15(1):74. doi: 10.1186/s40164-026-00814-z.",
+          "PMID": "42571006"
+        },
+        {
+          "Title": "Primer-walking sequencing identifies predominantly noncoding TP53 variants in canine cancers.",
+          "Authors": "Mathiyalagan R, Lee C, Jo Y, Lee J, Song JH.",
+          "Journal": "J Vet Sci. 2026 Jul;27(4):e42. doi: 0.4142/jvs.25325.",
+          "PMID": "42551979"
+        },
+        {
+          "Title": "Trametinib-mediated MEK inhibition impairs cancer cell viability and invasion in patient-derived tumor avatars of glioblastoma with extraneural metastases: A proof-of-concept study.",
+          "Authors": "Novak M, Majc B, Vidmar MS, Kladnik \u0160, Milavec TK, Habi\u010d A, Galun SK, \u017di\u017eek P, Por\u010dnik A, Matja\u0161i\u010d A, Zupan A, Jerala M, Bo\u0161njak M, Prestor B, Vittori BB.",
+          "Journal": "Biomed Pharmacother. 2026 Aug 4;202:119832. doi: 10.1016/j.biopha.2026.119832. Online ahead of print.",
+          "PMID": "42551190"
+        },
+        {
+          "Title": "mTOR inhibition augments antitumor immune effector response by reprogramming the TP53-mutant, immune-cold HNSCC tumor microenvironment.",
+          "Authors": "Nath P, Khandelwal A, Li C, Moore-Medlin T, Vasudevan SS, Alvarez VA, Franco OE, Gutkind JS, Nathan CO.",
+          "Journal": "Neoplasia. 2026 Aug 8;80:101350. doi: 10.1016/j.neo.2026.101350. Online ahead of print.",
+          "PMID": "42570420"
+        },
+        {
+          "Title": "Somatostatin receptor 4 (SSTR4) is a tumor suppressor in cutaneous and head & neck squamous cell carcinomas.",
+          "Authors": "Taqvi A, Huynh TK, Kadam A, Kardan Z, Yan Y, Laham AJ, Loganathan SK.",
+          "Journal": "Mol Oncol. 2026 Aug 7:10.1002/1878-0261.70316. doi: 10.1002/1878-0261.70316. Online ahead of print.",
+          "PMID": "42568176"
+        },
+        {
+          "Title": "Complex Genomic Alterations in TP53-Mutated Myelodysplastic Syndrome and Acute Myeloid Leukemia Involving EPOR/JAK2 Amplification, ERG Copy Gains, and TCF3 Deletion.",
+          "Authors": "Gindina TL, Riumin SS, Barkhatov IM, Gracheva TY, Bug DS, Babenko EV, Morozova EV, Tsvetkov NY, Mamaev NN, Kulagin AD.",
+          "Journal": "Genes Chromosomes Cancer. 2026 Aug;65(8):e70159. doi: 10.1002/gcc.70159.",
+          "PMID": "42568049"
+        },
+        {
+          "Title": "Biomarker-Driven Insights into Immune Checkpoint Inhibitor Therapy in Small-Cell Lung Cancer.",
+          "Authors": "Wang S, Zhao X, Zeng Y, Li W, Huang J, Leung EL, Png S, Liang A, Li Y, Guan Q, Fan D, Liu J, Chen L, Yao S, Lu M, Graves EE, Sage J, Wu F.",
+          "Journal": "Crit Rev Oncol Hematol. 2026 Aug 6:105517. doi: 10.1016/j.critrevonc.2026.105517. Online ahead of print.",
+          "PMID": "42562245"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 27392,
+      "completion_tokens": 5668
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 2047
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "ac3e03d0-4c15-45ea-92c9-3c34a9ff4ac8"
+  },
+  "error": null
+}

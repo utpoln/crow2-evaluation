@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_stroke",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Stroke",
+      "URL": "https://medlineplus.gov/stroke.html"
+    },
+    {
+      "Title": "Ischemic Stroke",
+      "URL": "https://medlineplus.gov/ischemicstroke.html"
+    },
+    {
+      "Title": "Hemorrhagic Stroke",
+      "URL": "https://medlineplus.gov/hemorrhagicstroke.html"
+    },
+    {
+      "Title": "Stroke Rehabilitation",
+      "URL": "https://medlineplus.gov/strokerehabilitation.html"
+    },
+    {
+      "Title": "Transient Ischemic Attack",
+      "URL": "https://medlineplus.gov/transientischemicattack.html"
+    },
+    {
+      "Title": "Heat Illness",
+      "URL": "https://medlineplus.gov/heatillness.html"
+    },
+    {
+      "Title": "Heart Diseases",
+      "URL": "https://medlineplus.gov/heartdiseases.html"
+    },
+    {
+      "Title": "Carotid Artery Disease",
+      "URL": "https://medlineplus.gov/carotidarterydisease.html"
+    },
+    {
+      "Title": "Aphasia",
+      "URL": "https://medlineplus.gov/aphasia.html"
+    },
+    {
+      "Title": "Heart Attack",
+      "URL": "https://medlineplus.gov/heartattack.html"
+    }
+  ]
+}

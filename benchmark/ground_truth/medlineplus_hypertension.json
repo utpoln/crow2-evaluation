@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_hypertension",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "High Blood Pressure",
+      "URL": "https://medlineplus.gov/highbloodpressure.html"
+    },
+    {
+      "Title": "Pulmonary Hypertension",
+      "URL": "https://medlineplus.gov/pulmonaryhypertension.html"
+    },
+    {
+      "Title": "How to Prevent High Blood Pressure",
+      "URL": "https://medlineplus.gov/howtopreventhighbloodpressure.html"
+    },
+    {
+      "Title": "High Blood Pressure in Pregnancy",
+      "URL": "https://medlineplus.gov/highbloodpressureinpregnancy.html"
+    },
+    {
+      "Title": "Blood Pressure Medicines",
+      "URL": "https://medlineplus.gov/bloodpressuremedicines.html"
+    },
+    {
+      "Title": "DASH Eating Plan",
+      "URL": "https://medlineplus.gov/dasheatingplan.html"
+    },
+    {
+      "Title": "How to Prevent Heart Disease",
+      "URL": "https://medlineplus.gov/howtopreventheartdisease.html"
+    },
+    {
+      "Title": "Brain Diseases",
+      "URL": "https://medlineplus.gov/braindiseases.html"
+    },
+    {
+      "Title": "Atrial Fibrillation",
+      "URL": "https://medlineplus.gov/atrialfibrillation.html"
+    },
+    {
+      "Title": "Congenital Heart Defects",
+      "URL": "https://medlineplus.gov/congenitalheartdefects.html"
+    }
+  ]
+}

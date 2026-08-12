@@ -1,13 +1,18 @@
 {
   "resource_id": "clinicaltrials_covid_19",
   "url": "https://clinicaltrials.gov/search?term=COVID-19&viewType=Table",
-  "elapsed_seconds": 4.393873208000002,
+  "elapsed_seconds": 4.5058482499999855,
   "record_count": 10,
   "records": [
     {
       "Title": "UDCA in the Treatment of COVID-19 Infection and Its Clinical Prognosis in Patients With Autoimmune Liver Disease",
       "NCT_ID": "NCT05812612",
       "Status": "Unknown status\u00a0  *"
+    },
+    {
+      "Title": "Efficacy of Pre-exposure Treatment With Hydroxy-Chloroquine on the Risk and Severity of COVID-19 Infection",
+      "NCT_ID": "NCT04481633",
+      "Status": "Completed\u00a0 View Results"
     },
     {
       "Title": "Assessment of COVID-19 in Tearfilm",
@@ -47,11 +52,6 @@
     {
       "Title": "MURDOCK Cabarrus County COVID-19 Prevalence and Immunity (C3PI) Study",
       "NCT_ID": "NCT04424004",
-      "Status": "Completed"
-    },
-    {
-      "Title": "Natural History Study of COVID-19 Using Digital Wearables",
-      "NCT_ID": "NCT04927442",
       "Status": "Completed"
     }
   ]

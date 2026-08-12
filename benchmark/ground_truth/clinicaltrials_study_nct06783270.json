@@ -1,0 +1,10 @@
+{
+  "resource_id": "clinicaltrials_study_nct06783270",
+  "method": "clinicaltrials_study_api",
+  "records": [
+    {
+      "Title": "T-cell Therapy with CRISPR PD1-edited Tumor Infiltrating Lymphocytes for Patients with Metastatic Melanoma",
+      "Status": "Recruiting"
+    }
+  ]
+}

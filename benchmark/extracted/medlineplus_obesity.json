@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_obesity",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=obesity&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.605148458000031,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Obesity",
+      "URL": "https://medlineplus.gov/obesity.html"
+    },
+    {
+      "Title": "Obesity in Children",
+      "URL": "https://medlineplus.gov/obesityinchildren.html"
+    },
+    {
+      "Title": "Weight Loss Surgery",
+      "URL": "https://medlineplus.gov/weightlosssurgery.html"
+    },
+    {
+      "Title": "Diabetes Type 2",
+      "URL": "https://medlineplus.gov/diabetestype2.html"
+    },
+    {
+      "Title": "Weight Control",
+      "URL": "https://medlineplus.gov/weightcontrol.html"
+    },
+    {
+      "Title": "Body Weight",
+      "URL": "https://medlineplus.gov/bodyweight.html"
+    },
+    {
+      "Title": "Metabolic Syndrome",
+      "URL": "https://medlineplus.gov/metabolicsyndrome.html"
+    },
+    {
+      "Title": "Cancer",
+      "URL": "https://medlineplus.gov/cancer.html"
+    },
+    {
+      "Title": "Diabetes",
+      "URL": "https://medlineplus.gov/diabetes.html"
+    },
+    {
+      "Title": "Steatotic Liver Disease",
+      "URL": "https://medlineplus.gov/steatoticliverdisease.html"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_lipase",
   "url": "https://www.uniprot.org/uniprotkb?query=lipase&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.241553957999997,
+  "elapsed_seconds": 12.310435708,
   "record_count": 25,
   "records": [
     {

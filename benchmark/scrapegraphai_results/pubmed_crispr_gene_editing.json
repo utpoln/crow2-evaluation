@@ -1,0 +1,102 @@
+{
+  "resource_id": "pubmed_crispr_gene_editing",
+  "status": "success",
+  "elapsed_seconds": 9.74,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "Adenovirus Vector-Mediated In Vivo Knock-in Treatment of Neonatal Phenylketonuria Mice Using Terminally Cleaved Donor DNA.",
+          "Authors": "Yamaji M, Tabata H, Nakamura M, Fuse R, Okada T, Ohba SI, Ohishi T, Kawada M, Saito I, Sato S, Nakanishi T.",
+          "Journal": "J Gene Med. 2026 Aug;28(8):e70104. doi: 10.1002/jgm.70104.",
+          "PMID": "42580703"
+        },
+        {
+          "Title": "Clustered regularly interspaced short palindromic repeats -associated protein 9 (CRISPR -Cas9) based genome editing in avian primordial germ cells: Comparative technologies, translational applications, and regulatory challenges.",
+          "Authors": "Farooq M, Han D, Zhang L, Wadood AA, Geng Q, Chen J, Liang K, Xi Y, Jiao X, Hou J, Zhang Y.",
+          "Journal": "Poult Sci. 2026 Jul 17;105(11):107469. doi: 10.1016/j.psj.2026.107469. Online ahead of print.",
+          "PMID": "42580267"
+        },
+        {
+          "Title": "Dual-line Genome-scale CRISPR Screening Enables Robust Target Gene Discovery.",
+          "Authors": "Li Z, Qiao J, Zhang Q, Liu P, Zheng C, Zhou Q, Ji M, Zhu Z, Li X, Zhang H.",
+          "Journal": "Adv Sci (Weinh). 2026 Aug 11:e77130. doi: 10.1002/advs.77130. Online ahead of print.",
+          "PMID": "42579301"
+        },
+        {
+          "Title": "Effect of Glycosylphosphatidylinositol-specific phospholipase D1 knockout on the expression of antioxidant enzymes and sirtuin.",
+          "Authors": "Lee SE, Kim MM.",
+          "Journal": "Mol Biol Rep. 2026 Aug 11;53(1):1385. doi: 10.1007/s11033-026-12581-5.",
+          "PMID": "42579195"
+        },
+        {
+          "Title": "A strategy for decreasing prolamin content in rice endosperm through gene editing.",
+          "Authors": "Shen Z, Li Y, Huang Y, Wang T, Jian S, Guan Z, Feng Y, Dang X, Shan X, Sun S, Guo M, Hu Z, Yang Y, Yan C.",
+          "Journal": "J Integr Plant Biol. 2026 Aug 11. doi: 10.1111/jipb.70371. Online ahead of print.",
+          "PMID": "42578511"
+        },
+        {
+          "Title": "Disease-Modifying Therapies for Transthyretin Amyloid Cardiomyopathy: Current Evidence and Emerging Strategies.",
+          "Authors": "Kachhadia MP, Gautam A, Meadows S, Kotadiya SR, Aryal R, Ilyas H, Shaikh JD, Gill G, Shah S, Patel J, Sanghvi HA.",
+          "Journal": "J Clin Med Res. 2026 Jul 31;18(7):421-436. doi: 0.14740/jocmr6603. eCollection 2026 Jul.",
+          "PMID": "42578152"
+        },
+        {
+          "Title": "Highly efficient CRISPR editing enabled by magnetic nanoparticle delivery.",
+          "Authors": "Go I, Lee SH.",
+          "Journal": "Front Genome Ed. 2026 Jul 27;8:1865675. doi: 10.3389/fgeed.2026.1865675. eCollection 2026.",
+          "PMID": "42577403"
+        },
+        {
+          "Title": "Establishment of a scalable engineered cell-line platform for direct, GMP-grade production of eVLP vectors enabling streamlined generation of gene-edited CAR-T/NK cells.",
+          "Authors": "Lin W, Shi J, Chen H, Chai R, Zhu S, Chen L, Mo S, Wang Z, Li H, Feng Y, Zhao L, Chen J, Yu G, Lu T, Wang J.",
+          "Journal": "Front Immunol. 2026 Jul 27;17:1878099. doi: 10.3389/fimmu.2026.1878099. eCollection 2026.",
+          "PMID": "42577382"
+        },
+        {
+          "Title": "Focused ultrasound-mediated lipid nanoparticle delivery for brain gene editing.",
+          "Authors": "Zheng K, Tsitsos FN, Konofagou EE, Leong KW.",
+          "Journal": "Mol Ther Nucleic Acids. 2026 Jul 14;37(3):103012. doi: 10.1016/j.omtn.2026.103012. eCollection 2026 Sep 8.",
+          "PMID": "42577088"
+        },
+        {
+          "Title": "Innovation in pest management: can the past inform the future?",
+          "Authors": "Moog E, Dayan FE.",
+          "Journal": "Pest Manag Sci. 2026 Aug 10. doi: 10.1002/ps.71202. Online ahead of print.",
+          "PMID": "42576297"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 27055,
+      "completion_tokens": 5746
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 1665
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "f1212804-c6de-4cba-a996-df1a59576f34"
+  },
+  "error": null
+}

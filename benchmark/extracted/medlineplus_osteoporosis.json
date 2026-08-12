@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_osteoporosis",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=osteoporosis&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.780755416999909,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Osteoporosis",
+      "URL": "https://medlineplus.gov/osteoporosis.html"
+    },
+    {
+      "Title": "Nutrition for Older Adults",
+      "URL": "https://medlineplus.gov/nutritionforolderadults.html"
+    },
+    {
+      "Title": "Bone Density",
+      "URL": "https://medlineplus.gov/bonedensity.html"
+    },
+    {
+      "Title": "Primary Ovarian Insufficiency",
+      "URL": "https://medlineplus.gov/primaryovarianinsufficiency.html"
+    },
+    {
+      "Title": "Fractures",
+      "URL": "https://medlineplus.gov/fractures.html"
+    },
+    {
+      "Title": "Menopause",
+      "URL": "https://medlineplus.gov/menopause.html"
+    },
+    {
+      "Title": "Bone Diseases",
+      "URL": "https://medlineplus.gov/bonediseases.html"
+    },
+    {
+      "Title": "Calcium",
+      "URL": "https://medlineplus.gov/calcium.html"
+    },
+    {
+      "Title": "Eating Disorders",
+      "URL": "https://medlineplus.gov/eatingdisorders.html"
+    },
+    {
+      "Title": "Exercise for Older Adults",
+      "URL": "https://medlineplus.gov/exerciseforolderadults.html"
+    }
+  ]
+}

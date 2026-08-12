@@ -1,9 +1,39 @@
 {
   "resource_id": "pubmed_brca1_breast_cancer",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=BRCA1+breast+cancer&sort=date",
-  "elapsed_seconds": 5.013700417,
+  "elapsed_seconds": 5.756038417,
   "record_count": 10,
   "records": [
+    {
+      "Title": "Chemotherapy type and survival in young BRCA1/2 carriers with HER2-negative early breast cancer.",
+      "Authors": "Bernstein-Molho R, Sella T, Delucchi V, Coussy F, Kim HJ, Linn S, Di Meglio A, Pogoda K, Kwong A, Agostinetto E, Bajpai J, Van Herck Y, Ferrari A, Balmana J, Moore HCF, Peccatori FA, Partridge AH, Winocur M, Renaud T, Rousset-Jablonski C, Lee JE, Toss A, Paluch-Shimon S, Wong SM, Matikas A, Villarreal-Garza C, Vernieri C, Lee M, Guven DC, Cui W, Ruddy KJ, Dieci MV, Fruscio R, De Marchis L, Kemp Z, Meireles PA, Razeti MG, Diz MDP, Hwang SE, Puglisi F, Clatot F, Yerushalmi R, Cichowska-Cwalinska N, Chirco A, De Angelis C, Blondeaux E, Lambertini M.",
+      "Journal": "Eur J Cancer. 2026 Aug 11;245:116937. doi: 10.1016/j.ejca.2026.116937. Online ahead of print.",
+      "PMID": "42580099"
+    },
+    {
+      "Title": "Hormone replacement therapy in healthy BRCA1 and 2 mutation carriers after risk-reducing salpingo-oophorectomy: A 5 Ws and 2 Hs practitioner toolkit.",
+      "Authors": "Bounous VE, Andronico N, Lavalle G, Suraci S, D'Alonzo M, Actis S, Pace L, Ferrero A.",
+      "Journal": "Maturitas. 2026 May 20;212:108982. doi: 10.1016/j.maturitas.2026.108982. Online ahead of print.",
+      "PMID": "42575068"
+    },
+    {
+      "Title": "Mitochondria Dictate Progressive Versus Bimodal Aging of the Mammary Gland.",
+      "Authors": "Jenkins EC, Chattopadhyay M, Mashaka T, Torres-Martin M, Sia D, Bado I, Germain D.",
+      "Journal": "Aging Cell. 2026 Aug;25(8):e70661. doi: 10.1111/acel.70661.",
+      "PMID": "42572130"
+    },
+    {
+      "Title": "Randomized phase 2 trial of a PARP inhibitor TSL-1502 in germline BRCA-mutated, HER2-negative locally advanced/metastatic breast cancer.",
+      "Authors": "Lan B, Xu F, Sun T, Qiu F, Wang Y, Wang S, Li W, Zhong Y, Wu X, Ouyang Q, Wang K, Mi X, Liu R, Xu B.",
+      "Journal": "Signal Transduct Target Ther. 2026 Aug 10;11(1):316. doi: 10.1038/s41392-026-02771-9.",
+      "PMID": "42572030"
+    },
+    {
+      "Title": "Predictive value of peripheral blood cell-free DNA breast cancer gene mutation profiling for postoperative pathological malignancy in BI-RADS 4 breast nodules.",
+      "Authors": "Lyu G, Duan H, Sheng X, Liu L, Luo J.",
+      "Journal": "Front Genet. 2026 Jul 22;17:1828106. doi: 10.3389/fgene.2026.1828106. eCollection 2026.",
+      "PMID": "42553790"
+    },
     {
       "Title": "BRCA1 and BRCA2 population screening in Latvia: feasibility, engagement, and early lessons from a pilot study.",
       "Authors": "Irmejs A, Daneberga Z, Kiploka K, Augucevica M, Cerneikina A, Gailite L, Kalcenaua A, Kononova I, Syundyukov E, Miklasevics E, Bjorvatn C, Vetti HH, Gardovskis J.",
@@ -33,36 +63,6 @@
       "Authors": "Angeloni LL, Jorente J, Oliveira Sobrinho RP, Gil-da-Silva-Lopes VL, Vidoti-Nascimento CG, Guaragna MS, Vieira TP, Steiner CE; Brazilian Rare Genomes Project Consortium; Teixeira ACB, Coelho AVC, Quaio CRAC, Moreno CA, Perrone E, Nascimento Junior JBD, Espolaor JGA, Prota JRM, Oliveira Filho JB, Ceroni JRM, Chen K, Ferreira LT, Santana LS, Mofatto LS, Virmond LDA, Silva MFB, Migliavacca MP, Minillo RM, Yamada RY, Sitnik R, Almeida TF, Silva TYT, Cintra VP.",
       "Journal": "Einstein (Sao Paulo). 2026 Jul 24;24:eAO2160. doi: 10.31744/einstein_journal/2026AO2160. eCollection 2026.",
       "PMID": "42524928"
-    },
-    {
-      "Title": "Transposable elements shape olaparib response according to BRCA1 status in triple-negative breast cancer.",
-      "Authors": "Mombach DM, Mendez-Dorantes C, Mercuri RLV, Schofield P, Soares Baal SC, Poersch MA, Burns KH, de Oliveira JC, Loreto ELS, Galante PAF.",
-      "Journal": "bioRxiv [Preprint]. 2026 Jul 16:2026.07.15.738694. doi: 10.64898/2026.07.15.738694.",
-      "PMID": "42523269"
-    },
-    {
-      "Title": "Breast Cancer: Epidemiology, Molecular Classification, Diagnostics and Evolving Treatment Paradigms.",
-      "Authors": "Unuofin JO, Adefisan-Adeoye AO, Paimo OK, Maphetu N, Lebelo SL.",
-      "Journal": "Molecules. 2026 Jul 22;31(14):2551. doi: 10.3390/molecules31142551.",
-      "PMID": "42513228"
-    },
-    {
-      "Title": "Preoperative Germline Genetic Testing and Surgical Timing in Breast Cancer: Implementation of National Reimbursement Programs: A Retrospective Cohort Study.",
-      "Authors": "Vlad IC, Vlad CI, Balacescu O, Gata VA, Morariu DS, Miclaus M, Muntean AL, Catana A, Antone N, Achimas-Cadariu P.",
-      "Journal": "Medicina (Kaunas). 2026 Jul 19;62(7):1397. doi: 10.3390/medicina62071397.",
-      "PMID": "42512939"
-    },
-    {
-      "Title": "BRCA1 Gene as a Potential Marker for Lung Cancer Therapy.",
-      "Authors": "Tsyganov MM, Tsydenova IA, Dolgasheva DS, Ibragimova MK.",
-      "Journal": "Int J Mol Sci. 2026 Jul 17;27(14):6364. doi: 10.3390/ijms27146364.",
-      "PMID": "42511710"
-    },
-    {
-      "Title": "Assessing the Clinical Relevance of BRCA1 RING Domain Variants of Uncertain Significance.",
-      "Authors": "Martin MD, Torretto GC, Islam K, Archer NE, Feilotter HE, Davey SK.",
-      "Journal": "Curr Oncol. 2026 Jul 3;33(7):399. doi: 10.3390/curroncol33070399.",
-      "PMID": "42505201"
     }
   ]
 }

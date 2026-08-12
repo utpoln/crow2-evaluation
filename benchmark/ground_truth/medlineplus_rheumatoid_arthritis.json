@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_rheumatoid_arthritis",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Rheumatoid Arthritis",
+      "URL": "https://medlineplus.gov/rheumatoidarthritis.html"
+    },
+    {
+      "Title": "Juvenile Arthritis",
+      "URL": "https://medlineplus.gov/juvenilearthritis.html"
+    },
+    {
+      "Title": "Arthritis",
+      "URL": "https://medlineplus.gov/arthritis.html"
+    },
+    {
+      "Title": "Sjogren's Syndrome",
+      "URL": "https://medlineplus.gov/sjogrenssyndrome.html"
+    },
+    {
+      "Title": "Ankle Injuries and Disorders",
+      "URL": "https://medlineplus.gov/ankleinjuriesanddisorders.html"
+    },
+    {
+      "Title": "Foot Injuries and Disorders",
+      "URL": "https://medlineplus.gov/footinjuriesanddisorders.html"
+    },
+    {
+      "Title": "Atherosclerosis",
+      "URL": "https://medlineplus.gov/atherosclerosis.html"
+    },
+    {
+      "Title": "Autoimmune Diseases",
+      "URL": "https://medlineplus.gov/autoimmunediseases.html"
+    },
+    {
+      "Title": "Bone Density",
+      "URL": "https://medlineplus.gov/bonedensity.html"
+    },
+    {
+      "Title": "Carpal Tunnel Syndrome",
+      "URL": "https://medlineplus.gov/carpaltunnelsyndrome.html"
+    }
+  ]
+}

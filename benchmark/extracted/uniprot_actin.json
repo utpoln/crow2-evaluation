@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_actin",
   "url": "https://www.uniprot.org/uniprotkb?query=actin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.206678207999971,
+  "elapsed_seconds": 12.26069716699999,
   "record_count": 25,
   "records": [
     {

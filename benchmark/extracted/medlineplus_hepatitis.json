@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_hepatitis",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=hepatitis&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.932025707999969,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Hepatitis",
+      "URL": "https://medlineplus.gov/hepatitis.html"
+    },
+    {
+      "Title": "Hepatitis A",
+      "URL": "https://medlineplus.gov/hepatitisa.html"
+    },
+    {
+      "Title": "Hepatitis B",
+      "URL": "https://medlineplus.gov/hepatitisb.html"
+    },
+    {
+      "Title": "Hepatitis C",
+      "URL": "https://medlineplus.gov/hepatitisc.html"
+    },
+    {
+      "Title": "Liver Diseases",
+      "URL": "https://medlineplus.gov/liverdiseases.html"
+    },
+    {
+      "Title": "Autoimmune Diseases",
+      "URL": "https://medlineplus.gov/autoimmunediseases.html"
+    },
+    {
+      "Title": "Steatotic Liver Disease",
+      "URL": "https://medlineplus.gov/steatoticliverdisease.html"
+    },
+    {
+      "Title": "HIV",
+      "URL": "https://medlineplus.gov/hiv.html"
+    },
+    {
+      "Title": "Liver Cancer",
+      "URL": "https://medlineplus.gov/livercancer.html"
+    },
+    {
+      "Title": "Sexually Transmitted Infections",
+      "URL": "https://medlineplus.gov/sexuallytransmittedinfections.html"
+    }
+  ]
+}

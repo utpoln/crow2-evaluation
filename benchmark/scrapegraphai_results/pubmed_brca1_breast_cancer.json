@@ -1,0 +1,114 @@
+{
+  "resource_id": "pubmed_brca1_breast_cancer",
+  "status": "success",
+  "elapsed_seconds": 10.38,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "No content available",
+          "Authors": "No content available",
+          "Journal": "No content available",
+          "PMID": "No content available"
+        },
+        {
+          "Title": "Chemotherapy type and survival in young BRCA1 /2 carriers with HER2-negative early breast cancer.",
+          "Authors": "Bernstein-Molho R, Sella T, Delucchi V, Coussy F, Kim HJ, Linn S, Di Meglio A, Pogoda K, Kwong A, Agostinetto E, Bajpai J, Van Herck Y, Ferrari A, Balmana J, Moore HCF, Peccatori FA, Partridge AH, Winocur M, Renaud T, Rousset-Jablonski C, Lee JE, Toss A, Paluch-Shimon S, Wong SM, Matikas A, Villarreal-Garza C, Vernieri C, Lee M, Guven DC, Cui W, Ruddy KJ, Dieci MV, Fruscio R, De Marchis L, Kemp Z, Meireles PA, Razeti MG, Diz MDP, Hwang SE, Puglisi F, Clatot F, Yerushalmi R, Cichowska-Cwalinska N, Chirco A, De Angelis C, Blondeaux E, Lambertini M.",
+          "Journal": "Eur J Cancer. 2026 Aug 11;245:116937. doi: 10.1016/j.ejca.2026.116937. Online ahead of print.",
+          "PMID": "42580099"
+        },
+        {
+          "Title": "Hormone replacement therapy in healthy BRCA1 and 2 mutation carriers after risk-reducing salpingo-oophorectomy: A 5 Ws and 2 Hs practitioner toolkit.",
+          "Authors": "Bounous VE, Andronico N, Lavalle G, Suraci S, D'Alonzo M, Actis S, Pace L, Ferrero A.",
+          "Journal": "Maturitas. 2026 May 20;212:108982. doi: 10.1016/j.maturitas.2026.108982. Online ahead of print.",
+          "PMID": "42575068"
+        },
+        {
+          "Title": "Mitochondria Dictate Progressive Versus Bimodal Aging of the Mammary Gland.",
+          "Authors": "Jenkins EC, Chattopadhyay M, Mashaka T, Torres-Martin M, Sia D, Bado I, Germain D.",
+          "Journal": "Aging Cell. 2026 Aug;25(8):e70661. doi: 10.1111/acel.70661.",
+          "PMID": "42572130"
+        },
+        {
+          "Title": "No content available",
+          "Authors": "No content available",
+          "Journal": "Aging Cell",
+          "PMID": "42572130"
+        },
+        {
+          "Title": "Randomized phase 2 trial of a PARP inhibitor TSL-1502 in germline BRCA-mutated, HER2-negative locally advanced/metastatic breast cancer.",
+          "Authors": "Lan B, Xu F, Sun T, Qiu F, Wang Y, Wang S, Li W, Zhong Y, Wu X, Ouyang Q, Wang K, Mi X, Liu R, Xu B.",
+          "Journal": "Signal Transduct Target Ther",
+          "PMID": "42572030"
+        },
+        {
+          "Title": "Predictive value of peripheral blood cell-free DNA breast cancer gene mutation profiling for postoperative pathological malignancy in BI-RADS 4 breast nodules.",
+          "Authors": "Lyu G, Duan H, Sheng X, Liu L, Luo J.",
+          "Journal": "Front Genet",
+          "PMID": "42553790"
+        },
+        {
+          "Title": "BRCA1 and BRCA2 population screening in Latvia: feasibility, engagement, and early lessons from a pilot study.",
+          "Authors": "Irmejs A, Daneberga Z, Kiploka K, Augucevica M, Cerneikina A, Gailite L, Kalcenaua A, Kononova I, Syundyukov E, Miklasevics E, Bjorvatn C, Vetti HH, Gardovskis J.",
+          "Journal": "Eur J Hum Genet",
+          "PMID": "42533093"
+        },
+        {
+          "Title": "Breast and Ovarian Cancer Among Individuals Undergoing BRCA1 and BRCA2 Testing.",
+          "Authors": "Dossa F, Metcalfe K, Ante Z, Liu N, Lerner-Ellis J, Eisen A, Baxter NN.",
+          "Journal": "JAMA Netw Open",
+          "PMID": "42530926"
+        },
+        {
+          "Title": "Determinants of response to neoadjuvant chemotherapy in breast cancer : Integrated roles of immune pathways, DNA damage response, and cell cycle regulators.",
+          "Authors": "Ahdi D, Hashemi S, Gholami A, Derakhshan SM.",
+          "Journal": "Mol Biol Rep",
+          "PMID": "42530655"
+        },
+        {
+          "Title": "VAF-tumor content graph: a simple visual framework for interpreting hereditary cancer variants and supporting genetic counseling in tumor-only sequencing.",
+          "Authors": "Kashima M, Tsubamoto H, Ueda T, Kinjo C, Okada C, Muroi Y, Ueda M, Otsuki T, Kataoka K, Nagahashi M, Matsuda I, Sawai H, Kijima T, Miyazaki A.",
+          "Journal": "J Hum Genet",
+          "PMID": "42527578"
+        },
+        {
+          "Title": "Whole-genome sequencing in Brazilian patients with neurofibromatosis type 1, including novel variants, incidental findings, and dual diagnoses.",
+          "Authors": "Angeloni LL, Jorente J, Oliveira Sobrinho RP, Gil-da-Silva-Lopes VL, Vidoti-Nascimento CG, Guaragna MS, Vieira TP, Steiner CE, Brazilian Rare Genomes Project Consortium, Teixeira ACB, Coelho AVC, Quaio CRAC, Moreno CA, Perrone E, Nascimento Junior JBD, Espolaor JGA, Prota JRM, Oliveira Filho JB, Ceroni JRM, Chen K, Ferreira LT, Santana LS, Mofatto LS, Virmond LDA, Silva MFB, Migliavacca MP, Minillo RM, Yamada RY, Sitnik R, Almeida TF, Silva TYT, Cintra VP.",
+          "Journal": "Einstein (Sao Paulo)",
+          "PMID": "42524928"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 28205,
+      "completion_tokens": 6768
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 2453
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "6dd96a59-1297-45cf-933b-f927631a7f62"
+  },
+  "error": null
+}

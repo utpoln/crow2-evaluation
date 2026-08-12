@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_stroke",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=stroke&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.740123541000003,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Stroke",
+      "URL": "https://medlineplus.gov/stroke.html"
+    },
+    {
+      "Title": "Ischemic Stroke",
+      "URL": "https://medlineplus.gov/ischemicstroke.html"
+    },
+    {
+      "Title": "Stroke Rehabilitation",
+      "URL": "https://medlineplus.gov/strokerehabilitation.html"
+    },
+    {
+      "Title": "Hemorrhagic Stroke",
+      "URL": "https://medlineplus.gov/hemorrhagicstroke.html"
+    },
+    {
+      "Title": "Transient Ischemic Attack",
+      "URL": "https://medlineplus.gov/transientischemicattack.html"
+    },
+    {
+      "Title": "Heat Illness",
+      "URL": "https://medlineplus.gov/heatillness.html"
+    },
+    {
+      "Title": "Carotid Artery Disease",
+      "URL": "https://medlineplus.gov/carotidarterydisease.html"
+    },
+    {
+      "Title": "High Blood Pressure",
+      "URL": "https://medlineplus.gov/highbloodpressure.html"
+    },
+    {
+      "Title": "Heart Diseases",
+      "URL": "https://medlineplus.gov/heartdiseases.html"
+    },
+    {
+      "Title": "Aphasia",
+      "URL": "https://medlineplus.gov/aphasia.html"
+    }
+  ]
+}

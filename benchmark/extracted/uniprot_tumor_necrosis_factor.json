@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_tumor_necrosis_factor",
   "url": "https://www.uniprot.org/uniprotkb?query=tumor+necrosis+factor&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.232437624999989,
+  "elapsed_seconds": 12.417387417000043,
   "record_count": 25,
   "records": [
     {

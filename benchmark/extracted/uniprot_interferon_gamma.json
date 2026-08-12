@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_interferon_gamma",
   "url": "https://www.uniprot.org/uniprotkb?query=interferon+gamma&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.25302479200002,
+  "elapsed_seconds": 12.300147999999979,
   "record_count": 25,
   "records": [
     {

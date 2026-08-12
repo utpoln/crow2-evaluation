@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p05231",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Interleukin-6",
+      "GeneName": "IL6",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

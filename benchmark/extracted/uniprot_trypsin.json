@@ -1,7 +1,7 @@
 {
   "resource_id": "uniprot_trypsin",
   "url": "https://www.uniprot.org/uniprotkb?query=trypsin&facets=reviewed%3Atrue",
-  "elapsed_seconds": 12.261837125,
+  "elapsed_seconds": 12.310240790999956,
   "record_count": 25,
   "records": [
     {

@@ -1,0 +1,46 @@
+{
+  "resource_id": "medlineplus_influenza",
+  "method": "medlineplus_api",
+  "records": [
+    {
+      "Title": "Flu",
+      "URL": "https://medlineplus.gov/flu.html"
+    },
+    {
+      "Title": "Bird Flu",
+      "URL": "https://medlineplus.gov/birdflu.html"
+    },
+    {
+      "Title": "Flu Shot",
+      "URL": "https://medlineplus.gov/flushot.html"
+    },
+    {
+      "Title": "H1N1 Flu (Swine Flu)",
+      "URL": "https://medlineplus.gov/h1n1fluswineflu.html"
+    },
+    {
+      "Title": "Gastroenteritis",
+      "URL": "https://medlineplus.gov/gastroenteritis.html"
+    },
+    {
+      "Title": "Common Cold",
+      "URL": "https://medlineplus.gov/commoncold.html"
+    },
+    {
+      "Title": "Pneumonia",
+      "URL": "https://medlineplus.gov/pneumonia.html"
+    },
+    {
+      "Title": "Infections and Pregnancy",
+      "URL": "https://medlineplus.gov/infectionsandpregnancy.html"
+    },
+    {
+      "Title": "Animal Diseases and Your Health",
+      "URL": "https://medlineplus.gov/animaldiseasesandyourhealth.html"
+    },
+    {
+      "Title": "Asthma",
+      "URL": "https://medlineplus.gov/asthma.html"
+    }
+  ]
+}

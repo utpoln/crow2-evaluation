@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p01308",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Insulin",
+      "GeneName": "INS",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

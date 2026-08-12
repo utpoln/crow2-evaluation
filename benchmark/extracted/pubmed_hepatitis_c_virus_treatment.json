@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_hepatitis_c_virus_treatment",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hepatitis+C+virus+treatment&sort=date",
-  "elapsed_seconds": 5.185872832999998,
+  "elapsed_seconds": 6.0351079579999976,
   "record_count": 10,
   "records": [
     {
-      "Title": "Kidney Transplantation from Hepatitis C-Positive Donors in the Direct-Acting Antiviral Era.",
-      "Authors": "Rawashdeh B, Al-Abdallat H, Mohammad NH, Asassfeh A, Arpali E, Thomas B, Cooper M, Dunn T.",
-      "Journal": "Exp Clin Transplant. 2026 Jul;24(7):513-521. doi: 10.6002/ect.2026.0045.",
-      "PMID": "42549788"
+      "Title": "Real-World Experience of Hepatitis C Treatment With Glecaprevir-Pibrentasvir During Pregnancy.",
+      "Authors": "McCrary LM, Curtis MR, Kelly JC, Elrod-Gallegos J, Kojima P, Werner P, Mullersman JL, Habrock-Bach T, Durkin MJ, Marks LR.",
+      "Journal": "Clin Infect Dis. 2026 Aug 11:ciag422. doi: 10.1093/cid/ciag422. Online ahead of print.",
+      "PMID": "42578822"
     },
     {
-      "Title": "Serum Agalactosyl IgG Predicts Hepatocellular Carcinoma and All-Cause Mortality After SVR in Advanced Chronic Hepatitis C.",
-      "Authors": "Sakon D, Kondo J, Tahata Y, Hikita H, Iwaisako M, Matsumoto M, Ogata A, Takamatsu S, Nozaki Y, Kakita N, Ishida H, Nakanishi F, Yoshida Y, Nakahara M, Imanaka K, Sakakibara M, Yakushijin T, Takehara T, Kodama T, Miyoshi E.",
-      "Journal": "Hepatol Res. 2026 Aug 2. doi: 10.1111/hepr.70255. Online ahead of print.",
-      "PMID": "42543016"
+      "Title": "Treatment of Hepatitis C During Pregnancy: We Are Approaching a \"Tipping Point\".",
+      "Authors": "Jhaveri R.",
+      "Journal": "Clin Infect Dis. 2026 Aug 11:ciag423. doi: 10.1093/cid/ciag423. Online ahead of print.",
+      "PMID": "42578814"
     },
     {
-      "Title": "Design and results of a pilot community screening strategy for hepatitis B and hepatitis C to promote early access to treatment among migrant populations from high-prevalence countries residing in Catalonia (MiCatC).",
-      "Authors": "Forero V, Manzanares-Laya S, Ouaarab H, Jordi G\u00f3mez I P, Not A, Montoro M, Muntada E, Casabona J, Martr\u00f3 E, Torres M, Gregori MS, G\u00f3mez-Barrera M, Dom\u00ednguez-Hern\u00e1ndez R, Maj\u00f3 X, Colom J.",
-      "Journal": "J Migr Health. 2026 Jul 14;14:100429. doi: 10.1016/j.jmh.2026.100429. eCollection 2026.",
-      "PMID": "42542640"
+      "Title": "Adapting in-cell ELISA to investigate the localization of hepatitis C virus envelope glycoproteins.",
+      "Authors": "Dimitriadis S, Edmans M, Frumento N, Hong Xiang N, Bailey J, Cox A, Klenerman P, Barnes E, Zurbia-Flores GM.",
+      "Journal": "Microbiol Spectr. 2026 Aug 11:e0289525. doi: 10.1128/spectrum.02895-25. Online ahead of print.",
+      "PMID": "42578686"
     },
     {
-      "Title": "Long-Term Renal Outcomes and Survival After Liver Transplant: A 10-Year Cohort Study.",
-      "Authors": "Ozer S, Celebi ZK, Haberal M.",
-      "Journal": "Exp Clin Transplant. 2026 Jul;24(Suppl 2):191-199. doi: 10.6002/ect.MESOT2025.O65.",
-      "PMID": "42538679"
+      "Title": "Hepatitis C Micro-Elimination in a Deprived Coastal Town: Lessons From Blackpool.",
+      "Authors": "Blagden SE, MacFarlane EL, Draper DC.",
+      "Journal": "Public Health Chall. 2026 Aug 10;5(3):e70344. doi: 10.1002/puh2.70344. eCollection 2026 Sep.",
+      "PMID": "42577907"
     },
     {
-      "Title": "Profile of Patients Undergoing Liver Transplantation for Hepatocellular Carcinoma at a Brazilian High-Complexity Referral Center: Tumor Biology as a Predictor of Post-Transplant Recurrence.",
-      "Authors": "Marin-Castro P, Pinheiro RS, Waisberg DR, Arantes RM, Santos VR, Martino RB, Ducatti L, Haddad LB, Song AT, Lee AD, Santos JPC, Rocha JA, Bezerra ROF, Rocha MS, Andraus W.",
-      "Journal": "Transplant Proc. 2026 Jul 31:S0041-1345(26)00358-1. doi: 10.1016/j.transproceed.2026.07.012. Online ahead of print.",
-      "PMID": "42538161"
+      "Title": "Endoscopic ultrasound-guided coil embolization and glue injection of bleeding bile duct varices causing gastrointestinal hemorrhage.",
+      "Authors": "Allahrakha H, Rahman SH, Unar SR, Kedia P.",
+      "Journal": "VideoGIE. 2025 Nov 17;11(8):329-332. doi: 10.1016/j.vgie.2025.11.003. eCollection 2026 Aug.",
+      "PMID": "42577225"
     },
     {
-      "Title": "Burden, Management, and Outcome of Needle-Stick Injuries Among Healthcare Workers at Muhimbili National Hospital in Dar es Salaam, Tanzania.",
-      "Authors": "Babiker LM, Arabi E, Idriss OI, Idriss AI, Elobaid M, Mabuie MM, Idriss EI, Yasin O, Suliman A, Ahmed RI, Mohammed MM.",
-      "Journal": "Cureus. 2026 Jun 28;18(6):e111678. doi: 10.7759/cureus.111678. eCollection 2026 Jun.",
-      "PMID": "42534142"
+      "Title": "Development and Validation of HEPCA-Lat: A Bilingual Hepatitis C Virus Knowledge Scale for Latino Men.",
+      "Authors": "Shrader CH, Arroyo-Flores J, Rodriguez E, Despres L, Castaneda D, Nkrumah I, Kanamori M.",
+      "Journal": "Am J Mens Health. 2026 Jul-Aug;20(4):15579883261449061. doi: 10.1177/15579883261449061. Epub 2026 Aug 10.",
+      "PMID": "42576319"
     },
     {
-      "Title": "Outcomes After 4-Week Course of Sofosbuvir/Velpatasvir Therapy in Hepatitis C Seronegative Recipients of Kidneys From Hepatitis C Viremic Deceased Donors.",
-      "Authors": "Kummangal BA, Hack M, Selvam SA, Connelly C, Smith J, Pandav J, Mattos A, Do L, Ziolko A, McKenna D, Rehman S.",
-      "Journal": "Clin Transplant. 2026 Aug;40(8):e70629. doi: 10.1111/ctr.70629.",
-      "PMID": "42530567"
+      "Title": "Opportunistic Screening for Hepatitis B and C in Primary Care Using a Reflex Testing System: A Microelimination Model.",
+      "Authors": "Valls I, Santos M, Soriano R, Mullol M, Rando-Segura A, Vargas-Accarino E, Buti M.",
+      "Journal": "Gastroenterol Hepatol. 2026 Aug 8:502839. doi: 10.1016/j.gastrohep.2026.502839. Online ahead of print.",
+      "PMID": "42570758"
     },
     {
-      "Title": "Impact of a multilevel hospital intervention on hepatitis screening and risk management in neuroinflammatory patients receiving immune therapy.",
-      "Authors": "Fang YT, Yeh CC, Wu MJ, Lin PY, Wang CM, Ma HJ, Lin SH, Sun YT, Chang TT.",
-      "Journal": "J Formos Med Assoc. 2026 Jul 28:S0929-6646(26)00758-8. doi: 10.1016/j.jfma.2026.07.029. Online ahead of print.",
-      "PMID": "42521550"
+      "Title": "Comparison of persons who died of drug overdoses with and without evidence of hepatitis C, United States, 2019-2024.",
+      "Authors": "Tanz LJ, Ertl A, Mansfield R, Casillas SM.",
+      "Journal": "Drug Alcohol Depend. 2026 Aug 1;287:113295. doi: 10.1016/j.drugalcdep.2026.113295. Online ahead of print.",
+      "PMID": "42567116"
     },
     {
-      "Title": "Diagnostic challenges from concurrent seronegative HCV and HIV antibody seroreversion in a person living with HIV: A case report.",
-      "Authors": "Tedeschi R, Basaglia G, Schioppa O.",
-      "Journal": "Infect Dis Immun. 2026 Jul;6(3):240-242. doi: 10.1097/ID9.0000000000000210. Epub 2026 Mar 16.",
-      "PMID": "42519619"
+      "Title": "Association of the Model for End-Stage Liver Disease (MELD) Score With Spontaneous Bacterial Peritonitis in Patients With Liver Cirrhosis.",
+      "Authors": "Ullah R, Ahmad J, Ur Rehman S, Bashir K, Nisar S, Khan I.",
+      "Journal": "Cureus. 2026 Jul 7;18(7):e112217. doi: 10.7759/cureus.112217. eCollection 2026 Jul.",
+      "PMID": "42565189"
     },
     {
-      "Title": "Clinical Outcomes of Stereotactic Body Radiotherapy in Hepatocellular Carcinoma Patients With Child-Turcotte-Pugh B Liver Dysfunction.",
-      "Authors": "Khosla D, Jamwal A, Kapoor R, Singh R, Jangle SAR, Taneja S, Premkumar M, Verma N, De A, Bhujade H, Kalra N, Trivedi G, Meena BL, Bhagat N, Singh G, Duseja A.",
-      "Journal": "J Clin Exp Hepatol. 2026 Sep-Oct;16(5):103600. doi: 10.1016/j.jceh.2026.103600. Epub 2026 Jun 25.",
-      "PMID": "42519550"
+      "Title": "The usefulness of a simultaneous immunoassay for hepatitis C virus antigen-antibody using the ELECSYS HCV Duo assay.",
+      "Authors": "Amano K, Sano T, Ide T, Nakano D, Bekki S, Arinaga-Hino T, Kawaguchi T.",
+      "Journal": "Hepatol Forum. 2026 Apr 14;7(2):118-124. doi: 10.14744/hf.2025.27743. eCollection 2026.",
+      "PMID": "42564331"
     }
   ]
 }

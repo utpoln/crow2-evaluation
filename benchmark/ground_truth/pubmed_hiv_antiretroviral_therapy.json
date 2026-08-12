@@ -3,64 +3,64 @@
   "method": "pubmed_eutils",
   "records": [
     {
-      "PMID": "42549876",
-      "Title": "Selection of effective LRAs using a newly designed in vitro HIV latency reactivation protocol: toward future application in HIV samples",
-      "Authors": "Neri A, Rotili A, Morrocchi E, Pascucci GR, Pighi C, Olivieri G, Betto F, Emili E, Karmakar R, Iaconis D, Lunghini F, Coppola G, Amodio D, Cotugno N, Palma P",
-      "Journal": "Microbiology spectrum"
+      "PMID": "42579068",
+      "Title": "Prevalence and characterization of West Nile virus infections among people living with HIV in Northern Italy: a sero-repository analysis",
+      "Authors": "Tiecco G, Castilletti C, Pavesi A, Accordini S, Gianesini N, Logiudice J, Mantovani RP, Rossi B, Chesini LM, Calza S, Raffetti E, Gobbi FG, Tomasoni LR, Castelli F, Quiros-Roldan E",
+      "Journal": "Infection"
     },
     {
-      "PMID": "42549828",
-      "Title": "Sarcopenic Obesity in People With HIV: Diagnostic Criteria and Classification-A Scoping Review With a Meta-Analysis of Prevalence",
-      "Authors": "Correia IM, Moraes CALC, J\u00fanior MFT, Brilhadori J, Anjos JRCD, Gomide EBG, Mazzonetto LF, Oliveira AS, Silva LS, Finco G, O 'Brien KK, Erlandson KM, Webel AR, Oliveira V, Cordeiro JFC, Santos APD",
-      "Journal": "Journal of obesity"
+      "PMID": "42578305",
+      "Title": "Doravirine/Islatravir: A 2-Drug Regimen for the Treatment of HIV-1 Infection",
+      "Authors": "Chahine EB, Koren DE, Samuel R, Van der Kloot H, Sherman EM",
+      "Journal": "The Annals of pharmacotherapy"
     },
     {
-      "PMID": "42549727",
-      "Title": "Factors influencing improved adherence and retention among men living with human immunodeficiency virus in sub-Saharan Africa: A scoping review",
-      "Authors": "Matonyane LG, Ross A",
-      "Journal": "African journal of primary health care & family medicine"
-    },
-    {
-      "PMID": "42549725",
-      "Title": "Experiences of human immunodeficiency virus-positive postpartum women in Angola: Challenges and opportunities in preventing vertical transmission",
-      "Authors": "Solari PN, Pires JC, Aguiar PM, Goes AR, Augusto GF",
-      "Journal": "African journal of primary health care & family medicine"
-    },
-    {
-      "PMID": "42549160",
-      "Title": "Ending the HIV Epidemic in the United States Among Men Who Have Sex With Men: A Modeling Analysis",
-      "Authors": "Scott JA, Spaeth H, Chi KK, Pei P, Wattananimitgul N, Neilan AM, Holland DP, Hyle EP, Freedberg KA",
+      "PMID": "42578097",
+      "Title": "Pretreatment Resistance to Integrase Inhibitors in the Swiss HIV Cohort Study From 1995 to 2025",
+      "Authors": "Loosli T, Labarile M, Anderegg N, Frischknecht P, Han N, Chaudron SE, Wandeler G, St\u00f6ckle M, Cavassini M, Calmy A, Schmid P, Elzi L, Abela IA, Huber M, Leuzinger K, Yerly S, Perreau M, G\u00fcnthard HF, Kouyos RD",
       "Journal": "Open forum infectious diseases"
     },
     {
-      "PMID": "42548058",
-      "Title": "CD151 identifies a cytotoxic CD4 T cell population enriched in people with HIV that later develop cancer",
-      "Authors": "Perez M, Zhu F, Carlin E, Greer BD, Schroeder A, Lowman KE, Opsteen S, Fram T, Tidwell C, Duverger A, Wagner F, Moylan DC, Prichard L, Kobie J, Heath SL, Goepfert PA, Hu H, Sabbaj S, Kutsch O, Erdmann NB",
-      "Journal": "Journal of immunology (Baltimore, Md. : 1950)"
+      "PMID": "42578055",
+      "Title": "Low Prevalence of Integrase Inhibitor Resistance Following Treatment Failure: A Real-World Analysis from Hunan Province, China",
+      "Authors": "Zou X, Zhang J, Liu W, Wei X, Zhou J, Chen H",
+      "Journal": "Infection and drug resistance"
     },
     {
-      "PMID": "42547178",
-      "Title": "Update in Human Immunodeficiency Virus and Aging",
-      "Authors": "Faulhaber JR, Baffoe-Bonnie AW, Oursler KK, Vasudeva SS",
-      "Journal": "Clinics in geriatric medicine"
+      "PMID": "42577760",
+      "Title": "SNAP disruption during a government shutdown and implications for chronic disease self-management: a qualitative study",
+      "Authors": "Whidden E, Ellingson N, Babbin C, Kinsey EW, Richterman A",
+      "Journal": "Health affairs scholar"
     },
     {
-      "PMID": "42546194",
-      "Title": "A TCR-mimic bispecific antibody reduces HIV-1 provirus and delays viral rebound in HLA-matched humanized mice",
-      "Authors": "Yuan Z, Board NL, Zhao M, Zu G, Sengupta S, Li Q, Siliciano JD, Siliciano RF, Montaner LJ",
-      "Journal": "Proceedings of the National Academy of Sciences of the United States of America"
+      "PMID": "42577701",
+      "Title": "Contemporary Single and Multi-Tablet HIV Treatment Regimens Are Associated With Similar Levels of Viral Suppression",
+      "Authors": "Yao K, Lawson L, Pistoresi R, Sullivan D, Golden MR",
+      "Journal": "Open forum infectious diseases"
     },
     {
-      "PMID": "42545089",
-      "Title": "Sorafenib enforces HIV-1 latency by selectively inhibiting PKC-driven STAT1/3 serine 727 phosphorylation",
-      "Authors": "Wang P, Meng Z, Zhou J, Wu H, Wang W, Gao Z, Zhang Y, Cai J",
-      "Journal": "Antimicrobial agents and chemotherapy"
+      "PMID": "42577690",
+      "Title": "Longitudinal Hepatic and Metabolic Trajectories Following Dolutegravir Initiation in Antiretroviral Therapy (ART)-Na\u00efve People Living With HIV: A Prospective Cohort Study From South India",
+      "Authors": "Sebastian SA, Joseph J, Selvam S",
+      "Journal": "Cureus"
     },
     {
-      "PMID": "42544906",
-      "Title": "Association Between High Serum Aspartate Transaminase to Alanine Transaminase Ratio and Probable HIV Dementia Among People Living With HIV on Dolutegravir-Based Antiretroviral Therapy: A Cross-Sectional Study from Central Uganda",
-      "Authors": "Bagenda CN, Nantongo C, Mugisa MJ, Olwoch V, Naziiwa F, Masereka C, Bagambe B, Somikwo G, Sempijja F, Tumusiime J, Tusubira D",
-      "Journal": "Journal of the International Association of Providers of AIDS Care"
+      "PMID": "42577579",
+      "Title": "HIV-Associated Diffuse Large B-Cell Lymphoma Treated With Outpatient Pola-R-CHP Without Antiretroviral Therapy Modification: A Case Report",
+      "Authors": "Ikoma Y, Ishihara M, Sugiyama H, Okamoto D, Hayase N, Yamaguchi K, Matsumoto T, Tetsuka N, Nakamura N, Nakamura H, Kanemura N, Shimizu M, Tsurumi H",
+      "Journal": "Case reports in infectious diseases"
+    },
+    {
+      "PMID": "42577038",
+      "Title": "Effect of antiretroviral therapy on gut microbiota, immune activation, and inflammatory markers in newly diagnosed HIV patients",
+      "Authors": "M\u00e1rquez-Ruiz D, Illanes-\u00c1lvarez F, Mart\u00edn-Aspas A, Tinoco Racero I, Campa\u00f1a-G\u00f3mez I, Guerra-Gonz\u00e1lez R, Romero-Palacios A, M\u00e1rquez-Coello M, Cuesta-Sancho S, Gir\u00f3n-Gonz\u00e1lez JA",
+      "Journal": "Frontiers in cellular and infection microbiology"
+    },
+    {
+      "PMID": "42576791",
+      "Title": "Inter- and intraindividual variability of long-acting injectable cabotegravir/rilpivirine trough concentrations after 1\u2005year of continuous use",
+      "Authors": "Sunagawa SW, Havens JP, Bares SH, Kubat M, O'Neill J, Lyden E, Mykris T, Winchester LC, Weinhold J, Avedissian SN, Podany AT, Fletcher CV, Scarsi KK",
+      "Journal": "The Journal of antimicrobial chemotherapy"
     }
   ]
 }

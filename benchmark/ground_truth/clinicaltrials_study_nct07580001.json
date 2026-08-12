@@ -1,0 +1,10 @@
+{
+  "resource_id": "clinicaltrials_study_nct07580001",
+  "method": "clinicaltrials_study_api",
+  "records": [
+    {
+      "Title": "Evaluating the Diagnostic Performance and Impact on Clinical Outcomes of the NuRapid-CRISPR Pathogen Profile Assay in ICU Patients With Sepsis",
+      "Status": "Not yet recruiting"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "resource_id": "clinicaltrials_study_nct07053462",
+  "method": "clinicaltrials_study_api",
+  "records": [
+    {
+      "Title": "CRISPR-Edited HLA Donor Kidney Transplant to Reduce Rejection Risk",
+      "Status": "Recruiting"
+    }
+  ]
+}

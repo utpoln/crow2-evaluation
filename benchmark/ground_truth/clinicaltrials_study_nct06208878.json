@@ -1,0 +1,10 @@
+{
+  "resource_id": "clinicaltrials_study_nct06208878",
+  "method": "clinicaltrials_study_api",
+  "records": [
+    {
+      "Title": "A Long-term Follow-up Study of Subjects Who Received CRISPR CAR T Cellular Therapies",
+      "Status": "Enrolling by invitation"
+    }
+  ]
+}

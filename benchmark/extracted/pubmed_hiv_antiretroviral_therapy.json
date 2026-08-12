@@ -1,68 +1,68 @@
 {
   "resource_id": "pubmed_hiv_antiretroviral_therapy",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=HIV+antiretroviral+therapy&sort=date",
-  "elapsed_seconds": 5.011003458000005,
+  "elapsed_seconds": 5.5077590830000105,
   "record_count": 10,
   "records": [
     {
-      "Title": "Selection of effective LRAs using a newly designed in vitro HIV latency reactivation protocol: toward future application in HIV samples.",
-      "Authors": "Neri A, Rotili A, Morrocchi E, Pascucci GR, Pighi C, Olivieri G, Betto F, Emili E, Karmakar R, Iaconis D, Lunghini F, Coppola G, Amodio D, Cotugno N, Palma P.",
-      "Journal": "Microbiol Spectr. 2026 Aug 4:e0040726. doi: 10.1128/spectrum.00407-26. Online ahead of print.",
-      "PMID": "42549876"
+      "Title": "Prevalence and characterization of West Nile virus infections among people living with HIV in Northern Italy: a sero-repository analysis.",
+      "Authors": "Tiecco G, Castilletti C, Pavesi A, Accordini S, Gianesini N, Logiudice J, Mantovani RP, Rossi B, Chesini LM, Calza S, Raffetti E, Gobbi FG, Tomasoni LR, Castelli F, Quiros-Roldan E.",
+      "Journal": "Infection. 2026 Aug 11. doi: 10.1007/s15010-026-02919-3. Online ahead of print.",
+      "PMID": "42579068"
     },
     {
-      "Title": "Sarcopenic Obesity in People With HIV: Diagnostic Criteria and Classification-A Scoping Review With a Meta-Analysis of Prevalence.",
-      "Authors": "Correia IM, Moraes CALC, J\u00fanior MFT, Brilhadori J, Anjos JRCD, Gomide EBG, Mazzonetto LF, Oliveira AS, Silva LS, Finco G, O 'Brien KK, Erlandson KM, Webel AR, Oliveira V, Cordeiro JFC, Santos APD.",
-      "Journal": "J Obes. 2026;2026(1):e7991603. doi: 10.1155/jobe/7991603.",
-      "PMID": "42549828"
+      "Title": "Doravirine/Islatravir: A 2-Drug Regimen for the Treatment of HIV-1 Infection.",
+      "Authors": "Chahine EB, Koren DE, Samuel R, Van der Kloot H, Sherman EM.",
+      "Journal": "Ann Pharmacother. 2026 Aug 11:10600280261472079. doi: 10.1177/10600280261472079. Online ahead of print.",
+      "PMID": "42578305"
     },
     {
-      "Title": "Factors influencing improved adherence and retention among men living with human immunodeficiency virus in sub-Saharan Africa: A scoping review.",
-      "Authors": "Matonyane LG, Ross A.",
-      "Journal": "Afr J Prim Health Care Fam Med. 2026 Jul 21;18(1):e1-e11. doi: 10.4102/phcfm.v18i1.5309.",
-      "PMID": "42549727"
+      "Title": "Pretreatment Resistance to Integrase Inhibitors in the Swiss HIV Cohort Study From 1995 to 2025.",
+      "Authors": "Loosli T, Labarile M, Anderegg N, Frischknecht P, Han N, Chaudron SE, Wandeler G, St\u00f6ckle M, Cavassini M, Calmy A, Schmid P, Elzi L, Abela IA, Huber M, Leuzinger K, Yerly S, Perreau M, G\u00fcnthard HF, Kouyos RD.",
+      "Journal": "Open Forum Infect Dis. 2026 Jul 17;13(8):ofag435. doi: 10.1093/ofid/ofag435. eCollection 2026 Aug.",
+      "PMID": "42578097"
     },
     {
-      "Title": "Experiences of human immunodeficiency virus-positive postpartum women in Angola: Challenges and opportunities in preventing vertical transmission.",
-      "Authors": "Solari PN, Pires JC, Aguiar PM, Goes AR, Augusto GF.",
-      "Journal": "Afr J Prim Health Care Fam Med. 2026 Jul 23;18(1):e1-e11. doi: 10.4102/phcfm.v18i1.5471.",
-      "PMID": "42549725"
+      "Title": "Low Prevalence of Integrase Inhibitor Resistance Following Treatment Failure: A Real-World Analysis from Hunan Province, China.",
+      "Authors": "Zou X, Zhang J, Liu W, Wei X, Zhou J, Chen H.",
+      "Journal": "Infect Drug Resist. 2026 Aug 6;19:612495. doi: 10.2147/IDR.S612495. eCollection 2026.",
+      "PMID": "42578055"
     },
     {
-      "Title": "Ending the HIV Epidemic in the United States Among Men Who Have Sex With Men: A Modeling Analysis.",
-      "Authors": "Scott JA, Spaeth H, Chi KK, Pei P, Wattananimitgul N, Neilan AM, Holland DP, Hyle EP, Freedberg KA.",
-      "Journal": "Open Forum Infect Dis. 2026 Aug 3;13(8):ofag386. doi: 10.1093/ofid/ofag386. eCollection 2026 Aug.",
-      "PMID": "42549160"
+      "Title": "SNAP disruption during a government shutdown and implications for chronic disease self-management: a qualitative study.",
+      "Authors": "Whidden E, Ellingson N, Babbin C, Kinsey EW, Richterman A.",
+      "Journal": "Health Aff Sch. 2026 Jul 23;4(8):qxag194. doi: 10.1093/haschl/qxag194. eCollection 2026 Aug.",
+      "PMID": "42577760"
     },
     {
-      "Title": "CD151 identifies a cytotoxic CD4 T cell population enriched in people with HIV that later develop cancer.",
-      "Authors": "Perez M, Zhu F, Carlin E, Greer BD, Schroeder A, Lowman KE, Opsteen S, Fram T, Tidwell C, Duverger A, Wagner F, Moylan DC, Prichard L, Kobie J, Heath SL, Goepfert PA, Hu H, Sabbaj S, Kutsch O, Erdmann NB.",
-      "Journal": "J Immunol. 2026 Aug 4;215(8):vkag208. doi: 10.1093/jimmun/vkag208.",
-      "PMID": "42548058"
+      "Title": "Contemporary Single and Multi-Tablet HIV Treatment Regimens Are Associated With Similar Levels of Viral Suppression.",
+      "Authors": "Yao K, Lawson L, Pistoresi R, Sullivan D, Golden MR.",
+      "Journal": "Open Forum Infect Dis. 2026 Jul 29;13(8):ofag444. doi: 10.1093/ofid/ofag444. eCollection 2026 Aug.",
+      "PMID": "42577701"
     },
     {
-      "Title": "Update in Human Immunodeficiency Virus and Aging.",
-      "Authors": "Faulhaber JR, Baffoe-Bonnie AW, Oursler KK, Vasudeva SS.",
-      "Journal": "Clin Geriatr Med. 2026 Aug;42(3):559-578. doi: 10.1016/j.cger.2025.09.005.",
-      "PMID": "42547178"
+      "Title": "Longitudinal Hepatic and Metabolic Trajectories Following Dolutegravir Initiation in Antiretroviral Therapy (ART)-Naive People Living With HIV: A Prospective Cohort Study From South India.",
+      "Authors": "Sebastian SA, Joseph J, Selvam S.",
+      "Journal": "Cureus. 2026 Jul 11;18(7):e112448. doi: 10.7759/cureus.112448. eCollection 2026 Jul.",
+      "PMID": "42577690"
     },
     {
-      "Title": "A TCR-mimic bispecific antibody reduces HIV-1 provirus and delays viral rebound in HLA-matched humanized mice.",
-      "Authors": "Yuan Z, Board NL, Zhao M, Zu G, Sengupta S, Li Q, Siliciano JD, Siliciano RF, Montaner LJ.",
-      "Journal": "Proc Natl Acad Sci U S A. 2026 Aug 11;123(32):e2527880123. doi: 10.1073/pnas.2527880123. Epub 2026 Aug 3.",
-      "PMID": "42546194"
+      "Title": "HIV-Associated Diffuse Large B-Cell Lymphoma Treated With Outpatient Pola-R-CHP Without Antiretroviral Therapy Modification: A Case Report.",
+      "Authors": "Ikoma Y, Ishihara M, Sugiyama H, Okamoto D, Hayase N, Yamaguchi K, Matsumoto T, Tetsuka N, Nakamura N, Nakamura H, Kanemura N, Shimizu M, Tsurumi H.",
+      "Journal": "Case Rep Infect Dis. 2026 Aug 10;2026:7583461. doi: 10.1155/crdi/7583461. eCollection 2026.",
+      "PMID": "42577579"
     },
     {
-      "Title": "Sorafenib enforces HIV-1 latency by selectively inhibiting PKC-driven STAT1/3 serine 727 phosphorylation.",
-      "Authors": "Wang P, Meng Z, Zhou J, Wu H, Wang W, Gao Z, Zhang Y, Cai J.",
-      "Journal": "Antimicrob Agents Chemother. 2026 Aug 3:e0054026. doi: 10.1128/aac.00540-26. Online ahead of print.",
-      "PMID": "42545089"
+      "Title": "Effect of antiretroviral therapy on gut microbiota, immune activation, and inflammatory markers in newly diagnosed HIV patients.",
+      "Authors": "M\u00e1rquez-Ruiz D, Illanes-\u00c1lvarez F, Mart\u00edn-Aspas A, Tinoco Racero I, Campa\u00f1a-G\u00f3mez I, Guerra-Gonz\u00e1lez R, Romero-Palacios A, M\u00e1rquez-Coello M, Cuesta-Sancho S, Gir\u00f3n-Gonz\u00e1lez JA.",
+      "Journal": "Front Cell Infect Microbiol. 2026 Jul 27;16:1853799. doi: 10.3389/fcimb.2026.1853799. eCollection 2026.",
+      "PMID": "42577038"
     },
     {
-      "Title": "Association Between High Serum Aspartate Transaminase to Alanine Transaminase Ratio and Probable HIV Dementia Among People Living With HIV on Dolutegravir-Based Antiretroviral Therapy: A Cross-Sectional Study from Central Uganda.",
-      "Authors": "Bagenda CN, Nantongo C, Mugisa MJ, Olwoch V, Naziiwa F, Masereka C, Bagambe B, Somikwo G, Sempijja F, Tumusiime J, Tusubira D.",
-      "Journal": "J Int Assoc Provid AIDS Care. 2026 Jan-Dec;25:23259582261475552. doi: 10.1177/23259582261475552. Epub 2026 Aug 3.",
-      "PMID": "42544906"
+      "Title": "Inter- and intraindividual variability of long-acting injectable cabotegravir/rilpivirine trough concentrations after 1\u2005year of continuous use.",
+      "Authors": "Sunagawa SW, Havens JP, Bares SH, Kubat M, O'Neill J, Lyden E, Mykris T, Winchester LC, Weinhold J, Avedissian SN, Podany AT, Fletcher CV, Scarsi KK.",
+      "Journal": "J Antimicrob Chemother. 2026 Aug 4;81(9):dkag282. doi: 10.1093/jac/dkag282.",
+      "PMID": "42576791"
     }
   ]
 }

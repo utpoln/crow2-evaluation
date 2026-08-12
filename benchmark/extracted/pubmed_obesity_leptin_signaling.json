@@ -1,9 +1,45 @@
 {
   "resource_id": "pubmed_obesity_leptin_signaling",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=obesity+leptin+signaling&sort=date",
-  "elapsed_seconds": 5.036039166000002,
+  "elapsed_seconds": 5.295057666000005,
   "record_count": 10,
   "records": [
+    {
+      "Title": "Leptin modulates NK cell function and MAPK signaling in obesity.",
+      "Authors": "de Andrade AG, de Lima ARV, de Queiroz AC, Alexandre-Moreira MS, Cavalcante-Silva LHA, Keesen TSL.",
+      "Journal": "Immunol Lett. 2026 Aug 10;282:107225. doi: 10.1016/j.imlet.2026.107225. Online ahead of print.",
+      "PMID": "42575338"
+    },
+    {
+      "Title": "Food additives with aldehyde skeleton exhibited leptin resistance in cells.",
+      "Authors": "Shibuya Y, Yoshida H, Tsuge K, Hamasaki Y, Kuriya K, Nakagawa T, Sugiyama A, Miyamoto K, Shimamoto A, Jockers R, Dam J, Hosoi T.",
+      "Journal": "Front Nutr. 2026 Jul 23;13:1892425. doi: 10.3389/fnut.2026.1892425. eCollection 2026.",
+      "PMID": "42564187"
+    },
+    {
+      "Title": "Obestatin and Its Fragment Analog Nt8U Influence Levels of Satiety Peptides in Diet-Induced Obese Mice.",
+      "Authors": "Murthy STS, Manjappara UV.",
+      "Journal": "Biochimie. 2026 Aug 6:S0300-9084(26)00177-X. doi: 10.1016/j.biochi.2026.08.001. Online ahead of print.",
+      "PMID": "42562076"
+    },
+    {
+      "Title": "Maternal Western diet programs persistent transcriptomic signatures in offspring PBMCs that are largely reversible by interventions during lactation.",
+      "Authors": "Pomar CA, Valle A, Caimari A, Palou A, Palou M, Pic\u00f3 C.",
+      "Journal": "Front Nutr. 2026 Jul 22;13:1892621. doi: 10.3389/fnut.2026.1892621. eCollection 2026.",
+      "PMID": "42559090"
+    },
+    {
+      "Title": "Serum Bone-, Muscle- and Fat- Derived Factors Sclerostin, Irisin and Leptin Show Different Correlations With Body Composition and Bone Mineral Density in Chinese Men With Obesity: A Cross-Sectional Study.",
+      "Authors": "Chen X, Shen S, Zou M, Zhang Z, Tong N, Li J.",
+      "Journal": "Diabetes Metab Res Rev. 2026 Sep;42(6):e70208. doi: 10.1002/dmrr.70208.",
+      "PMID": "42557820"
+    },
+    {
+      "Title": "Integrative functional bioinformatic analysis of NAD+-associated protein coding genes in adipose tissue (dys)function - evidence from targeted rodent transcriptomic studies.",
+      "Authors": "Postolov F, Milenkovic D, Ruskovska T.",
+      "Journal": "Front Endocrinol (Lausanne). 2026 Jul 21;17:1807667. doi: 10.3389/fendo.2026.1807667. eCollection 2026.",
+      "PMID": "42553099"
+    },
     {
       "Title": "Sleep loss as a cardiometabolic risk factor: a narrative review of clinical and public health implications.",
       "Authors": "Ghanem FK, Attarian H, Al-Khalil Z, Kabrita CS.",
@@ -27,42 +63,6 @@
       "Authors": "Abdollahi S, Adam H, Al Musaimi O.",
       "Journal": "Pharmaceuticals (Basel). 2026 Jun 25;19(7):989. doi: 10.3390/ph19070989.",
       "PMID": "42515672"
-    },
-    {
-      "Title": "Modulation of Leptin and Serotonin by Honey and Its Glycoproteins Against High-Fat Diet-Induced Metabolic and Anxiety Phenotypes.",
-      "Authors": "Gohar A, Atkinson RL, Shakeel M, Haleem DJ, Ullah K, Rasool A.",
-      "Journal": "Biomedicines. 2026 Jul 21;14(7):1641. doi: 10.3390/biomedicines14071641.",
-      "PMID": "42512113"
-    },
-    {
-      "Title": "BIX02189 Suppresses Adipogenesis and Lipid Accumulation Through Inhibition of MEK5-STAT3/STAT5 Signaling and Activation of AMPK in Adipocytes and Zebrafish.",
-      "Authors": "Perumal NL, Hussain M, Son DG, Stephens JM, Park GY, Jang BC.",
-      "Journal": "Int J Mol Sci. 2026 Jul 21;27(14):6468. doi: 10.3390/ijms27146468.",
-      "PMID": "42511811"
-    },
-    {
-      "Title": "Secretion Patterns of Leptin: A Key Component in the Regulation of Energy Homeostasis and Its Therapeutic Applications.",
-      "Authors": "Wang C, Rong X.",
-      "Journal": "Biomolecules. 2026 Jul 14;16(7):1031. doi: 10.3390/biom16071031.",
-      "PMID": "42509824"
-    },
-    {
-      "Title": "Alternate-Day Fasting Enhances Leptin Sensitivity via JMJD3-Dependent Epigenetic Regulation of the Leptin Receptor in the Hypothalamus.",
-      "Authors": "Oladun B, Mall S, Fan B, Lee J, Ha JH, Roberts JL, Kim MH.",
-      "Journal": "J Nutr Biochem. 2026 Jul 25:110476. doi: 10.1016/j.jnutbio.2026.110476. Online ahead of print.",
-      "PMID": "42501875"
-    },
-    {
-      "Title": "Monogenic and syndromic obesity in children: Clinical recognition, genetics, and precision management.",
-      "Authors": "Khalil H, Feigin E, Zaitoon H.",
-      "Journal": "Pediatr Investig. 2026 Feb 9:10.1002/ped4.70040. doi: 10.1002/ped4.70040. Online ahead of print.",
-      "PMID": "42499770"
-    },
-    {
-      "Title": "Adolescent food insecurity impairs gut signal sensitivity and cue-induced appetitive behaviours in female rats.",
-      "Authors": "Livermore A, Ong ZY.",
-      "Journal": "Appetite. 2026 Jul 23;227:108728. doi: 10.1016/j.appet.2026.108728. Online ahead of print.",
-      "PMID": "42492686"
     }
   ]
 }

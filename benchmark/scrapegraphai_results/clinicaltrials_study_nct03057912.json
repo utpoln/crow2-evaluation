@@ -1,0 +1,39 @@
+{
+  "resource_id": "clinicaltrials_study_nct03057912",
+  "status": "success",
+  "elapsed_seconds": 9.63,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "Title": "A Safety and Efficacy Study of Transcription Activator-like Effector Nucleases and Clustered Regularly Interspaced Short Palindromic Repeat/Cas9 in the Treatment of HPV-related Cervical Intraepithelial Neoplasia\u2160",
+      "Status": "Not yet recruiting"
+    },
+    "usage": {
+      "prompt_tokens": 19144,
+      "completion_tokens": 1236
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 5000
+          },
+          {
+            "size": 679
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "54ac91af-1885-4d3c-b051-725ca8c522a9"
+  },
+  "error": null
+}

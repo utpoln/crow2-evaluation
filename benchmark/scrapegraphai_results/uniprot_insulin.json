@@ -1,0 +1,29 @@
+{
+  "resource_id": "uniprot_insulin",
+  "status": "success",
+  "elapsed_seconds": 5.72,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": []
+    },
+    "usage": {
+      "prompt_tokens": 912,
+      "completion_tokens": 114
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 449
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "b71b8b38-8d3b-4469-bfcd-a5f9f18a0a07"
+  },
+  "error": null
+}

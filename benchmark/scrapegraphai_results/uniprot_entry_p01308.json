@@ -1,0 +1,32 @@
+{
+  "resource_id": "uniprot_entry_p01308",
+  "status": "success",
+  "elapsed_seconds": 5.71,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "ProteinName": "No content available",
+      "GeneName": "No content available",
+      "Organism": "No content available",
+      "Status": "No content available"
+    },
+    "usage": {
+      "prompt_tokens": 877,
+      "completion_tokens": 138
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 449
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "7fc7d18c-34ee-429f-a933-82316fb0cbb7"
+  },
+  "error": null
+}

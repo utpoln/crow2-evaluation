@@ -1,7 +1,7 @@
 {
   "resource_id": "ncbi_gene_stat3",
   "url": "https://www.ncbi.nlm.nih.gov/gene/?term=STAT3+AND+human%5Borgn%5D",
-  "elapsed_seconds": 7.211096750000024,
+  "elapsed_seconds": 9.30636512500007,
   "record_count": 20,
   "records": [
     {

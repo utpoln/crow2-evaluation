@@ -1,0 +1,10 @@
+{
+  "resource_id": "clinicaltrials_study_nct04535648",
+  "method": "clinicaltrials_study_api",
+  "records": [
+    {
+      "Title": "Detection of Enterovirus Genotypes by CRISPR Technology",
+      "Status": "Withdrawn"
+    }
+  ]
+}

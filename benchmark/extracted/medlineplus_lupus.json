@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_lupus",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=lupus&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 5.577747832999989,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Lupus",
+      "URL": "https://medlineplus.gov/lupus.html"
+    },
+    {
+      "Title": "Joint Disorders",
+      "URL": "https://medlineplus.gov/jointdisorders.html"
+    },
+    {
+      "Title": "Raynaud Phenomenon",
+      "URL": "https://medlineplus.gov/raynaudphenomenon.html"
+    },
+    {
+      "Title": "Arthritis",
+      "URL": "https://medlineplus.gov/arthritis.html"
+    },
+    {
+      "Title": "Blood Disorders",
+      "URL": "https://medlineplus.gov/blooddisorders.html"
+    },
+    {
+      "Title": "Cholesterol",
+      "URL": "https://medlineplus.gov/cholesterol.html"
+    },
+    {
+      "Title": "Connective Tissue Disorders",
+      "URL": "https://medlineplus.gov/connectivetissuedisorders.html"
+    },
+    {
+      "Title": "Depression",
+      "URL": "https://medlineplus.gov/depression.html"
+    },
+    {
+      "Title": "Fibromyalgia",
+      "URL": "https://medlineplus.gov/fibromyalgia.html"
+    },
+    {
+      "Title": "Hair Loss",
+      "URL": "https://medlineplus.gov/hairloss.html"
+    }
+  ]
+}

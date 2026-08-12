@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p13569",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Cystic fibrosis transmembrane conductance regulator",
+      "GeneName": "CFTR",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

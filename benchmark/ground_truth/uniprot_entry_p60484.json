@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p60484",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",
+      "GeneName": "PTEN",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

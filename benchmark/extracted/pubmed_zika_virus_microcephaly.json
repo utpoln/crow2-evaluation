@@ -1,9 +1,15 @@
 {
   "resource_id": "pubmed_zika_virus_microcephaly",
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Zika+virus+microcephaly&sort=date",
-  "elapsed_seconds": 5.203605667000005,
+  "elapsed_seconds": 5.848587917000003,
   "record_count": 10,
   "records": [
+    {
+      "Title": "AI-driven Identification of Zika Virus Inhibitors.",
+      "Authors": "Otsuka Y, Shumate J, Rye TF, Goldberg I, Clement A, Scampavia L, Chung D, Spicer TP.",
+      "Journal": "SLAS Discov. 2026 Aug 5:100328. doi: 10.1016/j.slasd.2026.100328. Online ahead of print.",
+      "PMID": "42556469"
+    },
     {
       "Title": "SLC3A2 promotes early-stage of Zika virus infection in human placental cells and astrocytes.",
       "Authors": "Chen Z, Feng D, Liu J, Chen J, Zhao C, Zhang S, Zhang X, Xu J.",
@@ -57,12 +63,6 @@
       "Authors": "Key AP, Mason C, Powell SL, Cavalcante J, Frizzo A, Mandra PP, Tavares A, Menezes P, Hood LJ.",
       "Journal": "Ear Hear. 2026 Jun 19. doi: 10.1097/AUD.0000000000001854. Online ahead of print.",
       "PMID": "42312689"
-    },
-    {
-      "Title": "Cortical auditory response and language development in children with microcephaly by Zika virus.",
-      "Authors": "Figueiredo Frizzo AC, Lira de Andrade KC, Rombola IT, Teixeira da Costa KV, Baisi Chagas EF, de Lemos Menezes P.",
-      "Journal": "Braz J Otorhinolaryngol. 2026 Jun 16;92(5):101770. doi: 10.1016/j.bjorl.2026.101770. Online ahead of print.",
-      "PMID": "42302463"
     }
   ]
 }

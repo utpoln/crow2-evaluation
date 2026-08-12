@@ -1,0 +1,12 @@
+{
+  "resource_id": "uniprot_entry_p15056",
+  "method": "uniprot_entry_api",
+  "records": [
+    {
+      "ProteinName": "Serine/threonine-protein kinase B-raf",
+      "GeneName": "BRAF",
+      "Organism": "Homo sapiens (Human)",
+      "Status": "UniProtKB reviewed (Swiss-Prot)"
+    }
+  ]
+}

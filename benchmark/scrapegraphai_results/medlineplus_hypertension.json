@@ -1,0 +1,70 @@
+{
+  "resource_id": "medlineplus_hypertension",
+  "status": "success",
+  "elapsed_seconds": 8.72,
+  "data": {
+    "raw": null,
+    "json_data": {
+      "records": [
+        {
+          "Title": "High Blood Pressure",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fhighbloodpressure.html&rid=Ndoc0&v%3aframe=redirect&v%3aredirect-hash=1807cff7cb47f7b9d01c5067ad1f3870&%22"
+        },
+        {
+          "Title": "Pulmonary Hypertension",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fpulmonaryhypertension.html&rid=Ndoc1&v%3aframe=redirect&v%3aredirect-hash=0529e598f6eb77efd2190bd9478128e3&%22"
+        },
+        {
+          "Title": "How to Prevent High Blood Pressure",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fhowtopreventhighbloodpressure.html&rid=Ndoc2&v%3aframe=redirect&v%3aredirect-hash=6ccea2afa12a15e38bdfb6bf8e3c76d8&%22"
+        },
+        {
+          "Title": "High Blood Pressure in Pregnancy",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fhighbloodpressureinpregnancy.html&rid=Ndoc3&v%3aframe=redirect&v%3aredirect-hash=ce554e35a9a1a1d0d749aad84d62de50&%22"
+        },
+        {
+          "Title": "Blood Pressure Medicines",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fbloodpressuremedicines.html&rid=Ndoc4&v%3aframe=redirect&v%3aredirect-hash=39067d93e3c8023adee8bc3a31480ce6&%22"
+        },
+        {
+          "Title": "DASH Eating Plan",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fdasheatingplan.html&rid=Ndoc5&v%3aframe=redirect&v%3aredirect-hash=b003195781c0a18bbb5766687dd5b4d0&%22"
+        },
+        {
+          "Title": "Kidney Diseases",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fkidneydiseases.html&rid=Ndoc6&v%3aframe=redirect&v%3aredirect-hash=ef91e8a1ecce32571924fea770c1b80d&%22"
+        },
+        {
+          "Title": "Nutrition for Older Adults",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fnutritionforolderadults.html&rid=Ndoc7&v%3aframe=redirect&v%3aredirect-hash=7ae82be5c8f8c9ff93a59b215df7287d&%22"
+        },
+        {
+          "Title": "Pheochromocytoma",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fpheochromocytoma.html&rid=Ndoc8&v%3aframe=redirect&v%3aredirect-hash=056a094ddd997f2ba89c115a9f052445&%22"
+        },
+        {
+          "Title": "How to Prevent Heart Disease",
+          "URL": "https://vsearch.nlm.nih.gov/%22/vivisimo/cgi-bin/query-meta?v%3afile=viv_3vpPhC&server=pvlb7srch11&v%3astate=root%7croot&url=https%3a%2f%2fmedlineplus.gov%2fhowtopreventheartdisease.html&rid=Ndoc9&v%3aframe=redirect&v%3aredirect-hash=7b940201222cc6fe06624b8c4926f8c4&%22"
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 5317,
+      "completion_tokens": 2923
+    },
+    "metadata": {
+      "chunker": {
+        "chunks": [
+          {
+            "size": 4874
+          }
+        ]
+      },
+      "fetch": {
+        "contentType": "text/html"
+      }
+    },
+    "id": "02906859-e76e-400f-89bd-330bd3aa3fde"
+  },
+  "error": null
+}

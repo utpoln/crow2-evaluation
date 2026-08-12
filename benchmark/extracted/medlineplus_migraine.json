@@ -1,0 +1,48 @@
+{
+  "resource_id": "medlineplus_migraine",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=migraine&binning-state=group%3D%3DHealth%20Topics",
+  "elapsed_seconds": 4.903911166000057,
+  "record_count": 10,
+  "records": [
+    {
+      "Title": "Migraine",
+      "URL": "https://medlineplus.gov/migraine.html"
+    },
+    {
+      "Title": "Headache",
+      "URL": "https://medlineplus.gov/headache.html"
+    },
+    {
+      "Title": "Caffeine",
+      "URL": "https://medlineplus.gov/caffeine.html"
+    },
+    {
+      "Title": "Antidepressants",
+      "URL": "https://medlineplus.gov/antidepressants.html"
+    },
+    {
+      "Title": "Anxiety",
+      "URL": "https://medlineplus.gov/anxiety.html"
+    },
+    {
+      "Title": "Botox",
+      "URL": "https://medlineplus.gov/botox.html"
+    },
+    {
+      "Title": "Chronic Pain",
+      "URL": "https://medlineplus.gov/chronicpain.html"
+    },
+    {
+      "Title": "Depression",
+      "URL": "https://medlineplus.gov/depression.html"
+    },
+    {
+      "Title": "Dizziness and Vertigo",
+      "URL": "https://medlineplus.gov/dizzinessandvertigo.html"
+    },
+    {
+      "Title": "Eye Diseases",
+      "URL": "https://medlineplus.gov/eyediseases.html"
+    }
+  ]
+}
