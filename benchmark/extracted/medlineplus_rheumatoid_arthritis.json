@@ -1,7 +1,7 @@
 {
   "resource_id": "medlineplus_rheumatoid_arthritis",
   "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=rheumatoid+arthritis&binning-state=group%3D%3DHealth%20Topics",
-  "elapsed_seconds": 5.287530542000013,
+  "elapsed_seconds": 4.850380125000001,
   "record_count": 10,
   "records": [
     {

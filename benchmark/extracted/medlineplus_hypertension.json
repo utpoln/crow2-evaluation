@@ -1,7 +1,7 @@
 {
   "resource_id": "medlineplus_hypertension",
   "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=hypertension&binning-state=group%3D%3DHealth%20Topics",
-  "elapsed_seconds": 4.916139250000015,
+  "elapsed_seconds": 5.063756458,
   "record_count": 10,
   "records": [
     {

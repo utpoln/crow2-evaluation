@@ -57,6 +57,13 @@ Mode), not a rounded "100-resource" or "150-resource" result.
    whitespace/zero-width-space normalization. Computes precision/recall/F1
    per resource either way. Output: `results.csv`.
 
+5. **`verify_medlineplus_timing.py`** — re-fetches ground truth and
+   re-runs extraction back to back (seconds apart) for the 10 resources
+   that don't score a clean 100%, to test whether the mismatch is caused by
+   live-index timing drift or is deterministic. See "Current results"
+   below — timing was ruled out this way, correcting an earlier, untested
+   assumption in both this README and the paper.
+
 To reproduce end to end:
 ```bash
 python fetch_ground_truth.py   # hits live public APIs
@@ -101,21 +108,32 @@ any `results.csv` change to regenerate the three figures copied into
 `CroW_2_2026-2/` for the paper.
 
 131 of 141 resources scored a clean 100%. The 10 exceptions are all List
-Mode and share one root cause: a fixed top-N cutoff against a live,
-relevance-ranked index that can shift slightly between the extraction call
-and the (separately timed) ground-truth call. `ncbi_gene_myc` (90%, 2 false
-positives, 2 false negatives at the top-20 cutoff) was investigated rather
-than discarded: the "extra" IDs CroW extracted (MTOR, MYCBP2) and the
-"missing" IDs (two distinct gene entries both named MYC, IDs
-731404/729194) are all real, valid NCBI Gene records — confirmed by
-querying esummary for each ID directly. The nine MedlinePlus disease-topic
-exceptions (diabetes, hypertension, asthma, osteoporosis, malaria,
-pneumonia, rheumatoid arthritis, obesity, stroke — each off by 1-3 records
-out of 10) show the same pattern: MedlinePlus's federated relevance search
-re-ranks between successive queries, so a fixed `retmax=10` cutoff can
-include or exclude different records depending on exact query timing. This
-is the live-data non-atomicity caveat below in action, not an extraction
-defect. Recorded here as a concrete example, not smoothed over.
+Mode: `ncbi_gene_myc` (90%, 2 false positives, 2 false negatives at the
+top-20 cutoff) and nine MedlinePlus disease-topic queries (diabetes,
+hypertension, asthma, osteoporosis, malaria, pneumonia, rheumatoid
+arthritis, obesity, stroke — each off by 1-3 records out of 10, or 8 for
+malaria). **We initially wrote this off as live-index timing drift between
+the extraction call and the separately-timed ground-truth call — that
+explanation was wrong, and we caught it by testing it directly rather than
+by inspection.** `verify_medlineplus_timing.py` re-fetches ground truth and
+re-runs extraction for all 10 exceptions back to back (seconds apart,
+instead of the original multi-minute gap from the full sequential batch
+run). Result: the discrepancies did not change at all — same count, same
+specific records extra or missing, every single time, across all 10. That
+rules out timing. The real cause is structural: the website's own
+relevance ranking and the public API's relevance ranking are not the same
+function, even with matching sort/scope parameters (see the MedlinePlus
+`binning-state` fix above). Both sources agree on the clearly most
+relevant results and diverge, deterministically and repeatably, on which
+borderline records land inside a fixed top-N cutoff. For `ncbi_gene_myc`,
+both the "extra" IDs CroW extracted (MTOR, MYCBP2) and the "missing" IDs
+(two distinct gene entries both named MYC, IDs 731404/729194) are real,
+valid NCBI Gene records, confirmed by querying esummary for each ID
+directly — the website and the E-utilities API simply select a different
+four of the top-20 for this query. Recorded here, and corrected in the
+paper's own text, as a concrete example of testing a diagnosis before
+publishing it rather than a plausible-sounding explanation that turned out
+to be wrong.
 
 ## Disease-database category: dead ends recorded for posterity
 

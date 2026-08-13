@@ -1,7 +1,7 @@
 {
   "resource_id": "medlineplus_pneumonia",
   "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=pneumonia&binning-state=group%3D%3DHealth%20Topics",
-  "elapsed_seconds": 4.785927124999944,
+  "elapsed_seconds": 4.782554875000002,
   "record_count": 10,
   "records": [
     {

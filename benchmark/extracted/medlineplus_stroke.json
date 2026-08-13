@@ -1,7 +1,7 @@
 {
   "resource_id": "medlineplus_stroke",
   "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=stroke&binning-state=group%3D%3DHealth%20Topics",
-  "elapsed_seconds": 4.740123541000003,
+  "elapsed_seconds": 5.108699709,
   "record_count": 10,
   "records": [
     {

@@ -1,7 +1,7 @@
 {
   "resource_id": "medlineplus_osteoporosis",
   "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=osteoporosis&binning-state=group%3D%3DHealth%20Topics",
-  "elapsed_seconds": 4.780755416999909,
+  "elapsed_seconds": 5.030766084,
   "record_count": 10,
   "records": [
     {
