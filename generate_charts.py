@@ -163,7 +163,6 @@ def fig_status_and_failures():
         t.set_fontsize(9)
     ax1.text(0, 0, f"{r['success_rate_pct']}%\nsuccess", ha="center", va="center",
              fontsize=12, fontweight="bold", color="#111827")
-    ax1.set_title("Run Status Distribution", pad=12)
 
     # ─ Failure categories ─
     fc  = r["failure_categories"]
@@ -175,7 +174,6 @@ def fig_status_and_failures():
         ax2.text(bar.get_width() + 1.5, bar.get_y() + bar.get_height()/2,
                  str(val), va="center", fontsize=9, color="#374151")
     ax2.set_xlabel("Number of failed runs")
-    ax2.set_title("Failure Category Breakdown")
     ax2.set_xlim(0, max(fc_sorted.values()) * 1.18)
 
     fig.tight_layout(w_pad=3)
@@ -202,7 +200,6 @@ def fig_wrapper_config():
     for x, v in enumerate(modes.values()):
         ax1.text(x, v + 0.6, str(v), ha="center", fontsize=10, fontweight="bold")
     ax1.set_ylabel("Number of wrappers")
-    ax1.set_title("Extraction Mode")
     ax1.set_ylim(0, max(modes.values()) * 1.2)
 
     # Pagination
@@ -216,7 +213,6 @@ def fig_wrapper_config():
     for x, k in enumerate(pag_order):
         ax2.text(x, pag_counts[k] + 0.4, str(pag_counts[k]), ha="center", fontsize=9, fontweight="bold")
     ax2.set_ylabel("Number of wrappers")
-    ax2.set_title("Pagination Strategy")
     ax2.set_ylim(0, max(pag_counts.values()) * 1.2)
 
     # Columns per wrapper histogram
@@ -228,7 +224,6 @@ def fig_wrapper_config():
                 label=f"Mean = {np.mean(col_counts):.1f}")
     ax3.set_xlabel("Columns per wrapper")
     ax3.set_ylabel("Number of wrappers")
-    ax3.set_title("Column Count Distribution")
     ax3.legend(fontsize=8)
     ax3.set_xticks(range(1, max(col_counts)+1))
 
@@ -265,7 +260,6 @@ def fig_domain_success():
     overall_sr = overview["runs"]["success_rate_pct"]
     ax.axvline(overall_sr, color=PALETTE["red"], linestyle="--", linewidth=1.5, label=f"Overall avg ({overall_sr}%)")
     ax.set_xlabel("Success rate (%)")
-    ax.set_title("Domain-Level Extraction Success Rate")
     ax.set_xlim(0, 120)
     ax.legend(fontsize=9)
 
@@ -299,7 +293,6 @@ def fig_row_distribution():
     ax1.axvline(rows_c.median(), color=PALETTE["orange"], linestyle=":",  linewidth=1.5, label=f"Median {rows_c.median():.0f}")
     ax1.set_xlabel("Rows extracted per run")
     ax1.set_ylabel("Number of runs")
-    ax1.set_title("Row Count Distribution\n(completed runs)")
     ax1.legend(fontsize=8.5)
 
     # Box plot by mode
@@ -318,7 +311,6 @@ def fig_row_distribution():
     bp["boxes"][1].set_facecolor(PALETTE["indigo"])
     n_a = (mode_rows["Mode"]=="List (A)").sum()
     n_b = (mode_rows["Mode"]=="Single (B)").sum()
-    ax2.set_title("Row Count by Extraction Mode\n(completed runs)")
     ax2.set_ylabel("Rows extracted")
     ax2.text(1, ax2.get_ylim()[1]*0.95, f"n={n_a}", ha="center", fontsize=8.5, color=PALETTE["blue"])
     ax2.text(2, ax2.get_ylim()[1]*0.95, f"n={n_b}", ha="center", fontsize=8.5, color=PALETTE["indigo"])
@@ -399,7 +391,6 @@ def fig_pagination_success():
     ax.axhline(overall_sr, color=PALETTE["red"], linestyle="--", linewidth=1.5, label="Overall avg")
     ax.set_ylabel("Success rate (%)")
     ax.set_ylim(0, 110)
-    ax.set_title("Extraction Success Rate by Pagination Strategy")
     ax.legend(fontsize=9)
 
     fig.tight_layout()
@@ -431,7 +422,6 @@ def fig_wrapper_heatmap():
     ax.axvline(75.7, color="#374151", linestyle="--", linewidth=1, label="Overall avg")
     ax.set_xlabel("Success rate (%)")
     ax.set_xlim(0, 125)
-    ax.set_title("Per-Wrapper Success Rate (top 40 by run count)", pad=10)
     ax.legend(fontsize=8.5)
 
     # Colorbar
@@ -661,7 +651,6 @@ def fig_composite():
     ax_f.set_ylim(0, 110)
     ax_f.set_title("(f) Pagination vs Success", fontweight="bold")
 
-    fig.suptitle("CroW — Evaluation Summary", fontsize=14, fontweight="bold", y=1.01)
     fig.savefig(os.path.join(OUT, "fig12_composite.pdf"))
     fig.savefig(os.path.join(OUT, "fig12_composite.png"))
     plt.close(fig)
